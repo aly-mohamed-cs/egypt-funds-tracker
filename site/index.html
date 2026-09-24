@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Egypt Funds Tracker</title>
+  <meta name="description" content="Daily prices (NAV) and returns for Egyptian mutual funds, updated automatically from Mubasher Info.">
+  <meta name="color-scheme" content="light dark">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23256abf'/%3E%3Cpath d='M7 21l6-6 5 4 7-9' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="https://cdn.jsdelivr.net/npm/chart.js@4.5.1/dist/chart.umd.min.js" integrity="sha256-SERKgtTty1vsDxll+qzd4Y2cF9swY9BCq62i9wXJ9Uo=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js" integrity="sha256-6nqzDSbDjc8fLSa7Q+c6lFN7WPGQb1XhpUbdCTIbVhU=" crossorigin="anonymous"></script>
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>Egyptian Mutual Funds</h1>
+      <p class="status" id="status">Loading fund data…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="filters" aria-label="Filter funds">
+      <div class="filter-row">
+        <input type="search" id="search" class="input search" placeholder="Search fund or manager (English or Arabic)" aria-label="Search funds" autocomplete="off" spellcheck="false">
+        <select id="currency" class="input" aria-label="Currency">
+          <option value="">All currencies</option>
+          <option value="EGP">EGP</option>
+          <option value="USD">USD</option>
+        </select>
+        <select id="manager" class="input" aria-label="Manager">
+          <option value="">All managers</option>
+        </select>
+        <label class="check"><input type="checkbox" id="hide-stale" checked> Hide inactive funds</label>
+        <div class="segmented" role="group" aria-label="Fund name language">
+          <button type="button" data-lang="en" aria-pressed="true">EN</button>
+          <button type="button" data-lang="ar" aria-pressed="false" lang="ar">عربي</button>
+        </div>
+      </div>
+      <div class="chips" id="categories" role="group" aria-label="Category"></div>
+    </section>
+
+    <p class="count" id="count" aria-live="polite"></p>
+
+    <div class="table-wrap">
+      <table class="funds">
+        <thead>
+          <tr>
+            <th scope="col" class="col-name" data-key="name" aria-sort="none"><button type="button" class="sort">Fund</button></th>
+            <th scope="col" data-key="category" aria-sort="none"><button type="button" class="sort">Category</button></th>
+            <th scope="col" data-key="manager" aria-sort="none"><button type="button" class="sort">Manager</button></th>
+            <th scope="col" data-key="currency" aria-sort="none"><button type="button" class="sort">Currency</button></th>
+            <th scope="col" class="num" data-key="nav" aria-sort="none"><button type="button" class="sort">NAV</button></th>
+            <th scope="col" data-key="nav_date" aria-sort="none"><button type="button" class="sort">NAV date</button></th>
+            <th scope="col" class="num" data-key="1W" aria-sort="none"><button type="button" class="sort">1W</button></th>
+            <th scope="col" class="num" data-key="1M" aria-sort="none"><button type="button" class="sort">1M</button></th>
+            <th scope="col" class="num" data-key="3M" aria-sort="none"><button type="button" class="sort">3M</button></th>
+            <th scope="col" class="num" data-key="YTD" aria-sort="none"><button type="button" class="sort">YTD</button></th>
+            <th scope="col" class="num" data-key="1Y" aria-sort="none"><button type="button" class="sort">1Y</button></th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+      <p class="empty" id="empty" hidden>No funds match these filters.</p>
+    </div>
+
+    <p class="notes">
+      Returns are price returns calculated from each fund's published NAV (distributions aren't included), adjusted for unit splits, and run to each fund's latest NAV date.
+      YTD figures marked * are reported by Mubasher, used where the stored price history doesn't reach the start of the year.
+      Inactive funds have had no new NAV for more than 30 days. Currency is inferred from the fund name.
+      Data comes from Mubasher Info and can lag by a few days. This page is for information only and is not investment advice.
+    </p>
+  </main>
+
+  <div class="compare-bar" id="compare-bar" hidden>
+    <div class="compare-list" id="compare-list"></div>
+    <span class="compare-hint" id="compare-hint"></span>
+    <button type="button" class="btn primary" id="compare-open">Compare</button>
+    <button type="button" class="btn" id="compare-clear">Clear</button>
+  </div>
+
+  <dialog class="panel" id="panel" aria-labelledby="panel-title">
+    <div class="panel-inner">
+      <div class="panel-head">
+        <div>
+          <h2 id="panel-title" dir="auto"></h2>
+          <p class="subtle" id="panel-subtitle" dir="auto"></p>
+        </div>
+        <button type="button" class="icon-btn" id="panel-close" aria-label="Close" autofocus>
+          <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><path d="M4 4l10 10M14 4L4 14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <div id="panel-summary"></div>
+      <div class="segmented periods" id="periods" role="group" aria-label="Chart period"></div>
+      <p class="chart-caption" id="chart-caption"></p>
+      <div class="chart-box">
+        <canvas id="chart" role="img" aria-label="Price chart"></canvas>
+        <div class="tooltip" id="tooltip" hidden></div>
+        <p class="chart-message" id="chart-message" hidden></p>
+      </div>
+      <div id="panel-legend"></div>
+      <details id="table-view">
+        <summary>Show data table</summary>
+        <div class="table-scroll" id="table-view-body"></div>
+      </details>
+      <dl class="about" id="panel-about"></dl>
+    </div>
+  </dialog>
+
+  <noscript><p class="wrap">This tracker needs JavaScript to show the fund table and charts.</p></noscript>
+</body>
+</html>

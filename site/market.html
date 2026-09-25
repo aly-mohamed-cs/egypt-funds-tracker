@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Egypt Stock Market</title>
+  <meta name="description" content="Egyptian Exchange prices updating live (about 15 minutes delayed): EGX 30, market movers, charts and a screener of every listed stock.">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    try {
+      const saved = localStorage.getItem("egypt-funds:theme");
+      if (saved === "light" || saved === "dark") document.documentElement.dataset.theme = saved;
+    } catch {}
+  </script>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23256abf'/%3E%3Cpath d='M7 21l6-6 5 4 7-9' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://s3.tradingview.com">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="theme.js"></script>
+  <script defer src="market.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="header-bar">
+        <nav class="site-nav" aria-label="Sections">
+          <a href="./">Mutual funds</a>
+          <a href="market.html" aria-current="page">Stock market</a>
+          <a href="dashboard.html">Dashboard</a>
+        </nav>
+        <button type="button" class="switch" id="theme-switch" role="switch" aria-checked="false">
+          <span class="switch-track" aria-hidden="true"><span class="switch-thumb"></span></span>
+          Dark mode
+        </button>
+      </div>
+      <h1>Egyptian Stock Market</h1>
+      <p class="status">Prices update live while this page is open, delayed about 15 minutes. The Egyptian Exchange trades Sunday to Thursday.</p>
+    </div>
+  </header>
+
+  <div class="ticker" id="ticker"></div>
+
+  <main class="wrap market">
+    <section class="market-chart" aria-labelledby="chart-heading">
+      <h2 class="section-title" id="chart-heading">Chart</h2>
+      <div class="chips" id="symbol-chips" role="group" aria-label="Quick picks"></div>
+      <div class="card" id="symbol-info"></div>
+      <div class="card chart-widget" id="chart"></div>
+    </section>
+
+    <section class="market-movers" aria-labelledby="movers-heading">
+      <h2 class="section-title" id="movers-heading">Market movers</h2>
+      <div class="card" id="movers"></div>
+    </section>
+
+    <section class="market-screener" aria-labelledby="screener-heading">
+      <h2 class="section-title" id="screener-heading">All EGX stocks</h2>
+      <div class="card" id="screener"></div>
+    </section>
+
+    <p class="notes">
+      Click a stock in the ticker, market movers or stock list to open it in the chart, or search any EGX symbol from the chart itself.
+      Market data and widgets by <a href="https://www.tradingview.com/" target="_blank" rel="noopener nofollow">TradingView</a>.
+      This page is for information only and is not investment advice.
+    </p>
+  </main>
+
+  <noscript><p class="wrap">This page needs JavaScript to show live market data.</p></noscript>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Egypt Stock Dashboard</title>
+  <meta name="description" content="A grid of live mini charts for the Egyptian stocks you choose, made to stay open all trading day.">
+  <meta name="color-scheme" content="light dark">
+  <script>
+    try {
+      const saved = localStorage.getItem("egypt-funds:theme");
+      if (saved === "light" || saved === "dark") document.documentElement.dataset.theme = saved;
+    } catch {}
+  </script>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23256abf'/%3E%3Cpath d='M7 21l6-6 5 4 7-9' fill='none' stroke='%23fff' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://s3.tradingview.com">
+  <link rel="stylesheet" href="styles.css">
+  <script defer src="theme.js"></script>
+  <script defer src="dashboard.js"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <div class="header-bar">
+        <nav class="site-nav" aria-label="Sections">
+          <a href="./">Mutual funds</a>
+          <a href="market.html">Stock market</a>
+          <a href="dashboard.html" aria-current="page">Dashboard</a>
+        </nav>
+        <button type="button" class="switch" id="theme-switch" role="switch" aria-checked="false">
+          <span class="switch-track" aria-hidden="true"><span class="switch-thumb"></span></span>
+          Dark mode
+        </button>
+      </div>
+      <h1>Stock dashboard</h1>
+      <p class="status" id="status">Live mini charts for the stocks you pick, delayed about 15 minutes.</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <form class="dash-controls" id="add-form" autocomplete="off">
+      <input type="search" class="input search" id="add-input" list="stock-options" placeholder="Add stocks by ticker or name, e.g. COMI, Fawry" aria-label="Add stocks" spellcheck="false">
+      <datalist id="stock-options"></datalist>
+      <button type="submit" class="btn primary">Add</button>
+      <div class="segmented" id="ranges" role="group" aria-label="Chart range"></div>
+      <button type="button" class="btn" id="fullscreen">Full screen</button>
+      <button type="button" class="btn" id="refresh">Refresh</button>
+      <button type="button" class="btn" id="clear">Clear all</button>
+      <button type="button" class="switch" id="wake-switch" role="switch" aria-checked="false" hidden>
+        <span class="switch-track" aria-hidden="true"><span class="switch-thumb"></span></span>
+        Keep screen on
+      </button>
+    </form>
+    <p class="count" id="dash-message" aria-live="polite"></p>
+
+    <div class="board" id="board"></div>
+    <p class="empty" id="board-empty" hidden>Your dashboard is empty. Add stocks above to see their charts here.</p>
+
+    <p class="notes">
+      Each chart updates live while this page is open and reloads every 30 minutes, or when you come back to the tab after a while, in case a live feed stalls.
+      Click a chart to open it in the full chart on the Stock market page. Your stocks and range are saved in this browser and in the page address, so you can bookmark or share a dashboard.
+      Market data and charts by <a href="https://www.tradingview.com/" target="_blank" rel="noopener nofollow">TradingView</a>. Not investment advice.
+    </p>
+  </main>
+
+  <noscript><p class="wrap">This page needs JavaScript to show live market data.</p></noscript>
+</body>
+</html>

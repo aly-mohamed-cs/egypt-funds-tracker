@@ -47,6 +47,11 @@ jobs:
         if: github.event_name != 'push'
         run: python -m tracker.update ${{ inputs.full_refresh && '--full' || '' }}
 
+      - name: Refresh EGX stock list
+        if: github.event_name != 'push'
+        continue-on-error: true
+        run: python -m tracker.stocks
+
       - name: Commit data
         if: github.event_name != 'push'
         run: |

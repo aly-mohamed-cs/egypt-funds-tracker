@@ -1,15 +1,27 @@
 # Egypt Funds Tracker
 
-A self-updating tracker for Egyptian mutual funds: a searchable table of every fund's latest price (NAV) and returns, with price-history charts and side-by-side comparisons.
+A self-updating tracker for Egyptian markets, with three pages:
 
-**Live site:** https://aly-mohamed-cs.github.io/egypt-funds-tracker/
+- **Mutual funds** — a searchable table of every Egyptian fund's latest price (NAV) and returns, with price-history charts and side-by-side comparisons.
+- **Stock market** — the Egyptian Exchange (EGX) updating live: a ticker strip, a full chart for any stock or index, market movers and a list of every listed stock.
+- **Dashboard** — a grid of live mini charts for the stocks you pick, built to stay open all trading day.
+
+**Live site:** https://aly-mohamed-cs.github.io/egypt-funds-tracker/ (with a dark mode switch on every page)
 
 ## How it works
 
 1. Every day at 18:00 UTC (about 21:00 in Cairo) a GitHub Actions workflow runs `python -m tracker.update`.
 2. The script downloads the latest NAV of every Egyptian fund listed on [Mubasher Info](https://english.mubasher.info/countries/eg/funds) in a single request, adds it to `site/data/history/<fund id>.csv`, recalculates returns, and writes `site/data/funds.json`.
 3. On Fridays, and whenever a new fund appears, it also refreshes Arabic names and fund categories (17 more requests) and imports each new fund's past prices.
-4. The workflow commits the updated data to this repo and publishes the `site/` folder to GitHub Pages.
+4. It then runs `python -m tracker.stocks`, which refreshes the list of EGX tickers and company names (`site/data/egx-stocks.json`) used by the dashboard's stock search. If that one request fails, the old list is kept and the fund update still goes ahead.
+5. The workflow commits the updated data to this repo and publishes the `site/` folder to GitHub Pages.
+
+## Stock market and dashboard
+
+- **Live data** comes from [TradingView](https://www.tradingview.com/) widgets embedded in the pages, so there is no data pipeline to run: prices stream into the browser while a page is open. EGX data on TradingView is delayed by about 15 minutes; real-time EGX prices need a paid data licence.
+- **Stock market page:** click any stock in the ticker strip, market movers or stock list to open it in the main chart (the page address becomes `market.html?tvwidgetsymbol=EGX:TICKER`, so it can be bookmarked). The quick-pick buttons cover the main indices and several blue chips, and the chart's own search finds any EGX symbol.
+- **Dashboard:** add up to 20 stocks by ticker or company name (several at once with commas), switch every chart between 1D, 1M, 3M, 1Y, 5Y and All, and use **Full screen** to fit all charts on the screen. **Keep screen on** asks the browser not to let the display sleep while the page is visible; browsers that don't support it hide the switch. Charts reload every 30 minutes, and when you return to the tab after more than 5 minutes away, in case a live feed stalls. The selection is saved in the browser and in the page address (`dashboard.html#s=COMI,TMGH&r=1D`), so it can be bookmarked or shared.
+- **Dark mode:** the switch on every page overrides the system setting and is remembered in the browser; until it's used, pages follow the system setting.
 
 ## Data notes
 
@@ -42,7 +54,8 @@ python -m http.server 8000 --directory site      # then open http://localhost:80
 
 ## Layout
 
-- `tracker/` — the updater: Mubasher client, storage, and return calculations
+- `tracker/` — the updater: Mubasher client, storage, return calculations, and the EGX ticker list (`stocks.py`)
 - `tests/` — pytest suite
-- `site/` — the static dashboard; `site/data/` holds the generated data
+- `site/` — the static website: `index.html`/`app.js` (mutual funds), `market.html`/`market.js` (stock market), `dashboard.html`/`dashboard.js` (dashboard), `theme.js` (dark mode switch), `styles.css`
+- `site/data/` — the generated data
 - `.github/workflows/update.yml` — daily schedule and GitHub Pages deployment

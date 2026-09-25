@@ -20,18 +20,13 @@ class PoliteSession:
         self._session.headers["User-Agent"] = USER_AGENT
 
     def get_json(self, url: str, params: dict | None = None):
-        resp = self._get(url, params)
-        content_type = resp.headers.get("Content-Type", "")
-        if resp.status_code in (403, 429) or "json" not in content_type:
-            raise UnexpectedResponseError(
-                f"GET {resp.url} returned HTTP {resp.status_code} ({content_type or 'no content type'}); "
-                "the site may be blocking automated requests or may have changed."
-            )
-        resp.raise_for_status()
-        return resp.json()
+        return self._json(self._request("GET", url, params=params))
+
+    def post_json(self, url: str, payload: dict):
+        return self._json(self._request("POST", url, json=payload))
 
     def get_text(self, url: str) -> str | None:
-        resp = self._get(url)
+        resp = self._request("GET", url)
         if resp.status_code == 404:
             return None
         if resp.status_code in (403, 429):
@@ -42,7 +37,18 @@ class PoliteSession:
             raise UnexpectedResponseError(f"GET {url} returned an HTML page instead of CSV")
         return text
 
-    def _get(self, url: str, params: dict | None = None) -> requests.Response:
+    @staticmethod
+    def _json(resp: requests.Response):
+        content_type = resp.headers.get("Content-Type", "")
+        if resp.status_code in (403, 429) or "json" not in content_type:
+            raise UnexpectedResponseError(
+                f"{resp.request.method} {resp.url} returned HTTP {resp.status_code} "
+                f"({content_type or 'no content type'}); the site may be blocking automated requests or may have changed."
+            )
+        resp.raise_for_status()
+        return resp.json()
+
+    def _request(self, method: str, url: str, **kwargs) -> requests.Response:
         for attempt in range(1, self.retries + 1):
             wait = self._last_request + self.min_interval - time.monotonic()
             if wait > 0:
@@ -50,7 +56,7 @@ class PoliteSession:
             self._last_request = time.monotonic()
             self.request_count += 1
             try:
-                resp = self._session.get(url, params=params, timeout=self.timeout)
+                resp = self._session.request(method, url, timeout=self.timeout, **kwargs)
             except (requests.ConnectionError, requests.Timeout):
                 if attempt == self.retries:
                     raise

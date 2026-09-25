@@ -205,7 +205,7 @@ function bindControls() {
   $("#panel-legend").addEventListener("click", onLegendClick);
   $("#table-view").addEventListener("toggle", renderTableView);
   window.addEventListener("hashchange", applyHash);
-  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+  window.addEventListener("themechange", () => {
     if (lastRender) drawView(lastRender.view, lastRender.series);
   });
 }

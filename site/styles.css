@@ -24,8 +24,9 @@
   --font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
 }
 
+/* Dark tokens apply with a dark system setting unless the switch chose light, or whenever it chose dark. */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     color-scheme: dark;
     --page: #0d0d0d;
     --surface: #1a1a19;
@@ -45,6 +46,27 @@
     --series-5: #d55181;
     --shadow: 0 8px 28px rgba(0, 0, 0, 0.5);
   }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d;
+  --surface: #1a1a19;
+  --surface-2: #252524;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --border: rgba(255, 255, 255, 0.1);
+  --link: #6da7ec;
+  --up: #0ca30c;
+  --down: #e66767;
+  --series-1: #3987e5;
+  --series-2: #d95926;
+  --series-3: #199e70;
+  --series-4: #c98500;
+  --series-5: #d55181;
+  --shadow: 0 8px 28px rgba(0, 0, 0, 0.5);
 }
 
 *,
@@ -117,6 +139,98 @@ a {
   margin: 0;
   color: var(--ink-2);
   font-size: 13px;
+}
+
+.header-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px 16px;
+  margin: 0 0 14px;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 2px;
+  border: 0;
+  background: none;
+  color: var(--ink-2);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.switch:hover {
+  color: var(--ink);
+}
+
+.switch-track {
+  position: relative;
+  width: 36px;
+  height: 20px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface-2);
+  transition: background-color 0.15s;
+}
+
+.switch-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--ink-2);
+  transition: transform 0.15s;
+}
+
+.switch[aria-checked="true"] .switch-track {
+  border-color: var(--accent);
+  background: var(--accent);
+}
+
+.switch[aria-checked="true"] .switch-thumb {
+  background: var(--on-accent);
+  transform: translateX(16px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .switch-track,
+  .switch-thumb {
+    transition: none;
+  }
+}
+
+.site-nav a {
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--ink-2);
+  font-size: 13px;
+  font-weight: 550;
+  text-decoration: none;
+}
+
+.site-nav a:hover {
+  background: var(--surface-2);
+  color: var(--ink);
+}
+
+.site-nav a[aria-current="page"] {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: var(--surface);
 }
 
 .filters {
@@ -851,6 +965,150 @@ details summary {
 
 .about dd {
   margin: 0;
+}
+
+/* Stock market page */
+
+.ticker {
+  min-height: 46px;
+  border-block: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.market {
+  display: grid;
+  grid-template-columns: minmax(0, 2fr) minmax(300px, 1fr);
+  gap: 24px;
+  padding-top: 20px;
+}
+
+.market-screener,
+.market .notes {
+  grid-column: 1 / -1;
+}
+
+.section-title {
+  margin: 0 0 10px;
+  font-size: 15px;
+  font-weight: 650;
+}
+
+.card {
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+#symbol-chips {
+  margin-bottom: 12px;
+}
+
+#symbol-info {
+  min-height: 120px;
+  margin-bottom: 12px;
+}
+
+/* TradingView sizes this frame for a one-line company name; long names wrap and push the stats out of view. */
+#symbol-info iframe {
+  min-height: 250px;
+}
+
+.chart-widget {
+  height: 540px;
+}
+
+.chart-widget .tradingview-widget-container,
+.chart-widget .tradingview-widget-container__widget {
+  width: 100%;
+  height: 100%;
+}
+#movers {
+  min-height: 560px;
+}
+
+#screener {
+  min-height: 640px;
+}
+
+/* Stock dashboard */
+
+.dash-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 8px 0;
+}
+
+.dash-controls .search {
+  flex: 1 1 320px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-auto-rows: 250px;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.tile {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  min-height: 0;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.tile-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 4px 2px 12px;
+  border-bottom: 1px solid var(--border);
+  color: var(--ink-2);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.tile-body {
+  flex: 1;
+  min-height: 0;
+}
+
+.tile-body .tradingview-widget-container,
+.tile-body .tradingview-widget-container__widget {
+  width: 100%;
+  height: 100%;
+}
+
+.board:fullscreen {
+  grid-template-columns: repeat(var(--cols, 3), minmax(0, 1fr));
+  grid-template-rows: repeat(var(--rows, 3), minmax(0, 1fr));
+  grid-auto-rows: auto;
+  gap: 8px;
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  background: var(--page);
+}
+
+.board:fullscreen .tile-head {
+  display: none;
+}
+
+@media (max-width: 960px) {
+  .market {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .chart-widget {
+    height: 420px;
+  }
 }
 
 @media (max-width: 700px) {

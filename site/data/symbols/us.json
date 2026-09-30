@@ -1,0 +1,8814 @@
+[
+ {
+  "symbol": "FOREXCOM:SPXUSD",
+  "name": "S&P 500 Index (CFD)"
+ },
+ {
+  "symbol": "FOREXCOM:NSXUSD",
+  "name": "Nasdaq 100 Index (CFD)"
+ },
+ {
+  "symbol": "FOREXCOM:DJI",
+  "name": "Dow Jones Industrial Average (CFD)"
+ },
+ {
+  "symbol": "NYSE:A",
+  "name": "Agilent Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:AA",
+  "name": "Alcoa Corporation"
+ },
+ {
+  "symbol": "NASDAQ:AAL",
+  "name": "American Airlines Group Inc."
+ },
+ {
+  "symbol": "NYSE:AAMI",
+  "name": "Acadian Asset Management Inc."
+ },
+ {
+  "symbol": "NASDAQ:AAOI",
+  "name": "Applied Optoelectronics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AAON",
+  "name": "AAON, Inc."
+ },
+ {
+  "symbol": "NYSE:AAP",
+  "name": "Advance Auto Parts, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AAPL",
+  "name": "Apple Inc."
+ },
+ {
+  "symbol": "NYSE:AAUC",
+  "name": "Allied Gold Corporation"
+ },
+ {
+  "symbol": "NYSE:AB",
+  "name": "AllianceBernstein Holding L.P."
+ },
+ {
+  "symbol": "NYSE:ABBV",
+  "name": "AbbVie, Inc."
+ },
+ {
+  "symbol": "NYSE:ABCB",
+  "name": "Ameris Bancorp"
+ },
+ {
+  "symbol": "NASDAQ:ABCL",
+  "name": "AbCellera Biologics, Inc."
+ },
+ {
+  "symbol": "NYSE:ABEV",
+  "name": "Ambev SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ABG",
+  "name": "Asbury Automotive Group, Inc."
+ },
+ {
+  "symbol": "NYSE:ABM",
+  "name": "ABM Industries Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:ABNB",
+  "name": "Airbnb, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ABT",
+  "name": "Abbott Laboratories"
+ },
+ {
+  "symbol": "NASDAQ:ABVX",
+  "name": "Abivax SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ACA",
+  "name": "Arcosa, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ACAD",
+  "name": "ACADIA Pharmaceuticals Inc."
+ },
+ {
+  "symbol": "NASDAQ:ACGL",
+  "name": "Arch Capital Group Ltd."
+ },
+ {
+  "symbol": "NASDAQ:ACHC",
+  "name": "Acadia Healthcare Company, Inc."
+ },
+ {
+  "symbol": "NYSE:ACHR",
+  "name": "Archer Aviation Inc Class A"
+ },
+ {
+  "symbol": "NYSE:ACI",
+  "name": "Albertsons Companies, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:ACIW",
+  "name": "ACI Worldwide, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ACLS",
+  "name": "Axcelis Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:ACM",
+  "name": "AECOM"
+ },
+ {
+  "symbol": "NASDAQ:ACMR",
+  "name": "ACM Research, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ACN",
+  "name": "Accenture Plc Class A"
+ },
+ {
+  "symbol": "NASDAQ:ACT",
+  "name": "Enact Holdings Inc"
+ },
+ {
+  "symbol": "NASDAQ:ACWI",
+  "name": "iShares MSCI ACWI ETF"
+ },
+ {
+  "symbol": "NASDAQ:ACWX",
+  "name": "iShares MSCI ACWI ex U.S. ETF"
+ },
+ {
+  "symbol": "NYSE:AD",
+  "name": "Array Digital Infrastructure, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ADBE",
+  "name": "Adobe Inc."
+ },
+ {
+  "symbol": "NYSE:ADC",
+  "name": "Agree Realty Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ADEA",
+  "name": "Adeia Inc."
+ },
+ {
+  "symbol": "NASDAQ:ADI",
+  "name": "Analog Devices, Inc."
+ },
+ {
+  "symbol": "NYSE:ADM",
+  "name": "Archer-Daniels-Midland Company"
+ },
+ {
+  "symbol": "NASDAQ:ADMA",
+  "name": "ADMA Biologics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ADP",
+  "name": "Automatic Data Processing, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ADPT",
+  "name": "Adaptive Biotechnologies Corp."
+ },
+ {
+  "symbol": "NASDAQ:ADSK",
+  "name": "Autodesk, Inc."
+ },
+ {
+  "symbol": "NYSE:ADT",
+  "name": "ADT, Inc."
+ },
+ {
+  "symbol": "NYSE:AEE",
+  "name": "Ameren Corporation"
+ },
+ {
+  "symbol": "NYSE:AEG",
+  "name": "Aegon Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:AEHR",
+  "name": "Aehr Test Systems"
+ },
+ {
+  "symbol": "NASDAQ:AEIS",
+  "name": "Advanced Energy Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:AEM",
+  "name": "Agnico Eagle Mines Limited"
+ },
+ {
+  "symbol": "NYSE:AEO",
+  "name": "American Eagle Outfitters, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AEP",
+  "name": "American Electric Power Company, Inc."
+ },
+ {
+  "symbol": "NYSE:AER",
+  "name": "AerCap Holdings NV"
+ },
+ {
+  "symbol": "NYSE:AERO",
+  "name": "Grupo Aeromexico, S.A.B. de C.V. Unsponsored ADR"
+ },
+ {
+  "symbol": "NYSE:AES",
+  "name": "AES Corporation"
+ },
+ {
+  "symbol": "NYSE:AFG",
+  "name": "American Financial Group, Inc."
+ },
+ {
+  "symbol": "NYSE:AFL",
+  "name": "Aflac Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:AFRM",
+  "name": "Affirm Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:AG",
+  "name": "First Majestic Silver Corp."
+ },
+ {
+  "symbol": "NYSE:AGCO",
+  "name": "AGCO Corporation"
+ },
+ {
+  "symbol": "AMEX:AGG",
+  "name": "iShares Core U.S. Aggregate Bond ETF"
+ },
+ {
+  "symbol": "NYSE:AGI",
+  "name": "Alamos Gold Inc."
+ },
+ {
+  "symbol": "NYSE:AGM",
+  "name": "Federal Agricultural Mortgage Corporation Class C"
+ },
+ {
+  "symbol": "NYSE:AGM.A",
+  "name": "Federal Agricultural Mortgage Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:AGNC",
+  "name": "AGNC Investment Corp."
+ },
+ {
+  "symbol": "NYSE:AGO",
+  "name": "Assured Guaranty Ltd."
+ },
+ {
+  "symbol": "NYSE:AGX",
+  "name": "Argan, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AGYS",
+  "name": "Agilysys, Inc."
+ },
+ {
+  "symbol": "NYSE:AHR",
+  "name": "American Healthcare REIT, Inc."
+ },
+ {
+  "symbol": "NYSE:AIG",
+  "name": "American International Group, Inc."
+ },
+ {
+  "symbol": "NYSE:AIR",
+  "name": "AAR CORP."
+ },
+ {
+  "symbol": "NYSE:AIT",
+  "name": "Applied Industrial Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:AIZ",
+  "name": "Assurant, Inc."
+ },
+ {
+  "symbol": "NYSE:AJG",
+  "name": "Arthur J. Gallagher & Co."
+ },
+ {
+  "symbol": "NASDAQ:AKAM",
+  "name": "Akamai Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:AKO.A",
+  "name": "Embotelladora Andina S.A. Sponsored ADR Pfd Class A"
+ },
+ {
+  "symbol": "NYSE:AKO.B",
+  "name": "Embotelladora Andina S.A. Sponsored ADR Pfd Class B"
+ },
+ {
+  "symbol": "NYSE:AKR",
+  "name": "Acadia Realty Trust"
+ },
+ {
+  "symbol": "NASDAQ:ALAB",
+  "name": "Astera Labs, Inc."
+ },
+ {
+  "symbol": "NYSE:ALB",
+  "name": "Albemarle Corporation"
+ },
+ {
+  "symbol": "NYSE:ALC",
+  "name": "Alcon AG"
+ },
+ {
+  "symbol": "NASDAQ:ALGM",
+  "name": "Allegro MicroSystems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALGN",
+  "name": "Align Technology, Inc."
+ },
+ {
+  "symbol": "NYSE:ALH",
+  "name": "Alliance Laundry Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:ALK",
+  "name": "Alaska Air Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALKS",
+  "name": "Alkermes Public Limited Company"
+ },
+ {
+  "symbol": "NYSE:ALL",
+  "name": "Allstate Corporation"
+ },
+ {
+  "symbol": "NYSE:ALLE",
+  "name": "Allegion Public Limited Company"
+ },
+ {
+  "symbol": "NYSE:ALLY",
+  "name": "Ally Financial Inc"
+ },
+ {
+  "symbol": "NASDAQ:ALM",
+  "name": "Almonty Industries Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALMR",
+  "name": "Alamar Biosciences, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALNY",
+  "name": "Alnylam Pharmaceuticals, Inc"
+ },
+ {
+  "symbol": "NASDAQ:ALRM",
+  "name": "Alarm.com Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:ALSN",
+  "name": "Allison Transmission Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:ALV",
+  "name": "Autoliv Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALVO",
+  "name": "Alvotech"
+ },
+ {
+  "symbol": "NYSE:AM",
+  "name": "Antero Midstream Corp."
+ },
+ {
+  "symbol": "NASDAQ:AMAT",
+  "name": "Applied Materials, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AMBA",
+  "name": "Ambarella, Inc."
+ },
+ {
+  "symbol": "NYSE:AMBP",
+  "name": "Ardagh Metal Packaging S.A"
+ },
+ {
+  "symbol": "NYSE:AMC",
+  "name": "AMC Entertainment Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:AMCR",
+  "name": "Amcor PLC"
+ },
+ {
+  "symbol": "NASDAQ:AMD",
+  "name": "Advanced Micro Devices, Inc."
+ },
+ {
+  "symbol": "NYSE:AME",
+  "name": "AMETEK, Inc."
+ },
+ {
+  "symbol": "NYSE:AMG",
+  "name": "Affiliated Managers Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AMGN",
+  "name": "Amgen Inc."
+ },
+ {
+  "symbol": "NYSE:AMH",
+  "name": "American Homes 4 Rent Class A"
+ },
+ {
+  "symbol": "NASDAQ:AMKR",
+  "name": "Amkor Technology, Inc."
+ },
+ {
+  "symbol": "AMEX:AMLP",
+  "name": "Alerian MLP ETF"
+ },
+ {
+  "symbol": "NASDAQ:AMLX",
+  "name": "Amylyx Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:AMP",
+  "name": "Ameriprise Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AMRX",
+  "name": "Amneal Pharmaceuticals, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:AMRZ",
+  "name": "Amrize Ltd"
+ },
+ {
+  "symbol": "NYSE:AMT",
+  "name": "American Tower Corporation"
+ },
+ {
+  "symbol": "NYSE:AMTM",
+  "name": "Amentum Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:AMX",
+  "name": "America Movil SAB de CV Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NASDAQ:AMZN",
+  "name": "Amazon.com, Inc."
+ },
+ {
+  "symbol": "NYSE:AN",
+  "name": "AutoNation, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ANDE",
+  "name": "Andersons, Inc."
+ },
+ {
+  "symbol": "NYSE:ANDG",
+  "name": "Andersen Group, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ANET",
+  "name": "Arista Networks Inc"
+ },
+ {
+  "symbol": "NYSE:ANF",
+  "name": "Abercrombie & Fitch Co. Class A"
+ },
+ {
+  "symbol": "NYSE:AON",
+  "name": "Aon Plc Class A"
+ },
+ {
+  "symbol": "NYSE:AOS",
+  "name": "A. O. Smith Corporation"
+ },
+ {
+  "symbol": "NASDAQ:APA",
+  "name": "APA Corporation"
+ },
+ {
+  "symbol": "NYSE:APAM",
+  "name": "Artisan Partners Asset Management, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:APD",
+  "name": "Air Products and Chemicals, Inc."
+ },
+ {
+  "symbol": "NYSE:APG",
+  "name": "APi Group Corporation"
+ },
+ {
+  "symbol": "NYSE:APH",
+  "name": "Amphenol Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:APLD",
+  "name": "Applied Digital Corporation"
+ },
+ {
+  "symbol": "NYSE:APLE",
+  "name": "Apple Hospitality REIT Inc"
+ },
+ {
+  "symbol": "NYSE:APO",
+  "name": "Apollo Global Management Inc"
+ },
+ {
+  "symbol": "NASDAQ:APP",
+  "name": "AppLovin Corp. Class A"
+ },
+ {
+  "symbol": "NASDAQ:APPF",
+  "name": "AppFolio Inc Class A"
+ },
+ {
+  "symbol": "NASDAQ:APPN",
+  "name": "Appian Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:APTV",
+  "name": "Aptiv PLC"
+ },
+ {
+  "symbol": "NYSE:AQN",
+  "name": "Algonquin Power & Utilities Corp."
+ },
+ {
+  "symbol": "NYSE:AR",
+  "name": "Antero Resources Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ARCB",
+  "name": "ArcBest Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ARCC",
+  "name": "Ares Capital Corporation"
+ },
+ {
+  "symbol": "NYSE:ARE",
+  "name": "Alexandria Real Estate Equities, Inc."
+ },
+ {
+  "symbol": "NYSE:ARES",
+  "name": "Ares Management Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:ARGX",
+  "name": "argenx SE Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ARIS",
+  "name": "Aris Mining Corp"
+ },
+ {
+  "symbol": "NASDAQ:ARLP",
+  "name": "Alliance Resource Partners, L.P."
+ },
+ {
+  "symbol": "NASDAQ:ARM",
+  "name": "ARM Holdings PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ARMK",
+  "name": "Aramark"
+ },
+ {
+  "symbol": "NYSE:AROC",
+  "name": "Archrock Inc."
+ },
+ {
+  "symbol": "NASDAQ:ARQT",
+  "name": "Arcutis Biotherapeutics Inc"
+ },
+ {
+  "symbol": "NYSE:ARW",
+  "name": "Arrow Electronics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ARWR",
+  "name": "Arrowhead Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:ARX",
+  "name": "Accelerant Holdings Class A"
+ },
+ {
+  "symbol": "NASDAQ:ARXS",
+  "name": "Arxis, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:AS",
+  "name": "Amer Sports, Inc."
+ },
+ {
+  "symbol": "NYSE:ASB",
+  "name": "Associated Banc-Corp"
+ },
+ {
+  "symbol": "NYSE:ASH",
+  "name": "Ashland Inc."
+ },
+ {
+  "symbol": "NASDAQ:ASML",
+  "name": "ASML Holding NV Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:ASND",
+  "name": "Ascendis Pharma A/S"
+ },
+ {
+  "symbol": "NASDAQ:ASO",
+  "name": "Academy Sports and Outdoors, Inc."
+ },
+ {
+  "symbol": "NYSE:ASR",
+  "name": "Grupo Aeroportuario del Sureste SAB de CV Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NASDAQ:ASST",
+  "name": "Strive, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:ASTS",
+  "name": "AST SpaceMobile, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ASX",
+  "name": "ASE Technology Holding Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:ATAT",
+  "name": "Atour Lifestyle Holdings Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ATHM",
+  "name": "Autohome Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:ATI",
+  "name": "ATI Inc"
+ },
+ {
+  "symbol": "NYSE:ATKR",
+  "name": "Atkore Inc"
+ },
+ {
+  "symbol": "NYSE:ATMU",
+  "name": "Atmus Filtration Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:ATO",
+  "name": "Atmos Energy Corporation"
+ },
+ {
+  "symbol": "NYSE:ATR",
+  "name": "AptarGroup, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ATRC",
+  "name": "AtriCure, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ATRO",
+  "name": "Astronics Corporation"
+ },
+ {
+  "symbol": "NYSE:AU",
+  "name": "Anglogold Ashanti PLC"
+ },
+ {
+  "symbol": "NYSE:AUB",
+  "name": "Atlantic Union Bankshares Corporation"
+ },
+ {
+  "symbol": "NASDAQ:AUGO",
+  "name": "Aura Minerals Inc"
+ },
+ {
+  "symbol": "NASDAQ:AUPH",
+  "name": "Aurinia Pharmaceuticals Inc."
+ },
+ {
+  "symbol": "NASDAQ:AUR",
+  "name": "Aurora Innovation, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:AVA",
+  "name": "Avista Corporation"
+ },
+ {
+  "symbol": "NASDAQ:AVAH",
+  "name": "Aveanna Healthcare Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:AVAL",
+  "name": "Grupo Aval Acciones y Valores SA Sponsored ADR Pfd"
+ },
+ {
+  "symbol": "NASDAQ:AVAV",
+  "name": "AeroVironment, Inc."
+ },
+ {
+  "symbol": "AMEX:AVDE",
+  "name": "Avantis International Equity ETF"
+ },
+ {
+  "symbol": "AMEX:AVDV",
+  "name": "Avantis International Small Cap Value ETF"
+ },
+ {
+  "symbol": "AMEX:AVEM",
+  "name": "Avantis Emerging Markets Equity ETF"
+ },
+ {
+  "symbol": "NASDAQ:AVGO",
+  "name": "Broadcom Inc."
+ },
+ {
+  "symbol": "AMEX:AVLV",
+  "name": "Avantis U.S. Large Cap Value ETF"
+ },
+ {
+  "symbol": "NYSE:AVNT",
+  "name": "Avient Corporation"
+ },
+ {
+  "symbol": "NASDAQ:AVPT",
+  "name": "AvePoint, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:AVT",
+  "name": "Avnet, Inc."
+ },
+ {
+  "symbol": "NYSE:AVTR",
+  "name": "Avantor, Inc."
+ },
+ {
+  "symbol": "AMEX:AVUS",
+  "name": "Avantis U.S. Equity ETF"
+ },
+ {
+  "symbol": "AMEX:AVUV",
+  "name": "Avantis U.S. Small Cap Value ETF"
+ },
+ {
+  "symbol": "NYSE:AVY",
+  "name": "Avery Dennison Corporation"
+ },
+ {
+  "symbol": "NYSE:AWI",
+  "name": "Armstrong World Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:AWK",
+  "name": "American Water Works Company, Inc."
+ },
+ {
+  "symbol": "NYSE:AWR",
+  "name": "American States Water Company"
+ },
+ {
+  "symbol": "NYSE:AX",
+  "name": "Axos Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AXGN",
+  "name": "Axogen, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AXON",
+  "name": "Axon Enterprise Inc"
+ },
+ {
+  "symbol": "NYSE:AXP",
+  "name": "American Express Company"
+ },
+ {
+  "symbol": "NYSE:AXS",
+  "name": "Axis Capital Holdings Limited"
+ },
+ {
+  "symbol": "NASDAQ:AXSM",
+  "name": "Axsome Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:AXTA",
+  "name": "Axalta Coating Systems Ltd."
+ },
+ {
+  "symbol": "NASDAQ:AXTI",
+  "name": "AXT, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AYA",
+  "name": "Aya Gold & Silver Inc."
+ },
+ {
+  "symbol": "NYSE:AYI",
+  "name": "Acuity Inc."
+ },
+ {
+  "symbol": "NYSE:AZN",
+  "name": "AstraZeneca PLC"
+ },
+ {
+  "symbol": "NYSE:AZO",
+  "name": "AutoZone, Inc."
+ },
+ {
+  "symbol": "NYSE:AZZ",
+  "name": "AZZ Inc."
+ },
+ {
+  "symbol": "NYSE:B",
+  "name": "Barrick Mining Corporation"
+ },
+ {
+  "symbol": "NYSE:BA",
+  "name": "Boeing Company"
+ },
+ {
+  "symbol": "NYSE:BABA",
+  "name": "Alibaba Group Holding Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BAC",
+  "name": "Bank of America Corp"
+ },
+ {
+  "symbol": "NYSE:BAH",
+  "name": "Booz Allen Hamilton Holding Corporation Class A"
+ },
+ {
+  "symbol": "AMEX:BAI",
+  "name": "iShares A.I. Innovation and Tech Active ETF"
+ },
+ {
+  "symbol": "NYSE:BALL",
+  "name": "Ball Corporation"
+ },
+ {
+  "symbol": "NYSE:BAM",
+  "name": "Brookfield Asset Management Ltd. Class A"
+ },
+ {
+  "symbol": "NYSE:BANC",
+  "name": "Banc of California, Inc."
+ },
+ {
+  "symbol": "NASDAQ:BANF",
+  "name": "BancFirst Corporation"
+ },
+ {
+  "symbol": "NASDAQ:BANR",
+  "name": "Banner Corporation"
+ },
+ {
+  "symbol": "NYSE:BAP",
+  "name": "Credicorp Ltd."
+ },
+ {
+  "symbol": "NASDAQ:BATRA",
+  "name": "Atlanta Braves Holdings Inc Class A"
+ },
+ {
+  "symbol": "NASDAQ:BATRK",
+  "name": "Atlanta Braves Holdings Inc Class C"
+ },
+ {
+  "symbol": "NYSE:BAX",
+  "name": "Baxter International Inc."
+ },
+ {
+  "symbol": "NYSE:BB",
+  "name": "BlackBerry Limited"
+ },
+ {
+  "symbol": "NYSE:BBAR",
+  "name": "Banco BBVA Argentina SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BBD",
+  "name": "Banco Bradesco SA Sponsored ADR Pfd"
+ },
+ {
+  "symbol": "NYSE:BBDO",
+  "name": "Banco Bradesco SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:BBIO",
+  "name": "BridgeBio Pharma, Inc."
+ },
+ {
+  "symbol": "NYSE:BBT",
+  "name": "Beacon Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:BBUC",
+  "name": "Brookfield Business Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:BBVA",
+  "name": "Banco Bilbao Vizcaya Argentaria, S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BBWI",
+  "name": "Bath & Body Works, Inc."
+ },
+ {
+  "symbol": "NYSE:BBY",
+  "name": "Best Buy Co., Inc."
+ },
+ {
+  "symbol": "NYSE:BC",
+  "name": "Brunswick Corporation"
+ },
+ {
+  "symbol": "NYSE:BCC",
+  "name": "Boise Cascade Co."
+ },
+ {
+  "symbol": "NYSE:BCE",
+  "name": "BCE Inc."
+ },
+ {
+  "symbol": "NYSE:BCH",
+  "name": "Banco de Chile Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BCO",
+  "name": "Brink's Company"
+ },
+ {
+  "symbol": "NASDAQ:BCPC",
+  "name": "Balchem Corp"
+ },
+ {
+  "symbol": "NYSE:BCS",
+  "name": "Barclays PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BDC",
+  "name": "Belden Inc."
+ },
+ {
+  "symbol": "NYSE:BDX",
+  "name": "Becton, Dickinson and Company"
+ },
+ {
+  "symbol": "NYSE:BE",
+  "name": "Bloom Energy Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:BEAM",
+  "name": "Beam Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:BEKE",
+  "name": "KE Holdings, Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NASDAQ:BELFA",
+  "name": "Bel Fuse Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:BELFB",
+  "name": "Bel Fuse Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:BEN",
+  "name": "Franklin Templeton, Inc."
+ },
+ {
+  "symbol": "NYSE:BEP",
+  "name": "Brookfield Renewable Partners LP"
+ },
+ {
+  "symbol": "NYSE:BEPC",
+  "name": "Brookfield Renewable Holdings Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:BETA",
+  "name": "BETA Technologies, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BF.A",
+  "name": "Brown-Forman Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:BF.B",
+  "name": "Brown-Forman Corporation Class B"
+ },
+ {
+  "symbol": "NYSE:BFAM",
+  "name": "Bright Horizons Family Solutions, Inc."
+ },
+ {
+  "symbol": "NYSE:BFH",
+  "name": "Bread Financial Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:BFLY",
+  "name": "Butterfly Network, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BG",
+  "name": "Bunge Global SA"
+ },
+ {
+  "symbol": "NASDAQ:BGC",
+  "name": "BGC Group, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BGSI",
+  "name": "Boyd Group Services Inc"
+ },
+ {
+  "symbol": "NYSE:BHC",
+  "name": "Bausch Health Companies Inc."
+ },
+ {
+  "symbol": "NYSE:BHE",
+  "name": "Benchmark Electronics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:BHF",
+  "name": "Brighthouse Financial, Inc."
+ },
+ {
+  "symbol": "NYSE:BHP",
+  "name": "BHP Group Ltd Sponsored American Depositary Receipt Repr 2 Shs"
+ },
+ {
+  "symbol": "NASDAQ:BIDU",
+  "name": "Baidu, Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NASDAQ:BIIB",
+  "name": "Biogen Inc."
+ },
+ {
+  "symbol": "AMEX:BIL",
+  "name": "State Street SPDR Bloomberg 1-3 Month T-Bill ETF"
+ },
+ {
+  "symbol": "NASDAQ:BILI",
+  "name": "Bilibili Inc. Sponsored ADR Class Z"
+ },
+ {
+  "symbol": "NYSE:BILL",
+  "name": "BILL Holdings, Inc."
+ },
+ {
+  "symbol": "AMEX:BINC",
+  "name": "iShares Flexible Income Active ETF"
+ },
+ {
+  "symbol": "NYSE:BIO",
+  "name": "Bio-Rad Laboratories, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BIP",
+  "name": "Brookfield Infrastructure Partners L.P."
+ },
+ {
+  "symbol": "NYSE:BIPC",
+  "name": "Brookfield Infrastructure Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:BIRK",
+  "name": "Birkenstock Holding plc"
+ },
+ {
+  "symbol": "AMEX:BIV",
+  "name": "Vanguard Intermediate-Term Bond ETF"
+ },
+ {
+  "symbol": "NYSE:BJ",
+  "name": "BJ's Wholesale Club Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:BKD",
+  "name": "Brookdale Senior Living Inc."
+ },
+ {
+  "symbol": "NYSE:BKE",
+  "name": "Buckle, Inc."
+ },
+ {
+  "symbol": "NYSE:BKH",
+  "name": "Black Hills Corporation"
+ },
+ {
+  "symbol": "NASDAQ:BKNG",
+  "name": "Booking Holdings Inc."
+ },
+ {
+  "symbol": "NASDAQ:BKR",
+  "name": "Baker Hughes Company Class A"
+ },
+ {
+  "symbol": "NYSE:BKU",
+  "name": "BankUnited, Inc."
+ },
+ {
+  "symbol": "NYSE:BKV",
+  "name": "BKV Corporation"
+ },
+ {
+  "symbol": "NYSE:BLCO",
+  "name": "Bausch + Lomb Corporation"
+ },
+ {
+  "symbol": "NYSE:BLDR",
+  "name": "Builders FirstSource, Inc."
+ },
+ {
+  "symbol": "NYSE:BLK",
+  "name": "BlackRock, Inc."
+ },
+ {
+  "symbol": "NASDAQ:BLLN",
+  "name": "BillionToOne, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BLSH",
+  "name": "Bullish"
+ },
+ {
+  "symbol": "NASDAQ:BLTE",
+  "name": "Belite Bio, Inc. ADR"
+ },
+ {
+  "symbol": "NYSE:BMA",
+  "name": "Banco Macro SA Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NYSE:BMI",
+  "name": "Badger Meter, Inc."
+ },
+ {
+  "symbol": "NYSE:BMNR",
+  "name": "BitMine Immersion Technologies Inc"
+ },
+ {
+  "symbol": "NYSE:BMO",
+  "name": "Bank of Montreal"
+ },
+ {
+  "symbol": "NASDAQ:BMRN",
+  "name": "BioMarin Pharmaceutical Inc."
+ },
+ {
+  "symbol": "NYSE:BMY",
+  "name": "Bristol-Myers Squibb Company"
+ },
+ {
+  "symbol": "NYSE:BN",
+  "name": "Brookfield Corporation"
+ },
+ {
+  "symbol": "NASDAQ:BND",
+  "name": "Vanguard Total Bond Market ETF"
+ },
+ {
+  "symbol": "NASDAQ:BNDX",
+  "name": "Vanguard Total International Bond ETF"
+ },
+ {
+  "symbol": "NYSE:BNL",
+  "name": "Broadstone Net Lease, Inc."
+ },
+ {
+  "symbol": "NYSE:BNS",
+  "name": "Bank of Nova Scotia"
+ },
+ {
+  "symbol": "NYSE:BNT",
+  "name": "Brookfield Wealth Solutions Ltd. Class A"
+ },
+ {
+  "symbol": "NASDAQ:BNTX",
+  "name": "BioNTech SE Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BNY",
+  "name": "Bank of New York Mellon Corp"
+ },
+ {
+  "symbol": "NYSE:BOH",
+  "name": "Bank of Hawaii Corp"
+ },
+ {
+  "symbol": "NASDAQ:BOKF",
+  "name": "BOK Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:BOOT",
+  "name": "Boot Barn Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:BOX",
+  "name": "Box, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BP",
+  "name": "BP PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:BPOP",
+  "name": "Popular, Inc."
+ },
+ {
+  "symbol": "NYSE:BR",
+  "name": "Broadridge Financial Solutions, Inc."
+ },
+ {
+  "symbol": "NYSE:BRC",
+  "name": "Brady Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:BRK.A",
+  "name": "Berkshire Hathaway Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BRK.B",
+  "name": "Berkshire Hathaway Inc. Class B"
+ },
+ {
+  "symbol": "NASDAQ:BRKR",
+  "name": "Bruker Corporation"
+ },
+ {
+  "symbol": "NYSE:BRO",
+  "name": "Brown & Brown, Inc."
+ },
+ {
+  "symbol": "NYSE:BROS",
+  "name": "Dutch Bros, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BRX",
+  "name": "Brixmor Property Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:BRZE",
+  "name": "Braze, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BSAC",
+  "name": "Banco Santander-Chile Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BSBR",
+  "name": "Banco Santander (Brasil) S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BSM",
+  "name": "Black Stone Minerals LP"
+ },
+ {
+  "symbol": "NASDAQ:BSP",
+  "name": "Bending Spoons S.p.A."
+ },
+ {
+  "symbol": "AMEX:BSV",
+  "name": "Vanguard Short-Term Bond ETF"
+ },
+ {
+  "symbol": "NYSE:BSX",
+  "name": "Boston Scientific Corporation"
+ },
+ {
+  "symbol": "NASDAQ:BSY",
+  "name": "Bentley Systems, Incorporated Class B"
+ },
+ {
+  "symbol": "NASDAQ:BTDR",
+  "name": "Bitdeer Technologies Group Class A"
+ },
+ {
+  "symbol": "NYSE:BTE",
+  "name": "Baytex Energy Corp."
+ },
+ {
+  "symbol": "AMEX:BTG",
+  "name": "B2Gold Corp."
+ },
+ {
+  "symbol": "NYSE:BTI",
+  "name": "British American Tobacco PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:BTSG",
+  "name": "BrightSpring Health Services, Inc."
+ },
+ {
+  "symbol": "NYSE:BTU",
+  "name": "Peabody Energy Corporation"
+ },
+ {
+  "symbol": "NYSE:BUD",
+  "name": "Anheuser-Busch InBev SA/NV Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:BULL",
+  "name": "Webull Corporation"
+ },
+ {
+  "symbol": "NYSE:BURL",
+  "name": "Burlington Stores, Inc."
+ },
+ {
+  "symbol": "NASDAQ:BUSE",
+  "name": "First Busey Corporation"
+ },
+ {
+  "symbol": "NYSE:BVN",
+  "name": "Compania de Minas Buenaventura SAA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:BWA",
+  "name": "BorgWarner Inc."
+ },
+ {
+  "symbol": "NASDAQ:BWIN",
+  "name": "Baldwin Insurance Group, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BWLP",
+  "name": "BW LPG Limited"
+ },
+ {
+  "symbol": "NYSE:BWXT",
+  "name": "BWX Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:BX",
+  "name": "Blackstone Inc."
+ },
+ {
+  "symbol": "NYSE:BXP",
+  "name": "BXP Inc"
+ },
+ {
+  "symbol": "NYSE:BXSL",
+  "name": "Blackstone Secured Lending Fund"
+ },
+ {
+  "symbol": "NYSE:BYD",
+  "name": "Boyd Gaming Corporation"
+ },
+ {
+  "symbol": "NASDAQ:BZ",
+  "name": "Kanzhun Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:C",
+  "name": "Citigroup Inc."
+ },
+ {
+  "symbol": "NYSE:CAAP",
+  "name": "Corporacion America Airports S.A."
+ },
+ {
+  "symbol": "NASDAQ:CACC",
+  "name": "Credit Acceptance Corporation"
+ },
+ {
+  "symbol": "NYSE:CACI",
+  "name": "CACI International Inc Class A"
+ },
+ {
+  "symbol": "NASDAQ:CAE",
+  "name": "CAE Inc."
+ },
+ {
+  "symbol": "NYSE:CAG",
+  "name": "Conagra Brands, Inc."
+ },
+ {
+  "symbol": "NYSE:CAH",
+  "name": "Cardinal Health, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CAI",
+  "name": "Caris Life Sciences, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CAKE",
+  "name": "Cheesecake Factory Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:CALM",
+  "name": "Cal-Maine Foods, Inc."
+ },
+ {
+  "symbol": "NYSE:CALY",
+  "name": "Callaway Golf Company"
+ },
+ {
+  "symbol": "NASDAQ:CAMT",
+  "name": "Camtek Ltd"
+ },
+ {
+  "symbol": "NASDAQ:CAR",
+  "name": "Avis Budget Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CARG",
+  "name": "CarGurus, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CARR",
+  "name": "Carrier Global Corp."
+ },
+ {
+  "symbol": "NASDAQ:CART",
+  "name": "Maplebear Inc."
+ },
+ {
+  "symbol": "NASDAQ:CASY",
+  "name": "Casey's General Stores, Inc."
+ },
+ {
+  "symbol": "NYSE:CAT",
+  "name": "Caterpillar Inc."
+ },
+ {
+  "symbol": "NASDAQ:CATY",
+  "name": "Cathay General Bancorp"
+ },
+ {
+  "symbol": "NYSE:CAVA",
+  "name": "CAVA Group, Inc."
+ },
+ {
+  "symbol": "NYSE:CB",
+  "name": "Chubb Limited"
+ },
+ {
+  "symbol": "NASDAQ:CBC",
+  "name": "Central Bancompany, Inc."
+ },
+ {
+  "symbol": "NYSE:CBRE",
+  "name": "CBRE Group, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CBRS",
+  "name": "Cerebras Systems, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CBSH",
+  "name": "Commerce Bancshares, Inc."
+ },
+ {
+  "symbol": "NYSE:CBT",
+  "name": "Cabot Corporation"
+ },
+ {
+  "symbol": "NYSE:CBU",
+  "name": "Community Financial System, Inc."
+ },
+ {
+  "symbol": "NYSE:CBZ",
+  "name": "CBIZ, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CCC",
+  "name": "CCC Intelligent Solutions Holdings Inc"
+ },
+ {
+  "symbol": "NASDAQ:CCEP",
+  "name": "Coca-Cola Europacific Partners plc"
+ },
+ {
+  "symbol": "NYSE:CCI",
+  "name": "Crown Castle Inc."
+ },
+ {
+  "symbol": "NYSE:CCJ",
+  "name": "Cameco Corporation"
+ },
+ {
+  "symbol": "NYSE:CCK",
+  "name": "Crown Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:CCL",
+  "name": "Carnival Corporation Ltd."
+ },
+ {
+  "symbol": "NYSE:CDE",
+  "name": "Coeur Mining, Inc."
+ },
+ {
+  "symbol": "NYSE:CDLR",
+  "name": "Cadeler A/S Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:CDNA",
+  "name": "CareDx, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CDNS",
+  "name": "Cadence Design Systems, Inc."
+ },
+ {
+  "symbol": "NYSE:CDP",
+  "name": "COPT Defense Properties"
+ },
+ {
+  "symbol": "NASDAQ:CDW",
+  "name": "CDW Corporation"
+ },
+ {
+  "symbol": "NYSE:CE",
+  "name": "Celanese Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CECO",
+  "name": "CECO Environmental Corp."
+ },
+ {
+  "symbol": "NASDAQ:CEG",
+  "name": "Constellation Energy Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CELC",
+  "name": "Celcuity Inc."
+ },
+ {
+  "symbol": "NASDAQ:CELH",
+  "name": "Celsius Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CENT",
+  "name": "Central Garden & Pet Company"
+ },
+ {
+  "symbol": "NASDAQ:CENTA",
+  "name": "Central Garden & Pet Company Class A"
+ },
+ {
+  "symbol": "NASDAQ:CENX",
+  "name": "Century Aluminum Company"
+ },
+ {
+  "symbol": "NYSE:CF",
+  "name": "CF Industries Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:CFG",
+  "name": "Citizens Financial Group, Inc."
+ },
+ {
+  "symbol": "NYSE:CFR",
+  "name": "Cullen/Frost Bankers, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CG",
+  "name": "Carlyle Group Inc"
+ },
+ {
+  "symbol": "NYSE:CGAU",
+  "name": "Centerra Gold Inc."
+ },
+ {
+  "symbol": "AMEX:CGDV",
+  "name": "Capital Group Dividend Value ETF"
+ },
+ {
+  "symbol": "AMEX:CGGO",
+  "name": "Capital Group Global Growth Equity ETF"
+ },
+ {
+  "symbol": "AMEX:CGGR",
+  "name": "Capital Group Growth ETF"
+ },
+ {
+  "symbol": "NASDAQ:CGNX",
+  "name": "Cognex Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CGON",
+  "name": "CG Oncology, Inc."
+ },
+ {
+  "symbol": "AMEX:CGUS",
+  "name": "Capital Group Core Equity ETF"
+ },
+ {
+  "symbol": "NASDAQ:CHA",
+  "name": "Chagee Holdings Limited Unsponsored ADR"
+ },
+ {
+  "symbol": "NYSE:CHD",
+  "name": "Church & Dwight Co., Inc."
+ },
+ {
+  "symbol": "NASDAQ:CHDN",
+  "name": "Churchill Downs Incorporated"
+ },
+ {
+  "symbol": "NYSE:CHE",
+  "name": "Chemed Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CHEF",
+  "name": "Chefs' Warehouse, Inc."
+ },
+ {
+  "symbol": "NYSE:CHH",
+  "name": "Choice Hotels International, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CHKP",
+  "name": "Check Point Software Technologies Ltd."
+ },
+ {
+  "symbol": "NASDAQ:CHRD",
+  "name": "Chord Energy Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CHRN",
+  "name": "ChronoScale Holdings Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CHRW",
+  "name": "C.H. Robinson Worldwide, Inc."
+ },
+ {
+  "symbol": "NYSE:CHT",
+  "name": "Chunghwa Telecom Co., Ltd Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:CHTR",
+  "name": "Charter Communications, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CHWY",
+  "name": "Chewy, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CHYM",
+  "name": "Chime Financial, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CI",
+  "name": "Cigna Group"
+ },
+ {
+  "symbol": "NYSE:CIB",
+  "name": "Grupo Cibest S.A. Unsponsored ADR Pfd"
+ },
+ {
+  "symbol": "NASDAQ:CIBR",
+  "name": "First Trust NASDAQ Cybersecurity ETF"
+ },
+ {
+  "symbol": "NYSE:CIEN",
+  "name": "Ciena Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CIFR",
+  "name": "Cipher Digital Inc."
+ },
+ {
+  "symbol": "NYSE:CIG",
+  "name": "Companhia Energetica de Minas Gerais SA Sponsored ADR Pfd"
+ },
+ {
+  "symbol": "NYSE:CIG.C",
+  "name": "Companhia Energetica de Minas Gerais SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:CIGI",
+  "name": "Colliers International Group Inc."
+ },
+ {
+  "symbol": "NASDAQ:CINF",
+  "name": "Cincinnati Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:CL",
+  "name": "Colgate-Palmolive Company"
+ },
+ {
+  "symbol": "NASDAQ:CLBK",
+  "name": "Columbia Financial Inc"
+ },
+ {
+  "symbol": "NASDAQ:CLBT",
+  "name": "Cellebrite DI Ltd."
+ },
+ {
+  "symbol": "NASDAQ:CLDX",
+  "name": "Celldex Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:CLF",
+  "name": "Cleveland-Cliffs Inc"
+ },
+ {
+  "symbol": "NYSE:CLH",
+  "name": "Clean Harbors, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CLMT",
+  "name": "Calumet, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CLOV",
+  "name": "Clover Health Investments Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:CLS",
+  "name": "Celestica Inc."
+ },
+ {
+  "symbol": "NASDAQ:CLSK",
+  "name": "Cleanspark, Inc."
+ },
+ {
+  "symbol": "NYSE:CLX",
+  "name": "Clorox Company"
+ },
+ {
+  "symbol": "NYSE:CM",
+  "name": "Canadian Imperial Bank of Commerce"
+ },
+ {
+  "symbol": "NYSE:CMBT",
+  "name": "CMB.TECH NV"
+ },
+ {
+  "symbol": "NYSE:CMC",
+  "name": "Commercial Metals Company"
+ },
+ {
+  "symbol": "NASDAQ:CMCSA",
+  "name": "Comcast Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:CME",
+  "name": "CME Group Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CMG",
+  "name": "Chipotle Mexican Grill, Inc."
+ },
+ {
+  "symbol": "NYSE:CMI",
+  "name": "Cummins Inc."
+ },
+ {
+  "symbol": "NYSE:CMS",
+  "name": "CMS Energy Corporation"
+ },
+ {
+  "symbol": "NYSE:CNA",
+  "name": "CNA Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:CNC",
+  "name": "Centene Corporation"
+ },
+ {
+  "symbol": "NYSE:CNH",
+  "name": "CNH Industrial NV"
+ },
+ {
+  "symbol": "NYSE:CNI",
+  "name": "Canadian National Railway Company"
+ },
+ {
+  "symbol": "NYSE:CNK",
+  "name": "Cinemark Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:CNM",
+  "name": "Core & Main, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CNO",
+  "name": "CNO Financial Group, Inc."
+ },
+ {
+  "symbol": "NYSE:CNP",
+  "name": "CenterPoint Energy, Inc."
+ },
+ {
+  "symbol": "NYSE:CNQ",
+  "name": "Canadian Natural Resources Limited"
+ },
+ {
+  "symbol": "NYSE:CNR",
+  "name": "Core Natural Resources, Inc."
+ },
+ {
+  "symbol": "NYSE:CNS",
+  "name": "Cohen & Steers, Inc."
+ },
+ {
+  "symbol": "NYSE:CNX",
+  "name": "CNX Resources Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CNXN",
+  "name": "PC Connection, Inc."
+ },
+ {
+  "symbol": "NASDAQ:COCO",
+  "name": "Vita Coco Company, Inc."
+ },
+ {
+  "symbol": "NYSE:COF",
+  "name": "Capital One Financial Corp"
+ },
+ {
+  "symbol": "NASDAQ:COGT",
+  "name": "Cogent Biosciences, Inc."
+ },
+ {
+  "symbol": "NYSE:COHR",
+  "name": "Coherent Corp."
+ },
+ {
+  "symbol": "NASDAQ:COHU",
+  "name": "Cohu, Inc."
+ },
+ {
+  "symbol": "NASDAQ:COIN",
+  "name": "Coinbase Global, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:COKE",
+  "name": "Coca-Cola Consolidated, Inc."
+ },
+ {
+  "symbol": "NASDAQ:COLB",
+  "name": "Columbia Banking System, Inc."
+ },
+ {
+  "symbol": "NYSE:COLD",
+  "name": "Americold Realty Trust, Inc."
+ },
+ {
+  "symbol": "NASDAQ:COLM",
+  "name": "Columbia Sportswear Company"
+ },
+ {
+  "symbol": "NYSE:COMP",
+  "name": "Compass Inc Class A"
+ },
+ {
+  "symbol": "NYSE:CON",
+  "name": "Concentra Group Holdings Parent, Inc."
+ },
+ {
+  "symbol": "NASDAQ:COO",
+  "name": "Cooper Companies, Inc."
+ },
+ {
+  "symbol": "NYSE:COP",
+  "name": "ConocoPhillips"
+ },
+ {
+  "symbol": "NYSE:COR",
+  "name": "Cencora, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CORO",
+  "name": "iShares International Country Rotation Active ETF"
+ },
+ {
+  "symbol": "NASDAQ:CORT",
+  "name": "Corcept Therapeutics Incorporated."
+ },
+ {
+  "symbol": "NASDAQ:CORZ",
+  "name": "Core Scientific Inc"
+ },
+ {
+  "symbol": "NASDAQ:COST",
+  "name": "Costco Wholesale Corporation"
+ },
+ {
+  "symbol": "NYSE:COTY",
+  "name": "Coty Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CP",
+  "name": "Canadian Pacific Kansas City Limited"
+ },
+ {
+  "symbol": "NYSE:CPA",
+  "name": "Copa Holdings, S.A. Class A"
+ },
+ {
+  "symbol": "NYSE:CPAY",
+  "name": "Corpay, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CPB",
+  "name": "Campbell's Company"
+ },
+ {
+  "symbol": "NYSE:CPK",
+  "name": "Chesapeake Utilities Corporation"
+ },
+ {
+  "symbol": "NYSE:CPNG",
+  "name": "Coupang, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CPRT",
+  "name": "Copart, Inc."
+ },
+ {
+  "symbol": "NYSE:CPT",
+  "name": "Camden Property Trust"
+ },
+ {
+  "symbol": "NYSE:CQP",
+  "name": "Cheniere Energy Partners, L.P."
+ },
+ {
+  "symbol": "NYSE:CR",
+  "name": "Crane Company"
+ },
+ {
+  "symbol": "NYSE:CRBG",
+  "name": "Corebridge Financial, Inc."
+ },
+ {
+  "symbol": "NYSE:CRC",
+  "name": "California Resources Corp"
+ },
+ {
+  "symbol": "NYSE:CRCL",
+  "name": "Circle Internet Group, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CRDO",
+  "name": "Credo Technology Group Holding Ltd."
+ },
+ {
+  "symbol": "NYSE:CRGY",
+  "name": "Crescent Energy Company Class A"
+ },
+ {
+  "symbol": "NYSE:CRH",
+  "name": "CRH public limited company"
+ },
+ {
+  "symbol": "NYSE:CRK",
+  "name": "Comstock Resources, Inc."
+ },
+ {
+  "symbol": "NYSE:CRL",
+  "name": "Charles River Laboratories International, Inc."
+ },
+ {
+  "symbol": "NYSE:CRM",
+  "name": "Salesforce, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CROX",
+  "name": "Crocs, Inc."
+ },
+ {
+  "symbol": "NYSE:CRS",
+  "name": "Carpenter Technology Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CRSP",
+  "name": "CRISPR Therapeutics AG"
+ },
+ {
+  "symbol": "NASDAQ:CRUS",
+  "name": "Cirrus Logic, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CRVL",
+  "name": "CorVel Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CRWD",
+  "name": "CrowdStrike Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CRWV",
+  "name": "CoreWeave, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:CSCO",
+  "name": "Cisco Systems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CSGP",
+  "name": "CoStar Group, Inc."
+ },
+ {
+  "symbol": "NYSE:CSL",
+  "name": "Carlisle Companies Incorporated"
+ },
+ {
+  "symbol": "NYSE:CSQR",
+  "name": "Csquare, Inc."
+ },
+ {
+  "symbol": "NYSE:CSTM",
+  "name": "Constellium SE Class A"
+ },
+ {
+  "symbol": "NYSE:CSW",
+  "name": "CSW Industrials, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CSX",
+  "name": "CSX Corporation"
+ },
+ {
+  "symbol": "NASDAQ:CTAS",
+  "name": "Cintas Corporation"
+ },
+ {
+  "symbol": "NYSE:CTRE",
+  "name": "CareTrust REIT, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CTSH",
+  "name": "Cognizant Technology Solutions Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:CTVA",
+  "name": "Corteva Inc"
+ },
+ {
+  "symbol": "NYSE:CUBE",
+  "name": "CubeSmart"
+ },
+ {
+  "symbol": "NYSE:CUBI",
+  "name": "Customers Bancorp, Inc."
+ },
+ {
+  "symbol": "NYSE:CURB",
+  "name": "Curbline Properties Corp."
+ },
+ {
+  "symbol": "NYSE:CUZ",
+  "name": "Cousins Properties Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:CVBF",
+  "name": "CVB Financial Corp."
+ },
+ {
+  "symbol": "NASDAQ:CVCO",
+  "name": "Cavco Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:CVE",
+  "name": "Cenovus Energy Inc."
+ },
+ {
+  "symbol": "NYSE:CVI",
+  "name": "CVR Energy, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CVLT",
+  "name": "Commvault Systems, Inc."
+ },
+ {
+  "symbol": "NYSE:CVNA",
+  "name": "Carvana Co. Class A"
+ },
+ {
+  "symbol": "NYSE:CVS",
+  "name": "CVS Health Corporation"
+ },
+ {
+  "symbol": "NYSE:CVSA",
+  "name": "Covista Inc."
+ },
+ {
+  "symbol": "NYSE:CVX",
+  "name": "Chevron Corporation"
+ },
+ {
+  "symbol": "NYSE:CW",
+  "name": "Curtiss-Wright Corporation"
+ },
+ {
+  "symbol": "NYSE:CWEN",
+  "name": "Clearway Energy, Inc. Class C"
+ },
+ {
+  "symbol": "NYSE:CWK",
+  "name": "Cushman & Wakefield Ltd."
+ },
+ {
+  "symbol": "NASDAQ:CWST",
+  "name": "Casella Waste Systems, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CWT",
+  "name": "California Water Service Group"
+ },
+ {
+  "symbol": "NYSE:CX",
+  "name": "Cemex SAB de CV Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:CXT",
+  "name": "Crane NXT, Co."
+ },
+ {
+  "symbol": "NYSE:CXW",
+  "name": "CoreCivic, Inc."
+ },
+ {
+  "symbol": "NASDAQ:CYTK",
+  "name": "Cytokinetics, Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:CZR",
+  "name": "Caesars Entertainment, Inc."
+ },
+ {
+  "symbol": "NYSE:D",
+  "name": "Dominion Energy Inc"
+ },
+ {
+  "symbol": "NYSE:DAC",
+  "name": "Danaos Corporation"
+ },
+ {
+  "symbol": "NYSE:DAL",
+  "name": "Delta Air Lines, Inc."
+ },
+ {
+  "symbol": "NYSE:DAN",
+  "name": "Dana Incorporated"
+ },
+ {
+  "symbol": "NYSE:DAR",
+  "name": "Darling Ingredients Inc"
+ },
+ {
+  "symbol": "NASDAQ:DASH",
+  "name": "DoorDash, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:DAVE",
+  "name": "Dave, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:DB",
+  "name": "Deutsche Bank Aktiengesellschaft"
+ },
+ {
+  "symbol": "NYSE:DBRG",
+  "name": "DigitalBridge Group, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:DBX",
+  "name": "Dropbox, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:DCI",
+  "name": "Donaldson Company, Inc."
+ },
+ {
+  "symbol": "NYSE:DCO",
+  "name": "Ducommun Incorporated"
+ },
+ {
+  "symbol": "NYSE:DD",
+  "name": "DuPont de Nemours, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DDOG",
+  "name": "Datadog, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:DDS",
+  "name": "Dillard's, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:DE",
+  "name": "Deere & Company"
+ },
+ {
+  "symbol": "NYSE:DECK",
+  "name": "Deckers Outdoor Corporation"
+ },
+ {
+  "symbol": "NYSE:DELL",
+  "name": "Dell Technologies, Inc. Class C"
+ },
+ {
+  "symbol": "NYSE:DEO",
+  "name": "Diageo plc Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:DFAC",
+  "name": "Dimensional U.S. Core Equity 2 ETF"
+ },
+ {
+  "symbol": "AMEX:DFAI",
+  "name": "Dimensional International Core Equity Market ETF"
+ },
+ {
+  "symbol": "AMEX:DFAS",
+  "name": "Dimensional U.S. Small Cap ETF"
+ },
+ {
+  "symbol": "AMEX:DFAT",
+  "name": "Dimensional U.S. Targeted Value ETF"
+ },
+ {
+  "symbol": "AMEX:DFAU",
+  "name": "Dimensional US Core Equity Market ETF"
+ },
+ {
+  "symbol": "AMEX:DFAX",
+  "name": "Dimensional World ex U.S. Core Equity 2 ETF"
+ },
+ {
+  "symbol": "AMEX:DFIV",
+  "name": "Dimensional International Value ETF"
+ },
+ {
+  "symbol": "NASDAQ:DFTX",
+  "name": "Definium Therapeutics, Inc."
+ },
+ {
+  "symbol": "AMEX:DFUS",
+  "name": "Dimensional U.S. Equity Market ETF"
+ },
+ {
+  "symbol": "AMEX:DFUV",
+  "name": "Dimensional US Marketwide Value ETF"
+ },
+ {
+  "symbol": "NYSE:DG",
+  "name": "Dollar General Corporation"
+ },
+ {
+  "symbol": "NASDAQ:DGII",
+  "name": "Digi International Inc."
+ },
+ {
+  "symbol": "AMEX:DGRO",
+  "name": "iShares Core Dividend Growth ETF"
+ },
+ {
+  "symbol": "NASDAQ:DGRW",
+  "name": "WisdomTree US Quality Dividend Growth Fund"
+ },
+ {
+  "symbol": "NYSE:DGX",
+  "name": "Quest Diagnostics Incorporated"
+ },
+ {
+  "symbol": "NYSE:DHI",
+  "name": "D.R. Horton, Inc."
+ },
+ {
+  "symbol": "NYSE:DHR",
+  "name": "Danaher Corporation"
+ },
+ {
+  "symbol": "NYSE:DHT",
+  "name": "DHT Holdings, Inc."
+ },
+ {
+  "symbol": "AMEX:DIA",
+  "name": "State Street SPDR Dow Jones Industrial Average ETF Trust"
+ },
+ {
+  "symbol": "NYSE:DINO",
+  "name": "HF Sinclair Corporation"
+ },
+ {
+  "symbol": "NASDAQ:DIOD",
+  "name": "Diodes Incorporated"
+ },
+ {
+  "symbol": "NYSE:DIS",
+  "name": "Walt Disney Company"
+ },
+ {
+  "symbol": "NASDAQ:DJT",
+  "name": "Trump Media & Technology Group Corp."
+ },
+ {
+  "symbol": "NYSE:DK",
+  "name": "Delek US Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:DKL",
+  "name": "Delek Logistics Partners LP"
+ },
+ {
+  "symbol": "NASDAQ:DKNG",
+  "name": "DraftKings, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:DKS",
+  "name": "Dick's Sporting Goods, Inc."
+ },
+ {
+  "symbol": "NYSE:DLB",
+  "name": "Dolby Laboratories, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:DLO",
+  "name": "DLocal Limited Class A"
+ },
+ {
+  "symbol": "NYSE:DLR",
+  "name": "Digital Realty Trust, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DLTR",
+  "name": "Dollar Tree, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DNLI",
+  "name": "Denali Therapeutics Inc."
+ },
+ {
+  "symbol": "AMEX:DNN",
+  "name": "Denison Mines Corp."
+ },
+ {
+  "symbol": "NYSE:DNOW",
+  "name": "DNOW Inc."
+ },
+ {
+  "symbol": "NASDAQ:DNTH",
+  "name": "Dianthus Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:DOC",
+  "name": "Healthpeak Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:DOCN",
+  "name": "DigitalOcean Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:DOCS",
+  "name": "Doximity, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:DOCU",
+  "name": "DocuSign, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DOO",
+  "name": "BRP, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DORM",
+  "name": "Dorman Products, Inc."
+ },
+ {
+  "symbol": "NYSE:DOV",
+  "name": "Dover Corporation"
+ },
+ {
+  "symbol": "NYSE:DOW",
+  "name": "Dow, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DOX",
+  "name": "Amdocs Limited"
+ },
+ {
+  "symbol": "NYSE:DPC",
+  "name": "DPC Holdings PLC"
+ },
+ {
+  "symbol": "NASDAQ:DPZ",
+  "name": "Domino's Pizza, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DRH",
+  "name": "DiamondRock Hospitality Company"
+ },
+ {
+  "symbol": "NYSE:DRI",
+  "name": "Darden Restaurants, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DRS",
+  "name": "Leonardo DRS, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DSGX",
+  "name": "Descartes Systems Group Inc."
+ },
+ {
+  "symbol": "NYSE:DT",
+  "name": "Dynatrace, Inc."
+ },
+ {
+  "symbol": "NYSE:DTE",
+  "name": "DTE Energy Company"
+ },
+ {
+  "symbol": "NYSE:DTM",
+  "name": "DT Midstream, Inc."
+ },
+ {
+  "symbol": "AMEX:DUHP",
+  "name": "U.S. High Relative Profitability Portfolio: ETF Class Shares"
+ },
+ {
+  "symbol": "NYSE:DUK",
+  "name": "Duke Energy Corporation"
+ },
+ {
+  "symbol": "NASDAQ:DUOL",
+  "name": "Duolingo, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:DVA",
+  "name": "DaVita Inc."
+ },
+ {
+  "symbol": "NYSE:DVN",
+  "name": "Devon Energy Corporation"
+ },
+ {
+  "symbol": "NASDAQ:DVY",
+  "name": "iShares Select Dividend ETF"
+ },
+ {
+  "symbol": "NYSE:DX",
+  "name": "Dynex Capital, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DXCM",
+  "name": "DexCom, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DXPE",
+  "name": "DXP Enterprises, Inc."
+ },
+ {
+  "symbol": "NYSE:DY",
+  "name": "Dycom Industries, Inc."
+ },
+ {
+  "symbol": "NASDAQ:DYN",
+  "name": "Dyne Therapeutics Inc"
+ },
+ {
+  "symbol": "AMEX:DYNF",
+  "name": "iShares U.S. Equity Factor Rotation Active ETF"
+ },
+ {
+  "symbol": "NYSE:E",
+  "name": "Eni S.p.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:EAT",
+  "name": "Brinker International, Inc."
+ },
+ {
+  "symbol": "NASDAQ:EBAY",
+  "name": "eBay Inc."
+ },
+ {
+  "symbol": "NASDAQ:EBC",
+  "name": "Eastern Bankshares, Inc."
+ },
+ {
+  "symbol": "NYSE:EC",
+  "name": "Ecopetrol SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ECG",
+  "name": "Everus Construction Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ECHO",
+  "name": "EchoStar Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:ECL",
+  "name": "Ecolab Inc."
+ },
+ {
+  "symbol": "NYSE:ECO",
+  "name": "Okeanis Eco Tankers Corp."
+ },
+ {
+  "symbol": "NYSE:ED",
+  "name": "Consolidated Edison, Inc."
+ },
+ {
+  "symbol": "NYSE:EDU",
+  "name": "New Oriental Education & Technology Group, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:EE",
+  "name": "Excelerate Energy, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:EEFT",
+  "name": "Euronet Worldwide, Inc."
+ },
+ {
+  "symbol": "AMEX:EEM",
+  "name": "iShares MSCI Emerging Markets ETF"
+ },
+ {
+  "symbol": "AMEX:EFA",
+  "name": "iShares MSCI EAFE ETF"
+ },
+ {
+  "symbol": "NYSE:EFX",
+  "name": "Equifax Inc."
+ },
+ {
+  "symbol": "NYSE:EFXT",
+  "name": "Enerflex Ltd."
+ },
+ {
+  "symbol": "NYSE:EG",
+  "name": "Everest Group, Ltd."
+ },
+ {
+  "symbol": "NYSE:EGO",
+  "name": "Eldorado Gold Corporation"
+ },
+ {
+  "symbol": "NYSE:EGP",
+  "name": "EastGroup Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:EHC",
+  "name": "Encompass Health Corporation"
+ },
+ {
+  "symbol": "NYSE:EIX",
+  "name": "Edison International"
+ },
+ {
+  "symbol": "NYSE:EL",
+  "name": "Estee Lauder Companies Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ELAN",
+  "name": "Elanco Animal Health, Inc."
+ },
+ {
+  "symbol": "NYSE:ELF",
+  "name": "e.l.f. Beauty, Inc."
+ },
+ {
+  "symbol": "NYSE:ELPC",
+  "name": "Companhia Paranaense de Energia Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ELS",
+  "name": "Equity LifeStyle Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:ELV",
+  "name": "Elevance Health, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ELVN",
+  "name": "Enliven Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:EMA",
+  "name": "Emera Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:EMB",
+  "name": "iShares JP Morgan USD Emerging Markets Bond ETF"
+ },
+ {
+  "symbol": "NYSE:EMBJ",
+  "name": "Embraer S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:EME",
+  "name": "EMCOR Group, Inc."
+ },
+ {
+  "symbol": "NYSE:EMN",
+  "name": "Eastman Chemical Company"
+ },
+ {
+  "symbol": "NYSE:EMR",
+  "name": "Emerson Electric Co."
+ },
+ {
+  "symbol": "NASDAQ:EMXC",
+  "name": "iShares MSCI Emerging Markets ex China ETF"
+ },
+ {
+  "symbol": "NYSE:ENB",
+  "name": "Enbridge Inc."
+ },
+ {
+  "symbol": "NYSE:ENIC",
+  "name": "Enel Chile SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:ENLT",
+  "name": "Enlight Renewable Energy Ltd"
+ },
+ {
+  "symbol": "NASDAQ:ENPH",
+  "name": "Enphase Energy, Inc."
+ },
+ {
+  "symbol": "NYSE:ENS",
+  "name": "EnerSys"
+ },
+ {
+  "symbol": "NASDAQ:ENSG",
+  "name": "Ensign Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ENTG",
+  "name": "Entegris, Inc."
+ },
+ {
+  "symbol": "NYSE:ENVA",
+  "name": "Enova International Inc"
+ },
+ {
+  "symbol": "NYSE:EOG",
+  "name": "EOG Resources, Inc."
+ },
+ {
+  "symbol": "NYSE:EPAM",
+  "name": "EPAM Systems, Inc."
+ },
+ {
+  "symbol": "NYSE:EPD",
+  "name": "Enterprise Products Partners L.P."
+ },
+ {
+  "symbol": "NYSE:EPR",
+  "name": "EPR Properties"
+ },
+ {
+  "symbol": "NYSE:EPRT",
+  "name": "Essential Properties Realty Trust, Inc."
+ },
+ {
+  "symbol": "NYSE:EQH",
+  "name": "Equitable Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:EQIX",
+  "name": "Equinix, Inc."
+ },
+ {
+  "symbol": "NYSE:EQNR",
+  "name": "Equinor ASA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:EQPT",
+  "name": "EquipmentShare.com, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:EQT",
+  "name": "EQT Corporation"
+ },
+ {
+  "symbol": "AMEX:EQX",
+  "name": "Equinox Gold Corp."
+ },
+ {
+  "symbol": "NASDAQ:ERAS",
+  "name": "Erasca, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ERIC",
+  "name": "Telefonaktiebolaget LM Ericsson Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NASDAQ:ERIE",
+  "name": "Erie Indemnity Company Class A"
+ },
+ {
+  "symbol": "NYSE:ERO",
+  "name": "Ero Copper Corp."
+ },
+ {
+  "symbol": "NYSE:EROC",
+  "name": "ERock, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:EROK",
+  "name": "Eaglerock Land LLC Class A"
+ },
+ {
+  "symbol": "NYSE:ES",
+  "name": "Eversource Energy"
+ },
+ {
+  "symbol": "NYSE:ESAB",
+  "name": "ESAB Corporation"
+ },
+ {
+  "symbol": "NYSE:ESE",
+  "name": "ESCO Technologies Inc."
+ },
+ {
+  "symbol": "NASDAQ:ESGD",
+  "name": "iShares ESG Aware MSCI EAFE ETF"
+ },
+ {
+  "symbol": "NASDAQ:ESGU",
+  "name": "iShares ESG Aware MSCI USA ETF"
+ },
+ {
+  "symbol": "NYSE:ESI",
+  "name": "Element Solutions Inc"
+ },
+ {
+  "symbol": "NASDAQ:ESLT",
+  "name": "Elbit Systems Ltd"
+ },
+ {
+  "symbol": "NYSE:ESNT",
+  "name": "Essent Group Ltd."
+ },
+ {
+  "symbol": "NYSE:ESS",
+  "name": "Essex Property Trust, Inc."
+ },
+ {
+  "symbol": "NYSE:ESTC",
+  "name": "Elastic NV"
+ },
+ {
+  "symbol": "NYSE:ET",
+  "name": "Energy Transfer LP"
+ },
+ {
+  "symbol": "NYSE:ETN",
+  "name": "Eaton Corp. Plc"
+ },
+ {
+  "symbol": "NYSE:ETR",
+  "name": "Entergy Corporation"
+ },
+ {
+  "symbol": "NYSE:ETSY",
+  "name": "Etsy, Inc."
+ },
+ {
+  "symbol": "NYSE:EVR",
+  "name": "Evercore Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:EVRG",
+  "name": "Evergy, Inc."
+ },
+ {
+  "symbol": "NYSE:EW",
+  "name": "Edwards Lifesciences Corporation"
+ },
+ {
+  "symbol": "NASDAQ:EWBC",
+  "name": "East West Bancorp, Inc."
+ },
+ {
+  "symbol": "AMEX:EWJ",
+  "name": "iShares MSCI Japan ETF"
+ },
+ {
+  "symbol": "AMEX:EWT",
+  "name": "iShares MSCI Taiwan ETF"
+ },
+ {
+  "symbol": "NASDAQ:EWTX",
+  "name": "Edgewise Therapeutics, Inc."
+ },
+ {
+  "symbol": "AMEX:EWY",
+  "name": "iShares MSCI South Korea ETF"
+ },
+ {
+  "symbol": "NASDAQ:EXC",
+  "name": "Exelon Corporation"
+ },
+ {
+  "symbol": "NASDAQ:EXE",
+  "name": "Expand Energy Corporation"
+ },
+ {
+  "symbol": "NASDAQ:EXEL",
+  "name": "Exelixis, Inc."
+ },
+ {
+  "symbol": "NYSE:EXK",
+  "name": "Endeavour Silver Corp."
+ },
+ {
+  "symbol": "NASDAQ:EXLS",
+  "name": "ExlService Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:EXP",
+  "name": "Eagle Materials Inc."
+ },
+ {
+  "symbol": "NYSE:EXPD",
+  "name": "Expeditors International of Washington, Inc."
+ },
+ {
+  "symbol": "NASDAQ:EXPE",
+  "name": "Expedia Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:EXPO",
+  "name": "Exponent, Inc."
+ },
+ {
+  "symbol": "NYSE:EXR",
+  "name": "Extra Space Storage Inc."
+ },
+ {
+  "symbol": "NASDAQ:EXTR",
+  "name": "Extreme Networks, Inc."
+ },
+ {
+  "symbol": "NYSE:F",
+  "name": "Ford Motor Company"
+ },
+ {
+  "symbol": "NASDAQ:FA",
+  "name": "First Advantage Corp."
+ },
+ {
+  "symbol": "NYSE:FAF",
+  "name": "First American Financial Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FANG",
+  "name": "Diamondback Energy, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FAST",
+  "name": "Fastenal Company"
+ },
+ {
+  "symbol": "NYSE:FBIN",
+  "name": "Fortune Brands Innovations, Inc."
+ },
+ {
+  "symbol": "NYSE:FBK",
+  "name": "FB Financial Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FBNC",
+  "name": "First Bancorp"
+ },
+ {
+  "symbol": "AMEX:FBND",
+  "name": "Fidelity Total Bond ETF"
+ },
+ {
+  "symbol": "NYSE:FBP",
+  "name": "First Bancorp"
+ },
+ {
+  "symbol": "NASDAQ:FCFS",
+  "name": "FirstCash Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:FCN",
+  "name": "FTI Consulting, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FCNCA",
+  "name": "First Citizens BancShares, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:FCPT",
+  "name": "Four Corners Property Trust, Inc."
+ },
+ {
+  "symbol": "NYSE:FCX",
+  "name": "Freeport-McMoRan, Inc."
+ },
+ {
+  "symbol": "NYSE:FDS",
+  "name": "FactSet Research Systems Inc."
+ },
+ {
+  "symbol": "NYSE:FDX",
+  "name": "FedEx Corporation"
+ },
+ {
+  "symbol": "NYSE:FDXF",
+  "name": "FedEx Freight Holding Company, Inc."
+ },
+ {
+  "symbol": "NYSE:FE",
+  "name": "FirstEnergy Corp."
+ },
+ {
+  "symbol": "NASDAQ:FELE",
+  "name": "Franklin Electric Co., Inc."
+ },
+ {
+  "symbol": "NASDAQ:FER",
+  "name": "Ferrovial N.V."
+ },
+ {
+  "symbol": "NYSE:FERG",
+  "name": "Ferguson Enterprises Inc."
+ },
+ {
+  "symbol": "NASDAQ:FFBC",
+  "name": "First Financial Bancorp."
+ },
+ {
+  "symbol": "NASDAQ:FFIN",
+  "name": "First Financial Bankshares Inc"
+ },
+ {
+  "symbol": "NASDAQ:FFIV",
+  "name": "F5, Inc."
+ },
+ {
+  "symbol": "NYSE:FG",
+  "name": "F&G Annuities & Life Inc"
+ },
+ {
+  "symbol": "NASDAQ:FHB",
+  "name": "First Hawaiian, Inc."
+ },
+ {
+  "symbol": "NYSE:FHI",
+  "name": "Federated Hermes, Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:FHN",
+  "name": "First Horizon Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FIBK",
+  "name": "First Interstate BancSystem, Inc."
+ },
+ {
+  "symbol": "NYSE:FICO",
+  "name": "Fair Isaac Corporation"
+ },
+ {
+  "symbol": "NYSE:FIG",
+  "name": "Figma, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:FIGR",
+  "name": "Figure Technology Solutions, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:FIGS",
+  "name": "FIGS, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:FIS",
+  "name": "Fidelity National Information Services, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FISV",
+  "name": "Fiserv, Inc."
+ },
+ {
+  "symbol": "NYSE:FITB",
+  "name": "Fifth Third Bancorp"
+ },
+ {
+  "symbol": "NASDAQ:FIVE",
+  "name": "Five Below, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FIVN",
+  "name": "Five9, Inc."
+ },
+ {
+  "symbol": "NYSE:FIX",
+  "name": "Comfort Systems USA, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FIZZ",
+  "name": "National Beverage Corp."
+ },
+ {
+  "symbol": "NASDAQ:FLEX",
+  "name": "Flex Ltd"
+ },
+ {
+  "symbol": "NYSE:FLG",
+  "name": "Flagstar Bank, National Association"
+ },
+ {
+  "symbol": "NYSE:FLR",
+  "name": "Fluor Corporation"
+ },
+ {
+  "symbol": "NYSE:FLS",
+  "name": "Flowserve Corporation"
+ },
+ {
+  "symbol": "NYSE:FLUT",
+  "name": "Flutter Entertainment Plc"
+ },
+ {
+  "symbol": "NASDAQ:FLY",
+  "name": "Firefly Aerospace, Inc."
+ },
+ {
+  "symbol": "NYSE:FMS",
+  "name": "Fresenius Medical Care AG Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:FMX",
+  "name": "Fomento Economico Mexicano SAB de CV Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NYSE:FN",
+  "name": "Fabrinet"
+ },
+ {
+  "symbol": "NYSE:FNB",
+  "name": "F.N.B. Corporation"
+ },
+ {
+  "symbol": "NYSE:FND",
+  "name": "Floor & Decor Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "AMEX:FNDF",
+  "name": "Schwab Fundamental International Equity ETF"
+ },
+ {
+  "symbol": "AMEX:FNDX",
+  "name": "Schwab Fundamental U.S. Large Company ETF"
+ },
+ {
+  "symbol": "NYSE:FNF",
+  "name": "Fidelity National Financial, Inc. - FNF Group"
+ },
+ {
+  "symbol": "NYSE:FNV",
+  "name": "Franco-Nevada Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FORM",
+  "name": "FormFactor, Inc."
+ },
+ {
+  "symbol": "NYSE:FOUR",
+  "name": "Shift4 Payments, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:FOX",
+  "name": "Fox Corporation Class B"
+ },
+ {
+  "symbol": "NASDAQ:FOXA",
+  "name": "Fox Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:FPS",
+  "name": "Forgent Power Solutions, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:FR",
+  "name": "First Industrial Realty Trust, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FRHC",
+  "name": "Freedom Holding Corp."
+ },
+ {
+  "symbol": "NASDAQ:FRME",
+  "name": "First Merchants Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FRMI",
+  "name": "Fermi Inc."
+ },
+ {
+  "symbol": "NYSE:FRO",
+  "name": "Frontline Plc"
+ },
+ {
+  "symbol": "NASDAQ:FROG",
+  "name": "JFrog Ltd."
+ },
+ {
+  "symbol": "NASDAQ:FRPT",
+  "name": "Freshpet Inc"
+ },
+ {
+  "symbol": "NASDAQ:FRSH",
+  "name": "Freshworks, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:FRT",
+  "name": "Federal Realty Investment Trust"
+ },
+ {
+  "symbol": "NASDAQ:FRVO",
+  "name": "Fervo Energy Company Class A"
+ },
+ {
+  "symbol": "NYSE:FSK",
+  "name": "FS KKR Capital Corp."
+ },
+ {
+  "symbol": "NASDAQ:FSLR",
+  "name": "First Solar, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FSLY",
+  "name": "Fastly, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:FSM",
+  "name": "Fortuna Mining Corp."
+ },
+ {
+  "symbol": "NYSE:FSS",
+  "name": "Federal Signal Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FSV",
+  "name": "FirstService Corp"
+ },
+ {
+  "symbol": "NASDAQ:FTAI",
+  "name": "FTAI Aviation Ltd."
+ },
+ {
+  "symbol": "NASDAQ:FTDR",
+  "name": "Frontdoor, Inc."
+ },
+ {
+  "symbol": "AMEX:FTEC",
+  "name": "Fidelity MSCI Information Technology Index ETF"
+ },
+ {
+  "symbol": "NYSE:FTI",
+  "name": "TechnipFMC plc"
+ },
+ {
+  "symbol": "NASDAQ:FTNT",
+  "name": "Fortinet, Inc."
+ },
+ {
+  "symbol": "NYSE:FTS",
+  "name": "Fortis Inc."
+ },
+ {
+  "symbol": "NYSE:FTV",
+  "name": "Fortive Corp."
+ },
+ {
+  "symbol": "NYSE:FUL",
+  "name": "H.B. Fuller Company"
+ },
+ {
+  "symbol": "NASDAQ:FULT",
+  "name": "Fulton Financial Corporation"
+ },
+ {
+  "symbol": "NASDAQ:FUTU",
+  "name": "Futu Holdings Ltd. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NASDAQ:FWONA",
+  "name": "Liberty Media Corporation Series A"
+ },
+ {
+  "symbol": "NASDAQ:FWONK",
+  "name": "Liberty Media Corporation Series C"
+ },
+ {
+  "symbol": "NYSE:G",
+  "name": "Genpact Limited"
+ },
+ {
+  "symbol": "NYSE:GAP",
+  "name": "Gap, Inc."
+ },
+ {
+  "symbol": "NYSE:GATX",
+  "name": "GATX Corporation"
+ },
+ {
+  "symbol": "NYSE:GBCI",
+  "name": "Glacier Bancorp, Inc."
+ },
+ {
+  "symbol": "NASDAQ:GBDC",
+  "name": "Golub Capital BDC, Inc."
+ },
+ {
+  "symbol": "NASDAQ:GCMG",
+  "name": "GCM Grosvenor, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:GD",
+  "name": "General Dynamics Corporation"
+ },
+ {
+  "symbol": "NYSE:GDDY",
+  "name": "GoDaddy, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:GDS",
+  "name": "GDS Holdings Ltd. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "AMEX:GDX",
+  "name": "VanEck Gold Miners ETF"
+ },
+ {
+  "symbol": "NYSE:GE",
+  "name": "GE Aerospace"
+ },
+ {
+  "symbol": "NYSE:GEF",
+  "name": "Greif Inc Class A"
+ },
+ {
+  "symbol": "NYSE:GEF.B",
+  "name": "Greif Inc Class B"
+ },
+ {
+  "symbol": "NASDAQ:GEHC",
+  "name": "GE Healthcare Technologies Inc."
+ },
+ {
+  "symbol": "NASDAQ:GEN",
+  "name": "Gen Digital Inc."
+ },
+ {
+  "symbol": "NYSE:GEO",
+  "name": "GEO Group Inc"
+ },
+ {
+  "symbol": "NYSE:GEV",
+  "name": "GE Vernova Inc."
+ },
+ {
+  "symbol": "NYSE:GFF",
+  "name": "Griffon Corporation"
+ },
+ {
+  "symbol": "NYSE:GFI",
+  "name": "Gold Fields Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:GFL",
+  "name": "GFL Environmental Inc"
+ },
+ {
+  "symbol": "NASDAQ:GFS",
+  "name": "GlobalFoundries Inc."
+ },
+ {
+  "symbol": "NASDAQ:GGAL",
+  "name": "Grupo Financiero Galicia SA Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NYSE:GGB",
+  "name": "Gerdau S.A. Pfd Sponsored ADR Repr 1 Pfd Sh"
+ },
+ {
+  "symbol": "NYSE:GGG",
+  "name": "Graco Inc."
+ },
+ {
+  "symbol": "NASDAQ:GH",
+  "name": "Guardant Health, Inc."
+ },
+ {
+  "symbol": "NYSE:GHC",
+  "name": "Graham Holdings Co. Class B"
+ },
+ {
+  "symbol": "NYSE:GIB",
+  "name": "CGI Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:GIL",
+  "name": "Gildan Activewear Inc."
+ },
+ {
+  "symbol": "NASDAQ:GILD",
+  "name": "Gilead Sciences, Inc."
+ },
+ {
+  "symbol": "NYSE:GIS",
+  "name": "General Mills, Inc."
+ },
+ {
+  "symbol": "NYSE:GKOS",
+  "name": "Glaukos Corp"
+ },
+ {
+  "symbol": "NYSE:GL",
+  "name": "Globe Life Inc."
+ },
+ {
+  "symbol": "NASDAQ:GLBE",
+  "name": "Global-e Online Ltd."
+ },
+ {
+  "symbol": "AMEX:GLD",
+  "name": "SPDR Gold Shares"
+ },
+ {
+  "symbol": "AMEX:GLDM",
+  "name": "SPDR Gold Minishares Trust of beneficial interest"
+ },
+ {
+  "symbol": "NASDAQ:GLNG",
+  "name": "Golar LNG Limited"
+ },
+ {
+  "symbol": "NASDAQ:GLPI",
+  "name": "Gaming and Leisure Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:GLW",
+  "name": "Corning Inc"
+ },
+ {
+  "symbol": "NASDAQ:GLXY",
+  "name": "Galaxy Digital Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:GM",
+  "name": "General Motors Company"
+ },
+ {
+  "symbol": "NASDAQ:GMAB",
+  "name": "Genmab A/S Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:GME",
+  "name": "GameStop Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:GMED",
+  "name": "Globus Medical Inc Class A"
+ },
+ {
+  "symbol": "NYSE:GNRC",
+  "name": "Generac Holdings Inc."
+ },
+ {
+  "symbol": "NASDAQ:GNTX",
+  "name": "Gentex Corporation"
+ },
+ {
+  "symbol": "NYSE:GNW",
+  "name": "Genworth Financial, Inc."
+ },
+ {
+  "symbol": "NYSE:GOLF",
+  "name": "Acushnet Holdings Corp."
+ },
+ {
+  "symbol": "NASDAQ:GOOG",
+  "name": "Alphabet Inc. Class C"
+ },
+ {
+  "symbol": "NASDAQ:GOOGL",
+  "name": "Alphabet Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:GPC",
+  "name": "Genuine Parts Company"
+ },
+ {
+  "symbol": "NASDAQ:GPCR",
+  "name": "Structure Therapeutics, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:GPGI",
+  "name": "GPGI, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:GPI",
+  "name": "Group 1 Automotive, Inc."
+ },
+ {
+  "symbol": "NYSE:GPK",
+  "name": "Graphic Packaging Holding Company"
+ },
+ {
+  "symbol": "NYSE:GPN",
+  "name": "Global Payments Inc."
+ },
+ {
+  "symbol": "NYSE:GPOR",
+  "name": "Gulfport Energy Corp"
+ },
+ {
+  "symbol": "NASDAQ:GRAB",
+  "name": "Grab Holdings Limited Class A"
+ },
+ {
+  "symbol": "NASDAQ:GRAL",
+  "name": "GRAIL Inc"
+ },
+ {
+  "symbol": "NYSE:GRBK",
+  "name": "Green Brick Partners, Inc."
+ },
+ {
+  "symbol": "NYSE:GRDN",
+  "name": "Guardian Pharmacy Services, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:GRFS",
+  "name": "Grifols, S.A. Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NASDAQ:GRID",
+  "name": "First Trust Nasdaq Clean Edge Smart GRID Infrastructure Index"
+ },
+ {
+  "symbol": "NYSE:GRMN",
+  "name": "Garmin Ltd."
+ },
+ {
+  "symbol": "NYSE:GRND",
+  "name": "Grindr Inc."
+ },
+ {
+  "symbol": "NYSE:GS",
+  "name": "Goldman Sachs Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:GSAT",
+  "name": "Globalstar, Inc."
+ },
+ {
+  "symbol": "NYSE:GSK",
+  "name": "GSK plc Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:GSLC",
+  "name": "TR Activebeta US Large Cap Equity ETF"
+ },
+ {
+  "symbol": "NYSE:GTES",
+  "name": "Gates Industrial Corporation Ltd."
+ },
+ {
+  "symbol": "NASDAQ:GTLB",
+  "name": "Gitlab, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:GTX",
+  "name": "Garrett Motion Inc"
+ },
+ {
+  "symbol": "NYSE:GVA",
+  "name": "Granite Construction Incorporated"
+ },
+ {
+  "symbol": "NYSE:GWRE",
+  "name": "Guidewire Software, Inc."
+ },
+ {
+  "symbol": "NYSE:GWW",
+  "name": "W.W. Grainger, Inc."
+ },
+ {
+  "symbol": "NYSE:GXO",
+  "name": "GXO Logistics Inc"
+ },
+ {
+  "symbol": "NYSE:H",
+  "name": "Hyatt Hotels Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:HAE",
+  "name": "Haemonetics Corporation"
+ },
+ {
+  "symbol": "NYSE:HAFN",
+  "name": "Hafnia Limited"
+ },
+ {
+  "symbol": "NYSE:HAL",
+  "name": "Halliburton Company"
+ },
+ {
+  "symbol": "NASDAQ:HALO",
+  "name": "Halozyme Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HAS",
+  "name": "Hasbro, Inc."
+ },
+ {
+  "symbol": "NYSE:HASI",
+  "name": "HA Sustainable Infrastructure Capital, Inc."
+ },
+ {
+  "symbol": "NYSE:HAYW",
+  "name": "Hayward Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HBAN",
+  "name": "Huntington Bancshares Incorporated"
+ },
+ {
+  "symbol": "NYSE:HBM",
+  "name": "Hudbay Minerals Inc"
+ },
+ {
+  "symbol": "NYSE:HCA",
+  "name": "HCA Healthcare Inc"
+ },
+ {
+  "symbol": "NYSE:HCC",
+  "name": "Warrior Met Coal, Inc."
+ },
+ {
+  "symbol": "NYSE:HCI",
+  "name": "HCI Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HCM",
+  "name": "HUTCHMED (China) Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:HD",
+  "name": "Home Depot, Inc."
+ },
+ {
+  "symbol": "NYSE:HDB",
+  "name": "HDFC Bank Limited Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:HDV",
+  "name": "iShares Core High Dividend ETF"
+ },
+ {
+  "symbol": "NYSE:HEI",
+  "name": "HEICO Corporation"
+ },
+ {
+  "symbol": "NYSE:HEI.A",
+  "name": "HEICO Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:HESM",
+  "name": "Hess Midstream LP Class A"
+ },
+ {
+  "symbol": "NYSE:HG",
+  "name": "Hamilton Insurance Group, Ltd. Class B"
+ },
+ {
+  "symbol": "NYSE:HGTY",
+  "name": "Hagerty Inc Class A"
+ },
+ {
+  "symbol": "NYSE:HGV",
+  "name": "Hilton Grand Vacations, Inc."
+ },
+ {
+  "symbol": "NYSE:HHH",
+  "name": "Howard Hughes Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:HIG",
+  "name": "Hartford Insurance Group, Inc."
+ },
+ {
+  "symbol": "NYSE:HII",
+  "name": "Huntington Ingalls Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:HIMS",
+  "name": "Hims & Hers Health, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:HIMX",
+  "name": "Himax Technologies, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:HIW",
+  "name": "Highwoods Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:HL",
+  "name": "Hecla Mining Company"
+ },
+ {
+  "symbol": "NYSE:HLI",
+  "name": "Houlihan Lokey, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:HLIO",
+  "name": "Helios Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:HLN",
+  "name": "Haleon PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:HLNE",
+  "name": "Hamilton Lane Incorporated Class A"
+ },
+ {
+  "symbol": "NYSE:HLT",
+  "name": "Hilton Worldwide Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:HMC",
+  "name": "Honda Motor Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:HMY",
+  "name": "Harmony Gold Mining Co. Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:HNGE",
+  "name": "Hinge Health, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:HNI",
+  "name": "HNI Corporation"
+ },
+ {
+  "symbol": "NYSE:HOG",
+  "name": "Harley-Davidson, Inc."
+ },
+ {
+  "symbol": "NYSE:HOMB",
+  "name": "Home BancShares, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HON",
+  "name": "Honeywell International Inc."
+ },
+ {
+  "symbol": "NASDAQ:HONA",
+  "name": "Honeywell Aerospace Inc"
+ },
+ {
+  "symbol": "NASDAQ:HOOD",
+  "name": "Robinhood Markets, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:HP",
+  "name": "Helmerich & Payne, Inc."
+ },
+ {
+  "symbol": "NYSE:HPE",
+  "name": "Hewlett Packard Enterprise Co."
+ },
+ {
+  "symbol": "NYSE:HPQ",
+  "name": "HP Inc."
+ },
+ {
+  "symbol": "NASDAQ:HQY",
+  "name": "HealthEquity Inc"
+ },
+ {
+  "symbol": "NYSE:HR",
+  "name": "Healthcare Realty Trust Incorporated Class A"
+ },
+ {
+  "symbol": "NYSE:HRB",
+  "name": "H&R Block, Inc."
+ },
+ {
+  "symbol": "NYSE:HRI",
+  "name": "Herc Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:HRL",
+  "name": "Hormel Foods Corporation"
+ },
+ {
+  "symbol": "NASDAQ:HRMY",
+  "name": "Harmony Biosciences Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HSAI",
+  "name": "Hesai Group Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:HSBC",
+  "name": "HSBC Holdings PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:HSIC",
+  "name": "Henry Schein, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HST",
+  "name": "Host Hotels & Resorts, Inc."
+ },
+ {
+  "symbol": "NYSE:HSY",
+  "name": "Hershey Company"
+ },
+ {
+  "symbol": "NASDAQ:HTFL",
+  "name": "HeartFlow, Inc."
+ },
+ {
+  "symbol": "NYSE:HTGC",
+  "name": "Hercules Capital, Inc."
+ },
+ {
+  "symbol": "NASDAQ:HTHT",
+  "name": "H World Group Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:HTO",
+  "name": "H2O America"
+ },
+ {
+  "symbol": "NYSE:HUBB",
+  "name": "Hubbell Incorporated"
+ },
+ {
+  "symbol": "NYSE:HUBS",
+  "name": "HubSpot, Inc."
+ },
+ {
+  "symbol": "NYSE:HUM",
+  "name": "Humana Inc."
+ },
+ {
+  "symbol": "NASDAQ:HURN",
+  "name": "Huron Consulting Group Inc."
+ },
+ {
+  "symbol": "NASDAQ:HUT",
+  "name": "Hut 8 Corp."
+ },
+ {
+  "symbol": "NASDAQ:HWC",
+  "name": "Hancock Whitney Corporation"
+ },
+ {
+  "symbol": "NASDAQ:HWKN",
+  "name": "Hawkins, Inc."
+ },
+ {
+  "symbol": "NYSE:HWM",
+  "name": "Howmet Aerospace Inc."
+ },
+ {
+  "symbol": "NYSE:HXL",
+  "name": "Hexcel Corporation"
+ },
+ {
+  "symbol": "AMEX:HYG",
+  "name": "iShares iBoxx $ High Yield Corporate Bond ETF"
+ },
+ {
+  "symbol": "NYSE:IAG",
+  "name": "IAMGOLD Corporation"
+ },
+ {
+  "symbol": "AMEX:IAU",
+  "name": "iShares Gold Trust"
+ },
+ {
+  "symbol": "NASDAQ:IBIT",
+  "name": "iShares Bitcoin Trust ETF"
+ },
+ {
+  "symbol": "NASDAQ:IBKR",
+  "name": "Interactive Brokers Group, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:IBM",
+  "name": "International Business Machines Corporation"
+ },
+ {
+  "symbol": "NYSE:IBN",
+  "name": "ICICI Bank Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:IBOC",
+  "name": "International Bancshares Corporation"
+ },
+ {
+  "symbol": "NYSE:IBP",
+  "name": "Installed Building Products, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IBRX",
+  "name": "ImmunityBio Inc"
+ },
+ {
+  "symbol": "NYSE:ICE",
+  "name": "Intercontinental Exchange, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ICHR",
+  "name": "Ichor Holdings, Ltd."
+ },
+ {
+  "symbol": "NYSE:ICL",
+  "name": "ICL Group Ltd."
+ },
+ {
+  "symbol": "NASDAQ:ICLR",
+  "name": "ICON Plc"
+ },
+ {
+  "symbol": "NASDAQ:ICUI",
+  "name": "ICU Medical, Inc."
+ },
+ {
+  "symbol": "NYSE:IDA",
+  "name": "IDACORP, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IDCC",
+  "name": "InterDigital, Inc."
+ },
+ {
+  "symbol": "AMEX:IDEV",
+  "name": "iShares Core MSCI International Developed Markets ETF"
+ },
+ {
+  "symbol": "NASDAQ:IDXX",
+  "name": "IDEXX Laboratories, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IDYA",
+  "name": "IDEAYA Biosciences, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IEF",
+  "name": "iShares 7-10 Year Treasury Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:IEI",
+  "name": "iShares 3-7 Year Treasury Bond ETF"
+ },
+ {
+  "symbol": "AMEX:IEMG",
+  "name": "iShares Core MSCI Emerging Markets ETF"
+ },
+ {
+  "symbol": "NASDAQ:IEP",
+  "name": "Icahn Enterprises L.P."
+ },
+ {
+  "symbol": "NASDAQ:IESC",
+  "name": "IES Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:IEX",
+  "name": "IDEX Corporation"
+ },
+ {
+  "symbol": "NYSE:IFF",
+  "name": "International Flavors & Fragrances Inc."
+ },
+ {
+  "symbol": "NYSE:IFS",
+  "name": "Intercorp Financial Services Inc."
+ },
+ {
+  "symbol": "NASDAQ:IGIB",
+  "name": "iShares 5-10 Year Investment Grade Corporate Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:IGSB",
+  "name": "iShares 1-5 Year Investment Grade Corporate Bond ETF"
+ },
+ {
+  "symbol": "NYSE:IHG",
+  "name": "InterContinental Hotels Group PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:IHS",
+  "name": "IHS Holding Ltd."
+ },
+ {
+  "symbol": "AMEX:IJH",
+  "name": "iShares Core S&P Mid-Cap ETF"
+ },
+ {
+  "symbol": "AMEX:IJR",
+  "name": "iShares Core S&P Small Cap ETF"
+ },
+ {
+  "symbol": "NASDAQ:ILMN",
+  "name": "Illumina, Inc."
+ },
+ {
+  "symbol": "NYSE:IMAX",
+  "name": "IMAX Corporation"
+ },
+ {
+  "symbol": "NASDAQ:IMNM",
+  "name": "Immunome, Inc."
+ },
+ {
+  "symbol": "AMEX:IMO",
+  "name": "Imperial Oil Limited"
+ },
+ {
+  "symbol": "NASDAQ:IMOS",
+  "name": "ChipMOS Technologies, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:IMVT",
+  "name": "Immunovant Inc"
+ },
+ {
+  "symbol": "NASDAQ:INCY",
+  "name": "Incyte Corporation"
+ },
+ {
+  "symbol": "NASDAQ:INDB",
+  "name": "Independent Bank Corp."
+ },
+ {
+  "symbol": "NASDAQ:INDV",
+  "name": "Indivior Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:INFQ",
+  "name": "Infleqtion, Inc."
+ },
+ {
+  "symbol": "NYSE:INFY",
+  "name": "Infosys Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ING",
+  "name": "ING Groep N.V. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:INGM",
+  "name": "Ingram Micro Holding Corporation"
+ },
+ {
+  "symbol": "NYSE:INGR",
+  "name": "Ingredion Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:INIO",
+  "name": "INNIO N.V."
+ },
+ {
+  "symbol": "NASDAQ:INOD",
+  "name": "Innodata Inc."
+ },
+ {
+  "symbol": "NASDAQ:INSM",
+  "name": "Insmed Incorporated"
+ },
+ {
+  "symbol": "NYSE:INSW",
+  "name": "International Seaways, Inc."
+ },
+ {
+  "symbol": "NASDAQ:INTA",
+  "name": "Intapp, Inc."
+ },
+ {
+  "symbol": "NASDAQ:INTC",
+  "name": "Intel Corporation"
+ },
+ {
+  "symbol": "NASDAQ:INTR",
+  "name": "Inter & Co., Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:INTU",
+  "name": "Intuit Inc."
+ },
+ {
+  "symbol": "NYSE:INVH",
+  "name": "Invitation Homes, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IOND",
+  "name": "Ionic Digital Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:IONQ",
+  "name": "IonQ, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IONS",
+  "name": "Ionis Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IOSP",
+  "name": "Innospec Inc."
+ },
+ {
+  "symbol": "NYSE:IOT",
+  "name": "Samsara, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:IOVA",
+  "name": "Iovance Biotherapeutics Inc"
+ },
+ {
+  "symbol": "NYSE:IP",
+  "name": "International Paper Company"
+ },
+ {
+  "symbol": "NASDAQ:IPAR",
+  "name": "Interparfums, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IPGP",
+  "name": "IPG Photonics Corporation"
+ },
+ {
+  "symbol": "AMEX:IQLT",
+  "name": "iShares MSCI Intl Quality Factor ETF"
+ },
+ {
+  "symbol": "AMEX:IQMM",
+  "name": "ProShares GENIUS Money Market ETF"
+ },
+ {
+  "symbol": "NYSE:IQV",
+  "name": "IQVIA Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:IR",
+  "name": "Ingersoll Rand Inc."
+ },
+ {
+  "symbol": "NASDAQ:IRDM",
+  "name": "Iridium Communications Inc."
+ },
+ {
+  "symbol": "NASDAQ:IREN",
+  "name": "IREN Limited"
+ },
+ {
+  "symbol": "NYSE:IRM",
+  "name": "Iron Mountain, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IRON",
+  "name": "Disc Medicine, Inc."
+ },
+ {
+  "symbol": "NYSE:IRT",
+  "name": "Independence Realty Trust, Inc."
+ },
+ {
+  "symbol": "NASDAQ:IRTC",
+  "name": "iRhythm Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ISRG",
+  "name": "Intuitive Surgical, Inc."
+ },
+ {
+  "symbol": "NYSE:IT",
+  "name": "Gartner, Inc."
+ },
+ {
+  "symbol": "NYSE:ITGR",
+  "name": "Integer Holdings Corporation"
+ },
+ {
+  "symbol": "AMEX:ITOT",
+  "name": "iShares Core S&P Total U.S. Stock Market ETF"
+ },
+ {
+  "symbol": "NASDAQ:ITRI",
+  "name": "Itron, Inc."
+ },
+ {
+  "symbol": "NYSE:ITT",
+  "name": "ITT, Inc."
+ },
+ {
+  "symbol": "NYSE:ITUB",
+  "name": "Itau Unibanco Holding S.A. Sponsored ADR Pfd"
+ },
+ {
+  "symbol": "NYSE:ITW",
+  "name": "Illinois Tool Works Inc."
+ },
+ {
+  "symbol": "NASDAQ:IUSB",
+  "name": "iShares Core Total USD Bond Market ETF"
+ },
+ {
+  "symbol": "NASDAQ:IUSG",
+  "name": "iShares Core S&P U.S. Growth ETF"
+ },
+ {
+  "symbol": "NASDAQ:IUSV",
+  "name": "iShares Core S&P US Value ETF"
+ },
+ {
+  "symbol": "AMEX:IVE",
+  "name": "iShares S&P 500 Value ETF"
+ },
+ {
+  "symbol": "NYSE:IVT",
+  "name": "InvenTrust Properties Corp"
+ },
+ {
+  "symbol": "AMEX:IVV",
+  "name": "iShares Core S&P 500 ETF"
+ },
+ {
+  "symbol": "AMEX:IVW",
+  "name": "iShares S&P 500 Growth ETF"
+ },
+ {
+  "symbol": "NYSE:IVZ",
+  "name": "Invesco Ltd."
+ },
+ {
+  "symbol": "AMEX:IWB",
+  "name": "iShares Russell 1000 ETF"
+ },
+ {
+  "symbol": "AMEX:IWD",
+  "name": "iShares Russell 1000 Value ETF"
+ },
+ {
+  "symbol": "AMEX:IWF",
+  "name": "iShares Russell 1000 Growth ETF"
+ },
+ {
+  "symbol": "AMEX:IWM",
+  "name": "iShares Russell 2000 ETF"
+ },
+ {
+  "symbol": "AMEX:IWN",
+  "name": "iShares Russell 2000 Value ETF"
+ },
+ {
+  "symbol": "AMEX:IWO",
+  "name": "iShares Russell 2000 Growth ETF"
+ },
+ {
+  "symbol": "AMEX:IWP",
+  "name": "iShares Russell Mid-Cap Growth ETF"
+ },
+ {
+  "symbol": "AMEX:IWR",
+  "name": "iShares Russell Midcap ETF"
+ },
+ {
+  "symbol": "AMEX:IWS",
+  "name": "iShares Russell Mid-Cap Value ETF"
+ },
+ {
+  "symbol": "AMEX:IWV",
+  "name": "iShares Russell 3000 ETF"
+ },
+ {
+  "symbol": "AMEX:IWY",
+  "name": "iShares Russell Top 200 Growth ETF"
+ },
+ {
+  "symbol": "NYSE:IX",
+  "name": "ORIX Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:IXUS",
+  "name": "iShares Core MSCI Total International Stock ETF"
+ },
+ {
+  "symbol": "AMEX:IYW",
+  "name": "iShares U.S. Technology ETF"
+ },
+ {
+  "symbol": "NYSE:J",
+  "name": "Jacobs Solutions Inc."
+ },
+ {
+  "symbol": "AMEX:JAAA",
+  "name": "Janus Henderson AAA CLO ETF"
+ },
+ {
+  "symbol": "NYSE:JAN",
+  "name": "Janus Living, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:JAZZ",
+  "name": "Jazz Pharmaceuticals Public Limited Company"
+ },
+ {
+  "symbol": "NASDAQ:JBHT",
+  "name": "J.B. Hunt Transport Services, Inc."
+ },
+ {
+  "symbol": "NYSE:JBL",
+  "name": "Jabil Inc."
+ },
+ {
+  "symbol": "NYSE:JBS",
+  "name": "JBS N.V. Class A"
+ },
+ {
+  "symbol": "NYSE:JBTM",
+  "name": "JBT Marel Corporation"
+ },
+ {
+  "symbol": "NYSE:JCI",
+  "name": "Johnson Controls International plc"
+ },
+ {
+  "symbol": "NASDAQ:JD",
+  "name": "JD.com, Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:JEF",
+  "name": "Jefferies Financial Group Inc."
+ },
+ {
+  "symbol": "AMEX:JEPI",
+  "name": "JPMorgan Equity Premium Income ETF"
+ },
+ {
+  "symbol": "NASDAQ:JEPQ",
+  "name": "JPMorgan NASDAQ Equity Premium Income ETF"
+ },
+ {
+  "symbol": "NYSE:JHX",
+  "name": "James Hardie Industries PLC"
+ },
+ {
+  "symbol": "NASDAQ:JKHY",
+  "name": "Jack Henry & Associates, Inc."
+ },
+ {
+  "symbol": "NYSE:JLL",
+  "name": "Jones Lang LaSalle Incorporated"
+ },
+ {
+  "symbol": "NYSE:JMKE",
+  "name": "Jersey Mike's Subs, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:JNJ",
+  "name": "Johnson & Johnson"
+ },
+ {
+  "symbol": "NYSE:JOBY",
+  "name": "Joby Aviation, Inc."
+ },
+ {
+  "symbol": "NYSE:JOE",
+  "name": "St. Joe Company"
+ },
+ {
+  "symbol": "NASDAQ:JOYY",
+  "name": "JOYY, Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:JPM",
+  "name": "JPMorgan Chase & Co."
+ },
+ {
+  "symbol": "AMEX:JPST",
+  "name": "JPMorgan Ultra-Short Income ETF"
+ },
+ {
+  "symbol": "NYSE:JXN",
+  "name": "Jackson Financial Incorporation Class A"
+ },
+ {
+  "symbol": "NYSE:KAI",
+  "name": "Kadant Inc."
+ },
+ {
+  "symbol": "NASDAQ:KALU",
+  "name": "Kaiser Aluminum Corporation"
+ },
+ {
+  "symbol": "NYSE:KB",
+  "name": "KB Financial Group Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:KBH",
+  "name": "KB Home"
+ },
+ {
+  "symbol": "NYSE:KBR",
+  "name": "KBR, Inc."
+ },
+ {
+  "symbol": "NASDAQ:KC",
+  "name": "Kingsoft Cloud Holdings Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:KD",
+  "name": "Kyndryl Holdings Incorporation"
+ },
+ {
+  "symbol": "NASDAQ:KDP",
+  "name": "Keurig Dr Pepper Inc."
+ },
+ {
+  "symbol": "NASDAQ:KEEL",
+  "name": "Keel Infrastructure Corp."
+ },
+ {
+  "symbol": "NYSE:KEN",
+  "name": "Kenon Holdings Ltd."
+ },
+ {
+  "symbol": "NYSE:KEP",
+  "name": "Korea Electric Power Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:KEX",
+  "name": "Kirby Corporation"
+ },
+ {
+  "symbol": "NYSE:KEY",
+  "name": "KeyCorp"
+ },
+ {
+  "symbol": "NYSE:KEYS",
+  "name": "Keysight Technologies Inc"
+ },
+ {
+  "symbol": "NYSE:KFY",
+  "name": "Korn Ferry"
+ },
+ {
+  "symbol": "NYSE:KGC",
+  "name": "Kinross Gold Corporation"
+ },
+ {
+  "symbol": "NYSE:KGS",
+  "name": "Kodiak Gas Services, Inc."
+ },
+ {
+  "symbol": "NYSE:KHC",
+  "name": "Kraft Heinz Company"
+ },
+ {
+  "symbol": "NYSE:KIM",
+  "name": "Kimco Realty Corporation"
+ },
+ {
+  "symbol": "NYSE:KKR",
+  "name": "KKR & Co Inc"
+ },
+ {
+  "symbol": "NASDAQ:KLAC",
+  "name": "KLA Corporation"
+ },
+ {
+  "symbol": "NYSE:KLAR",
+  "name": "Klarna Group Plc"
+ },
+ {
+  "symbol": "NASDAQ:KLIC",
+  "name": "Kulicke & Soffa Industries, Inc."
+ },
+ {
+  "symbol": "NASDAQ:KMB",
+  "name": "Kimberly-Clark Corporation"
+ },
+ {
+  "symbol": "NYSE:KMI",
+  "name": "Kinder Morgan Inc Class P"
+ },
+ {
+  "symbol": "NYSE:KMT",
+  "name": "Kennametal Inc."
+ },
+ {
+  "symbol": "NYSE:KMX",
+  "name": "CarMax, Inc."
+ },
+ {
+  "symbol": "NYSE:KN",
+  "name": "Knowles Corp."
+ },
+ {
+  "symbol": "NYSE:KNF",
+  "name": "Knife River Corporation"
+ },
+ {
+  "symbol": "NASDAQ:KNSA",
+  "name": "Kiniksa Pharmaceuticals International, plc Class A"
+ },
+ {
+  "symbol": "NYSE:KNSL",
+  "name": "Kinsale Capital Group, Inc."
+ },
+ {
+  "symbol": "NYSE:KNTK",
+  "name": "Kinetik Holdings Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:KNX",
+  "name": "Knight-Swift Transportation Holdings Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:KO",
+  "name": "Coca-Cola Company"
+ },
+ {
+  "symbol": "NASDAQ:KOD",
+  "name": "Kodiak Sciences, Inc."
+ },
+ {
+  "symbol": "NYSE:KOF",
+  "name": "Coca-Cola FEMSA SAB de CV Sponsored ADR Class L"
+ },
+ {
+  "symbol": "NYSE:KR",
+  "name": "Kroger Co."
+ },
+ {
+  "symbol": "NYSE:KRC",
+  "name": "Kilroy Realty Corporation"
+ },
+ {
+  "symbol": "NYSE:KRG",
+  "name": "Kite Realty Group Trust"
+ },
+ {
+  "symbol": "NYSE:KRMN",
+  "name": "Karman Holdings Inc."
+ },
+ {
+  "symbol": "NASDAQ:KRYS",
+  "name": "Krystal Biotech, Inc."
+ },
+ {
+  "symbol": "NASDAQ:KSPI",
+  "name": "Kaspi.kz Joint Stock Company Sponsored ADR RegS"
+ },
+ {
+  "symbol": "NYSE:KT",
+  "name": "KT Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:KTB",
+  "name": "Kontoor Brands, Inc."
+ },
+ {
+  "symbol": "NASDAQ:KTOS",
+  "name": "Kratos Defense & Security Solutions, Inc."
+ },
+ {
+  "symbol": "NYSE:KVUE",
+  "name": "Kenvue, Inc."
+ },
+ {
+  "symbol": "NYSE:KVYO",
+  "name": "Klaviyo, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:KWR",
+  "name": "Quaker Houghton"
+ },
+ {
+  "symbol": "NASDAQ:KYIV",
+  "name": "Kyivstar Group Ltd."
+ },
+ {
+  "symbol": "NASDAQ:KYMR",
+  "name": "Kymera Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:L",
+  "name": "Loews Corporation"
+ },
+ {
+  "symbol": "NYSE:LAD",
+  "name": "Lithia Motors, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LAMR",
+  "name": "Lamar Advertising Company Class A"
+ },
+ {
+  "symbol": "NASDAQ:LASR",
+  "name": "nLIGHT, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LAUR",
+  "name": "Laureate Education, Inc."
+ },
+ {
+  "symbol": "NYSE:LAZ",
+  "name": "Lazard Inc"
+ },
+ {
+  "symbol": "NYSE:LB",
+  "name": "LandBridge Company LLC Class A"
+ },
+ {
+  "symbol": "NYSE:LBRT",
+  "name": "Liberty Energy, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:LBTYA",
+  "name": "Liberty Global Ltd. Class A"
+ },
+ {
+  "symbol": "NASDAQ:LBTYB",
+  "name": "Liberty Global Ltd. Class B"
+ },
+ {
+  "symbol": "NASDAQ:LBTYK",
+  "name": "Liberty Global Ltd. Class C"
+ },
+ {
+  "symbol": "NYSE:LCLN",
+  "name": "Lincoln International, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:LDOS",
+  "name": "Leidos Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:LEA",
+  "name": "Lear Corporation"
+ },
+ {
+  "symbol": "NASDAQ:LECO",
+  "name": "Lincoln Electric Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LEGN",
+  "name": "Legend Biotech Corp. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:LEN",
+  "name": "Lennar Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:LEN.B",
+  "name": "Lennar Corporation Class B"
+ },
+ {
+  "symbol": "NYSE:LEU",
+  "name": "Centrus Energy Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:LEVI",
+  "name": "Levi Strauss & Co. Class A"
+ },
+ {
+  "symbol": "NASDAQ:LFST",
+  "name": "Lifestance Health Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LFTO",
+  "name": "Liftoff Mobile, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LFUS",
+  "name": "Littelfuse, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LGN",
+  "name": "Legence Corp. Class A"
+ },
+ {
+  "symbol": "NASDAQ:LGND",
+  "name": "Ligand Pharmaceuticals Incorporated"
+ },
+ {
+  "symbol": "NYSE:LH",
+  "name": "Labcorp Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:LHX",
+  "name": "L3Harris Technologies Inc"
+ },
+ {
+  "symbol": "NASDAQ:LI",
+  "name": "Li Auto, Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NASDAQ:LIF",
+  "name": "Life360, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LIFE",
+  "name": "Ethos Technologies Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:LII",
+  "name": "Lennox International Inc."
+ },
+ {
+  "symbol": "NASDAQ:LIN",
+  "name": "Linde plc"
+ },
+ {
+  "symbol": "NASDAQ:LINE",
+  "name": "Lineage, Inc."
+ },
+ {
+  "symbol": "NYSE:LION",
+  "name": "Lionsgate Studios Corp."
+ },
+ {
+  "symbol": "NASDAQ:LITE",
+  "name": "Lumentum Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LIVN",
+  "name": "LivaNova Plc"
+ },
+ {
+  "symbol": "NASDAQ:LKQ",
+  "name": "LKQ Corporation"
+ },
+ {
+  "symbol": "NYSE:LLY",
+  "name": "Eli Lilly and Company"
+ },
+ {
+  "symbol": "NASDAQ:LLYVA",
+  "name": "Liberty Live Holdings, Inc. Registered Series -A-"
+ },
+ {
+  "symbol": "NASDAQ:LLYVK",
+  "name": "Liberty Live Holdings, Inc. Series -C-"
+ },
+ {
+  "symbol": "NYSE:LMND",
+  "name": "Lemonade Inc"
+ },
+ {
+  "symbol": "NYSE:LMT",
+  "name": "Lockheed Martin Corporation"
+ },
+ {
+  "symbol": "NYSE:LNC",
+  "name": "Lincoln National Corp"
+ },
+ {
+  "symbol": "NYSE:LNG",
+  "name": "Cheniere Energy, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LNT",
+  "name": "Alliant Energy Corporation"
+ },
+ {
+  "symbol": "NASDAQ:LNTH",
+  "name": "Lantheus Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:LOAR",
+  "name": "Loar Holdings Inc."
+ },
+ {
+  "symbol": "NASDAQ:LOGI",
+  "name": "Logitech International S.A."
+ },
+ {
+  "symbol": "NASDAQ:LOPE",
+  "name": "Grand Canyon Education, Inc."
+ },
+ {
+  "symbol": "NYSE:LOW",
+  "name": "Lowe's Companies, Inc."
+ },
+ {
+  "symbol": "NYSE:LPG",
+  "name": "Dorian LPG Ltd."
+ },
+ {
+  "symbol": "NYSE:LPL",
+  "name": "LG Display Co., Ltd Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:LPLA",
+  "name": "LPL Financial Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:LPX",
+  "name": "Louisiana-Pacific Corporation"
+ },
+ {
+  "symbol": "AMEX:LQD",
+  "name": "iShares iBoxx $ Investment Grade Corporate Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:LQDA",
+  "name": "Liquidia Corporation"
+ },
+ {
+  "symbol": "NASDAQ:LRCX",
+  "name": "Lam Research Corporation"
+ },
+ {
+  "symbol": "NYSE:LRN",
+  "name": "Stride, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LSCC",
+  "name": "Lattice Semiconductor Corporation"
+ },
+ {
+  "symbol": "NASDAQ:LSTR",
+  "name": "Landstar System, Inc."
+ },
+ {
+  "symbol": "NYSE:LTC",
+  "name": "LTC Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:LTH",
+  "name": "Life Time Group Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:LTM",
+  "name": "LATAM Airlines Group SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:LULU",
+  "name": "lululemon athletica inc."
+ },
+ {
+  "symbol": "NYSE:LUMN",
+  "name": "Lumen Technologies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LUNR",
+  "name": "Intuitive Machines, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:LUV",
+  "name": "Southwest Airlines Co."
+ },
+ {
+  "symbol": "NYSE:LVS",
+  "name": "Las Vegas Sands Corp."
+ },
+ {
+  "symbol": "NYSE:LW",
+  "name": "Lamb Weston Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:LXP",
+  "name": "LXP Industrial Trust"
+ },
+ {
+  "symbol": "NYSE:LYB",
+  "name": "LyondellBasell Industries NV"
+ },
+ {
+  "symbol": "NASDAQ:LYFT",
+  "name": "Lyft, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:LYG",
+  "name": "Lloyds Banking Group plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:LYV",
+  "name": "Live Nation Entertainment, Inc."
+ },
+ {
+  "symbol": "NYSE:M",
+  "name": "Macy's, Inc."
+ },
+ {
+  "symbol": "NYSE:MA",
+  "name": "Mastercard Incorporated Class A"
+ },
+ {
+  "symbol": "NYSE:MAA",
+  "name": "Mid-America Apartment Communities, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MAAS",
+  "name": "Maase Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:MAC",
+  "name": "Macerich Company"
+ },
+ {
+  "symbol": "NYSE:MAIN",
+  "name": "Main Street Capital Corporation"
+ },
+ {
+  "symbol": "NYSE:MAIR",
+  "name": "Madison Air Solutions Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:MAN",
+  "name": "ManpowerGroup Inc."
+ },
+ {
+  "symbol": "NYSE:MANE",
+  "name": "Veradermics, Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:MANH",
+  "name": "Manhattan Associates, Inc."
+ },
+ {
+  "symbol": "NYSE:MANU",
+  "name": "Manchester United Plc Class A"
+ },
+ {
+  "symbol": "NASDAQ:MAR",
+  "name": "Marriott International, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MARA",
+  "name": "MARA Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:MAS",
+  "name": "Masco Corporation"
+ },
+ {
+  "symbol": "NASDAQ:MAT",
+  "name": "Mattel, Inc."
+ },
+ {
+  "symbol": "NYSE:MATX",
+  "name": "Matson, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MBB",
+  "name": "iShares MBS ETF"
+ },
+ {
+  "symbol": "NYSE:MBGL",
+  "name": "Mobility Global Inc"
+ },
+ {
+  "symbol": "NASDAQ:MBIN",
+  "name": "Merchants Bancorp"
+ },
+ {
+  "symbol": "NASDAQ:MBLY",
+  "name": "Mobileye Global, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MBX",
+  "name": "MBX Biosciences, Inc."
+ },
+ {
+  "symbol": "NYSE:MC",
+  "name": "Moelis & Co. Class A"
+ },
+ {
+  "symbol": "NYSE:MCD",
+  "name": "McDonald's Corporation"
+ },
+ {
+  "symbol": "NASDAQ:MCHB",
+  "name": "Mechanics Bancorp. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MCHP",
+  "name": "Microchip Technology Incorporated"
+ },
+ {
+  "symbol": "NYSE:MCK",
+  "name": "McKesson Corporation"
+ },
+ {
+  "symbol": "NYSE:MCO",
+  "name": "Moody's Corporation"
+ },
+ {
+  "symbol": "NYSE:MCY",
+  "name": "Mercury General Corporation"
+ },
+ {
+  "symbol": "NYSE:MDA",
+  "name": "MDA Space Ltd"
+ },
+ {
+  "symbol": "NASDAQ:MDB",
+  "name": "MongoDB, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MDGL",
+  "name": "Madrigal Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MDLN",
+  "name": "Medline, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MDLZ",
+  "name": "Mondelez International, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:MDT",
+  "name": "Medtronic Plc"
+ },
+ {
+  "symbol": "NYSE:MDU",
+  "name": "MDU Resources Group, Inc."
+ },
+ {
+  "symbol": "AMEX:MDY",
+  "name": "State Street SPDR S&P MIDCAP 400 ETF Trust"
+ },
+ {
+  "symbol": "NASDAQ:MEDP",
+  "name": "Medpace Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MELI",
+  "name": "MercadoLibre, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MEOH",
+  "name": "Methanex Corporation"
+ },
+ {
+  "symbol": "NYSE:MET",
+  "name": "MetLife, Inc."
+ },
+ {
+  "symbol": "NASDAQ:META",
+  "name": "Meta Platforms Inc Class A"
+ },
+ {
+  "symbol": "NYSE:MFC",
+  "name": "Manulife Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:MFG",
+  "name": "Mizuho Financial Group Inc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:MGA",
+  "name": "Magna International Inc."
+ },
+ {
+  "symbol": "NASDAQ:MGEE",
+  "name": "MGE Energy, Inc."
+ },
+ {
+  "symbol": "AMEX:MGK",
+  "name": "Vanguard Morningstar Mega Cap Growth ETF"
+ },
+ {
+  "symbol": "NYSE:MGM",
+  "name": "MGM Resorts International"
+ },
+ {
+  "symbol": "NASDAQ:MGNI",
+  "name": "Magnite, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MGRC",
+  "name": "McGrath RentCorp"
+ },
+ {
+  "symbol": "AMEX:MGV",
+  "name": "Vanguard Morningstar Mega Cap Value ETF"
+ },
+ {
+  "symbol": "NYSE:MGY",
+  "name": "Magnolia Oil & Gas Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:MH",
+  "name": "McGraw Hill, Inc."
+ },
+ {
+  "symbol": "NYSE:MHK",
+  "name": "Mohawk Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:MHO",
+  "name": "M/I Homes, Inc."
+ },
+ {
+  "symbol": "NYSE:MIAX",
+  "name": "Miami International Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:MICC",
+  "name": "Magnum Ice Cream Co. N.V."
+ },
+ {
+  "symbol": "NASDAQ:MIDD",
+  "name": "Middleby Corporation"
+ },
+ {
+  "symbol": "AMEX:MINT",
+  "name": "PIMCO Enhanced Short Maturity Active Exchange-Traded Fund"
+ },
+ {
+  "symbol": "NYSE:MIR",
+  "name": "Mirion Technologies, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MIRM",
+  "name": "Mirum Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:MKC",
+  "name": "McCormick & Company, Incorporated"
+ },
+ {
+  "symbol": "NYSE:MKC.V",
+  "name": "McCormick & Company, Incorporated"
+ },
+ {
+  "symbol": "NYSE:MKL",
+  "name": "Markel Group Inc."
+ },
+ {
+  "symbol": "NASDAQ:MKSI",
+  "name": "MKS Inc."
+ },
+ {
+  "symbol": "NASDAQ:MKTX",
+  "name": "MarketAxess Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:MLI",
+  "name": "Mueller Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:MLM",
+  "name": "Martin Marietta Materials, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MLYS",
+  "name": "Mineralys Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MMED",
+  "name": "MiniMed Group, Inc."
+ },
+ {
+  "symbol": "NYSE:MMM",
+  "name": "3M Company"
+ },
+ {
+  "symbol": "NYSE:MMS",
+  "name": "MAXIMUS, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MMSI",
+  "name": "Merit Medical Systems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MMYT",
+  "name": "MakeMyTrip Ltd."
+ },
+ {
+  "symbol": "NASDAQ:MNDY",
+  "name": "monday.com Ltd."
+ },
+ {
+  "symbol": "NYSE:MNSO",
+  "name": "MINISO Group Holding Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:MNST",
+  "name": "Monster Beverage Corporation"
+ },
+ {
+  "symbol": "NYSE:MO",
+  "name": "Altria Group, Inc."
+ },
+ {
+  "symbol": "NYSE:MOD",
+  "name": "Modine Manufacturing Company"
+ },
+ {
+  "symbol": "NYSE:MOG.A",
+  "name": "Moog Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:MOG.B",
+  "name": "Moog Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:MOH",
+  "name": "Molina Healthcare, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MORN",
+  "name": "Morningstar, Inc."
+ },
+ {
+  "symbol": "NYSE:MOS",
+  "name": "Mosaic Company"
+ },
+ {
+  "symbol": "NYSE:MP",
+  "name": "MP Materials Corp Class A"
+ },
+ {
+  "symbol": "NYSE:MPC",
+  "name": "Marathon Petroleum Corporation"
+ },
+ {
+  "symbol": "NYSE:MPLX",
+  "name": "MPLX LP"
+ },
+ {
+  "symbol": "NASDAQ:MPWR",
+  "name": "Monolithic Power Systems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MRCY",
+  "name": "Mercury Systems, Inc."
+ },
+ {
+  "symbol": "NYSE:MRK",
+  "name": "Merck & Co., Inc."
+ },
+ {
+  "symbol": "NASDAQ:MRNA",
+  "name": "Moderna, Inc."
+ },
+ {
+  "symbol": "NYSE:MRP",
+  "name": "Millrose Properties Inc Class A"
+ },
+ {
+  "symbol": "NYSE:MRSH",
+  "name": "Marsh & McLennan Companies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MRVL",
+  "name": "Marvell Technology, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MRX",
+  "name": "Marex Group Limited"
+ },
+ {
+  "symbol": "NYSE:MS",
+  "name": "Morgan Stanley"
+ },
+ {
+  "symbol": "NYSE:MSA",
+  "name": "MSA Safety, Inc."
+ },
+ {
+  "symbol": "NYSE:MSCI",
+  "name": "MSCI Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MSFT",
+  "name": "Microsoft Corporation"
+ },
+ {
+  "symbol": "NYSE:MSGE",
+  "name": "Madison Square Garden Entertainment Corp."
+ },
+ {
+  "symbol": "NYSE:MSGS",
+  "name": "Madison Square Garden Sports Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:MSI",
+  "name": "Motorola Solutions, Inc."
+ },
+ {
+  "symbol": "NYSE:MSM",
+  "name": "MSC Industrial Direct Co., Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MSTR",
+  "name": "Strategy Inc Class A"
+ },
+ {
+  "symbol": "NYSE:MT",
+  "name": "ArcelorMittal SA ADR"
+ },
+ {
+  "symbol": "NYSE:MTB",
+  "name": "M&T Bank Corporation"
+ },
+ {
+  "symbol": "NASDAQ:MTCH",
+  "name": "Match Group, Inc."
+ },
+ {
+  "symbol": "NYSE:MTD",
+  "name": "Mettler-Toledo International Inc."
+ },
+ {
+  "symbol": "NYSE:MTDR",
+  "name": "Matador Resources Company"
+ },
+ {
+  "symbol": "NYSE:MTG",
+  "name": "MGIC Investment Corporation"
+ },
+ {
+  "symbol": "NYSE:MTH",
+  "name": "Meritage Homes Corporation"
+ },
+ {
+  "symbol": "NYSE:MTN",
+  "name": "Vail Resorts, Inc."
+ },
+ {
+  "symbol": "NYSE:MTRN",
+  "name": "Materion Corporation"
+ },
+ {
+  "symbol": "NASDAQ:MTSI",
+  "name": "MACOM Technology Solutions Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:MTZ",
+  "name": "MasTec, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MU",
+  "name": "Micron Technology, Inc."
+ },
+ {
+  "symbol": "AMEX:MUB",
+  "name": "iShares National Muni Bond ETF"
+ },
+ {
+  "symbol": "NYSE:MUFG",
+  "name": "Mitsubishi UFJ Financial Group, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:MUR",
+  "name": "Murphy Oil Corporation"
+ },
+ {
+  "symbol": "NYSE:MUSA",
+  "name": "Murphy USA, Inc."
+ },
+ {
+  "symbol": "NYSE:MWA",
+  "name": "Mueller Water Products, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:MWH",
+  "name": "SOLV Energy Inc Class A"
+ },
+ {
+  "symbol": "NASDAQ:MXL",
+  "name": "MaxLinear, Inc."
+ },
+ {
+  "symbol": "NASDAQ:MYRG",
+  "name": "MYR Group Inc."
+ },
+ {
+  "symbol": "NASDAQ:MZTI",
+  "name": "Marzetti Company"
+ },
+ {
+  "symbol": "NASDAQ:NAMS",
+  "name": "NewAmsterdam Pharma Company N.V."
+ },
+ {
+  "symbol": "NYSE:NATL",
+  "name": "NCR Atleos Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NAVN",
+  "name": "Navan, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:NBIS",
+  "name": "Nebius Group N.V. Class A"
+ },
+ {
+  "symbol": "NASDAQ:NBIX",
+  "name": "Neurocrine Biosciences, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NBTB",
+  "name": "NBT Bancorp Inc."
+ },
+ {
+  "symbol": "NYSE:NCLH",
+  "name": "Norwegian Cruise Line Holdings Ltd."
+ },
+ {
+  "symbol": "NASDAQ:NDAQ",
+  "name": "Nasdaq, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NDSN",
+  "name": "Nordson Corporation"
+ },
+ {
+  "symbol": "NYSE:NE",
+  "name": "Noble Corporation PLC Class A"
+ },
+ {
+  "symbol": "NYSE:NEE",
+  "name": "NextEra Energy, Inc."
+ },
+ {
+  "symbol": "NYSE:NEM",
+  "name": "Newmont Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NEO",
+  "name": "NeoGenomics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NEOG",
+  "name": "Neogen Corp"
+ },
+ {
+  "symbol": "NASDAQ:NESR",
+  "name": "National Energy Services Reunited Corp."
+ },
+ {
+  "symbol": "NYSE:NET",
+  "name": "Cloudflare Inc Class A"
+ },
+ {
+  "symbol": "NYSE:NEU",
+  "name": "NewMarket Corporation"
+ },
+ {
+  "symbol": "NYSE:NFG",
+  "name": "National Fuel Gas Company"
+ },
+ {
+  "symbol": "NASDAQ:NFLX",
+  "name": "Netflix, Inc."
+ },
+ {
+  "symbol": "AMEX:NG",
+  "name": "Novagold Resources Inc"
+ },
+ {
+  "symbol": "NYSE:NGG",
+  "name": "National Grid plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:NGVT",
+  "name": "Ingevity Corporation"
+ },
+ {
+  "symbol": "AMEX:NHC",
+  "name": "National HealthCare Corporation"
+ },
+ {
+  "symbol": "NYSE:NHI",
+  "name": "National Health Investors, Inc."
+ },
+ {
+  "symbol": "NYSE:NI",
+  "name": "NiSource Inc"
+ },
+ {
+  "symbol": "NYSE:NIC",
+  "name": "Nicolet Bankshares, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NICE",
+  "name": "NICE Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:NIO",
+  "name": "NIO Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:NIQ",
+  "name": "NIQ Global Intelligence PLC"
+ },
+ {
+  "symbol": "NYSE:NJR",
+  "name": "New Jersey Resources Corporation"
+ },
+ {
+  "symbol": "NYSE:NKE",
+  "name": "NIKE, Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:NLY",
+  "name": "Annaly Capital Management, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NMIH",
+  "name": "NMI Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:NMM",
+  "name": "Navios Maritime Partners LP"
+ },
+ {
+  "symbol": "NYSE:NMR",
+  "name": "Nomura Holdings, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:NMRK",
+  "name": "Newmark Group, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:NN",
+  "name": "NextNav Inc."
+ },
+ {
+  "symbol": "NYSE:NNI",
+  "name": "Nelnet, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:NNN",
+  "name": "NNN REIT, Inc."
+ },
+ {
+  "symbol": "NYSE:NOC",
+  "name": "Northrop Grumman Corp."
+ },
+ {
+  "symbol": "NYSE:NOG",
+  "name": "Northern Oil and Gas, Inc."
+ },
+ {
+  "symbol": "NYSE:NOK",
+  "name": "Nokia Oyj Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:NOV",
+  "name": "NOV Inc."
+ },
+ {
+  "symbol": "NASDAQ:NOVT",
+  "name": "Novanta Inc"
+ },
+ {
+  "symbol": "NYSE:NOW",
+  "name": "ServiceNow, Inc."
+ },
+ {
+  "symbol": "NYSE:NP",
+  "name": "Neptune Insurance Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:NPO",
+  "name": "Enpro Inc."
+ },
+ {
+  "symbol": "NYSE:NRG",
+  "name": "NRG Energy, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NRIX",
+  "name": "Nurix Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:NSC",
+  "name": "Norfolk Southern Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NSIT",
+  "name": "Insight Enterprises, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NTAP",
+  "name": "NetApp, Inc."
+ },
+ {
+  "symbol": "NYSE:NTB",
+  "name": "Bank of N.T. Butterfield & Son Limited (The)"
+ },
+ {
+  "symbol": "NASDAQ:NTCT",
+  "name": "NetScout Systems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NTES",
+  "name": "Netease Inc Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:NTNX",
+  "name": "Nutanix, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:NTR",
+  "name": "Nutrien Ltd."
+ },
+ {
+  "symbol": "NASDAQ:NTRA",
+  "name": "Natera, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NTRS",
+  "name": "Northern Trust Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NTSK",
+  "name": "Netskope, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:NU",
+  "name": "Nu Holdings Ltd. Class A"
+ },
+ {
+  "symbol": "NYSE:NUE",
+  "name": "Nucor Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NVDA",
+  "name": "NVIDIA Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NVMI",
+  "name": "Nova Ltd."
+ },
+ {
+  "symbol": "NYSE:NVO",
+  "name": "Novo Nordisk A/S Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NYSE:NVR",
+  "name": "NVR, Inc."
+ },
+ {
+  "symbol": "NYSE:NVS",
+  "name": "Novartis AG Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:NVST",
+  "name": "Envista Holdings Corp."
+ },
+ {
+  "symbol": "NYSE:NVT",
+  "name": "nVent Electric plc"
+ },
+ {
+  "symbol": "NASDAQ:NVTS",
+  "name": "Navitas Semiconductor Corporation"
+ },
+ {
+  "symbol": "NASDAQ:NWBI",
+  "name": "Northwest Bancshares, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NWE",
+  "name": "NorthWestern Energy Group, Inc."
+ },
+ {
+  "symbol": "NYSE:NWG",
+  "name": "NatWest Group Plc Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:NWL",
+  "name": "Newell Brands Inc"
+ },
+ {
+  "symbol": "NASDAQ:NWS",
+  "name": "News Corporation Class B"
+ },
+ {
+  "symbol": "NASDAQ:NWSA",
+  "name": "News Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:NXE",
+  "name": "NexGen Energy Ltd."
+ },
+ {
+  "symbol": "NASDAQ:NXPI",
+  "name": "NXP Semiconductors NV"
+ },
+ {
+  "symbol": "NASDAQ:NXST",
+  "name": "Nexstar Media Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:NXT",
+  "name": "Nextpower Inc."
+ },
+ {
+  "symbol": "NYSE:NYT",
+  "name": "New York Times Company Class A"
+ },
+ {
+  "symbol": "NYSE:O",
+  "name": "Realty Income Corporation"
+ },
+ {
+  "symbol": "NYSE:OBDC",
+  "name": "Blue Owl Capital Corporation"
+ },
+ {
+  "symbol": "NYSE:OC",
+  "name": "Owens Corning"
+ },
+ {
+  "symbol": "NASDAQ:OCTV",
+  "name": "Octave Intelligence PLC Class B"
+ },
+ {
+  "symbol": "NASDAQ:ODFL",
+  "name": "Old Dominion Freight Line, Inc."
+ },
+ {
+  "symbol": "AMEX:OEF",
+  "name": "iShares S&P 100 ETF"
+ },
+ {
+  "symbol": "NYSE:OGC",
+  "name": "OceanaGold Corporation"
+ },
+ {
+  "symbol": "NYSE:OGE",
+  "name": "OGE Energy Corp."
+ },
+ {
+  "symbol": "NYSE:OGN",
+  "name": "Organon & Co."
+ },
+ {
+  "symbol": "NYSE:OGS",
+  "name": "ONE Gas, Inc."
+ },
+ {
+  "symbol": "NYSE:OHI",
+  "name": "Omega Healthcare Investors, Inc."
+ },
+ {
+  "symbol": "NYSE:OII",
+  "name": "Oceaneering International, Inc."
+ },
+ {
+  "symbol": "NYSE:OKE",
+  "name": "ONEOK, Inc."
+ },
+ {
+  "symbol": "NYSE:OKLO",
+  "name": "Oklo Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:OKTA",
+  "name": "Okta, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:OLED",
+  "name": "Universal Display Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OLLI",
+  "name": "Ollie's Bargain Outlet Holdings Inc"
+ },
+ {
+  "symbol": "NASDAQ:OMAB",
+  "name": "Grupo Aeroportuario del Centro Norte SAB de CV Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NYSE:OMC",
+  "name": "Omnicom Group Inc"
+ },
+ {
+  "symbol": "NYSE:OMF",
+  "name": "OneMain Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ON",
+  "name": "ON Semiconductor Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ONB",
+  "name": "Old National Bancorp"
+ },
+ {
+  "symbol": "NASDAQ:ONC",
+  "name": "BeOne Medicines Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:ONDS",
+  "name": "Ondas Inc."
+ },
+ {
+  "symbol": "NYSE:ONON",
+  "name": "On Holding AG Class A"
+ },
+ {
+  "symbol": "NYSE:ONTO",
+  "name": "Onto Innovation, Inc."
+ },
+ {
+  "symbol": "NASDAQ:OPCH",
+  "name": "Option Care Health Inc"
+ },
+ {
+  "symbol": "NASDAQ:OPEN",
+  "name": "Opendoor Technologies Inc"
+ },
+ {
+  "symbol": "NYSE:OPLN",
+  "name": "OPENLANE, Inc."
+ },
+ {
+  "symbol": "NYSE:OR",
+  "name": "OR Royalties Inc."
+ },
+ {
+  "symbol": "NYSE:ORA",
+  "name": "Ormat Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:ORCL",
+  "name": "Oracle Corporation"
+ },
+ {
+  "symbol": "NYSE:ORI",
+  "name": "Old Republic International Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ORKA",
+  "name": "Oruka Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ORLY",
+  "name": "O'Reilly Automotive, Inc."
+ },
+ {
+  "symbol": "NYSE:OSCR",
+  "name": "Oscar Health, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:OSIS",
+  "name": "OSI Systems, Inc."
+ },
+ {
+  "symbol": "NYSE:OSK",
+  "name": "Oshkosh Corp"
+ },
+ {
+  "symbol": "NASDAQ:OSW",
+  "name": "OneSpaWorld Holdings Ltd."
+ },
+ {
+  "symbol": "NASDAQ:OTEX",
+  "name": "Open Text Corporation"
+ },
+ {
+  "symbol": "NYSE:OTF",
+  "name": "Blue Owl Technology Finance Corp."
+ },
+ {
+  "symbol": "NYSE:OTIS",
+  "name": "Otis Worldwide Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OTTR",
+  "name": "Otter Tail Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OUST",
+  "name": "Ouster, Inc."
+ },
+ {
+  "symbol": "NYSE:OUT",
+  "name": "OUTFRONT Media Inc."
+ },
+ {
+  "symbol": "NYSE:OVV",
+  "name": "Ovintiv Inc"
+ },
+ {
+  "symbol": "NYSE:OWL",
+  "name": "Blue Owl Capital, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:OXY",
+  "name": "Occidental Petroleum Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OZK",
+  "name": "Bank OZK"
+ },
+ {
+  "symbol": "NYSE:P",
+  "name": "Everpure, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:PAA",
+  "name": "Plains All American Pipeline, L.P."
+ },
+ {
+  "symbol": "AMEX:PAAA",
+  "name": "PGIM AAA CLO ETF"
+ },
+ {
+  "symbol": "NYSE:PAAS",
+  "name": "Pan American Silver Corp."
+ },
+ {
+  "symbol": "NYSE:PAC",
+  "name": "Grupo Aeroportuario del Pacifico SAB de CV Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NYSE:PACS",
+  "name": "PACS Group, Inc."
+ },
+ {
+  "symbol": "NYSE:PAG",
+  "name": "Penske Automotive Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PAGP",
+  "name": "Plains GP Holdings LP Class A"
+ },
+ {
+  "symbol": "NYSE:PAGS",
+  "name": "PagSeguro Digital Ltd. Class A"
+ },
+ {
+  "symbol": "NYSE:PAM",
+  "name": "Pampa Energia SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:PANW",
+  "name": "Palo Alto Networks, Inc."
+ },
+ {
+  "symbol": "NYSE:PARR",
+  "name": "Par Pacific Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:PATH",
+  "name": "UiPath, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:PATK",
+  "name": "Patrick Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:PAY",
+  "name": "Paymentus Holdings, Inc Class A"
+ },
+ {
+  "symbol": "NYSE:PAYC",
+  "name": "Paycom Software, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PAYO",
+  "name": "Payoneer Global Inc."
+ },
+ {
+  "symbol": "NASDAQ:PAYP",
+  "name": "PayPay Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:PAYX",
+  "name": "Paychex, Inc."
+ },
+ {
+  "symbol": "NYSE:PB",
+  "name": "Prosperity Bancshares, Inc.(R)"
+ },
+ {
+  "symbol": "NYSE:PBA",
+  "name": "Pembina Pipeline Corporation"
+ },
+ {
+  "symbol": "NYSE:PBF",
+  "name": "PBF Energy, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:PBH",
+  "name": "Prestige Consumer Healthcare Inc"
+ },
+ {
+  "symbol": "NYSE:PBI",
+  "name": "Pitney Bowes Inc."
+ },
+ {
+  "symbol": "NASDAQ:PBLS",
+  "name": "Parabilis Medicines, Inc."
+ },
+ {
+  "symbol": "NYSE:PBR",
+  "name": "Petroleo Brasileiro SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:PBR.A",
+  "name": "Petroleo Brasileiro SA Sponsored ADR Pfd"
+ },
+ {
+  "symbol": "NASDAQ:PCAR",
+  "name": "PACCAR Inc"
+ },
+ {
+  "symbol": "NYSE:PCG",
+  "name": "PG&E Corporation"
+ },
+ {
+  "symbol": "NYSE:PCOR",
+  "name": "Procore Technologies Inc"
+ },
+ {
+  "symbol": "NASDAQ:PCTY",
+  "name": "Paylocity Holding Corp."
+ },
+ {
+  "symbol": "NASDAQ:PCVX",
+  "name": "Vaxcyte, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PDD",
+  "name": "PDD Holdings Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NASDAQ:PECO",
+  "name": "Phillips Edison & Company, Inc."
+ },
+ {
+  "symbol": "NYSE:PEG",
+  "name": "Public Service Enterprise Group Inc"
+ },
+ {
+  "symbol": "NASDAQ:PEGA",
+  "name": "Pegasystems Inc."
+ },
+ {
+  "symbol": "NYSE:PEN",
+  "name": "Penumbra, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PENG",
+  "name": "Penguin Solutions Incorporation"
+ },
+ {
+  "symbol": "NASDAQ:PEP",
+  "name": "PepsiCo, Inc."
+ },
+ {
+  "symbol": "NYSE:PFE",
+  "name": "Pfizer Inc."
+ },
+ {
+  "symbol": "NASDAQ:PFF",
+  "name": "iShares Preferred & Income Securities ETF"
+ },
+ {
+  "symbol": "NASDAQ:PFG",
+  "name": "Principal Financial Group, Inc."
+ },
+ {
+  "symbol": "NYSE:PFGC",
+  "name": "Performance Food Group Co"
+ },
+ {
+  "symbol": "NYSE:PFS",
+  "name": "Provident Financial Services, Inc."
+ },
+ {
+  "symbol": "NYSE:PFSI",
+  "name": "PennyMac Financial Services, Inc."
+ },
+ {
+  "symbol": "NYSE:PG",
+  "name": "Procter & Gamble Company"
+ },
+ {
+  "symbol": "NASDAQ:PGEN",
+  "name": "Precigen Inc"
+ },
+ {
+  "symbol": "NYSE:PGR",
+  "name": "Progressive Corporation"
+ },
+ {
+  "symbol": "NYSE:PH",
+  "name": "Parker-Hannifin Corporation"
+ },
+ {
+  "symbol": "NYSE:PHG",
+  "name": "Koninklijke Philips N.V. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:PHI",
+  "name": "PLDT, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:PHIN",
+  "name": "PHINIA Inc."
+ },
+ {
+  "symbol": "NYSE:PHM",
+  "name": "PulteGroup, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PHVS",
+  "name": "Pharvaris N.V."
+ },
+ {
+  "symbol": "NASDAQ:PI",
+  "name": "Impinj, Inc."
+ },
+ {
+  "symbol": "NYSE:PII",
+  "name": "Polaris Inc."
+ },
+ {
+  "symbol": "NYSE:PINS",
+  "name": "Pinterest, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:PIPR",
+  "name": "Piper Sandler Companies"
+ },
+ {
+  "symbol": "NYSE:PJT",
+  "name": "PJT Partners, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:PK",
+  "name": "Park Hotels & Resorts, Inc."
+ },
+ {
+  "symbol": "NYSE:PKG",
+  "name": "Packaging Corporation of America"
+ },
+ {
+  "symbol": "NYSE:PKX",
+  "name": "POSCO Holdings Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:PL",
+  "name": "Planet Labs PBC Class A"
+ },
+ {
+  "symbol": "NYSE:PLD",
+  "name": "Prologis, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PLMR",
+  "name": "Palomar Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:PLNT",
+  "name": "Planet Fitness, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:PLSE",
+  "name": "Pulse Biosciences, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PLTR",
+  "name": "Palantir Technologies Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:PLUG",
+  "name": "Plug Power Inc."
+ },
+ {
+  "symbol": "NASDAQ:PLUS",
+  "name": "ePlus inc."
+ },
+ {
+  "symbol": "NASDAQ:PLXS",
+  "name": "Plexus Corp."
+ },
+ {
+  "symbol": "NYSE:PM",
+  "name": "Philip Morris International Inc."
+ },
+ {
+  "symbol": "NYSE:PNC",
+  "name": "PNC Financial Services Group, Inc."
+ },
+ {
+  "symbol": "NYSE:PNFP",
+  "name": "Pinnacle Financial Partners, Inc."
+ },
+ {
+  "symbol": "NYSE:PNR",
+  "name": "Pentair plc"
+ },
+ {
+  "symbol": "NYSE:PNW",
+  "name": "Pinnacle West Capital Corp"
+ },
+ {
+  "symbol": "NASDAQ:PODD",
+  "name": "Insulet Corporation"
+ },
+ {
+  "symbol": "NASDAQ:PONY",
+  "name": "Pony AI Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:POOL",
+  "name": "Pool Corporation"
+ },
+ {
+  "symbol": "NYSE:POR",
+  "name": "Portland General Electric Company"
+ },
+ {
+  "symbol": "NYSE:POST",
+  "name": "Post Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:POWI",
+  "name": "Power Integrations, Inc."
+ },
+ {
+  "symbol": "NASDAQ:POWL",
+  "name": "Powell Industries, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PPC",
+  "name": "Pilgrim's Pride Corporation"
+ },
+ {
+  "symbol": "NYSE:PPG",
+  "name": "PPG Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:PPL",
+  "name": "PPL Corporation"
+ },
+ {
+  "symbol": "NASDAQ:PPLI",
+  "name": "People Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:PPTA",
+  "name": "Perpetua Resources Corp."
+ },
+ {
+  "symbol": "NYSE:PR",
+  "name": "Permian Resources Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:PRAX",
+  "name": "Praxis Precision Medicines, Inc."
+ },
+ {
+  "symbol": "NYSE:PRI",
+  "name": "Primerica, Inc."
+ },
+ {
+  "symbol": "NYSE:PRIM",
+  "name": "Primoris Services Corporation"
+ },
+ {
+  "symbol": "AMEX:PRK",
+  "name": "Park National Corporation"
+ },
+ {
+  "symbol": "NYSE:PRLB",
+  "name": "Proto Labs, Inc."
+ },
+ {
+  "symbol": "NYSE:PRM",
+  "name": "Perimeter Solutions Inc"
+ },
+ {
+  "symbol": "NYSE:PRMB",
+  "name": "Primo Brands Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:PRU",
+  "name": "Prudential Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PRVA",
+  "name": "Privia Health Group, Inc."
+ },
+ {
+  "symbol": "NYSE:PS",
+  "name": "Pershing Square Inc."
+ },
+ {
+  "symbol": "NYSE:PSA",
+  "name": "Public Storage"
+ },
+ {
+  "symbol": "NASDAQ:PSKY",
+  "name": "Paramount Skydance Corporation Class B"
+ },
+ {
+  "symbol": "NASDAQ:PSMT",
+  "name": "PriceSmart, Inc."
+ },
+ {
+  "symbol": "NYSE:PSN",
+  "name": "Parsons Corporation"
+ },
+ {
+  "symbol": "NYSE:PSO",
+  "name": "Pearson PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:PSUS",
+  "name": "Pershing Square USA, Ltd."
+ },
+ {
+  "symbol": "NYSE:PSX",
+  "name": "Phillips 66"
+ },
+ {
+  "symbol": "NASDAQ:PTC",
+  "name": "PTC Inc."
+ },
+ {
+  "symbol": "NASDAQ:PTCT",
+  "name": "PTC Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PTEN",
+  "name": "Patterson-UTI Energy, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PTGX",
+  "name": "Protagonist Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PTON",
+  "name": "Peloton Interactive, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:PTRN",
+  "name": "Pattern Group, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:PUK",
+  "name": "Prudential plc Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:PULS",
+  "name": "PGIM Ultra Short Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:PURR",
+  "name": "Hyperliquid Strategies, Inc"
+ },
+ {
+  "symbol": "AMEX:PVAL",
+  "name": "Putnam Focused Large Cap Value ETF"
+ },
+ {
+  "symbol": "NYSE:PVH",
+  "name": "PVH Corp."
+ },
+ {
+  "symbol": "NYSE:PWR",
+  "name": "Quanta Services, Inc."
+ },
+ {
+  "symbol": "AMEX:PYLD",
+  "name": "PIMCO Multisector Bond Active Exchange-Traded Fund"
+ },
+ {
+  "symbol": "NASDAQ:PYPL",
+  "name": "PayPal Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:Q",
+  "name": "Qnity Electronics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:QBTS",
+  "name": "D-Wave Quantum Inc."
+ },
+ {
+  "symbol": "NASDAQ:QCOM",
+  "name": "QUALCOMM Incorporated"
+ },
+ {
+  "symbol": "NYSE:QGEN",
+  "name": "QIAGEN NV"
+ },
+ {
+  "symbol": "AMEX:QLD",
+  "name": "ProShares Ultra QQQ"
+ },
+ {
+  "symbol": "NASDAQ:QLYS",
+  "name": "Qualys, Inc."
+ },
+ {
+  "symbol": "NASDAQ:QNT",
+  "name": "Quantinuum Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:QQQ",
+  "name": "Invesco QQQ Trust Series I"
+ },
+ {
+  "symbol": "NASDAQ:QQQI",
+  "name": "NEOS Nasdaq 100 High Income ETF"
+ },
+ {
+  "symbol": "NASDAQ:QQQM",
+  "name": "Invesco NASDAQ 100 ETF"
+ },
+ {
+  "symbol": "NASDAQ:QRVO",
+  "name": "Qorvo, Inc."
+ },
+ {
+  "symbol": "NASDAQ:QS",
+  "name": "QuantumScape Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:QSR",
+  "name": "Restaurant Brands International, Inc."
+ },
+ {
+  "symbol": "NYSE:QTWO",
+  "name": "Q2 Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:QXO",
+  "name": "QXO, Inc."
+ },
+ {
+  "symbol": "NYSE:R",
+  "name": "Ryder System, Inc."
+ },
+ {
+  "symbol": "NYSE:RACE",
+  "name": "Ferrari NV"
+ },
+ {
+  "symbol": "NYSE:RAL",
+  "name": "Ralliant Corporation"
+ },
+ {
+  "symbol": "NYSE:RAMP",
+  "name": "LiveRamp Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:RBA",
+  "name": "RB Global, Inc."
+ },
+ {
+  "symbol": "NYSE:RBC",
+  "name": "RBC Bearings Incorporated"
+ },
+ {
+  "symbol": "NYSE:RBLX",
+  "name": "Roblox Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:RBRK",
+  "name": "Rubrik, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RCI",
+  "name": "Rogers Communications Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:RCL",
+  "name": "Royal Caribbean Group"
+ },
+ {
+  "symbol": "NYSE:RCUS",
+  "name": "Arcus Biosciences, Inc."
+ },
+ {
+  "symbol": "NYSE:RDDT",
+  "name": "Reddit, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RDN",
+  "name": "Radian Group Inc."
+ },
+ {
+  "symbol": "NASDAQ:RDNT",
+  "name": "RadNet, Inc."
+ },
+ {
+  "symbol": "NASDAQ:RDVY",
+  "name": "First Trust Rising Dividend Achievers ETF"
+ },
+ {
+  "symbol": "NYSE:RDW",
+  "name": "Redwire Corp"
+ },
+ {
+  "symbol": "NYSE:RDY",
+  "name": "Dr. Reddy's Laboratories Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:REG",
+  "name": "Regency Centers Corporation"
+ },
+ {
+  "symbol": "NASDAQ:REGN",
+  "name": "Regeneron Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:RELX",
+  "name": "RELX PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:RELY",
+  "name": "Remitly Global, Inc."
+ },
+ {
+  "symbol": "NYSE:REXR",
+  "name": "Rexford Industrial Realty, Inc."
+ },
+ {
+  "symbol": "NASDAQ:REYN",
+  "name": "Reynolds Consumer Products Inc"
+ },
+ {
+  "symbol": "NYSE:REZI",
+  "name": "Resideo Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:RF",
+  "name": "Regions Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:RGA",
+  "name": "Reinsurance Group of America, Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:RGC",
+  "name": "Regencell Bioscience Holdings Ltd."
+ },
+ {
+  "symbol": "NASDAQ:RGEN",
+  "name": "Repligen Corporation"
+ },
+ {
+  "symbol": "NASDAQ:RGLD",
+  "name": "Royal Gold, Inc."
+ },
+ {
+  "symbol": "NASDAQ:RGTI",
+  "name": "Rigetti Computing, Inc."
+ },
+ {
+  "symbol": "NYSE:RH",
+  "name": "RH"
+ },
+ {
+  "symbol": "NYSE:RHI",
+  "name": "Robert Half Inc."
+ },
+ {
+  "symbol": "NYSE:RHP",
+  "name": "Ryman Hospitality Properties, Inc."
+ },
+ {
+  "symbol": "NYSE:RIG",
+  "name": "Transocean Ltd."
+ },
+ {
+  "symbol": "NYSE:RIO",
+  "name": "Rio Tinto plc Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:RIOT",
+  "name": "Riot Platforms, Inc."
+ },
+ {
+  "symbol": "NYSE:RITM",
+  "name": "Rithm Capital Corp."
+ },
+ {
+  "symbol": "NASDAQ:RIVN",
+  "name": "Rivian Automotive, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RJF",
+  "name": "Raymond James Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:RKLB",
+  "name": "Rocket Lab Corporation"
+ },
+ {
+  "symbol": "NYSE:RKT",
+  "name": "Rocket Companies, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RL",
+  "name": "Ralph Lauren Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:RLAY",
+  "name": "Relay Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:RLI",
+  "name": "RLI Corp."
+ },
+ {
+  "symbol": "NASDAQ:RMBS",
+  "name": "Rambus Inc."
+ },
+ {
+  "symbol": "NYSE:RMD",
+  "name": "ResMed Inc."
+ },
+ {
+  "symbol": "NYSE:RNG",
+  "name": "RingCentral, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RNR",
+  "name": "RenaissanceRe Holdings Ltd."
+ },
+ {
+  "symbol": "NYSE:RNST",
+  "name": "Renasant Corporation"
+ },
+ {
+  "symbol": "NASDAQ:RNW",
+  "name": "ReNew Energy Global plc Class A"
+ },
+ {
+  "symbol": "NASDAQ:ROAD",
+  "name": "Construction Partners, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ROG",
+  "name": "Rogers Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ROIV",
+  "name": "Roivant Sciences Ltd."
+ },
+ {
+  "symbol": "NYSE:ROK",
+  "name": "Rockwell Automation, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ROKU",
+  "name": "Roku, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ROL",
+  "name": "Rollins, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ROP",
+  "name": "Roper Technologies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ROST",
+  "name": "Ross Stores, Inc."
+ },
+ {
+  "symbol": "NYSE:RPM",
+  "name": "RPM International Inc."
+ },
+ {
+  "symbol": "NASDAQ:RPRX",
+  "name": "Royalty Pharma Plc Class A"
+ },
+ {
+  "symbol": "NYSE:RRC",
+  "name": "Range Resources Corporation"
+ },
+ {
+  "symbol": "NASDAQ:RRR",
+  "name": "Red Rock Resorts, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RRX",
+  "name": "Regal Rexnord Corporation"
+ },
+ {
+  "symbol": "NYSE:RS",
+  "name": "Reliance, Inc."
+ },
+ {
+  "symbol": "NYSE:RSG",
+  "name": "Republic Services, Inc."
+ },
+ {
+  "symbol": "NYSE:RSI",
+  "name": "Rush Street Interactive, Inc. Class A"
+ },
+ {
+  "symbol": "AMEX:RSP",
+  "name": "Invesco S&P 500 Equal Weight ETF"
+ },
+ {
+  "symbol": "NYSE:RTO",
+  "name": "Rentokil Initial plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:RTX",
+  "name": "RTX Corporation"
+ },
+ {
+  "symbol": "NASDAQ:RUM",
+  "name": "RUM Group Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:RUSHA",
+  "name": "Rush Enterprises, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:RUSHB",
+  "name": "Rush Enterprises, Inc. Class B"
+ },
+ {
+  "symbol": "NASDAQ:RVMD",
+  "name": "Revolution Medicines, Inc."
+ },
+ {
+  "symbol": "NYSE:RVTY",
+  "name": "Revvity, Inc."
+ },
+ {
+  "symbol": "NYSE:RXO",
+  "name": "RXO, Inc."
+ },
+ {
+  "symbol": "NASDAQ:RXRX",
+  "name": "Recursion Pharmaceuticals, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RY",
+  "name": "Royal Bank of Canada"
+ },
+ {
+  "symbol": "NASDAQ:RYAAY",
+  "name": "Ryanair Holdings PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:RYAN",
+  "name": "Ryan Specialty Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:RYN",
+  "name": "Rayonier Inc."
+ },
+ {
+  "symbol": "NASDAQ:RYTM",
+  "name": "Rhythm Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:S",
+  "name": "SentinelOne, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:SA",
+  "name": "Seabridge Gold Inc"
+ },
+ {
+  "symbol": "NASDAQ:SAIA",
+  "name": "Saia, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SAIC",
+  "name": "Science Applications International Corp."
+ },
+ {
+  "symbol": "NASDAQ:SAIL",
+  "name": "SailPoint, Inc."
+ },
+ {
+  "symbol": "NYSE:SAN",
+  "name": "Banco Santander S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:SANM",
+  "name": "Sanmina Corporation"
+ },
+ {
+  "symbol": "NYSE:SAP",
+  "name": "SAP SE Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SARO",
+  "name": "StandardAero, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SBAC",
+  "name": "SBA Communications Corp. Class A"
+ },
+ {
+  "symbol": "NASDAQ:SBCF",
+  "name": "Seacoast Banking Corporation of Florida"
+ },
+ {
+  "symbol": "NASDAQ:SBLK",
+  "name": "Star Bulk Carriers Corp."
+ },
+ {
+  "symbol": "NASDAQ:SBRA",
+  "name": "Sabra Health Care REIT, Inc."
+ },
+ {
+  "symbol": "NYSE:SBS",
+  "name": "Companhia de Saneamento Basico do Estado de Sao Paulo SABESP Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SBSW",
+  "name": "Sibanye Stillwater Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:SBUX",
+  "name": "Starbucks Corporation"
+ },
+ {
+  "symbol": "NYSE:SCCO",
+  "name": "Southern Copper Corporation"
+ },
+ {
+  "symbol": "AMEX:SCHA",
+  "name": "Schwab U.S. Small-Cap ETF"
+ },
+ {
+  "symbol": "AMEX:SCHB",
+  "name": "Schwab U.S. Broad Market ETF"
+ },
+ {
+  "symbol": "AMEX:SCHD",
+  "name": "Schwab US Dividend Equity ETF"
+ },
+ {
+  "symbol": "AMEX:SCHE",
+  "name": "Schwab Emerging Markets Equity ETF"
+ },
+ {
+  "symbol": "AMEX:SCHF",
+  "name": "Schwab International Equity ETF"
+ },
+ {
+  "symbol": "AMEX:SCHG",
+  "name": "Schwab U.S. Large-Cap Growth ETF"
+ },
+ {
+  "symbol": "AMEX:SCHM",
+  "name": "Schwab U.S. Mid-Cap ETF"
+ },
+ {
+  "symbol": "AMEX:SCHO",
+  "name": "Schwab Short-Term US Treasury ETF"
+ },
+ {
+  "symbol": "AMEX:SCHP",
+  "name": "Schwab US TIPS ETF"
+ },
+ {
+  "symbol": "AMEX:SCHR",
+  "name": "Schwab Intermediate-Term US Treasury ETF"
+ },
+ {
+  "symbol": "AMEX:SCHV",
+  "name": "Schwab U.S. Large-Cap Value ETF"
+ },
+ {
+  "symbol": "NYSE:SCHW",
+  "name": "Charles Schwab Corp"
+ },
+ {
+  "symbol": "AMEX:SCHX",
+  "name": "Schwab U.S. Large-Cap ETF"
+ },
+ {
+  "symbol": "NYSE:SCI",
+  "name": "Service Corporation International"
+ },
+ {
+  "symbol": "NASDAQ:SCZ",
+  "name": "iShares MSCI EAFE Small-Cap ETF"
+ },
+ {
+  "symbol": "NASDAQ:SDGR",
+  "name": "Schrodinger, Inc."
+ },
+ {
+  "symbol": "NYSE:SDRL",
+  "name": "Seadrill Limited"
+ },
+ {
+  "symbol": "AMEX:SDY",
+  "name": "State Street SPDR S&P Dividend ETF"
+ },
+ {
+  "symbol": "NYSE:SE",
+  "name": "Sea Limited Sponsored ADR Class A"
+ },
+ {
+  "symbol": "AMEX:SEB",
+  "name": "Seaboard Corporation"
+ },
+ {
+  "symbol": "NYSE:SECZ",
+  "name": "Securitize Corp."
+ },
+ {
+  "symbol": "NYSE:SEI",
+  "name": "Solaris Energy Infrastructure, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:SEIC",
+  "name": "SEI Investments Company"
+ },
+ {
+  "symbol": "NASDAQ:SEZL",
+  "name": "Sezzle Inc."
+ },
+ {
+  "symbol": "NYSE:SF",
+  "name": "Stifel Financial Corp"
+ },
+ {
+  "symbol": "NYSE:SFBS",
+  "name": "ServisFirst Bancshares Inc"
+ },
+ {
+  "symbol": "NASDAQ:SFD",
+  "name": "Smithfield Foods, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SFM",
+  "name": "Sprouts Farmers Market, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SFNC",
+  "name": "Simmons First National Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:SGHC",
+  "name": "Super Group (SGHC) Limited"
+ },
+ {
+  "symbol": "NYSE:SGI",
+  "name": "Somnigroup International Inc."
+ },
+ {
+  "symbol": "NYSE:SGOV",
+  "name": "iShares 0-3 Month Treasury Bond ETF"
+ },
+ {
+  "symbol": "NYSE:SHAK",
+  "name": "Shake Shack, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:SHC",
+  "name": "Sotera Health Company"
+ },
+ {
+  "symbol": "NYSE:SHEL",
+  "name": "Shell Plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SHG",
+  "name": "Shinhan Financial Group Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:SHOO",
+  "name": "Steven Madden, Ltd."
+ },
+ {
+  "symbol": "NASDAQ:SHOP",
+  "name": "Shopify, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:SHV",
+  "name": "iShares Trust iShares 0-1 Year Treasury Bond ETF"
+ },
+ {
+  "symbol": "NYSE:SHW",
+  "name": "Sherwin-Williams Company"
+ },
+ {
+  "symbol": "NASDAQ:SHY",
+  "name": "iShares 1-3 Year Treasury Bond ETF"
+ },
+ {
+  "symbol": "NYSE:SIG",
+  "name": "Signet Jewelers Limited"
+ },
+ {
+  "symbol": "NASDAQ:SIGI",
+  "name": "Selective Insurance Group, Inc."
+ },
+ {
+  "symbol": "NYSE:SII",
+  "name": "Sprott Inc."
+ },
+ {
+  "symbol": "AMEX:SIM",
+  "name": "Grupo Simec SAB de CV Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NASDAQ:SIMO",
+  "name": "Silicon Motion Technology Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SIND",
+  "name": "Sinda Limited"
+ },
+ {
+  "symbol": "NASDAQ:SIRI",
+  "name": "SiriusXM Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:SITE",
+  "name": "SiteOne Landscape Supply, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SITM",
+  "name": "SiTime Corporation"
+ },
+ {
+  "symbol": "NYSE:SJM",
+  "name": "J.M. Smucker Company"
+ },
+ {
+  "symbol": "NYSE:SKE",
+  "name": "Skeena Resources Limited"
+ },
+ {
+  "symbol": "NASDAQ:SKHY",
+  "name": "SK hynix Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SKM",
+  "name": "SK Telecom Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SKT",
+  "name": "Tanger Inc."
+ },
+ {
+  "symbol": "NASDAQ:SKWD",
+  "name": "Skyward Specialty Insurance Group, Inc."
+ },
+ {
+  "symbol": "NYSE:SKY",
+  "name": "Champion Homes, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SKYW",
+  "name": "SkyWest, Inc"
+ },
+ {
+  "symbol": "NASDAQ:SLAB",
+  "name": "Silicon Laboratories Inc."
+ },
+ {
+  "symbol": "NYSE:SLB",
+  "name": "SLB Limited"
+ },
+ {
+  "symbol": "NASDAQ:SLDE",
+  "name": "Slide Insurance Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:SLF",
+  "name": "Sun Life Financial Inc."
+ },
+ {
+  "symbol": "NYSE:SLG",
+  "name": "SL Green Realty Corp."
+ },
+ {
+  "symbol": "NYSE:SLGN",
+  "name": "Silgan Holdings Inc."
+ },
+ {
+  "symbol": "NASDAQ:SLM",
+  "name": "SLM Corp"
+ },
+ {
+  "symbol": "NASDAQ:SLS",
+  "name": "SELLAS Life Sciences Group, Inc."
+ },
+ {
+  "symbol": "AMEX:SLV",
+  "name": "iShares Silver Trust"
+ },
+ {
+  "symbol": "NYSE:SM",
+  "name": "SM Energy Company"
+ },
+ {
+  "symbol": "NASDAQ:SMCI",
+  "name": "Super Micro Computer, Inc."
+ },
+ {
+  "symbol": "NYSE:SMFG",
+  "name": "Sumitomo Mitsui Financial Group Inc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SMG",
+  "name": "Scotts Miracle-Gro Company Class A"
+ },
+ {
+  "symbol": "NASDAQ:SMH",
+  "name": "VanEck Semiconductor ETF"
+ },
+ {
+  "symbol": "NASDAQ:SMMT",
+  "name": "Summit Therapeutics Inc"
+ },
+ {
+  "symbol": "NYSE:SMR",
+  "name": "NuScale Power Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:SMTC",
+  "name": "Semtech Corporation"
+ },
+ {
+  "symbol": "NYSE:SN",
+  "name": "SharkNinja, Inc."
+ },
+ {
+  "symbol": "NYSE:SNA",
+  "name": "Snap-on Incorporated"
+ },
+ {
+  "symbol": "NYSE:SNAP",
+  "name": "Snap, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:SNDK",
+  "name": "Sandisk Corporation"
+ },
+ {
+  "symbol": "NYSE:SNDR",
+  "name": "Schneider National, Inc. Class B"
+ },
+ {
+  "symbol": "NASDAQ:SNEX",
+  "name": "StoneX Group Inc."
+ },
+ {
+  "symbol": "NYSE:SNN",
+  "name": "Smith & Nephew plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SNOW",
+  "name": "Snowflake, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SNPS",
+  "name": "Synopsys, Inc."
+ },
+ {
+  "symbol": "NYSE:SNX",
+  "name": "TD SYNNEX Corporation"
+ },
+ {
+  "symbol": "NASDAQ:SNY",
+  "name": "Sanofi SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SO",
+  "name": "Southern Company"
+ },
+ {
+  "symbol": "NYSE:SOBO",
+  "name": "South Bow Corp"
+ },
+ {
+  "symbol": "NASDAQ:SOFI",
+  "name": "SoFi Technologies Inc"
+ },
+ {
+  "symbol": "NASDAQ:SOLS",
+  "name": "Solstice Advanced Materials, Inc."
+ },
+ {
+  "symbol": "NYSE:SOLV",
+  "name": "Solventum Corporation"
+ },
+ {
+  "symbol": "NYSE:SON",
+  "name": "Sonoco Products Company"
+ },
+ {
+  "symbol": "NYSE:SONY",
+  "name": "Sony Group Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:SOUN",
+  "name": "SoundHound AI, Inc Class A"
+ },
+ {
+  "symbol": "AMEX:SOXL",
+  "name": "Direxion Daily Semiconductor Bull 3X ETF"
+ },
+ {
+  "symbol": "NASDAQ:SOXX",
+  "name": "iShares Semiconductor ETF"
+ },
+ {
+  "symbol": "NASDAQ:SPCX",
+  "name": "Space Exploration Technologies Corp"
+ },
+ {
+  "symbol": "AMEX:SPDW",
+  "name": "State Street SPDR Portfolio Developed World ex-US ETF"
+ },
+ {
+  "symbol": "AMEX:SPEM",
+  "name": "State Street SPDR Portfolio Emerging Markets ETF"
+ },
+ {
+  "symbol": "NYSE:SPG",
+  "name": "Simon Property Group, Inc."
+ },
+ {
+  "symbol": "NYSE:SPGI",
+  "name": "S&P Global, Inc."
+ },
+ {
+  "symbol": "AMEX:SPHQ",
+  "name": "Invesco S&P 500 Quality ETF"
+ },
+ {
+  "symbol": "NYSE:SPHR",
+  "name": "Sphere Entertainment Co. Class A"
+ },
+ {
+  "symbol": "AMEX:SPHY",
+  "name": "State Street SPDR Portfolio High Yield Bond ETF"
+ },
+ {
+  "symbol": "AMEX:SPMD",
+  "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF"
+ },
+ {
+  "symbol": "AMEX:SPMO",
+  "name": "Invesco S&P 500 Momentum ETF"
+ },
+ {
+  "symbol": "NYSE:SPNT",
+  "name": "SiriusPoint Ltd"
+ },
+ {
+  "symbol": "NYSE:SPOT",
+  "name": "Spotify Technology SA"
+ },
+ {
+  "symbol": "NASDAQ:SPSC",
+  "name": "SPS Commerce, Inc."
+ },
+ {
+  "symbol": "AMEX:SPSM",
+  "name": "State Street SPDR Portfolio S&P 600 Small Cap ETF"
+ },
+ {
+  "symbol": "AMEX:SPTM",
+  "name": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF"
+ },
+ {
+  "symbol": "NYSE:SPXC",
+  "name": "SPX Technologies, Inc."
+ },
+ {
+  "symbol": "AMEX:SPY",
+  "name": "State Street SPDR S&P 500 ETF"
+ },
+ {
+  "symbol": "AMEX:SPYG",
+  "name": "State Street SPDR Portfolio S&P 500 Growth ETF"
+ },
+ {
+  "symbol": "AMEX:SPYM",
+  "name": "State Street SPDR Portfolio S&P 500 ETF"
+ },
+ {
+  "symbol": "AMEX:SPYV",
+  "name": "State Street SPDR Portfolio S&P 500 Value ETF"
+ },
+ {
+  "symbol": "NYSE:SQM",
+  "name": "Sociedad Quimica y Minera de Chile S.A. Sponsored ADR Pfd Series B"
+ },
+ {
+  "symbol": "NYSE:SR",
+  "name": "Spire Inc."
+ },
+ {
+  "symbol": "NASDAQ:SRAD",
+  "name": "Sportradar Group AG Class A"
+ },
+ {
+  "symbol": "NYSE:SRE",
+  "name": "Sempra"
+ },
+ {
+  "symbol": "NASDAQ:SRRK",
+  "name": "Scholar Rock Holding Corp."
+ },
+ {
+  "symbol": "NYSE:SSB",
+  "name": "SouthState Bank Corporation"
+ },
+ {
+  "symbol": "NYSE:SSD",
+  "name": "Simpson Manufacturing Co., Inc."
+ },
+ {
+  "symbol": "NYSE:SSL",
+  "name": "Sasol Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:SSNC",
+  "name": "SS&C Technologies Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SSRM",
+  "name": "SSR Mining Inc"
+ },
+ {
+  "symbol": "NYSE:ST",
+  "name": "Sensata Technologies Holding PLC"
+ },
+ {
+  "symbol": "NYSE:STAG",
+  "name": "STAG Industrial, Inc."
+ },
+ {
+  "symbol": "NYSE:STE",
+  "name": "STERIS plc"
+ },
+ {
+  "symbol": "NASDAQ:STEP",
+  "name": "StepStone Group, Inc. Class A"
+ },
+ {
+  "symbol": "AMEX:STIP",
+  "name": "iShares 0-5 Year TIPS Bond ETF"
+ },
+ {
+  "symbol": "NYSE:STLA",
+  "name": "Stellantis N.V."
+ },
+ {
+  "symbol": "NASDAQ:STLD",
+  "name": "Steel Dynamics, Inc."
+ },
+ {
+  "symbol": "NYSE:STM",
+  "name": "STMicroelectronics NV Sponsored ADR RegS"
+ },
+ {
+  "symbol": "NYSE:STN",
+  "name": "Stantec Inc"
+ },
+ {
+  "symbol": "NASDAQ:STNE",
+  "name": "StoneCo Ltd. Class A"
+ },
+ {
+  "symbol": "NYSE:STNG",
+  "name": "Scorpio Tankers Inc."
+ },
+ {
+  "symbol": "NASDAQ:STRL",
+  "name": "Sterling Infrastructure, Inc."
+ },
+ {
+  "symbol": "NYSE:STT",
+  "name": "State Street Corporation"
+ },
+ {
+  "symbol": "NYSE:STVN",
+  "name": "Stevanato Group SpA"
+ },
+ {
+  "symbol": "NYSE:STWD",
+  "name": "Starwood Property Trust, Inc."
+ },
+ {
+  "symbol": "NASDAQ:STX",
+  "name": "Seagate Technology Holdings PLC"
+ },
+ {
+  "symbol": "NYSE:STZ",
+  "name": "Constellation Brands, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:SU",
+  "name": "Suncor Energy Inc."
+ },
+ {
+  "symbol": "AMEX:SUB",
+  "name": "iShares Short-Term National Muni Bond ETF"
+ },
+ {
+  "symbol": "NYSE:SUI",
+  "name": "Sun Communities, Inc."
+ },
+ {
+  "symbol": "NYSE:SUN",
+  "name": "Sunoco LP"
+ },
+ {
+  "symbol": "NYSE:SUNB",
+  "name": "Sunbelt Rentals Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:SUNC",
+  "name": "SunocoCorp LLC"
+ },
+ {
+  "symbol": "NASDAQ:SUPN",
+  "name": "Supernus Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:SUZ",
+  "name": "Suzano S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:SVM",
+  "name": "Silvercorp Metals Inc."
+ },
+ {
+  "symbol": "NYSE:SW",
+  "name": "Smurfit Westrock PLC"
+ },
+ {
+  "symbol": "NYSE:SWK",
+  "name": "Stanley Black & Decker, Inc."
+ },
+ {
+  "symbol": "NASDAQ:SWKS",
+  "name": "Skyworks Solutions, Inc."
+ },
+ {
+  "symbol": "NYSE:SWX",
+  "name": "Southwest Gas Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:SXI",
+  "name": "Standex International Corporation"
+ },
+ {
+  "symbol": "NYSE:SXT",
+  "name": "Sensient Technologies Corporation"
+ },
+ {
+  "symbol": "NASDAQ:SYBT",
+  "name": "Stock Yards Bancorp, Inc."
+ },
+ {
+  "symbol": "NYSE:SYF",
+  "name": "Synchrony Financial"
+ },
+ {
+  "symbol": "NYSE:SYK",
+  "name": "Stryker Corporation"
+ },
+ {
+  "symbol": "NASDAQ:SYM",
+  "name": "Symbotic, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:SYNA",
+  "name": "Synaptics Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:SYRE",
+  "name": "Spyre Therapeutics, Inc"
+ },
+ {
+  "symbol": "NYSE:SYY",
+  "name": "Sysco Corporation"
+ },
+ {
+  "symbol": "NYSE:T",
+  "name": "AT&T Inc"
+ },
+ {
+  "symbol": "NYSE:TAC",
+  "name": "TransAlta Corporation"
+ },
+ {
+  "symbol": "NYSE:TAK",
+  "name": "Takeda Pharmaceutical Co. Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:TAL",
+  "name": "TAL Education Group Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:TALO",
+  "name": "Talos Energy, Inc."
+ },
+ {
+  "symbol": "NYSE:TAP",
+  "name": "Molson Coors Beverage Company Class B"
+ },
+ {
+  "symbol": "NYSE:TAP.A",
+  "name": "Molson Coors Beverage Company Class A"
+ },
+ {
+  "symbol": "NASDAQ:TARS",
+  "name": "Tarsus Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:TBBB",
+  "name": "BBB Foods, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:TCBI",
+  "name": "Texas Capital Bancshares, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TCOM",
+  "name": "Trip.com Group Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:TD",
+  "name": "Toronto-Dominion Bank"
+ },
+ {
+  "symbol": "NYSE:TDC",
+  "name": "Teradata Corporation"
+ },
+ {
+  "symbol": "NYSE:TDG",
+  "name": "TransDigm Group Incorporated"
+ },
+ {
+  "symbol": "NYSE:TDS",
+  "name": "Telephone and Data Systems, Inc."
+ },
+ {
+  "symbol": "NYSE:TDW",
+  "name": "Tidewater Inc"
+ },
+ {
+  "symbol": "NYSE:TDY",
+  "name": "Teledyne Technologies Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:TEAM",
+  "name": "Atlassian Corp Class A"
+ },
+ {
+  "symbol": "NASDAQ:TECH",
+  "name": "Bio-Techne Corporation"
+ },
+ {
+  "symbol": "NYSE:TECK",
+  "name": "Teck Resources Limited Class B"
+ },
+ {
+  "symbol": "NYSE:TEL",
+  "name": "TE Connectivity plc"
+ },
+ {
+  "symbol": "NASDAQ:TEM",
+  "name": "Tempus AI, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:TENB",
+  "name": "Tenable Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:TEO",
+  "name": "Telecom Argentina SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:TER",
+  "name": "Teradyne, Inc."
+ },
+ {
+  "symbol": "NYSE:TEVA",
+  "name": "Teva Pharmaceutical Industries Limited"
+ },
+ {
+  "symbol": "NYSE:TEX",
+  "name": "Terex Corporation"
+ },
+ {
+  "symbol": "NYSE:TFC",
+  "name": "Truist Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:TFII",
+  "name": "TFI International Inc."
+ },
+ {
+  "symbol": "NYSE:TFPM",
+  "name": "Triple Flag Precious Metals Corp."
+ },
+ {
+  "symbol": "NASDAQ:TFSL",
+  "name": "TFS Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:TFX",
+  "name": "Teleflex Incorporated"
+ },
+ {
+  "symbol": "AMEX:TGB",
+  "name": "Trekor Metals Limited"
+ },
+ {
+  "symbol": "NYSE:TGS",
+  "name": "Transportadora de Gas del Sur SA Sponsored ADR Class B RegS"
+ },
+ {
+  "symbol": "NYSE:TGT",
+  "name": "Target Corporation"
+ },
+ {
+  "symbol": "NASDAQ:TGTX",
+  "name": "TG Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:THC",
+  "name": "Tenet Healthcare Corporation"
+ },
+ {
+  "symbol": "NYSE:THG",
+  "name": "Hanover Insurance Group, Inc."
+ },
+ {
+  "symbol": "NYSE:THO",
+  "name": "Thor Industries, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TIGO",
+  "name": "Millicom International Cellular SA"
+ },
+ {
+  "symbol": "NYSE:TIMB",
+  "name": "TIM S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:TIP",
+  "name": "iShares TIPS Bond ETF"
+ },
+ {
+  "symbol": "NYSE:TJX",
+  "name": "TJX Companies Inc"
+ },
+ {
+  "symbol": "NYSE:TKC",
+  "name": "Turkcell Iletisim Hizmetleri A.S. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:TKO",
+  "name": "TKO Group Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:TKR",
+  "name": "Timken Company"
+ },
+ {
+  "symbol": "NYSE:TLK",
+  "name": "PT Telkom Indonesia (Persero) Tbk Sponsored ADR Class B"
+ },
+ {
+  "symbol": "NASDAQ:TLN",
+  "name": "Talen Energy Corp"
+ },
+ {
+  "symbol": "NASDAQ:TLT",
+  "name": "iShares 20+ Year Treasury Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:TLX",
+  "name": "Telix Pharmaceuticals Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:TM",
+  "name": "Toyota Motor Corp. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:TMDX",
+  "name": "TransMedics Group, Inc."
+ },
+ {
+  "symbol": "NYSE:TME",
+  "name": "Tencent Music Entertainment Group Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:TMO",
+  "name": "Thermo Fisher Scientific Inc."
+ },
+ {
+  "symbol": "NASDAQ:TMUS",
+  "name": "T-Mobile US, Inc."
+ },
+ {
+  "symbol": "NYSE:TNET",
+  "name": "TriNet Group, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TNGX",
+  "name": "Tango Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:TNK",
+  "name": "Teekay Tankers Ltd Class A"
+ },
+ {
+  "symbol": "NYSE:TNL",
+  "name": "Travel + Leisure Co."
+ },
+ {
+  "symbol": "NYSE:TOL",
+  "name": "Toll Brothers, Inc."
+ },
+ {
+  "symbol": "NYSE:TOST",
+  "name": "Toast, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:TOWN",
+  "name": "TowneBank"
+ },
+ {
+  "symbol": "NYSE:TPC",
+  "name": "Tutor Perini Corporation"
+ },
+ {
+  "symbol": "NASDAQ:TPG",
+  "name": "TPG Inc Class A"
+ },
+ {
+  "symbol": "NYSE:TPL",
+  "name": "Texas Pacific Land Corporation"
+ },
+ {
+  "symbol": "NYSE:TPR",
+  "name": "Tapestry, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TQQQ",
+  "name": "ProShares UltraPro QQQ"
+ },
+ {
+  "symbol": "NYSE:TR",
+  "name": "Tootsie Roll Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:TREX",
+  "name": "Trex Company, Inc."
+ },
+ {
+  "symbol": "NYSE:TRGP",
+  "name": "Targa Resources Corp."
+ },
+ {
+  "symbol": "NASDAQ:TRI",
+  "name": "Thomson Reuters Corporation"
+ },
+ {
+  "symbol": "NYSE:TRLV",
+  "name": "Trulieve Cannabis Corp."
+ },
+ {
+  "symbol": "NASDAQ:TRMB",
+  "name": "Trimble Inc."
+ },
+ {
+  "symbol": "NASDAQ:TRMD",
+  "name": "TORM PLC Class A"
+ },
+ {
+  "symbol": "NASDAQ:TRMK",
+  "name": "Trustmark Corporation"
+ },
+ {
+  "symbol": "NYSE:TRNO",
+  "name": "Terreno Realty Corporation"
+ },
+ {
+  "symbol": "NASDAQ:TROW",
+  "name": "T. Rowe Price Group, Inc."
+ },
+ {
+  "symbol": "NYSE:TRP",
+  "name": "TC Energy Corporation"
+ },
+ {
+  "symbol": "NYSE:TRU",
+  "name": "TransUnion"
+ },
+ {
+  "symbol": "NYSE:TRV",
+  "name": "Travelers Companies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TRVG",
+  "name": "trivago N.V. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:TS",
+  "name": "Tenaris S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:TSCO",
+  "name": "Tractor Supply Company"
+ },
+ {
+  "symbol": "NASDAQ:TSEM",
+  "name": "Tower Semiconductor Ltd"
+ },
+ {
+  "symbol": "NASDAQ:TSLA",
+  "name": "Tesla, Inc."
+ },
+ {
+  "symbol": "NYSE:TSM",
+  "name": "Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:TSN",
+  "name": "Tyson Foods, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:TT",
+  "name": "Trane Technologies plc"
+ },
+ {
+  "symbol": "NYSE:TTAM",
+  "name": "Titan America SA"
+ },
+ {
+  "symbol": "NASDAQ:TTAN",
+  "name": "ServiceTitan, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:TTC",
+  "name": "Toro Company"
+ },
+ {
+  "symbol": "NASDAQ:TTD",
+  "name": "Trade Desk, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:TTE",
+  "name": "TotalEnergies SE"
+ },
+ {
+  "symbol": "NASDAQ:TTEK",
+  "name": "Tetra Tech, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TTMI",
+  "name": "TTM Technologies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TTWO",
+  "name": "Take-Two Interactive Software, Inc."
+ },
+ {
+  "symbol": "NYSE:TU",
+  "name": "TELUS Corporation"
+ },
+ {
+  "symbol": "NASDAQ:TVTX",
+  "name": "Travere Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TW",
+  "name": "Tradeweb Markets, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:TWLO",
+  "name": "Twilio, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:TWST",
+  "name": "Twist Bioscience Corp."
+ },
+ {
+  "symbol": "NYSE:TX",
+  "name": "Ternium S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:TXG",
+  "name": "10x Genomics Inc Class A"
+ },
+ {
+  "symbol": "NASDAQ:TXN",
+  "name": "Texas Instruments Incorporated"
+ },
+ {
+  "symbol": "NYSE:TXNM",
+  "name": "TXNM Energy, Inc."
+ },
+ {
+  "symbol": "NASDAQ:TXRH",
+  "name": "Texas Roadhouse, Inc."
+ },
+ {
+  "symbol": "NYSE:TXT",
+  "name": "Textron Inc."
+ },
+ {
+  "symbol": "NYSE:TYL",
+  "name": "Tyler Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:U",
+  "name": "Unity Software, Inc."
+ },
+ {
+  "symbol": "NASDAQ:UAL",
+  "name": "United Airlines Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:UBER",
+  "name": "Uber Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:UBS",
+  "name": "UBS Group AG"
+ },
+ {
+  "symbol": "NASDAQ:UBSI",
+  "name": "United Bankshares, Inc."
+ },
+ {
+  "symbol": "NYSE:UCB",
+  "name": "United Community Banks, Inc."
+ },
+ {
+  "symbol": "NASDAQ:UCTT",
+  "name": "Ultra Clean Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:UDR",
+  "name": "UDR, Inc."
+ },
+ {
+  "symbol": "NYSE:UE",
+  "name": "Urban Edge Properties"
+ },
+ {
+  "symbol": "AMEX:UEC",
+  "name": "Uranium Energy Corp."
+ },
+ {
+  "symbol": "NASDAQ:UFPI",
+  "name": "UFP Industries, Inc."
+ },
+ {
+  "symbol": "NASDAQ:UFPT",
+  "name": "UFP Technologies, Inc."
+ },
+ {
+  "symbol": "NYSE:UGI",
+  "name": "UGI Corporation"
+ },
+ {
+  "symbol": "NYSE:UGP",
+  "name": "Ultrapar Participacoes S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:UHAL",
+  "name": "U-Haul Holding Company"
+ },
+ {
+  "symbol": "NYSE:UHAL.B",
+  "name": "U-Haul Holding Company Series N Non-Voting"
+ },
+ {
+  "symbol": "NYSE:UHS",
+  "name": "Universal Health Services, Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:UI",
+  "name": "Ubiquiti Inc."
+ },
+ {
+  "symbol": "NYSE:UL",
+  "name": "Unilever PLC Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:ULS",
+  "name": "UL Solutions Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:ULTA",
+  "name": "Ulta Beauty Inc."
+ },
+ {
+  "symbol": "NASDAQ:UMBF",
+  "name": "UMB Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:UMC",
+  "name": "United Microelectronics Corp. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:UNF",
+  "name": "UniFirst Corporation"
+ },
+ {
+  "symbol": "NYSE:UNFI",
+  "name": "United Natural Foods, Inc."
+ },
+ {
+  "symbol": "NYSE:UNH",
+  "name": "UnitedHealth Group Incorporated"
+ },
+ {
+  "symbol": "NYSE:UNM",
+  "name": "Unum Group"
+ },
+ {
+  "symbol": "NYSE:UNP",
+  "name": "Union Pacific Corporation"
+ },
+ {
+  "symbol": "NYSE:UPS",
+  "name": "United Parcel Service, Inc. Class B"
+ },
+ {
+  "symbol": "NASDAQ:UPST",
+  "name": "Upstart Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:URBN",
+  "name": "Urban Outfitters, Inc."
+ },
+ {
+  "symbol": "NYSE:URI",
+  "name": "United Rentals, Inc."
+ },
+ {
+  "symbol": "NYSE:USAC",
+  "name": "USA Compression Partners LP"
+ },
+ {
+  "symbol": "NASDAQ:USAR",
+  "name": "USA Rare Earth, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:USB",
+  "name": "U.S. Bancorp"
+ },
+ {
+  "symbol": "NYSE:USFD",
+  "name": "US Foods Holding Corp."
+ },
+ {
+  "symbol": "AMEX:USFR",
+  "name": "WisdomTree Floating Rate Treasury Fund"
+ },
+ {
+  "symbol": "NASDAQ:USIG",
+  "name": "iShares Broad USD Investment Grade Corporate Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:USLM",
+  "name": "United States Lime & Minerals, Inc."
+ },
+ {
+  "symbol": "NASDAQ:UTHR",
+  "name": "United Therapeutics Corporation"
+ },
+ {
+  "symbol": "AMEX:UUUU",
+  "name": "Energy Fuels Inc."
+ },
+ {
+  "symbol": "NYSE:V",
+  "name": "Visa Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:VAC",
+  "name": "Marriott Vacations Worldwide Corporation"
+ },
+ {
+  "symbol": "NYSE:VAL",
+  "name": "Valaris Ltd."
+ },
+ {
+  "symbol": "NYSE:VALE",
+  "name": "Vale S.A. Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:VB",
+  "name": "Vanguard Morningstar Small-Cap ETF"
+ },
+ {
+  "symbol": "NASDAQ:VBIL",
+  "name": "Vanguard 0-3 Month Treasury Bill ETF"
+ },
+ {
+  "symbol": "AMEX:VBK",
+  "name": "Vanguard Morningstar Small-Cap Growth ETF"
+ },
+ {
+  "symbol": "AMEX:VBR",
+  "name": "Vanguard Morningstar Small-Cap Value ETF"
+ },
+ {
+  "symbol": "NASDAQ:VC",
+  "name": "Visteon Corporation"
+ },
+ {
+  "symbol": "NASDAQ:VCIT",
+  "name": "Vanguard Intermediate-Term Corporate Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:VCSH",
+  "name": "Vanguard Short-Term Corporate Bond ETF"
+ },
+ {
+  "symbol": "NASDAQ:VCTR",
+  "name": "Victory Capital Holdings, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:VCYT",
+  "name": "Veracyte, Inc."
+ },
+ {
+  "symbol": "AMEX:VEA",
+  "name": "Vanguard FTSE Developed Markets ETF"
+ },
+ {
+  "symbol": "NASDAQ:VECO",
+  "name": "Veeco Instruments Inc."
+ },
+ {
+  "symbol": "NYSE:VEEV",
+  "name": "Veeva Systems Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:VEON",
+  "name": "VEON Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:VERA",
+  "name": "Vera Therapeutics, Inc. Class A"
+ },
+ {
+  "symbol": "AMEX:VEU",
+  "name": "Vanguard FTSE All-World ex-US Index Fund"
+ },
+ {
+  "symbol": "NYSE:VFC",
+  "name": "V.F. Corporation"
+ },
+ {
+  "symbol": "AMEX:VFH",
+  "name": "Vanguard Financials ETF"
+ },
+ {
+  "symbol": "NASDAQ:VFS",
+  "name": "VinFast Auto Ltd."
+ },
+ {
+  "symbol": "NYSE:VG",
+  "name": "Venture Global, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:VGIT",
+  "name": "Vanguard Intermediate-Term Treasury ETF"
+ },
+ {
+  "symbol": "AMEX:VGK",
+  "name": "Vanguard FTSE Europe ETF"
+ },
+ {
+  "symbol": "NYSE:VGNT",
+  "name": "Versigent PLC"
+ },
+ {
+  "symbol": "NASDAQ:VGSH",
+  "name": "Vanguard Short-Term Treasury ETF"
+ },
+ {
+  "symbol": "AMEX:VGT",
+  "name": "Vanguard Information Technology ETF"
+ },
+ {
+  "symbol": "AMEX:VHT",
+  "name": "Vanguard Health Care ETF"
+ },
+ {
+  "symbol": "NYSE:VIA",
+  "name": "Via Transportation, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:VIAV",
+  "name": "Viavi Solutions Inc"
+ },
+ {
+  "symbol": "NYSE:VICI",
+  "name": "VICI Properties Inc"
+ },
+ {
+  "symbol": "NASDAQ:VICR",
+  "name": "Vicor Corporation"
+ },
+ {
+  "symbol": "AMEX:VIG",
+  "name": "Vanguard Dividend Appreciation ETF"
+ },
+ {
+  "symbol": "NYSE:VIK",
+  "name": "Viking Holdings Ltd"
+ },
+ {
+  "symbol": "NYSE:VIPS",
+  "name": "Vipshop Holdings Ltd Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:VIRT",
+  "name": "Virtu Financial, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:VIST",
+  "name": "Vista Energy SAB de CV Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:VIV",
+  "name": "Telefonica Brasil SA Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:VKTX",
+  "name": "Viking Therapeutics, Inc."
+ },
+ {
+  "symbol": "NYSE:VLO",
+  "name": "Valero Energy Corporation"
+ },
+ {
+  "symbol": "NYSE:VLTO",
+  "name": "Veralto Corporation"
+ },
+ {
+  "symbol": "NASDAQ:VLY",
+  "name": "Valley National Bancorp"
+ },
+ {
+  "symbol": "NASDAQ:VMBS",
+  "name": "Vanguard Mortgage-Backed Securities ETF"
+ },
+ {
+  "symbol": "NYSE:VMC",
+  "name": "Vulcan Materials Company"
+ },
+ {
+  "symbol": "NYSE:VMI",
+  "name": "Valmont Industries, Inc."
+ },
+ {
+  "symbol": "NYSE:VMRK",
+  "name": "Vivmark Residential"
+ },
+ {
+  "symbol": "NYSE:VNO",
+  "name": "Vornado Realty Trust"
+ },
+ {
+  "symbol": "NASDAQ:VNOM",
+  "name": "Viper Energy, Inc."
+ },
+ {
+  "symbol": "AMEX:VNQ",
+  "name": "Vanguard Real Estate ETF"
+ },
+ {
+  "symbol": "NYSE:VNT",
+  "name": "Vontier Corp"
+ },
+ {
+  "symbol": "AMEX:VO",
+  "name": "Vanguard Morningstar Mid-Cap ETF"
+ },
+ {
+  "symbol": "NASDAQ:VOD",
+  "name": "Vodafone Group Public Limited Company Sponsored ADR"
+ },
+ {
+  "symbol": "AMEX:VOE",
+  "name": "Vanguard Morningstar Mid-Cap Value ETF"
+ },
+ {
+  "symbol": "NASDAQ:VONG",
+  "name": "Vanguard Russell 1000 Growth ETF"
+ },
+ {
+  "symbol": "NASDAQ:VONV",
+  "name": "Vanguard Russell 1000 Value ETF"
+ },
+ {
+  "symbol": "AMEX:VOO",
+  "name": "Vanguard S&P 500 ETF"
+ },
+ {
+  "symbol": "AMEX:VOOG",
+  "name": "Vanguard S&P 500 Growth ETF"
+ },
+ {
+  "symbol": "AMEX:VOT",
+  "name": "Vanguard Morningstar Mid-Cap Growth ETF"
+ },
+ {
+  "symbol": "NYSE:VOYA",
+  "name": "Voya Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VRDN",
+  "name": "Viridian Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VRNS",
+  "name": "Varonis Systems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VRSK",
+  "name": "Verisk Analytics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VRSN",
+  "name": "VeriSign, Inc."
+ },
+ {
+  "symbol": "NYSE:VRT",
+  "name": "Vertiv Holdings Co. Class A"
+ },
+ {
+  "symbol": "NASDAQ:VRTX",
+  "name": "Vertex Pharmaceuticals Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:VSAT",
+  "name": "ViaSat, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VSEC",
+  "name": "VSE Corporation"
+ },
+ {
+  "symbol": "NYSE:VSH",
+  "name": "Vishay Intertechnology, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VSNT",
+  "name": "Versant Media Group, Inc. Class A"
+ },
+ {
+  "symbol": "AMEX:VSS",
+  "name": "Vanguard FTSE All-World ex-US Small-Cap ETF"
+ },
+ {
+  "symbol": "NYSE:VST",
+  "name": "Vistra Corp."
+ },
+ {
+  "symbol": "NYSE:VSXY",
+  "name": "Victoria's Secret & Company"
+ },
+ {
+  "symbol": "AMEX:VT",
+  "name": "Vanguard Total World Stock ETF"
+ },
+ {
+  "symbol": "AMEX:VTEB",
+  "name": "Vanguard Tax-Exempt Bond ETF"
+ },
+ {
+  "symbol": "AMEX:VTI",
+  "name": "Vanguard Morningstar Total Stock Market ETF"
+ },
+ {
+  "symbol": "NASDAQ:VTIP",
+  "name": "Vanguard Short-Term Inflation-Protected Securities ETF"
+ },
+ {
+  "symbol": "NYSE:VTMX",
+  "name": "Corporacion Inmobiliaria Vesta S.A.B. de C.V. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:VTR",
+  "name": "Ventas, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VTRS",
+  "name": "Viatris, Inc."
+ },
+ {
+  "symbol": "AMEX:VTV",
+  "name": "Vanguard Morningstar Value ETF"
+ },
+ {
+  "symbol": "NASDAQ:VTWO",
+  "name": "Vanguard Russell 2000 ETF"
+ },
+ {
+  "symbol": "AMEX:VUG",
+  "name": "Vanguard Morningstar Growth ETF"
+ },
+ {
+  "symbol": "AMEX:VV",
+  "name": "Vanguard Morningstar Large-Cap ETF"
+ },
+ {
+  "symbol": "NYSE:VVV",
+  "name": "Valvoline, Inc."
+ },
+ {
+  "symbol": "NYSE:VVX",
+  "name": "V2X Inc"
+ },
+ {
+  "symbol": "AMEX:VWO",
+  "name": "Vanguard FTSE Emerging Markets ETF"
+ },
+ {
+  "symbol": "AMEX:VXF",
+  "name": "Vanguard Extended Market ETF"
+ },
+ {
+  "symbol": "NASDAQ:VXUS",
+  "name": "Vanguard Total International Stock ETF"
+ },
+ {
+  "symbol": "AMEX:VYM",
+  "name": "Vanguard High Dividend Yield Index ETF"
+ },
+ {
+  "symbol": "NASDAQ:VYMI",
+  "name": "Vanguard International High Dividend Yield ETF"
+ },
+ {
+  "symbol": "NYSE:VZ",
+  "name": "Verizon Communications Inc."
+ },
+ {
+  "symbol": "NYSE:W",
+  "name": "Wayfair, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WAB",
+  "name": "Westinghouse Air Brake Technologies Corporation"
+ },
+ {
+  "symbol": "NASDAQ:WAFD",
+  "name": "WaFd, Inc."
+ },
+ {
+  "symbol": "NYSE:WAL",
+  "name": "Western Alliance Bancorp"
+ },
+ {
+  "symbol": "NYSE:WAT",
+  "name": "Waters Corporation"
+ },
+ {
+  "symbol": "NASDAQ:WAY",
+  "name": "Waystar Holding Corp."
+ },
+ {
+  "symbol": "NASDAQ:WBD",
+  "name": "Warner Bros. Discovery, Inc. Series A"
+ },
+ {
+  "symbol": "NYSE:WBI",
+  "name": "Waterbridge Infrastructure LLC Class A"
+ },
+ {
+  "symbol": "NYSE:WCC",
+  "name": "WESCO International, Inc."
+ },
+ {
+  "symbol": "NYSE:WCN",
+  "name": "Waste Connections, Inc."
+ },
+ {
+  "symbol": "NASDAQ:WDAY",
+  "name": "Workday, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:WDC",
+  "name": "Western Digital Corporation"
+ },
+ {
+  "symbol": "NASDAQ:WDFC",
+  "name": "WD-40 Company"
+ },
+ {
+  "symbol": "NYSE:WDS",
+  "name": "Woodside Energy Group Ltd Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:WEC",
+  "name": "WEC Energy Group Inc"
+ },
+ {
+  "symbol": "NYSE:WELL",
+  "name": "Welltower Inc."
+ },
+ {
+  "symbol": "NYSE:WES",
+  "name": "Western Midstream Partners, LP"
+ },
+ {
+  "symbol": "NYSE:WEX",
+  "name": "WEX Inc."
+ },
+ {
+  "symbol": "NYSE:WF",
+  "name": "Woori Financial Group, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:WFC",
+  "name": "Wells Fargo & Company"
+ },
+ {
+  "symbol": "NYSE:WFG",
+  "name": "West Fraser Timber Co. Ltd."
+ },
+ {
+  "symbol": "NASDAQ:WFRD",
+  "name": "Weatherford International plc"
+ },
+ {
+  "symbol": "NASDAQ:WGS",
+  "name": "GeneDx Holdings Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:WH",
+  "name": "Wyndham Hotels & Resorts, Inc."
+ },
+ {
+  "symbol": "NYSE:WHD",
+  "name": "Cactus, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:WING",
+  "name": "Wingstop, Inc."
+ },
+ {
+  "symbol": "NYSE:WIT",
+  "name": "Wipro Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:WIX",
+  "name": "Wix.com Ltd."
+ },
+ {
+  "symbol": "NYSE:WK",
+  "name": "Workiva Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WLK",
+  "name": "Westlake Corporation"
+ },
+ {
+  "symbol": "NYSE:WLY",
+  "name": "John Wiley & Sons, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WLYB",
+  "name": "John Wiley & Sons, Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:WM",
+  "name": "Waste Management, Inc."
+ },
+ {
+  "symbol": "NYSE:WMB",
+  "name": "Williams Companies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:WMG",
+  "name": "Warner Music Group Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:WMS",
+  "name": "Advanced Drainage Systems, Inc."
+ },
+ {
+  "symbol": "NASDAQ:WMT",
+  "name": "Walmart Inc."
+ },
+ {
+  "symbol": "NYSE:WOR",
+  "name": "Worthington Enterprises, Inc."
+ },
+ {
+  "symbol": "NYSE:WPC",
+  "name": "W. P. Carey Inc."
+ },
+ {
+  "symbol": "NYSE:WPM",
+  "name": "Wheaton Precious Metals Corp"
+ },
+ {
+  "symbol": "NYSE:WPP",
+  "name": "WPP Plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:WRB",
+  "name": "W. R. Berkley Corporation"
+ },
+ {
+  "symbol": "NYSE:WRBY",
+  "name": "Warby Parker, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:WSBC",
+  "name": "WesBanco, Inc."
+ },
+ {
+  "symbol": "NASDAQ:WSC",
+  "name": "WillScot Holdings Corporation Class A"
+ },
+ {
+  "symbol": "NASDAQ:WSE",
+  "name": "Wise Group plc Class A"
+ },
+ {
+  "symbol": "NASDAQ:WSFS",
+  "name": "WSFS Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:WSM",
+  "name": "Williams-Sonoma, Inc."
+ },
+ {
+  "symbol": "NYSE:WSO",
+  "name": "Watsco, Inc."
+ },
+ {
+  "symbol": "NYSE:WSO.B",
+  "name": "Watsco, Inc. Class B"
+ },
+ {
+  "symbol": "NYSE:WST",
+  "name": "West Pharmaceutical Services, Inc."
+ },
+ {
+  "symbol": "NYSE:WT",
+  "name": "WisdomTree, Inc."
+ },
+ {
+  "symbol": "NASDAQ:WTFC",
+  "name": "Wintrust Financial Corporation"
+ },
+ {
+  "symbol": "NYSE:WTM",
+  "name": "White Mountains Insurance Group Ltd"
+ },
+ {
+  "symbol": "NYSE:WTRG",
+  "name": "Essential Utilities, Inc."
+ },
+ {
+  "symbol": "NYSE:WTS",
+  "name": "Watts Water Technologies, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WTTR",
+  "name": "Select Water Solutions, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:WTW",
+  "name": "Willis Towers Watson Public Limited Company"
+ },
+ {
+  "symbol": "NASDAQ:WULF",
+  "name": "TeraWulf Inc."
+ },
+ {
+  "symbol": "NASDAQ:WWD",
+  "name": "Woodward, Inc."
+ },
+ {
+  "symbol": "NYSE:WY",
+  "name": "Weyerhaeuser Company"
+ },
+ {
+  "symbol": "NASDAQ:WYNN",
+  "name": "Wynn Resorts, Limited"
+ },
+ {
+  "symbol": "NASDAQ:XE",
+  "name": "X-Energy, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:XEL",
+  "name": "Xcel Energy Inc."
+ },
+ {
+  "symbol": "NASDAQ:XENE",
+  "name": "Xenon Pharmaceuticals Inc."
+ },
+ {
+  "symbol": "AMEX:XLC",
+  "name": "State Street Communication Services Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLE",
+  "name": "State Street Energy Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLF",
+  "name": "State Street Financial Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLI",
+  "name": "State Street Industrial Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLK",
+  "name": "State Street Technology Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLP",
+  "name": "State Street Consumer Staples Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLU",
+  "name": "State Street Utilities Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLV",
+  "name": "State Street Health Care Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLY",
+  "name": "State Street Consumer Discretionary Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "NASDAQ:XMTR",
+  "name": "Xometry, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:XOM",
+  "name": "Exxonmobil Holdings Corporation"
+ },
+ {
+  "symbol": "NASDAQ:XP",
+  "name": "XP Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:XPEV",
+  "name": "XPeng, Inc. ADR Sponsored Class A"
+ },
+ {
+  "symbol": "NYSE:XPO",
+  "name": "XPO, Inc."
+ },
+ {
+  "symbol": "NYSE:XXI",
+  "name": "Twenty One Capital, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:XYL",
+  "name": "Xylem Inc."
+ },
+ {
+  "symbol": "NYSE:XYZ",
+  "name": "Block, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:YETI",
+  "name": "YETI Holdings, Inc."
+ },
+ {
+  "symbol": "NYSE:YMM",
+  "name": "Full Truck Alliance Co. Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:YOU",
+  "name": "Clear Secure, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:YPF",
+  "name": "YPF SA Sponsored ADR Class D"
+ },
+ {
+  "symbol": "NYSE:YUM",
+  "name": "Yum! Brands, Inc."
+ },
+ {
+  "symbol": "NYSE:YUMC",
+  "name": "Yum China Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:Z",
+  "name": "Zillow Group, Inc. Class C"
+ },
+ {
+  "symbol": "NYSE:ZBH",
+  "name": "Zimmer Biomet Holdings, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ZBRA",
+  "name": "Zebra Technologies Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:ZETA",
+  "name": "Zeta Global Holdings Corp. Class A"
+ },
+ {
+  "symbol": "NASDAQ:ZG",
+  "name": "Zillow Group, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ZGN",
+  "name": "Ermenegildo Zegna N.V."
+ },
+ {
+  "symbol": "NYSE:ZIM",
+  "name": "ZIM Integrated Shipping Services Ltd."
+ },
+ {
+  "symbol": "NASDAQ:ZION",
+  "name": "Zions Bancorporation NA"
+ },
+ {
+  "symbol": "NASDAQ:ZLAB",
+  "name": "Zai Lab Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:ZM",
+  "name": "Zoom Communications, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:ZS",
+  "name": "Zscaler, Inc."
+ },
+ {
+  "symbol": "NYSE:ZTO",
+  "name": "ZTO Express (Cayman), Inc. Sponsored ADR Class A"
+ },
+ {
+  "symbol": "NYSE:ZTS",
+  "name": "Zoetis, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:ZWS",
+  "name": "Zurn Elkay Water Solutions Corporation"
+ }
+]

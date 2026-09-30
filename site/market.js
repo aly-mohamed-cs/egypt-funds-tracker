@@ -1,61 +1,103 @@
-"use strict";
+import { chartPageUrl, isSymbol, mountWidget, theme } from "./markets.js";
 
-const EMBED_URL = "https://s3.tradingview.com/external-embedding/embed-widget-";
-const DEFAULT_SYMBOL = "EGX:EGX30";
-const QUICK_PICKS = [
-  ["EGX:EGX30", "EGX 30"],
-  ["EGX:EGX70EWI", "EGX 70 EWI"],
-  ["EGX:EGX100EWI", "EGX 100 EWI"],
-  ["EGX:COMI", "CIB"],
-  ["EGX:TMGH", "Talaat Moustafa"],
-  ["EGX:HRHO", "EFG Holding"],
-  ["EGX:EAST", "Eastern Company"],
-  ["EGX:ETEL", "Telecom Egypt"],
-  ["EGX:SWDY", "Elsewedy Electric"],
-  ["EGX:ABUK", "Abu Qir Fertilizers"],
-  ["EGX:FWRY", "Fawry"],
-  ["EGX:EFIH", "e-finance"],
-  ["EGX:ORAS", "Orascom Construction"],
+const COINS = [
+  ["CRYPTO:BTCUSD", "Bitcoin"],
+  ["CRYPTO:ETHUSD", "Ethereum"],
+  ["CRYPTO:XRPUSD", "XRP"],
+  ["CRYPTO:BNBUSD", "BNB"],
+  ["CRYPTO:SOLUSD", "Solana"],
+  ["CRYPTO:TRXUSD", "TRON"],
+  ["CRYPTO:DOGEUSD", "Dogecoin"],
+  ["CRYPTO:ADAUSD", "Cardano"],
+  ["CRYPTO:LINKUSD", "Chainlink"],
 ];
 
+// Each market page shares this script; <body data-market> picks its quick picks and widgets.
+// The first quick pick is the chart's default symbol.
+const PAGES = {
+  egypt: {
+    timezone: "Africa/Cairo",
+    quickPicks: [
+      ["EGX:EGX30", "EGX 30"],
+      ["EGX:EGX70EWI", "EGX 70 EWI"],
+      ["EGX:EGX100EWI", "EGX 100 EWI"],
+      ["EGX:COMI", "CIB"],
+      ["EGX:TMGH", "Talaat Moustafa"],
+      ["EGX:HRHO", "EFG Holding"],
+      ["EGX:EAST", "Eastern Company"],
+      ["EGX:ETEL", "Telecom Egypt"],
+      ["EGX:SWDY", "Elsewedy Electric"],
+      ["EGX:ABUK", "Abu Qir Fertilizers"],
+      ["EGX:FWRY", "Fawry"],
+      ["EGX:EFIH", "e-finance"],
+      ["EGX:ORAS", "Orascom Construction"],
+    ],
+    movers: ["hotlists", { exchange: "EGX" }],
+    screener: { market: "egypt", defaultScreen: "general", showToolbar: true },
+  },
+  us: {
+    timezone: "America/New_York",
+    quickPicks: [
+      ["FOREXCOM:SPXUSD", "S&P 500"],
+      ["FOREXCOM:NSXUSD", "Nasdaq 100"],
+      ["FOREXCOM:DJI", "Dow Jones"],
+      ["NASDAQ:NVDA", "Nvidia"],
+      ["NASDAQ:AAPL", "Apple"],
+      ["NASDAQ:MSFT", "Microsoft"],
+      ["NASDAQ:GOOGL", "Alphabet"],
+      ["NASDAQ:AMZN", "Amazon"],
+      ["NASDAQ:META", "Meta"],
+      ["NASDAQ:AVGO", "Broadcom"],
+      ["NASDAQ:TSLA", "Tesla"],
+      ["NYSE:BRK.B", "Berkshire Hathaway"],
+      ["NYSE:JPM", "JPMorgan Chase"],
+    ],
+    movers: ["hotlists", { exchange: "US" }],
+    screener: { market: "america", defaultScreen: "most_capitalized", showToolbar: true },
+  },
+  crypto: {
+    timezone: "Etc/UTC",
+    quickPicks: [...COINS, ["CRYPTOCAP:TOTAL", "Total market cap"], ["CRYPTOCAP:BTC.D", "Bitcoin dominance"]],
+    movers: ["market-overview", {
+      tabs: [
+        { title: "Coins", symbols: COINS.map(([s, d]) => ({ s, d })) },
+        {
+          title: "Market",
+          symbols: [
+            { s: "CRYPTOCAP:TOTAL", d: "Total market cap" },
+            { s: "CRYPTOCAP:TOTAL2", d: "Market cap excluding Bitcoin" },
+            { s: "CRYPTOCAP:BTC.D", d: "Bitcoin dominance" },
+            { s: "CRYPTOCAP:ETH.D", d: "Ethereum dominance" },
+          ],
+        },
+      ],
+    }],
+    screener: { screener_type: "crypto_mkt", displayCurrency: "USD" },
+  },
+};
+
+const market = document.body.dataset.market;
+const page = PAGES[market];
+const pageUrl = chartPageUrl(market);
 const $ = (selector) => document.querySelector(selector);
-// The stylesheet sets color-scheme from the theme switch or, if unset, the system setting.
-const theme = () => (getComputedStyle(document.documentElement).colorScheme === "dark" ? "dark" : "light");
-// TradingView widgets send clicks on a stock to this page as ?tvwidgetsymbol=EXCHANGE:TICKER.
-const chartPageUrl = new URL("market.html", location.href).href;
 
 function currentSymbol() {
   const requested = new URLSearchParams(location.search).get("tvwidgetsymbol") || "";
-  return /^[A-Z0-9_]+:[A-Z0-9_.]+$/.test(requested) ? requested : DEFAULT_SYMBOL;
+  return isSymbol(requested) ? requested : page.quickPicks[0][0];
 }
 
 function cssVar(name) {
   return getComputedStyle(document.documentElement).getPropertyValue(name).trim();
 }
 
-// Widgets keep their own theme background: in transparent mode several of them draw
-// dark-theme text over a light backdrop.
-function mountWidget(container, name, config) {
-  const widget = document.createElement("div");
-  widget.className = "tradingview-widget-container__widget";
-  const script = document.createElement("script");
-  script.src = `${EMBED_URL}${name}.js`;
-  script.async = true;
-  script.textContent = JSON.stringify(config);
-  const wrapper = document.createElement("div");
-  wrapper.className = "tradingview-widget-container";
-  wrapper.append(widget, script);
-  container.replaceChildren(wrapper);
-}
-
 function renderTicker() {
   mountWidget($("#ticker"), "ticker-tape", {
-    symbols: QUICK_PICKS.map(([proName, title]) => ({ proName, title })),
+    symbols: page.quickPicks.map(([proName, title]) => ({ proName, title })),
     showSymbolLogo: true,
     displayMode: "adaptive",
     colorTheme: theme(),
     locale: "en",
-    largeChartUrl: chartPageUrl,
+    largeChartUrl: pageUrl,
   });
 }
 
@@ -70,7 +112,7 @@ function renderSelected(symbol) {
     autosize: true,
     symbol,
     interval: "5",
-    timezone: "Africa/Cairo",
+    timezone: page.timezone,
     theme: theme(),
     style: "1",
     locale: "en",
@@ -87,8 +129,9 @@ function renderSelected(symbol) {
 }
 
 function renderMovers() {
-  mountWidget($("#movers"), "hotlists", {
-    exchange: "EGX",
+  const [widget, config] = page.movers;
+  mountWidget($("#movers"), widget, {
+    ...config,
     dateRange: "1D",
     showChart: true,
     showSymbolLogo: true,
@@ -97,21 +140,19 @@ function renderMovers() {
     locale: "en",
     width: "100%",
     height: 560,
-    largeChartUrl: chartPageUrl,
+    largeChartUrl: pageUrl,
   });
 }
 
 function renderScreener() {
   mountWidget($("#screener"), "screener", {
-    market: "egypt",
+    ...page.screener,
     defaultColumn: "overview",
-    defaultScreen: "general",
-    showToolbar: true,
     colorTheme: theme(),
     locale: "en",
     width: "100%",
     height: 640,
-    largeChartUrl: chartPageUrl,
+    largeChartUrl: pageUrl,
   });
 }
 
@@ -130,7 +171,7 @@ function showSymbol(symbol) {
 }
 
 $("#symbol-chips").replaceChildren(
-  ...QUICK_PICKS.map(([symbol, label]) => {
+  ...page.quickPicks.map(([symbol, label]) => {
     const chip = document.createElement("button");
     chip.type = "button";
     chip.className = "chip";

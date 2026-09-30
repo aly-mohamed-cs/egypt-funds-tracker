@@ -623,11 +623,6 @@
   "code": "OP"
  },
  {
-  "symbol": "CRYPTO:OZOUSD",
-  "name": "Ozone Chain",
-  "code": "OZO"
- },
- {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -703,6 +698,11 @@
   "code": "RENDER"
  },
  {
+  "symbol": "CRYPTO:RLBUSD",
+  "name": "Rollbit Coin",
+  "code": "RLB"
+ },
+ {
   "symbol": "CRYPTO:RUNEUSD",
   "name": "THORChain",
   "code": "RUNE"
@@ -711,11 +711,6 @@
   "symbol": "CRYPTO:RYOTUSD",
   "name": "RYO Coin",
   "code": "RYO"
- },
- {
-  "symbol": "CRYPTO:SANDUSD",
-  "name": "The Sandbox",
-  "code": "SAND"
  },
  {
   "symbol": "CRYPTO:SEIUSD",
@@ -991,6 +986,11 @@
   "symbol": "CRYPTO:ZECUSD",
   "name": "Zcash",
   "code": "ZEC"
+ },
+ {
+  "symbol": "CRYPTO:ZENUSD",
+  "name": "Horizen",
+  "code": "ZEN"
  },
  {
   "symbol": "CRYPTO:ZETRIXUSD",

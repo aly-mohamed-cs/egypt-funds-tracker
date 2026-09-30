@@ -1428,6 +1428,10 @@
   "name": "Cal-Maine Foods, Inc."
  },
  {
+  "symbol": "NYSE:CALX",
+  "name": "Calix, Inc."
+ },
+ {
   "symbol": "NYSE:CALY",
   "name": "Callaway Golf Company"
  },
@@ -2194,10 +2198,6 @@
  {
   "symbol": "NYSE:DB",
   "name": "Deutsche Bank Aktiengesellschaft"
- },
- {
-  "symbol": "NYSE:DBRG",
-  "name": "DigitalBridge Group, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:DBX",
@@ -3772,6 +3772,10 @@
   "name": "Hercules Capital, Inc."
  },
  {
+  "symbol": "NYSE:HTH",
+  "name": "Hilltop Holdings Inc."
+ },
+ {
   "symbol": "NASDAQ:HTHT",
   "name": "H World Group Limited Sponsored ADR"
  },
@@ -4650,10 +4654,6 @@
  {
   "symbol": "NASDAQ:LIF",
   "name": "Life360, Inc."
- },
- {
-  "symbol": "NASDAQ:LIFE",
-  "name": "Ethos Technologies Inc. Class A"
  },
  {
   "symbol": "NYSE:LII",
@@ -5980,6 +5980,10 @@
   "name": "PDD Holdings Inc. Sponsored ADR Class A"
  },
  {
+  "symbol": "NASDAQ:PDFS",
+  "name": "PDF Solutions, Inc."
+ },
+ {
   "symbol": "NASDAQ:PECO",
   "name": "Phillips Edison & Company, Inc."
  },
@@ -7192,10 +7196,6 @@
   "name": "Sphere Entertainment Co. Class A"
  },
  {
-  "symbol": "AMEX:SPHY",
-  "name": "State Street SPDR Portfolio High Yield Bond ETF"
- },
- {
   "symbol": "AMEX:SPMD",
   "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF"
  },
@@ -7722,10 +7722,6 @@
  {
   "symbol": "NASDAQ:TRI",
   "name": "Thomson Reuters Corporation"
- },
- {
-  "symbol": "NYSE:TRLV",
-  "name": "Trulieve Cannabis Corp."
  },
  {
   "symbol": "NASDAQ:TRMB",
@@ -8674,6 +8670,10 @@
  {
   "symbol": "AMEX:XLF",
   "name": "State Street Financial Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLG",
+  "name": "Invesco S&P 500 Top 50 ETF"
  },
  {
   "symbol": "AMEX:XLI",

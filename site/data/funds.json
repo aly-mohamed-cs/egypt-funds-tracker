@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-29T21:55:27+00:00",
- "latest_nav_date": "2026-09-26",
+ "generated_at": "2026-09-30T05:44:25+00:00",
+ "latest_nav_date": "2026-09-28",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 56.75543,
-   "nav_date": "2026-09-26",
+   "nav": 56.80481,
+   "nav_date": "2026-09-28",
    "returns": {
-    "1W": 0.003046,
-    "1M": 0.01388,
-    "3M": 0.040905,
-    "YTD": 0.145413,
-    "1Y": 0.197423
+    "1W": 0.003482,
+    "1M": 0.014762,
+    "3M": 0.040057,
+    "YTD": 0.146409,
+    "1Y": 0.196132
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1173,
+   "history_points": 1174,
    "splits": [],
    "stale": false
   },
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 807.1917,
-   "nav_date": "2026-09-23",
+   "nav": 809.211,
+   "nav_date": "2026-09-28",
    "returns": {
-    "1W": 0.003505,
-    "1M": 0.015723,
-    "3M": 0.047271,
-    "YTD": 0.145095,
-    "1Y": 0.208719
+    "1W": 0.003995,
+    "1M": 0.017248,
+    "3M": 0.04732,
+    "YTD": 0.14796,
+    "1Y": 0.207651
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1374,
+   "history_points": 1375,
    "splits": [],
    "stale": false
   },
@@ -63,18 +63,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 871.57,
-   "nav_date": "2026-09-19",
+   "nav": 851.27,
+   "nav_date": "2026-09-26",
    "returns": {
-    "1W": 0.000781,
-    "1M": null,
-    "3M": 0.085933,
-    "YTD": 0.254148,
-    "1Y": 0.449573
+    "1W": -0.023291,
+    "1M": 0.010697,
+    "3M": 0.028327,
+    "YTD": 0.224937,
+    "1Y": 0.400852
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 1570,
+   "history_points": 1571,
    "splits": [],
    "stale": false
   },
@@ -87,18 +87,18 @@
    "owner_en": "Mubasher Capital Holding For Financial Investments",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 24.37,
-   "nav_date": "2026-09-23",
+   "nav": 24.43,
+   "nav_date": "2026-09-28",
    "returns": {
-    "1W": 0.003294,
-    "1M": 0.014571,
-    "3M": 0.041898,
-    "YTD": 0.132961,
-    "1Y": 0.19248
+    "1W": 0.004523,
+    "1M": 0.016223,
+    "3M": 0.041791,
+    "YTD": 0.135751,
+    "1Y": 0.191578
    },
    "ytd_source": "computed",
    "history_start": "2010-03-08",
-   "history_points": 1510,
+   "history_points": 1511,
    "splits": [
     {
      "date": "2012-06-28",

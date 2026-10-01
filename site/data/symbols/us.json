@@ -452,6 +452,10 @@
   "name": "Ameriprise Financial, Inc."
  },
  {
+  "symbol": "NYSE:AMR",
+  "name": "Alpha Metallurgical Resources, Inc."
+ },
+ {
   "symbol": "NASDAQ:AMRX",
   "name": "Amneal Pharmaceuticals, Inc. Class A"
  },
@@ -706,10 +710,6 @@
  {
   "symbol": "NASDAQ:AUGO",
   "name": "Aura Minerals Inc"
- },
- {
-  "symbol": "NASDAQ:AUPH",
-  "name": "Aurinia Pharmaceuticals Inc."
  },
  {
   "symbol": "NASDAQ:AUR",
@@ -1044,12 +1044,12 @@
   "name": "BGC Group, Inc. Class A"
  },
  {
-  "symbol": "NYSE:BGSI",
-  "name": "Boyd Group Services Inc"
+  "symbol": "NASDAQ:BGM",
+  "name": "BGM Group Ltd."
  },
  {
-  "symbol": "NYSE:BHC",
-  "name": "Bausch Health Companies Inc."
+  "symbol": "NYSE:BGSI",
+  "name": "Boyd Group Services Inc"
  },
  {
   "symbol": "NYSE:BHE",
@@ -1530,10 +1530,6 @@
  {
   "symbol": "NYSE:CDE",
   "name": "Coeur Mining, Inc."
- },
- {
-  "symbol": "NYSE:CDLR",
-  "name": "Cadeler A/S Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:CDNA",
@@ -2064,6 +2060,10 @@
   "name": "Cintas Corporation"
  },
  {
+  "symbol": "NYSE:CTOS",
+  "name": "Custom Truck One Source Inc"
+ },
+ {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
  },
@@ -2198,6 +2198,10 @@
  {
   "symbol": "NYSE:DB",
   "name": "Deutsche Bank Aktiengesellschaft"
+ },
+ {
+  "symbol": "NYSE:DBD",
+  "name": "Diebold Nixdorf Inc"
  },
  {
   "symbol": "NASDAQ:DBX",
@@ -2558,6 +2562,10 @@
  {
   "symbol": "AMEX:EFA",
   "name": "iShares MSCI EAFE ETF"
+ },
+ {
+  "symbol": "NASDAQ:EFSC",
+  "name": "Enterprise Financial Services Corp"
  },
  {
   "symbol": "NYSE:EFX",
@@ -4372,10 +4380,6 @@
   "name": "Keurig Dr Pepper Inc."
  },
  {
-  "symbol": "NASDAQ:KEEL",
-  "name": "Keel Infrastructure Corp."
- },
- {
   "symbol": "NYSE:KEN",
   "name": "Kenon Holdings Ltd."
  },
@@ -4506,6 +4510,10 @@
  {
   "symbol": "NASDAQ:KSPI",
   "name": "Kaspi.kz Joint Stock Company Sponsored ADR RegS"
+ },
+ {
+  "symbol": "NYSE:KSS",
+  "name": "Kohl's Corporation"
  },
  {
   "symbol": "NYSE:KT",
@@ -4662,6 +4670,10 @@
  {
   "symbol": "NASDAQ:LIN",
   "name": "Linde plc"
+ },
+ {
+  "symbol": "NASDAQ:LIND",
+  "name": "Lindblad Expeditions Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:LINE",
@@ -5098,10 +5110,6 @@
  {
   "symbol": "NYSE:MLM",
   "name": "Martin Marietta Materials, Inc."
- },
- {
-  "symbol": "NASDAQ:MLYS",
-  "name": "Mineralys Therapeutics, Inc."
  },
  {
   "symbol": "NASDAQ:MMED",
@@ -5900,10 +5908,6 @@
   "name": "UiPath, Inc. Class A"
  },
  {
-  "symbol": "NASDAQ:PATK",
-  "name": "Patrick Industries, Inc."
- },
- {
   "symbol": "NYSE:PAY",
   "name": "Paymentus Holdings, Inc Class A"
  },
@@ -5934,10 +5938,6 @@
  {
   "symbol": "NYSE:PBF",
   "name": "PBF Energy, Inc. Class A"
- },
- {
-  "symbol": "NYSE:PBH",
-  "name": "Prestige Consumer Healthcare Inc"
  },
  {
   "symbol": "NYSE:PBI",
@@ -6237,7 +6237,7 @@
  },
  {
   "symbol": "NYSE:PRU",
-  "name": "Prudential Financial, Inc."
+  "name": "Prudential Wealth Advisors"
  },
  {
   "symbol": "NASDAQ:PRVA",
@@ -7196,6 +7196,10 @@
   "name": "Sphere Entertainment Co. Class A"
  },
  {
+  "symbol": "AMEX:SPHY",
+  "name": "State Street SPDR Portfolio High Yield Bond ETF"
+ },
+ {
   "symbol": "AMEX:SPMD",
   "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF"
  },
@@ -7274,6 +7278,10 @@
  {
   "symbol": "NYSE:SSL",
   "name": "Sasol Limited Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SSMR",
+  "name": "Sunshine Silver Mining & Refining Company"
  },
  {
   "symbol": "NASDAQ:SSNC",
@@ -8488,10 +8496,6 @@
   "name": "Weatherford International plc"
  },
  {
-  "symbol": "NASDAQ:WGS",
-  "name": "GeneDx Holdings Corp. Class A"
- },
- {
   "symbol": "NYSE:WH",
   "name": "Wyndham Hotels & Resorts, Inc."
  },
@@ -8670,10 +8674,6 @@
  {
   "symbol": "AMEX:XLF",
   "name": "State Street Financial Select Sector SPDR ETF"
- },
- {
-  "symbol": "AMEX:XLG",
-  "name": "Invesco S&P 500 Top 50 ETF"
  },
  {
   "symbol": "AMEX:XLI",

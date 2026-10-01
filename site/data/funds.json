@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-30T21:54:47+00:00",
- "latest_nav_date": "2026-09-28",
+ "generated_at": "2026-10-01T22:23:08+00:00",
+ "latest_nav_date": "2026-09-29",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 56.80481,
-   "nav_date": "2026-09-28",
+   "nav": 56.8295,
+   "nav_date": "2026-09-29",
    "returns": {
-    "1W": 0.003482,
-    "1M": 0.014762,
-    "3M": 0.040057,
-    "YTD": 0.146409,
-    "1Y": 0.196132
+    "1W": 0.003918,
+    "1M": 0.013458,
+    "3M": 0.040069,
+    "YTD": 0.146908,
+    "1Y": 0.19607
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1174,
+   "history_points": 1175,
    "splits": [],
    "stale": false
   },
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 809.211,
-   "nav_date": "2026-09-28",
+   "nav": 809.6048,
+   "nav_date": "2026-09-29",
    "returns": {
-    "1W": 0.003995,
-    "1M": 0.017248,
-    "3M": 0.04732,
-    "YTD": 0.14796,
-    "1Y": 0.207651
+    "1W": 0.004484,
+    "1M": 0.015695,
+    "3M": 0.047315,
+    "YTD": 0.148519,
+    "1Y": 0.207575
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1375,
+   "history_points": 1376,
    "splits": [],
    "stale": false
   },
@@ -87,18 +87,18 @@
    "owner_en": "Mubasher Capital Holding For Financial Investments",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 24.43,
-   "nav_date": "2026-09-28",
+   "nav": 24.44,
+   "nav_date": "2026-09-29",
    "returns": {
-    "1W": 0.004523,
-    "1M": 0.016223,
-    "3M": 0.041791,
-    "YTD": 0.135751,
-    "1Y": 0.191578
+    "1W": 0.004934,
+    "1M": 0.01495,
+    "3M": 0.042217,
+    "YTD": 0.136216,
+    "1Y": 0.191431
    },
    "ytd_source": "computed",
    "history_start": "2010-03-08",
-   "history_points": 1511,
+   "history_points": 1512,
    "splits": [
     {
      "date": "2012-06-28",
@@ -116,18 +116,18 @@
    "owner_en": "Pioneers Funds",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 303.09,
-   "nav_date": "2026-09-17",
+   "nav": 292.58,
+   "nav_date": "2026-09-24",
    "returns": {
-    "1W": 0.007312,
-    "1M": 0.02164,
-    "3M": 0.089507,
-    "YTD": 0.47074,
-    "1Y": 0.711798
+    "1W": -0.034676,
+    "1M": -0.001161,
+    "3M": 0.051727,
+    "YTD": 0.41974,
+    "1Y": 0.652439
    },
    "ytd_source": "computed",
    "history_start": "2010-07-03",
-   "history_points": 785,
+   "history_points": 786,
    "splits": [],
    "stale": false
   },
@@ -140,18 +140,18 @@
    "owner_en": "Arab Bank - Egypt",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 74.76346,
-   "nav_date": "2026-09-19",
+   "nav": 75.02431,
+   "nav_date": "2026-09-26",
    "returns": {
-    "1W": 0.006983,
-    "1M": 0.017639,
-    "3M": 0.050049,
-    "YTD": 0.140793,
-    "1Y": 0.207163
+    "1W": 0.003489,
+    "1M": 0.017609,
+    "3M": 0.050025,
+    "YTD": 0.144773,
+    "1Y": 0.206749
    },
    "ytd_source": "computed",
    "history_start": "2010-02-14",
-   "history_points": 3051,
+   "history_points": 3052,
    "splits": [],
    "stale": false
   },

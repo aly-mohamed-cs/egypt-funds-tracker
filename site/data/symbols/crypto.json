@@ -218,11 +218,6 @@
   "code": "CHZ"
  },
  {
-  "symbol": "CRYPTO:COCA2USD",
-  "name": "COCA",
-  "code": "COCA"
- },
- {
   "symbol": "CRYPTO:COCO2USD",
   "name": "coco",
   "code": "COCO"
@@ -231,6 +226,11 @@
   "symbol": "CRYPTO:COMPUSD",
   "name": "Compound",
   "code": "COMP"
+ },
+ {
+  "symbol": "CRYPTO:CRCLBUSD",
+  "name": "Circle Internet Group Tokenized bStocks",
+  "code": "CRCLB"
  },
  {
   "symbol": "CRYPTO:CROUSD",
@@ -528,11 +528,6 @@
   "code": "MANA"
  },
  {
-  "symbol": "CRYPTO:MARSCOIN6USD",
-  "name": "MarsCoin",
-  "code": "MARSCOIN"
- },
- {
   "symbol": "CRYPTO:MEMECOREUSD",
   "name": "MemeCore",
   "code": "M"
@@ -698,11 +693,6 @@
   "code": "RENDER"
  },
  {
-  "symbol": "CRYPTO:RLBUSD",
-  "name": "Rollbit Coin",
-  "code": "RLB"
- },
- {
   "symbol": "CRYPTO:RUNEUSD",
   "name": "THORChain",
   "code": "RUNE"
@@ -711,6 +701,11 @@
   "symbol": "CRYPTO:RYOTUSD",
   "name": "RYO Coin",
   "code": "RYO"
+ },
+ {
+  "symbol": "CRYPTO:SANDUSD",
+  "name": "The Sandbox",
+  "code": "SAND"
  },
  {
   "symbol": "CRYPTO:SEIUSD",
@@ -791,6 +786,11 @@
   "symbol": "CRYPTO:SUNUSD",
   "name": "Sun (New)",
   "code": "SUN"
+ },
+ {
+  "symbol": "CRYPTO:SUPERUSD",
+  "name": "SuperVerse",
+  "code": "SUPER"
  },
  {
   "symbol": "CRYPTO:SYRUPUSD",

@@ -20,6 +20,10 @@
   "name": "Alcoa Corporation"
  },
  {
+  "symbol": "NYSE:AADX",
+  "name": "Applied Aerospace & Defense, Inc."
+ },
+ {
   "symbol": "NASDAQ:AAL",
   "name": "American Airlines Group Inc."
  },
@@ -386,10 +390,6 @@
  {
   "symbol": "NYSE:ALV",
   "name": "Autoliv Inc."
- },
- {
-  "symbol": "NASDAQ:ALVO",
-  "name": "Alvotech"
  },
  {
   "symbol": "NYSE:AM",
@@ -1044,12 +1044,12 @@
   "name": "BGC Group, Inc. Class A"
  },
  {
-  "symbol": "NASDAQ:BGM",
-  "name": "BGM Group Ltd."
- },
- {
   "symbol": "NYSE:BGSI",
   "name": "Boyd Group Services Inc"
+ },
+ {
+  "symbol": "NYSE:BHC",
+  "name": "Bausch Health Companies Inc."
  },
  {
   "symbol": "NYSE:BHE",
@@ -1622,10 +1622,6 @@
  {
   "symbol": "AMEX:CGUS",
   "name": "Capital Group Core Equity ETF"
- },
- {
-  "symbol": "NASDAQ:CHA",
-  "name": "Chagee Holdings Limited Unsponsored ADR"
  },
  {
   "symbol": "NYSE:CHD",
@@ -3440,10 +3436,6 @@
   "name": "Genuine Parts Company"
  },
  {
-  "symbol": "NASDAQ:GPCR",
-  "name": "Structure Therapeutics, Inc. Sponsored ADR"
- },
- {
   "symbol": "NYSE:GPGI",
   "name": "GPGI, Inc. Class A"
  },
@@ -4380,6 +4372,10 @@
   "name": "Keurig Dr Pepper Inc."
  },
  {
+  "symbol": "NASDAQ:KEEL",
+  "name": "Keel Infrastructure Corp."
+ },
+ {
   "symbol": "NYSE:KEN",
   "name": "Kenon Holdings Ltd."
  },
@@ -4510,10 +4506,6 @@
  {
   "symbol": "NASDAQ:KSPI",
   "name": "Kaspi.kz Joint Stock Company Sponsored ADR RegS"
- },
- {
-  "symbol": "NYSE:KSS",
-  "name": "Kohl's Corporation"
  },
  {
   "symbol": "NYSE:KT",
@@ -4662,6 +4654,10 @@
  {
   "symbol": "NASDAQ:LIF",
   "name": "Life360, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LIFE",
+  "name": "Ethos Technologies Inc. Class A"
  },
  {
   "symbol": "NYSE:LII",
@@ -5684,6 +5680,10 @@
   "name": "iShares S&P 100 ETF"
  },
  {
+  "symbol": "NYSE:OFG",
+  "name": "OFG Bancorp"
+ },
+ {
   "symbol": "NYSE:OGC",
   "name": "OceanaGold Corporation"
  },
@@ -6237,7 +6237,7 @@
  },
  {
   "symbol": "NYSE:PRU",
-  "name": "Prudential Wealth Advisors"
+  "name": "Prudential Financial, Inc."
  },
  {
   "symbol": "NASDAQ:PRVA",
@@ -6862,10 +6862,6 @@
  {
   "symbol": "AMEX:SEB",
   "name": "Seaboard Corporation"
- },
- {
-  "symbol": "NYSE:SECZ",
-  "name": "Securitize Corp."
  },
  {
   "symbol": "NYSE:SEI",
@@ -8320,10 +8316,6 @@
   "name": "Versant Media Group, Inc. Class A"
  },
  {
-  "symbol": "AMEX:VSS",
-  "name": "Vanguard FTSE All-World ex-US Small-Cap ETF"
- },
- {
   "symbol": "NYSE:VST",
   "name": "Vistra Corp."
  },
@@ -8494,6 +8486,10 @@
  {
   "symbol": "NASDAQ:WFRD",
   "name": "Weatherford International plc"
+ },
+ {
+  "symbol": "NASDAQ:WGS",
+  "name": "GeneDx Holdings Corp. Class A"
  },
  {
   "symbol": "NYSE:WH",
@@ -8674,6 +8670,10 @@
  {
   "symbol": "AMEX:XLF",
   "name": "State Street Financial Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLG",
+  "name": "Invesco S&P 500 Top 50 ETF"
  },
  {
   "symbol": "AMEX:XLI",

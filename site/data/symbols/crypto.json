@@ -98,6 +98,11 @@
   "code": "ASTER"
  },
  {
+  "symbol": "CRYPTO:ATHAEUSD",
+  "name": "Aethir",
+  "code": "ATH"
+ },
+ {
   "symbol": "CRYPTO:ATOMUSD",
   "name": "Cosmos",
   "code": "ATOM"
@@ -986,11 +991,6 @@
   "symbol": "CRYPTO:ZECUSD",
   "name": "Zcash",
   "code": "ZEC"
- },
- {
-  "symbol": "CRYPTO:ZENUSD",
-  "name": "Horizen",
-  "code": "ZEN"
  },
  {
   "symbol": "CRYPTO:ZETRIXUSD",

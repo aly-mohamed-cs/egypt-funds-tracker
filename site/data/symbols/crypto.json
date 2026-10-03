@@ -38,11 +38,6 @@
   "code": "AERO"
  },
  {
-  "symbol": "CRYPTO:AIARTIFIUSD",
-  "name": "Artificial Inu",
-  "code": "AI"
- },
- {
   "symbol": "CRYPTO:AIOZUSD",
   "name": "AIOZ Network",
   "code": "AIOZ"
@@ -371,6 +366,11 @@
   "symbol": "CRYPTO:FLRUSD",
   "name": "FLARE",
   "code": "FLR"
+ },
+ {
+  "symbol": "CRYPTO:FLUID3USD",
+  "name": "Fluid",
+  "code": "FLUID"
  },
  {
   "symbol": "CRYPTO:GNOUSD",

@@ -163,11 +163,6 @@
   "code": "BP"
  },
  {
-  "symbol": "CRYPTO:BRBEUSD",
-  "name": "Bedrock",
-  "code": "BR"
- },
- {
   "symbol": "CRYPTO:BSVUSD",
   "name": "Bitcoin SV",
   "code": "BSV"
@@ -371,6 +366,11 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
+ },
+ {
+  "symbol": "CRYPTO:GEODNUSD",
+  "name": "GEODNET",
+  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GNOUSD",

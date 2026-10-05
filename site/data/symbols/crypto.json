@@ -113,11 +113,6 @@
   "code": "A"
  },
  {
-  "symbol": "CRYPTO:AWEUSD",
-  "name": "AWE",
-  "code": "AWE"
- },
- {
   "symbol": "CRYPTO:AXSUSD",
   "name": "Axie Infinity",
   "code": "AXS"
@@ -256,11 +251,6 @@
   "symbol": "CRYPTO:DCRUSD",
   "name": "Decred",
   "code": "DCR"
- },
- {
-  "symbol": "CRYPTO:DEEPBUSD",
-  "name": "DeepBook Protocol",
-  "code": "DEEP"
  },
  {
   "symbol": "CRYPTO:DEXEUSD",
@@ -623,6 +613,11 @@
   "code": "OP"
  },
  {
+  "symbol": "CRYPTO:ORCAUSD",
+  "name": "Orca",
+  "code": "ORCA"
+ },
+ {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -731,6 +726,11 @@
   "symbol": "CRYPTO:SHIBUSD",
   "name": "Shiba Inu",
   "code": "SHIB"
+ },
+ {
+  "symbol": "CRYPTO:SHXUSD",
+  "name": "Stronghold SHx",
+  "code": "SHX"
  },
  {
   "symbol": "CRYPTO:SKY2USD",

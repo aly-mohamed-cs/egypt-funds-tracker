@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T20:54:41+00:00",
- "latest_nav_date": "2026-09-30",
+ "generated_at": "2026-10-05T23:47:20+00:00",
+ "latest_nav_date": "2026-10-04",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 56.85386,
-   "nav_date": "2026-09-30",
+   "nav": 56.92721,
+   "nav_date": "2026-10-03",
    "returns": {
-    "1W": 0.003063,
-    "1M": 0.013459,
-    "3M": 0.040092,
-    "YTD": 0.147399,
-    "1Y": 0.196014
+    "1W": 0.003027,
+    "1M": 0.013471,
+    "3M": 0.041433,
+    "YTD": 0.14888,
+    "1Y": 0.195237
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1176,
+   "history_points": 1177,
    "splits": [],
    "stale": false
   },
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 810.0047,
-   "nav_date": "2026-09-30",
+   "nav": 811.2045,
+   "nav_date": "2026-10-03",
    "returns": {
-    "1W": 0.003485,
-    "1M": 0.015624,
-    "3M": 0.047334,
-    "YTD": 0.149086,
-    "1Y": 0.207507
+    "1W": 0.004971,
+    "1M": 0.015588,
+    "3M": 0.048886,
+    "YTD": 0.150788,
+    "1Y": 0.206621
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1377,
+   "history_points": 1378,
    "splits": [],
    "stale": false
   },
@@ -63,18 +63,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 851.27,
-   "nav_date": "2026-09-26",
+   "nav": 842.11,
+   "nav_date": "2026-10-03",
    "returns": {
-    "1W": -0.023291,
-    "1M": 0.010697,
-    "3M": 0.028327,
-    "YTD": 0.224937,
-    "1Y": 0.400852
+    "1W": -0.01076,
+    "1M": -0.010074,
+    "3M": 0.035933,
+    "YTD": 0.211756,
+    "1Y": 0.342907
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 1571,
+   "history_points": 1572,
    "splits": [],
    "stale": false
   },
@@ -87,18 +87,18 @@
    "owner_en": "Mubasher Capital Holding For Financial Investments",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 24.44,
-   "nav_date": "2026-09-29",
+   "nav": 24.49,
+   "nav_date": "2026-10-04",
    "returns": {
-    "1W": 0.004934,
-    "1M": 0.01495,
-    "3M": 0.042217,
-    "YTD": 0.136216,
-    "1Y": 0.191431
+    "1W": 0.004924,
+    "1M": 0.014919,
+    "3M": 0.041241,
+    "YTD": 0.13854,
+    "1Y": 0.191057
    },
    "ytd_source": "computed",
    "history_start": "2010-03-08",
-   "history_points": 1512,
+   "history_points": 1513,
    "splits": [
     {
      "date": "2012-06-28",
@@ -549,7 +549,7 @@
    "history_start": "2010-09-01",
    "history_points": 253,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2683,
@@ -645,7 +645,7 @@
    "history_start": "2008-08-14",
    "history_points": 930,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2687,
@@ -1383,7 +1383,7 @@
    "history_start": "2012-01-29",
    "history_points": 1447,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2718,
@@ -1489,7 +1489,7 @@
    "history_start": "2011-12-04",
    "history_points": 789,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2722,
@@ -1924,7 +1924,7 @@
    "history_start": "2009-07-19",
    "history_points": 975,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2739,
@@ -2154,7 +2154,7 @@
    "history_start": "2010-08-08",
    "history_points": 856,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 3748,
@@ -2279,7 +2279,7 @@
    "history_start": "2013-03-14",
    "history_points": 1012,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 4114,
@@ -2956,7 +2956,7 @@
    "history_start": "2022-03-06",
    "history_points": 167,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5820,
@@ -4261,7 +4261,7 @@
    "history_start": "2025-09-11",
    "history_points": 101,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6384,
@@ -5019,7 +5019,7 @@
    "history_start": "2026-09-03",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6465,
@@ -5163,7 +5163,7 @@
    "history_start": "2026-09-03",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6479,

@@ -8,6 +8,11 @@
   "name": "Bitcoin dominance"
  },
  {
+  "symbol": "CRYPTO:0GUSD",
+  "name": "0G",
+  "code": "0G"
+ },
+ {
   "symbol": "CRYPTO:1INCHUSD",
   "name": "1inch",
   "code": "1INCH"
@@ -158,6 +163,11 @@
   "code": "BP"
  },
  {
+  "symbol": "CRYPTO:BRBEUSD",
+  "name": "Bedrock",
+  "code": "BR"
+ },
+ {
   "symbol": "CRYPTO:BSVUSD",
   "name": "Bitcoin SV",
   "code": "BSV"
@@ -188,9 +198,9 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CASHCATUSD",
-  "name": "Cash Cat",
-  "code": "CASHCAT"
+  "symbol": "CRYPTO:CAP7USD",
+  "name": "Cap",
+  "code": "CAP"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -356,11 +366,6 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
- },
- {
-  "symbol": "CRYPTO:GEODNUSD",
-  "name": "GEODNET",
-  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GNOUSD",
@@ -726,11 +731,6 @@
   "symbol": "CRYPTO:SHIBUSD",
   "name": "Shiba Inu",
   "code": "SHIB"
- },
- {
-  "symbol": "CRYPTO:SHXUSD",
-  "name": "Stronghold SHx",
-  "code": "SHX"
  },
  {
   "symbol": "CRYPTO:SKY2USD",

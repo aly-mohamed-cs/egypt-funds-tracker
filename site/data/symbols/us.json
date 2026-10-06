@@ -796,10 +796,6 @@
   "name": "Axos Financial, Inc."
  },
  {
-  "symbol": "NASDAQ:AXGN",
-  "name": "Axogen, Inc."
- },
- {
   "symbol": "NASDAQ:AXON",
   "name": "Axon Enterprise Inc"
  },
@@ -2064,6 +2060,10 @@
   "name": "CareTrust REIT, Inc."
  },
  {
+  "symbol": "NYSE:CTRI",
+  "name": "Centuri Holdings, Inc."
+ },
+ {
   "symbol": "NASDAQ:CTSH",
   "name": "Cognizant Technology Solutions Corporation Class A"
  },
@@ -2241,7 +2241,7 @@
  },
  {
   "symbol": "AMEX:DFAC",
-  "name": "Dimensional U.S. Core Equity 2 ETF"
+  "name": "U.S. Core Equity 2 Portfolio: ETF Class Shares"
  },
  {
   "symbol": "AMEX:DFAI",
@@ -2249,11 +2249,11 @@
  },
  {
   "symbol": "AMEX:DFAS",
-  "name": "Dimensional U.S. Small Cap ETF"
+  "name": "U.S. Small Cap Portfolio: ETF Class Shares"
  },
  {
   "symbol": "AMEX:DFAT",
-  "name": "Dimensional U.S. Targeted Value ETF"
+  "name": "U.S. Targeted Value Portfolio: ETF Class Shares"
  },
  {
   "symbol": "AMEX:DFAU",
@@ -3505,7 +3505,7 @@
  },
  {
   "symbol": "AMEX:GSLC",
-  "name": "TR Activebeta US Large Cap Equity ETF"
+  "name": "Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF"
  },
  {
   "symbol": "NYSE:GTES",
@@ -3774,10 +3774,6 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
- },
- {
-  "symbol": "NYSE:HTH",
-  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -4376,6 +4372,10 @@
   "name": "Keurig Dr Pepper Inc."
  },
  {
+  "symbol": "NASDAQ:KEEL",
+  "name": "Keel Infrastructure Corp."
+ },
+ {
   "symbol": "NYSE:KEN",
   "name": "Kenon Holdings Ltd."
  },
@@ -4804,7 +4804,7 @@
   "name": "lululemon athletica inc."
  },
  {
-  "symbol": "NYSE:LUMN",
+  "symbol": "NASDAQ:LUMN",
   "name": "Lumen Technologies, Inc."
  },
  {
@@ -5212,10 +5212,6 @@
   "name": "Marsh & McLennan Companies, Inc."
  },
  {
-  "symbol": "NASDAQ:MRVI",
-  "name": "Maravai Lifesciences Holdings, Inc. Class A"
- },
- {
   "symbol": "NASDAQ:MRVL",
   "name": "Marvell Technology, Inc."
  },
@@ -5390,10 +5386,6 @@
  {
   "symbol": "NYSE:NEM",
   "name": "Newmont Corporation"
- },
- {
-  "symbol": "NASDAQ:NEO",
-  "name": "NeoGenomics, Inc."
  },
  {
   "symbol": "NASDAQ:NEOG",
@@ -5690,6 +5682,10 @@
  {
   "symbol": "AMEX:OEF",
   "name": "iShares S&P 100 ETF"
+ },
+ {
+  "symbol": "NYSE:OFG",
+  "name": "OFG Bancorp"
  },
  {
   "symbol": "NYSE:OGC",
@@ -6080,6 +6076,10 @@
   "name": "PulteGroup, Inc."
  },
  {
+  "symbol": "NASDAQ:PHVS",
+  "name": "Pharvaris N.V."
+ },
+ {
   "symbol": "NASDAQ:PI",
   "name": "Impinj, Inc."
  },
@@ -6264,10 +6264,6 @@
   "name": "Public Storage"
  },
  {
-  "symbol": "NASDAQ:PSKY",
-  "name": "Paramount Skydance Corporation Class B"
- },
- {
   "symbol": "NASDAQ:PSMT",
   "name": "PriceSmart, Inc."
  },
@@ -6302,10 +6298,6 @@
  {
   "symbol": "NASDAQ:PTGX",
   "name": "Protagonist Therapeutics, Inc."
- },
- {
-  "symbol": "NASDAQ:PTON",
-  "name": "Peloton Interactive, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:PTRN",
@@ -6382,10 +6374,6 @@
  {
   "symbol": "NASDAQ:QQQM",
   "name": "Invesco NASDAQ 100 ETF"
- },
- {
-  "symbol": "NASDAQ:QRVO",
-  "name": "Qorvo, Inc."
  },
  {
   "symbol": "NASDAQ:QS",
@@ -7016,6 +7004,10 @@
   "name": "Champion Homes, Inc."
  },
  {
+  "symbol": "NYSE:SKYD",
+  "name": "Skydance Corporation Class B"
+ },
+ {
   "symbol": "NASDAQ:SKYW",
   "name": "SkyWest, Inc"
  },
@@ -7304,6 +7296,10 @@
   "name": "STAG Industrial, Inc."
  },
  {
+  "symbol": "NYSE:STDN",
+  "name": "Standard Nuclear, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:STE",
   "name": "STERIS plc"
  },
@@ -7346,6 +7342,10 @@
  {
   "symbol": "NYSE:STT",
   "name": "State Street Corporation"
+ },
+ {
+  "symbol": "NYSE:STUB",
+  "name": "StubHub Holdings Incorporation Class A"
  },
  {
   "symbol": "NYSE:STVN",
@@ -8388,6 +8388,10 @@
   "name": "Vanguard Total International Stock ETF"
  },
  {
+  "symbol": "NYSE:VYLR",
+  "name": "Vylor Inc"
+ },
+ {
   "symbol": "AMEX:VYM",
   "name": "Vanguard High Dividend Yield Index ETF"
  },
@@ -8486,10 +8490,6 @@
  {
   "symbol": "NASDAQ:WFRD",
   "name": "Weatherford International plc"
- },
- {
-  "symbol": "NASDAQ:WGS",
-  "name": "GeneDx Holdings Corp. Class A"
  },
  {
   "symbol": "NYSE:WH",

@@ -138,6 +138,11 @@
   "code": "BDX"
  },
  {
+  "symbol": "CRYPTO:BEAM2USD",
+  "name": "Beam",
+  "code": "BEAM"
+ },
+ {
   "symbol": "CRYPTO:BGBUSD",
   "name": "Bitget Token",
   "code": "BGB"
@@ -196,11 +201,6 @@
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
- },
- {
-  "symbol": "CRYPTO:CAP7USD",
-  "name": "Cap",
-  "code": "CAP"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -293,11 +293,6 @@
   "code": "EDGE"
  },
  {
-  "symbol": "CRYPTO:EGLDUSD",
-  "name": "MultiversX",
-  "code": "EGLD"
- },
- {
   "symbol": "CRYPTO:EIGENUSD",
   "name": "EigenCloud",
   "code": "EIGEN"
@@ -366,6 +361,11 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
+ },
+ {
+  "symbol": "CRYPTO:GEODNUSD",
+  "name": "GEODNET",
+  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GNOUSD",
@@ -536,11 +536,6 @@
   "symbol": "CRYPTO:METEUSD",
   "name": "Meteora",
   "code": "MET"
- },
- {
-  "symbol": "CRYPTO:MINAUSD",
-  "name": "Mina",
-  "code": "MINA"
  },
  {
   "symbol": "CRYPTO:MNTUSD",
@@ -906,6 +901,11 @@
   "symbol": "CRYPTO:WBTUSD",
   "name": "WhiteBIT Coin",
   "code": "WBT"
+ },
+ {
+  "symbol": "CRYPTO:WFIUSD",
+  "name": "WeFi",
+  "code": "WFI"
  },
  {
   "symbol": "CRYPTO:WIFUSD",

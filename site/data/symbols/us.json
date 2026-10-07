@@ -368,10 +368,6 @@
   "name": "Almonty Industries Inc."
  },
  {
-  "symbol": "NASDAQ:ALMR",
-  "name": "Alamar Biosciences, Inc."
- },
- {
   "symbol": "NASDAQ:ALNY",
   "name": "Alnylam Pharmaceuticals, Inc"
  },
@@ -628,6 +624,10 @@
   "name": "Amer Sports, Inc."
  },
  {
+  "symbol": "NYSE:ASAN",
+  "name": "Asana, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:ASB",
   "name": "Associated Banc-Corp"
  },
@@ -710,6 +710,10 @@
  {
   "symbol": "NASDAQ:AUGO",
   "name": "Aura Minerals Inc"
+ },
+ {
+  "symbol": "NASDAQ:AUPH",
+  "name": "Aurinia Pharmaceuticals Inc."
  },
  {
   "symbol": "NASDAQ:AUR",
@@ -962,6 +966,10 @@
  {
   "symbol": "NASDAQ:BCPC",
   "name": "Balchem Corp"
+ },
+ {
+  "symbol": "NASDAQ:BCRX",
+  "name": "BioCryst Pharmaceuticals, Inc."
  },
  {
   "symbol": "NYSE:BCS",
@@ -1620,6 +1628,10 @@
   "name": "Capital Group Core Equity ETF"
  },
  {
+  "symbol": "NASDAQ:CHA",
+  "name": "Chagee Holdings Limited Unsponsored ADR"
+ },
+ {
   "symbol": "NYSE:CHD",
   "name": "Church & Dwight Co., Inc."
  },
@@ -2058,10 +2070,6 @@
  {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
- },
- {
-  "symbol": "NYSE:CTRI",
-  "name": "Centuri Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:CTSH",
@@ -2558,10 +2566,6 @@
  {
   "symbol": "AMEX:EFA",
   "name": "iShares MSCI EAFE ETF"
- },
- {
-  "symbol": "NASDAQ:EFSC",
-  "name": "Enterprise Financial Services Corp"
  },
  {
   "symbol": "NYSE:EFX",
@@ -4372,10 +4376,6 @@
   "name": "Keurig Dr Pepper Inc."
  },
  {
-  "symbol": "NASDAQ:KEEL",
-  "name": "Keel Infrastructure Corp."
- },
- {
   "symbol": "NYSE:KEN",
   "name": "Kenon Holdings Ltd."
  },
@@ -5992,10 +5992,6 @@
   "name": "PDF Solutions, Inc."
  },
  {
-  "symbol": "NYSE:PEB",
-  "name": "Pebblebrook Hotel Trust"
- },
- {
   "symbol": "NASDAQ:PECO",
   "name": "Phillips Edison & Company, Inc."
  },
@@ -6298,6 +6294,10 @@
  {
   "symbol": "NASDAQ:PTGX",
   "name": "Protagonist Therapeutics, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PTON",
+  "name": "Peloton Interactive, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:PTRN",
@@ -6844,10 +6844,6 @@
   "name": "iShares MSCI EAFE Small-Cap ETF"
  },
  {
-  "symbol": "NASDAQ:SDGR",
-  "name": "Schrodinger, Inc."
- },
- {
   "symbol": "NYSE:SDRL",
   "name": "Seadrill Limited"
  },
@@ -6962,6 +6958,10 @@
  {
   "symbol": "NASDAQ:SIMO",
   "name": "Silicon Motion Technology Corporation Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SIND",
+  "name": "Sinda Limited"
  },
  {
   "symbol": "NASDAQ:SIRI",
@@ -8112,6 +8112,10 @@
   "name": "VEON Ltd. Sponsored ADR"
  },
  {
+  "symbol": "NASDAQ:VERA",
+  "name": "Vera Therapeutics, Inc. Class A"
+ },
+ {
   "symbol": "AMEX:VEU",
   "name": "Vanguard FTSE All-World ex-US Index Fund"
  },
@@ -8426,10 +8430,6 @@
  {
   "symbol": "NASDAQ:WAY",
   "name": "Waystar Holding Corp."
- },
- {
-  "symbol": "NASDAQ:WBD",
-  "name": "Warner Bros. Discovery, Inc. Series A"
  },
  {
   "symbol": "NYSE:WBI",

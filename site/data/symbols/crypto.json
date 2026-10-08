@@ -18,11 +18,6 @@
   "code": "1INCH"
  },
  {
-  "symbol": "CRYPTO:2ZUSD",
-  "name": "DoubleZero",
-  "code": "2Z"
- },
- {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -368,6 +363,11 @@
   "code": "GEOD"
  },
  {
+  "symbol": "CRYPTO:GLMUSD",
+  "name": "Golem",
+  "code": "GLM"
+ },
+ {
   "symbol": "CRYPTO:GNOUSD",
   "name": "Gnosis",
   "code": "GNO"
@@ -618,6 +618,11 @@
   "code": "ORCA"
  },
  {
+  "symbol": "CRYPTO:OZOUSD",
+  "name": "Ozone Chain",
+  "code": "OZO"
+ },
+ {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -743,6 +748,11 @@
   "code": "SOON"
  },
  {
+  "symbol": "CRYPTO:SOSOUSD",
+  "name": "SoSoValue",
+  "code": "SOSO"
+ },
+ {
   "symbol": "CRYPTO:SPX6USD",
   "name": "SPX6900",
   "code": "SPX"
@@ -756,11 +766,6 @@
   "symbol": "CRYPTO:STOCHUSD",
   "name": "STO CHAIN",
   "code": "STOC"
- },
- {
-  "symbol": "CRYPTO:STONK2USD",
-  "name": "STONK",
-  "code": "STONK"
  },
  {
   "symbol": "CRYPTO:STRCXUSD",
@@ -996,11 +1001,6 @@
   "symbol": "CRYPTO:ZETRIXUSD",
   "name": "Zetrix",
   "code": "ZETRIX"
- },
- {
-  "symbol": "CRYPTO:ZKSYUSD",
-  "name": "zkSync",
-  "code": "ZK"
  },
  {
   "symbol": "CRYPTO:ZROLUSD",

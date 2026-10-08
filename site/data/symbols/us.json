@@ -188,6 +188,10 @@
   "name": "ADT, Inc."
  },
  {
+  "symbol": "NASDAQ:ADUS",
+  "name": "Addus HomeCare Corporation"
+ },
+ {
   "symbol": "NYSE:AEE",
   "name": "Ameren Corporation"
  },
@@ -966,10 +970,6 @@
  {
   "symbol": "NASDAQ:BCPC",
   "name": "Balchem Corp"
- },
- {
-  "symbol": "NASDAQ:BCRX",
-  "name": "BioCryst Pharmaceuticals, Inc."
  },
  {
   "symbol": "NYSE:BCS",
@@ -2568,6 +2568,10 @@
   "name": "iShares MSCI EAFE ETF"
  },
  {
+  "symbol": "NASDAQ:EFSC",
+  "name": "Enterprise Financial Services Corp"
+ },
+ {
   "symbol": "NYSE:EFX",
   "name": "Equifax Inc."
  },
@@ -3896,6 +3900,10 @@
   "name": "iShares Core MSCI International Developed Markets ETF"
  },
  {
+  "symbol": "NYSE:IDT",
+  "name": "IDT Corporation Class B"
+ },
+ {
   "symbol": "NASDAQ:IDXX",
   "name": "IDEXX Laboratories, Inc."
  },
@@ -4018,10 +4026,6 @@
  {
   "symbol": "NASDAQ:INIO",
   "name": "INNIO N.V."
- },
- {
-  "symbol": "NASDAQ:INOD",
-  "name": "Innodata Inc."
  },
  {
   "symbol": "NASDAQ:INSM",
@@ -4956,6 +4960,10 @@
   "name": "Mercury General Corporation"
  },
  {
+  "symbol": "NYSE:MD",
+  "name": "Pediatrix Medical Group, Inc."
+ },
+ {
   "symbol": "NYSE:MDA",
   "name": "MDA Space Ltd"
  },
@@ -5480,10 +5488,6 @@
   "name": "Newmark Group, Inc. Class A"
  },
  {
-  "symbol": "NASDAQ:NN",
-  "name": "NextNav Inc."
- },
- {
   "symbol": "NYSE:NNI",
   "name": "Nelnet, Inc. Class A"
  },
@@ -5992,6 +5996,10 @@
   "name": "PDF Solutions, Inc."
  },
  {
+  "symbol": "NYSE:PEB",
+  "name": "Pebblebrook Hotel Trust"
+ },
+ {
   "symbol": "NASDAQ:PECO",
   "name": "Phillips Edison & Company, Inc."
  },
@@ -6046,6 +6054,10 @@
  {
   "symbol": "NASDAQ:PGEN",
   "name": "Precigen Inc"
+ },
+ {
+  "symbol": "NASDAQ:PGNY",
+  "name": "Progyny, Inc."
  },
  {
   "symbol": "NYSE:PGR",
@@ -6692,10 +6704,6 @@
   "name": "RXO, Inc."
  },
  {
-  "symbol": "NASDAQ:RXRX",
-  "name": "Recursion Pharmaceuticals, Inc. Class A"
- },
- {
   "symbol": "NYSE:RY",
   "name": "Royal Bank of Canada"
  },
@@ -7276,10 +7284,6 @@
   "name": "Sasol Limited Sponsored ADR"
  },
  {
-  "symbol": "NYSE:SSMR",
-  "name": "Sunshine Silver Mining & Refining Company"
- },
- {
   "symbol": "NASDAQ:SSNC",
   "name": "SS&C Technologies Holdings, Inc."
  },
@@ -7296,16 +7300,16 @@
   "name": "STAG Industrial, Inc."
  },
  {
-  "symbol": "NYSE:STDN",
-  "name": "Standard Nuclear, Inc. Class A"
- },
- {
   "symbol": "NYSE:STE",
   "name": "STERIS plc"
  },
  {
   "symbol": "NASDAQ:STEP",
   "name": "StepStone Group, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:STGW",
+  "name": "Stagwell, Inc. Class A"
  },
  {
   "symbol": "AMEX:STIP",
@@ -7488,7 +7492,7 @@
   "name": "BBB Foods, Inc. Class A"
  },
  {
-  "symbol": "NASDAQ:TCBI",
+  "symbol": "AMEX:TCBI",
   "name": "Texas Capital Bancshares, Inc."
  },
  {
@@ -7766,10 +7770,6 @@
  {
   "symbol": "NYSE:TRV",
   "name": "Travelers Companies, Inc."
- },
- {
-  "symbol": "NASDAQ:TRVG",
-  "name": "trivago N.V. Sponsored ADR Class A"
  },
  {
   "symbol": "NYSE:TS",

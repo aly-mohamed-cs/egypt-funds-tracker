@@ -188,10 +188,6 @@
   "name": "ADT, Inc."
  },
  {
-  "symbol": "NASDAQ:ADUS",
-  "name": "Addus HomeCare Corporation"
- },
- {
   "symbol": "NYSE:AEE",
   "name": "Ameren Corporation"
  },
@@ -672,6 +668,10 @@
   "name": "Atour Lifestyle Holdings Ltd. Sponsored ADR"
  },
  {
+  "symbol": "NYSE:ATEN",
+  "name": "A10 Networks, Inc."
+ },
+ {
   "symbol": "NYSE:ATHM",
   "name": "Autohome Inc. Sponsored ADR Class A"
  },
@@ -970,6 +970,10 @@
  {
   "symbol": "NASDAQ:BCPC",
   "name": "Balchem Corp"
+ },
+ {
+  "symbol": "NASDAQ:BCRX",
+  "name": "BioCryst Pharmaceuticals, Inc."
  },
  {
   "symbol": "NYSE:BCS",
@@ -2064,10 +2068,6 @@
   "name": "Cintas Corporation"
  },
  {
-  "symbol": "NYSE:CTOS",
-  "name": "Custom Truck One Source Inc"
- },
- {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
  },
@@ -2566,10 +2566,6 @@
  {
   "symbol": "AMEX:EFA",
   "name": "iShares MSCI EAFE ETF"
- },
- {
-  "symbol": "NASDAQ:EFSC",
-  "name": "Enterprise Financial Services Corp"
  },
  {
   "symbol": "NYSE:EFX",
@@ -6076,10 +6072,6 @@
   "name": "PLDT, Inc. Sponsored ADR"
  },
  {
-  "symbol": "NYSE:PHIN",
-  "name": "PHINIA Inc."
- },
- {
   "symbol": "NYSE:PHM",
   "name": "PulteGroup, Inc."
  },
@@ -6704,6 +6696,10 @@
   "name": "RXO, Inc."
  },
  {
+  "symbol": "NASDAQ:RXRX",
+  "name": "Recursion Pharmaceuticals, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:RY",
   "name": "Royal Bank of Canada"
  },
@@ -6866,6 +6862,10 @@
  {
   "symbol": "AMEX:SEB",
   "name": "Seaboard Corporation"
+ },
+ {
+  "symbol": "NYSE:SECZ",
+  "name": "Securitize Corp."
  },
  {
   "symbol": "NYSE:SEI",
@@ -7284,6 +7284,10 @@
   "name": "Sasol Limited Sponsored ADR"
  },
  {
+  "symbol": "NYSE:SSMR",
+  "name": "Sunshine Silver Mining & Refining Company"
+ },
+ {
   "symbol": "NASDAQ:SSNC",
   "name": "SS&C Technologies Holdings, Inc."
  },
@@ -7300,16 +7304,16 @@
   "name": "STAG Industrial, Inc."
  },
  {
+  "symbol": "NYSE:STDN",
+  "name": "Standard Nuclear, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:STE",
   "name": "STERIS plc"
  },
  {
   "symbol": "NASDAQ:STEP",
   "name": "StepStone Group, Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:STGW",
-  "name": "Stagwell, Inc. Class A"
  },
  {
   "symbol": "AMEX:STIP",
@@ -7478,10 +7482,6 @@
  {
   "symbol": "NYSE:TAP",
   "name": "Molson Coors Beverage Company Class B"
- },
- {
-  "symbol": "NYSE:TAP.A",
-  "name": "Molson Coors Beverage Company Class A"
  },
  {
   "symbol": "NASDAQ:TARS",

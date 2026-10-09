@@ -198,6 +198,11 @@
   "code": "CAKE"
  },
  {
+  "symbol": "CRYPTO:CAP7USD",
+  "name": "Cap",
+  "code": "CAP"
+ },
+ {
   "symbol": "CRYPTO:CCCAUSD",
   "name": "Canton",
   "code": "CC"
@@ -281,11 +286,6 @@
   "symbol": "CRYPTO:DRVDUSD",
   "name": "Derive",
   "code": "DRV"
- },
- {
-  "symbol": "CRYPTO:EDGEXUSD",
-  "name": "edgeX",
-  "code": "EDGE"
  },
  {
   "symbol": "CRYPTO:EIGENUSD",
@@ -406,11 +406,6 @@
   "symbol": "CRYPTO:HTXUSD",
   "name": "HTX",
   "code": "HTX"
- },
- {
-  "symbol": "CRYPTO:HUSD",
-  "name": "Humanity",
-  "code": "H"
  },
  {
   "symbol": "CRYPTO:HYPEHUSD",
@@ -618,11 +613,6 @@
   "code": "ORCA"
  },
  {
-  "symbol": "CRYPTO:OZOUSD",
-  "name": "Ozone Chain",
-  "code": "OZO"
- },
- {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -683,6 +673,11 @@
   "code": "QNT"
  },
  {
+  "symbol": "CRYPTO:QUACUSD",
+  "name": "Quack AI",
+  "code": "Q"
+ },
+ {
   "symbol": "CRYPTO:RAIN2USD",
   "name": "Rain",
   "code": "RAIN"
@@ -733,6 +728,11 @@
   "code": "SHIB"
  },
  {
+  "symbol": "CRYPTO:SHXUSD",
+  "name": "Stronghold SHx",
+  "code": "SHX"
+ },
+ {
   "symbol": "CRYPTO:SKY2USD",
   "name": "Sky",
   "code": "SKY"
@@ -746,11 +746,6 @@
   "symbol": "CRYPTO:SOON2USD",
   "name": "SOON",
   "code": "SOON"
- },
- {
-  "symbol": "CRYPTO:SOSOUSD",
-  "name": "SoSoValue",
-  "code": "SOSO"
  },
  {
   "symbol": "CRYPTO:SPX6USD",
@@ -1001,6 +996,11 @@
   "symbol": "CRYPTO:ZETRIXUSD",
   "name": "Zetrix",
   "code": "ZETRIX"
+ },
+ {
+  "symbol": "CRYPTO:ZKSYUSD",
+  "name": "zkSync",
+  "code": "ZK"
  },
  {
   "symbol": "CRYPTO:ZROLUSD",

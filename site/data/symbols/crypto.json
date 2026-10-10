@@ -93,11 +93,6 @@
   "code": "ASTER"
  },
  {
-  "symbol": "CRYPTO:ATHAEUSD",
-  "name": "Aethir",
-  "code": "ATH"
- },
- {
   "symbol": "CRYPTO:ATOMUSD",
   "name": "Cosmos",
   "code": "ATOM"
@@ -211,6 +206,11 @@
   "symbol": "CRYPTO:CFXUSD",
   "name": "Conflux",
   "code": "CFX"
+ },
+ {
+  "symbol": "CRYPTO:CHIPUSUSD",
+  "name": "USD.AI",
+  "code": "CHIP"
  },
  {
   "symbol": "CRYPTO:CHZUSD",
@@ -728,11 +728,6 @@
   "code": "SHIB"
  },
  {
-  "symbol": "CRYPTO:SHXUSD",
-  "name": "Stronghold SHx",
-  "code": "SHX"
- },
- {
   "symbol": "CRYPTO:SKY2USD",
   "name": "Sky",
   "code": "SKY"
@@ -741,6 +736,11 @@
   "symbol": "CRYPTO:SOLUSD",
   "name": "Solana",
   "code": "SOL"
+ },
+ {
+  "symbol": "CRYPTO:SONIUSD",
+  "name": "Sonic",
+  "code": "S"
  },
  {
   "symbol": "CRYPTO:SOON2USD",

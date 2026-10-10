@@ -2764,10 +2764,6 @@
   "name": "ESCO Technologies Inc."
  },
  {
-  "symbol": "NASDAQ:ESGD",
-  "name": "iShares ESG Aware MSCI EAFE ETF"
- },
- {
   "symbol": "NASDAQ:ESGU",
   "name": "iShares ESG Aware MSCI USA ETF"
  },
@@ -2838,6 +2834,10 @@
  {
   "symbol": "AMEX:EWY",
   "name": "iShares MSCI South Korea ETF"
+ },
+ {
+  "symbol": "AMEX:EWZ",
+  "name": "iShares MSCI Brazil ETF"
  },
  {
   "symbol": "NASDAQ:EXC",

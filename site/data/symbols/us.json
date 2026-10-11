@@ -188,6 +188,10 @@
   "name": "ADT, Inc."
  },
  {
+  "symbol": "NASDAQ:ADUS",
+  "name": "Addus HomeCare Corporation"
+ },
+ {
   "symbol": "NYSE:AEE",
   "name": "Ameren Corporation"
  },
@@ -7302,10 +7306,6 @@
  {
   "symbol": "NYSE:STAG",
   "name": "STAG Industrial, Inc."
- },
- {
-  "symbol": "NYSE:STDN",
-  "name": "Standard Nuclear, Inc. Class A"
  },
  {
   "symbol": "NYSE:STE",

@@ -198,6 +198,11 @@
   "code": "CAP"
  },
  {
+  "symbol": "CRYPTO:CARDSCUSD",
+  "name": "Collector Crypt",
+  "code": "CARDS"
+ },
+ {
   "symbol": "CRYPTO:CCCAUSD",
   "name": "Canton",
   "code": "CC"
@@ -356,16 +361,6 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
- },
- {
-  "symbol": "CRYPTO:GEODNUSD",
-  "name": "GEODNET",
-  "code": "GEOD"
- },
- {
-  "symbol": "CRYPTO:GLMUSD",
-  "name": "Golem",
-  "code": "GLM"
  },
  {
   "symbol": "CRYPTO:GNOUSD",
@@ -643,6 +638,11 @@
   "code": "PIEVERSE"
  },
  {
+  "symbol": "CRYPTO:PLUMEUSD",
+  "name": "Plume",
+  "code": "PLUME"
+ },
+ {
   "symbol": "CRYPTO:POLYGUSD",
   "name": "Polygon (prev. MATIC)",
   "code": "POL"
@@ -671,11 +671,6 @@
   "symbol": "CRYPTO:QNTUSD",
   "name": "Quant",
   "code": "QNT"
- },
- {
-  "symbol": "CRYPTO:QUACUSD",
-  "name": "Quack AI",
-  "code": "Q"
  },
  {
   "symbol": "CRYPTO:RAIN2USD",
@@ -926,6 +921,11 @@
   "symbol": "CRYPTO:WPAYWUSD",
   "name": "WPAY",
   "code": "WPAY"
+ },
+ {
+  "symbol": "CRYPTO:WUSD",
+  "name": "Wormhole",
+  "code": "W"
  },
  {
   "symbol": "CRYPTO:XAUTUSD",

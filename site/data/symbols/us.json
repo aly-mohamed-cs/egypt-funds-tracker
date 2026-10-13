@@ -672,10 +672,6 @@
   "name": "Atour Lifestyle Holdings Ltd. Sponsored ADR"
  },
  {
-  "symbol": "NYSE:ATEN",
-  "name": "A10 Networks, Inc."
- },
- {
   "symbol": "NYSE:ATHM",
   "name": "Autohome Inc. Sponsored ADR Class A"
  },
@@ -806,6 +802,10 @@
  {
   "symbol": "NYSE:AX",
   "name": "Axos Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AXGN",
+  "name": "Axogen, Inc."
  },
  {
   "symbol": "NASDAQ:AXON",
@@ -1162,6 +1162,10 @@
  {
   "symbol": "NYSE:BLK",
   "name": "BlackRock, Inc."
+ },
+ {
+  "symbol": "NASDAQ:BLKB",
+  "name": "Blackbaud, Inc."
  },
  {
   "symbol": "NASDAQ:BLLN",
@@ -2436,6 +2440,10 @@
   "name": "Domino's Pizza, Inc."
  },
  {
+  "symbol": "NYSE:DRD",
+  "name": "DRDGOLD Ltd. Sponsored ADR"
+ },
+ {
   "symbol": "NASDAQ:DRH",
   "name": "DiamondRock Hospitality Company"
  },
@@ -2548,6 +2556,10 @@
   "name": "Okeanis Eco Tankers Corp."
  },
  {
+  "symbol": "NASDAQ:ECPG",
+  "name": "Encore Capital Group, Inc."
+ },
+ {
   "symbol": "NYSE:ED",
   "name": "Consolidated Edison, Inc."
  },
@@ -2570,6 +2582,10 @@
  {
   "symbol": "AMEX:EFA",
   "name": "iShares MSCI EAFE ETF"
+ },
+ {
+  "symbol": "NASDAQ:EFSC",
+  "name": "Enterprise Financial Services Corp"
  },
  {
   "symbol": "NYSE:EFX",
@@ -3146,10 +3162,6 @@
  {
   "symbol": "NASDAQ:FRME",
   "name": "First Merchants Corporation"
- },
- {
-  "symbol": "NASDAQ:FRMI",
-  "name": "Fermi Inc."
  },
  {
   "symbol": "NYSE:FRO",
@@ -3872,10 +3884,6 @@
   "name": "Intercontinental Exchange, Inc."
  },
  {
-  "symbol": "NASDAQ:ICHR",
-  "name": "Ichor Holdings, Ltd."
- },
- {
   "symbol": "NYSE:ICL",
   "name": "ICL Group Ltd."
  },
@@ -4590,10 +4598,6 @@
  {
   "symbol": "NASDAQ:LBTYK",
   "name": "Liberty Global Ltd. Class C"
- },
- {
-  "symbol": "NYSE:LCLN",
-  "name": "Lincoln International, Inc. Class A"
  },
  {
   "symbol": "NYSE:LDOS",
@@ -5400,10 +5404,6 @@
   "name": "Neogen Corp"
  },
  {
-  "symbol": "NASDAQ:NESR",
-  "name": "National Energy Services Reunited Corp."
- },
- {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5774,10 +5774,6 @@
  {
   "symbol": "NASDAQ:OPCH",
   "name": "Option Care Health Inc"
- },
- {
-  "symbol": "NASDAQ:OPEN",
-  "name": "Opendoor Technologies Inc"
  },
  {
   "symbol": "NYSE:OPLN",
@@ -6228,6 +6224,10 @@
   "name": "Praxis Precision Medicines, Inc."
  },
  {
+  "symbol": "NYSE:PRGO",
+  "name": "Perrigo Co. Plc"
+ },
+ {
   "symbol": "NYSE:PRI",
   "name": "Primerica, Inc."
  },
@@ -6576,6 +6576,10 @@
   "name": "RLI Corp."
  },
  {
+  "symbol": "NYSE:RLX",
+  "name": "RLX Technology, Inc. Sponsored ADR Class A"
+ },
+ {
   "symbol": "NASDAQ:RMBS",
   "name": "Rambus Inc."
  },
@@ -6868,10 +6872,6 @@
   "name": "Seaboard Corporation"
  },
  {
-  "symbol": "NYSE:SECZ",
-  "name": "Securitize Corp."
- },
- {
   "symbol": "NYSE:SEI",
   "name": "Solaris Energy Infrastructure, Inc. Class A"
  },
@@ -6930,6 +6930,10 @@
  {
   "symbol": "NYSE:SHG",
   "name": "Shinhan Financial Group Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:SHO",
+  "name": "Sunstone Hotel Investors, Inc."
  },
  {
   "symbol": "NASDAQ:SHOO",
@@ -7288,10 +7292,6 @@
   "name": "Sasol Limited Sponsored ADR"
  },
  {
-  "symbol": "NYSE:SSMR",
-  "name": "Sunshine Silver Mining & Refining Company"
- },
- {
   "symbol": "NASDAQ:SSNC",
   "name": "SS&C Technologies Holdings, Inc."
  },
@@ -7314,6 +7314,10 @@
  {
   "symbol": "NASDAQ:STEP",
   "name": "StepStone Group, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:STGW",
+  "name": "Stagwell, Inc. Class A"
  },
  {
   "symbol": "AMEX:STIP",
@@ -8110,10 +8114,6 @@
  {
   "symbol": "NASDAQ:VEON",
   "name": "VEON Ltd. Sponsored ADR"
- },
- {
-  "symbol": "NASDAQ:VERA",
-  "name": "Vera Therapeutics, Inc. Class A"
  },
  {
   "symbol": "AMEX:VEU",

@@ -198,11 +198,6 @@
   "code": "CAP"
  },
  {
-  "symbol": "CRYPTO:CARDSCUSD",
-  "name": "Collector Crypt",
-  "code": "CARDS"
- },
- {
   "symbol": "CRYPTO:CCCAUSD",
   "name": "Canton",
   "code": "CC"
@@ -211,11 +206,6 @@
   "symbol": "CRYPTO:CFXUSD",
   "name": "Conflux",
   "code": "CFX"
- },
- {
-  "symbol": "CRYPTO:CHIPUSUSD",
-  "name": "USD.AI",
-  "code": "CHIP"
  },
  {
   "symbol": "CRYPTO:CHZUSD",
@@ -361,6 +351,11 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
+ },
+ {
+  "symbol": "CRYPTO:GLMUSD",
+  "name": "Golem",
+  "code": "GLM"
  },
  {
   "symbol": "CRYPTO:GNOUSD",
@@ -603,9 +598,9 @@
   "code": "OP"
  },
  {
-  "symbol": "CRYPTO:ORCAUSD",
-  "name": "Orca",
-  "code": "ORCA"
+  "symbol": "CRYPTO:OZOUSD",
+  "name": "Ozone Chain",
+  "code": "OZO"
  },
  {
   "symbol": "CRYPTO:PAXGUSD",
@@ -673,6 +668,11 @@
   "code": "QNT"
  },
  {
+  "symbol": "CRYPTO:QUACUSD",
+  "name": "Quack AI",
+  "code": "Q"
+ },
+ {
   "symbol": "CRYPTO:RAIN2USD",
   "name": "Rain",
   "code": "RAIN"
@@ -686,6 +686,11 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
+ },
+ {
+  "symbol": "CRYPTO:RSRUSD",
+  "name": "Reserve Rights",
+  "code": "RSR"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",
@@ -921,11 +926,6 @@
   "symbol": "CRYPTO:WPAYWUSD",
   "name": "WPAY",
   "code": "WPAY"
- },
- {
-  "symbol": "CRYPTO:WUSD",
-  "name": "Wormhole",
-  "code": "W"
  },
  {
   "symbol": "CRYPTO:XAUTUSD",

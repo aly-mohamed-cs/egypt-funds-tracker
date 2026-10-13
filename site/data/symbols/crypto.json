@@ -198,6 +198,11 @@
   "code": "CAP"
  },
  {
+  "symbol": "CRYPTO:CASH2USD",
+  "name": "Cash",
+  "code": "CASH"
+ },
+ {
   "symbol": "CRYPTO:CCCAUSD",
   "name": "Canton",
   "code": "CC"
@@ -351,11 +356,6 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
- },
- {
-  "symbol": "CRYPTO:GLMUSD",
-  "name": "Golem",
-  "code": "GLM"
  },
  {
   "symbol": "CRYPTO:GNOUSD",

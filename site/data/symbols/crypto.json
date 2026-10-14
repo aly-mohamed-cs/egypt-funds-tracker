@@ -158,11 +158,6 @@
   "code": "BP"
  },
  {
-  "symbol": "CRYPTO:BRBEUSD",
-  "name": "Bedrock",
-  "code": "BR"
- },
- {
   "symbol": "CRYPTO:BSVUSD",
   "name": "Bitcoin SV",
   "code": "BSV"
@@ -193,14 +188,14 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CAP7USD",
-  "name": "Cap",
-  "code": "CAP"
- },
- {
   "symbol": "CRYPTO:CASH2USD",
   "name": "Cash",
   "code": "CASH"
+ },
+ {
+  "symbol": "CRYPTO:CASHCATUSD",
+  "name": "Cash Cat",
+  "code": "CASHCAT"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -261,6 +256,11 @@
   "symbol": "CRYPTO:DCRUSD",
   "name": "Decred",
   "code": "DCR"
+ },
+ {
+  "symbol": "CRYPTO:DEEPBUSD",
+  "name": "DeepBook Protocol",
+  "code": "DEEP"
  },
  {
   "symbol": "CRYPTO:DEXEUSD",
@@ -688,11 +688,6 @@
   "code": "RENDER"
  },
  {
-  "symbol": "CRYPTO:RSRUSD",
-  "name": "Reserve Rights",
-  "code": "RSR"
- },
- {
   "symbol": "CRYPTO:RUNEUSD",
   "name": "THORChain",
   "code": "RUNE"
@@ -896,6 +891,11 @@
   "symbol": "CRYPTO:VVVUSD",
   "name": "Venice Token",
   "code": "VVV"
+ },
+ {
+  "symbol": "CRYPTO:WALRUSD",
+  "name": "Walrus",
+  "code": "WAL"
  },
  {
   "symbol": "CRYPTO:WBTUSD",

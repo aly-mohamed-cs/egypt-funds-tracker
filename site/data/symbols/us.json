@@ -800,10 +800,6 @@
   "name": "Axos Financial, Inc."
  },
  {
-  "symbol": "NASDAQ:AXGN",
-  "name": "Axogen, Inc."
- },
- {
   "symbol": "NASDAQ:AXON",
   "name": "Axon Enterprise Inc"
  },
@@ -1036,10 +1032,6 @@
   "name": "Bread Financial Holdings, Inc."
  },
  {
-  "symbol": "NYSE:BFLY",
-  "name": "Butterfly Network, Inc. Class A"
- },
- {
   "symbol": "NYSE:BG",
   "name": "Bunge Global SA"
  },
@@ -1094,6 +1086,10 @@
  {
   "symbol": "NYSE:BIO",
   "name": "Bio-Rad Laboratories, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:BIO.B",
+  "name": "Bio-Rad Laboratories, Inc. Class B"
  },
  {
   "symbol": "NYSE:BIP",
@@ -1586,6 +1582,10 @@
  {
   "symbol": "NASDAQ:CENX",
   "name": "Century Aluminum Company"
+ },
+ {
+  "symbol": "NYSE:CEPU",
+  "name": "Central Puerto SA Sponsored ADR"
  },
  {
   "symbol": "NYSE:CF",
@@ -2344,10 +2344,6 @@
   "name": "Walt Disney Company"
  },
  {
-  "symbol": "NASDAQ:DJT",
-  "name": "Trump Media & Technology Group Corp."
- },
- {
   "symbol": "NYSE:DK",
   "name": "Delek US Holdings Inc"
  },
@@ -2382,10 +2378,6 @@
  {
   "symbol": "NASDAQ:DNLI",
   "name": "Denali Therapeutics Inc."
- },
- {
-  "symbol": "AMEX:DNN",
-  "name": "Denison Mines Corp."
  },
  {
   "symbol": "NYSE:DNOW",
@@ -2788,10 +2780,6 @@
   "name": "ESCO Technologies Inc."
  },
  {
-  "symbol": "NASDAQ:ESGD",
-  "name": "iShares ESG Aware MSCI EAFE ETF"
- },
- {
   "symbol": "NASDAQ:ESGU",
   "name": "iShares ESG Aware MSCI USA ETF"
  },
@@ -3170,10 +3158,6 @@
  {
   "symbol": "NASDAQ:FRME",
   "name": "First Merchants Corporation"
- },
- {
-  "symbol": "NASDAQ:FRMI",
-  "name": "Fermi Inc."
  },
  {
   "symbol": "NYSE:FRO",
@@ -3808,6 +3792,10 @@
   "name": "Hercules Capital, Inc."
  },
  {
+  "symbol": "NYSE:HTH",
+  "name": "Hilltop Holdings Inc."
+ },
+ {
   "symbol": "NASDAQ:HTHT",
   "name": "H World Group Limited Sponsored ADR"
  },
@@ -4018,10 +4006,6 @@
  {
   "symbol": "NASDAQ:INDV",
   "name": "Indivior Pharmaceuticals, Inc."
- },
- {
-  "symbol": "NYSE:INFQ",
-  "name": "Infleqtion, Inc."
  },
  {
   "symbol": "NYSE:INFY",
@@ -4576,10 +4560,6 @@
   "name": "Lamar Advertising Company Class A"
  },
  {
-  "symbol": "NASDAQ:LASR",
-  "name": "nLIGHT, Inc."
- },
- {
   "symbol": "NASDAQ:LAUR",
   "name": "Laureate Education, Inc."
  },
@@ -4589,7 +4569,7 @@
  },
  {
   "symbol": "NYSE:LB",
-  "name": "LandBridge Company LLC Class A"
+  "name": "LandBridge Corporation Class A"
  },
  {
   "symbol": "NYSE:LBRT",
@@ -5388,6 +5368,10 @@
   "name": "Norwegian Cruise Line Holdings Ltd."
  },
  {
+  "symbol": "NASDAQ:NCNO",
+  "name": "nCino Inc"
+ },
+ {
   "symbol": "NASDAQ:NDAQ",
   "name": "Nasdaq, Inc."
  },
@@ -5414,10 +5398,6 @@
  {
   "symbol": "NASDAQ:NEOG",
   "name": "Neogen Corp"
- },
- {
-  "symbol": "NASDAQ:NESR",
-  "name": "National Energy Services Reunited Corp."
  },
  {
   "symbol": "NYSE:NET",
@@ -6068,6 +6048,10 @@
   "name": "Precigen Inc"
  },
  {
+  "symbol": "NASDAQ:PGNY",
+  "name": "Progyny, Inc."
+ },
+ {
   "symbol": "NYSE:PGR",
   "name": "Progressive Corporation"
  },
@@ -6086,6 +6070,10 @@
  {
   "symbol": "NYSE:PHM",
   "name": "PulteGroup, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PHVS",
+  "name": "Pharvaris N.V."
  },
  {
   "symbol": "NASDAQ:PI",
@@ -6142,10 +6130,6 @@
  {
   "symbol": "NASDAQ:PLTR",
   "name": "Palantir Technologies Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:PLUG",
-  "name": "Plug Power Inc."
  },
  {
   "symbol": "NASDAQ:PLUS",
@@ -6586,6 +6570,10 @@
  {
   "symbol": "NYSE:RLI",
   "name": "RLI Corp."
+ },
+ {
+  "symbol": "NYSE:RLX",
+  "name": "RLX Technology, Inc. Sponsored ADR Class A"
  },
  {
   "symbol": "NASDAQ:RMBS",
@@ -7168,12 +7156,12 @@
   "name": "Sonoco Products Company"
  },
  {
-  "symbol": "NYSE:SONY",
-  "name": "Sony Group Corporation Sponsored ADR"
+  "symbol": "NASDAQ:SONO",
+  "name": "Sonos, Inc."
  },
  {
-  "symbol": "NASDAQ:SOUN",
-  "name": "SoundHound AI, Inc Class A"
+  "symbol": "NYSE:SONY",
+  "name": "Sony Group Corporation Sponsored ADR"
  },
  {
   "symbol": "AMEX:SOXL",
@@ -7210,6 +7198,10 @@
  {
   "symbol": "NYSE:SPHR",
   "name": "Sphere Entertainment Co. Class A"
+ },
+ {
+  "symbol": "AMEX:SPHY",
+  "name": "State Street SPDR Portfolio High Yield Bond ETF"
  },
  {
   "symbol": "AMEX:SPMD",
@@ -7756,6 +7748,10 @@
   "name": "Trustmark Corporation"
  },
  {
+  "symbol": "NYSE:TRN",
+  "name": "Trinity Industries, Inc."
+ },
+ {
   "symbol": "NYSE:TRNO",
   "name": "Terreno Realty Corporation"
  },
@@ -8282,6 +8278,10 @@
  {
   "symbol": "NYSE:VOYA",
   "name": "Voya Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:VRDN",
+  "name": "Viridian Therapeutics, Inc."
  },
  {
   "symbol": "NASDAQ:VRNS",

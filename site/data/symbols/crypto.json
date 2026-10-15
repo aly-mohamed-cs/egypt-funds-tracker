@@ -188,14 +188,9 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CASH2USD",
-  "name": "Cash",
-  "code": "CASH"
- },
- {
-  "symbol": "CRYPTO:CASHCATUSD",
-  "name": "Cash Cat",
-  "code": "CASHCAT"
+  "symbol": "CRYPTO:CARDSCUSD",
+  "name": "Collector Crypt",
+  "code": "CARDS"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -598,11 +593,6 @@
   "code": "OP"
  },
  {
-  "symbol": "CRYPTO:OZOUSD",
-  "name": "Ozone Chain",
-  "code": "OZO"
- },
- {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -693,6 +683,11 @@
   "code": "RUNE"
  },
  {
+  "symbol": "CRYPTO:RWUSDUSD",
+  "name": "RWUSD",
+  "code": "RWUSD"
+ },
+ {
   "symbol": "CRYPTO:RYOTUSD",
   "name": "RYO Coin",
   "code": "RYO"
@@ -741,6 +736,11 @@
   "symbol": "CRYPTO:SOON2USD",
   "name": "SOON",
   "code": "SOON"
+ },
+ {
+  "symbol": "CRYPTO:SPCXBUSD",
+  "name": "SpaceX Tokenized bStocks",
+  "code": "SPCXB"
  },
  {
   "symbol": "CRYPTO:SPX6USD",

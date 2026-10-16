@@ -38,6 +38,11 @@
   "code": "AERO"
  },
  {
+  "symbol": "CRYPTO:AGTALUSD",
+  "name": "Alaya Governance Token",
+  "code": "AGT"
+ },
+ {
   "symbol": "CRYPTO:AIOZUSD",
   "name": "AIOZ Network",
   "code": "AIOZ"
@@ -186,11 +191,6 @@
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
- },
- {
-  "symbol": "CRYPTO:CARDSCUSD",
-  "name": "Collector Crypt",
-  "code": "CARDS"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -418,6 +418,11 @@
   "code": "IOTA"
  },
  {
+  "symbol": "CRYPTO:ITAUSD",
+  "name": "Italian National Football Team Fan Token",
+  "code": "ITA"
+ },
+ {
   "symbol": "CRYPTO:JASMYUSD",
   "name": "JasmyCoin",
   "code": "JASMY"
@@ -593,6 +598,11 @@
   "code": "OP"
  },
  {
+  "symbol": "CRYPTO:OZOUSD",
+  "name": "Ozone Chain",
+  "code": "OZO"
+ },
+ {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -621,11 +631,6 @@
   "symbol": "CRYPTO:PIEVERSEUSD",
   "name": "Pieverse",
   "code": "PIEVERSE"
- },
- {
-  "symbol": "CRYPTO:PLUMEUSD",
-  "name": "Plume",
-  "code": "PLUME"
  },
  {
   "symbol": "CRYPTO:POLYGUSD",
@@ -891,11 +896,6 @@
   "symbol": "CRYPTO:VVVUSD",
   "name": "Venice Token",
   "code": "VVV"
- },
- {
-  "symbol": "CRYPTO:WALRUSD",
-  "name": "Walrus",
-  "code": "WAL"
  },
  {
   "symbol": "CRYPTO:WBTUSD",

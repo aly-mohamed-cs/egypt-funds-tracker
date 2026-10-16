@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T20:58:33+00:00",
- "latest_nav_date": "2026-10-12",
+ "generated_at": "2026-10-16T20:33:29+00:00",
+ "latest_nav_date": "2026-10-14",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 57.14453,
-   "nav_date": "2026-10-12",
+   "nav": 57.19351,
+   "nav_date": "2026-10-14",
    "returns": {
-    "1W": 0.002956,
-    "1M": 0.012998,
-    "3M": 0.040542,
-    "YTD": 0.153265,
-    "1Y": 0.195292
+    "1W": 0.003385,
+    "1M": 0.012994,
+    "3M": 0.040562,
+    "YTD": 0.154254,
+    "1Y": 0.195219
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1181,
+   "history_points": 1182,
    "splits": [],
    "stale": false
   },
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 814.4339,
-   "nav_date": "2026-10-11",
+   "nav": 815.6358,
+   "nav_date": "2026-10-14",
    "returns": {
-    "1W": 0.003981,
-    "1M": 0.01606,
-    "3M": 0.047368,
-    "YTD": 0.155369,
-    "1Y": 0.206723
+    "1W": 0.004466,
+    "1M": 0.015021,
+    "3M": 0.047345,
+    "YTD": 0.157074,
+    "1Y": 0.206494
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1380,
+   "history_points": 1381,
    "splits": [],
    "stale": false
   },
@@ -1359,7 +1359,7 @@
    "history_start": "2011-08-20",
    "history_points": 1083,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2717,
@@ -1407,7 +1407,7 @@
    "history_start": "2010-04-17",
    "history_points": 904,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2719,
@@ -2106,7 +2106,7 @@
    "history_start": "2009-08-10",
    "history_points": 861,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2746,
@@ -2351,7 +2351,7 @@
    "history_start": "2014-03-15",
    "history_points": 637,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 4877,
@@ -2668,7 +2668,7 @@
    "history_start": "2020-01-20",
    "history_points": 365,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5751,
@@ -4947,7 +4947,7 @@
    "history_start": "2026-09-12",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6457,

@@ -200,10 +200,6 @@
   "name": "Aegon Ltd. Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:AEHR",
-  "name": "Aehr Test Systems"
- },
- {
   "symbol": "NASDAQ:AEIS",
   "name": "Advanced Energy Industries, Inc."
  },
@@ -450,10 +446,6 @@
  {
   "symbol": "NYSE:AMR",
   "name": "Alpha Metallurgical Resources, Inc."
- },
- {
-  "symbol": "NASDAQ:AMRO",
-  "name": "Amaero Inc."
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -1034,10 +1026,6 @@
  {
   "symbol": "NYSE:BFH",
   "name": "Bread Financial Holdings, Inc."
- },
- {
-  "symbol": "NYSE:BFLY",
-  "name": "Butterfly Network, Inc. Class A"
  },
  {
   "symbol": "NYSE:BG",
@@ -2072,6 +2060,10 @@
   "name": "Cintas Corporation"
  },
  {
+  "symbol": "NYSE:CTOS",
+  "name": "Custom Truck One Source Inc"
+ },
+ {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
  },
@@ -2265,7 +2257,7 @@
  },
  {
   "symbol": "AMEX:DFAS",
-  "name": "U.S. Small Cap Portfolio: ETF Class Shares"
+  "name": "U.S. Small Cap Portfolio ETF"
  },
  {
   "symbol": "AMEX:DFAT",
@@ -2434,6 +2426,10 @@
  {
   "symbol": "NASDAQ:DPZ",
   "name": "Domino's Pizza, Inc."
+ },
+ {
+  "symbol": "NYSE:DRD",
+  "name": "DRDGOLD Ltd. Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:DRH",
@@ -2762,10 +2758,6 @@
  {
   "symbol": "NYSE:ERO",
   "name": "Ero Copper Corp."
- },
- {
-  "symbol": "NYSE:EROC",
-  "name": "ERock, Inc. Class A"
  },
  {
   "symbol": "NYSE:EROK",
@@ -3168,10 +3160,6 @@
   "name": "First Merchants Corporation"
  },
  {
-  "symbol": "NASDAQ:FRMI",
-  "name": "Fermi Inc."
- },
- {
   "symbol": "NYSE:FRO",
   "name": "Frontline Plc"
  },
@@ -3294,10 +3282,6 @@
  {
   "symbol": "NASDAQ:GCMG",
   "name": "GCM Grosvenor, Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:GCT",
-  "name": "GigaCloud Technology, Inc. Class A"
  },
  {
   "symbol": "NYSE:GD",
@@ -3680,6 +3664,10 @@
   "name": "Hims & Hers Health, Inc. Class A"
  },
  {
+  "symbol": "NASDAQ:HIMX",
+  "name": "Himax Technologies, Inc. Sponsored ADR"
+ },
+ {
   "symbol": "NYSE:HIW",
   "name": "Highwoods Properties, Inc."
  },
@@ -3806,6 +3794,10 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
+ },
+ {
+  "symbol": "NYSE:HTH",
+  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -4018,10 +4010,6 @@
  {
   "symbol": "NASDAQ:INDV",
   "name": "Indivior Pharmaceuticals, Inc."
- },
- {
-  "symbol": "NYSE:INFQ",
-  "name": "Infleqtion, Inc."
  },
  {
   "symbol": "NYSE:INFY",
@@ -4518,6 +4506,10 @@
  {
   "symbol": "NYSE:KRMN",
   "name": "Karman Holdings Inc."
+ },
+ {
+  "symbol": "NYSE:KRP",
+  "name": "Kimbell Royalty Partners LP"
  },
  {
   "symbol": "NASDAQ:KRYS",
@@ -5644,6 +5636,10 @@
   "name": "Newell Brands Inc"
  },
  {
+  "symbol": "NYSE:NWN",
+  "name": "Northwest Natural Holding Co."
+ },
+ {
   "symbol": "NASDAQ:NWS",
   "name": "News Corporation Class B"
  },
@@ -5784,10 +5780,6 @@
   "name": "Option Care Health Inc"
  },
  {
-  "symbol": "NASDAQ:OPEN",
-  "name": "Opendoor Technologies Inc"
- },
- {
   "symbol": "NYSE:OPLN",
   "name": "OPENLANE, Inc."
  },
@@ -5846,10 +5838,6 @@
  {
   "symbol": "NASDAQ:OTTR",
   "name": "Otter Tail Corporation"
- },
- {
-  "symbol": "NASDAQ:OUST",
-  "name": "Ouster, Inc."
  },
  {
   "symbol": "NYSE:OUT",
@@ -6064,6 +6052,10 @@
   "name": "Precigen Inc"
  },
  {
+  "symbol": "NASDAQ:PGNY",
+  "name": "Progyny, Inc."
+ },
+ {
   "symbol": "NYSE:PGR",
   "name": "Progressive Corporation"
  },
@@ -6126,6 +6118,10 @@
  {
   "symbol": "NYSE:PLD",
   "name": "Prologis, Inc."
+ },
+ {
+  "symbol": "NYSE:PLGO",
+  "name": "Pelagos Insurance Capital Limited"
  },
  {
   "symbol": "NASDAQ:PLMR",
@@ -6580,6 +6576,10 @@
   "name": "RLI Corp."
  },
  {
+  "symbol": "NYSE:RLX",
+  "name": "RLX Technology, Inc. Sponsored ADR Class A"
+ },
+ {
   "symbol": "NASDAQ:RMBS",
   "name": "Rambus Inc."
  },
@@ -6702,10 +6702,6 @@
  {
   "symbol": "NYSE:RXO",
   "name": "RXO, Inc."
- },
- {
-  "symbol": "NASDAQ:RXRX",
-  "name": "Recursion Pharmaceuticals, Inc. Class A"
  },
  {
   "symbol": "NYSE:RY",
@@ -7052,10 +7048,6 @@
   "name": "SLM Corp"
  },
  {
-  "symbol": "NASDAQ:SLS",
-  "name": "SELLAS Life Sciences Group, Inc."
- },
- {
   "symbol": "AMEX:SLV",
   "name": "iShares Silver Trust"
  },
@@ -7262,6 +7254,10 @@
  {
   "symbol": "NASDAQ:SRAD",
   "name": "Sportradar Group AG Class A"
+ },
+ {
+  "symbol": "NASDAQ:SRCE",
+  "name": "1st Source Corporation"
  },
  {
   "symbol": "NYSE:SRE",
@@ -7610,6 +7606,10 @@
  {
   "symbol": "NASDAQ:TIGO",
   "name": "Millicom International Cellular SA"
+ },
+ {
+  "symbol": "NASDAQ:TILE",
+  "name": "Interface, Inc."
  },
  {
   "symbol": "NYSE:TIMB",

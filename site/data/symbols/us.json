@@ -1532,6 +1532,10 @@
   "name": "Coeur Mining, Inc."
  },
  {
+  "symbol": "NYSE:CDLR",
+  "name": "Cadeler A/S Sponsored ADR"
+ },
+ {
   "symbol": "NASDAQ:CDNA",
   "name": "CareDx, Inc."
  },
@@ -3500,10 +3504,6 @@
   "name": "Grifols, S.A. Sponsored ADR Class B"
  },
  {
-  "symbol": "NASDAQ:GRID",
-  "name": "First Trust Nasdaq Clean Edge Smart GRID Infrastructure Index"
- },
- {
   "symbol": "NYSE:GRMN",
   "name": "Garmin Ltd."
  },
@@ -3662,10 +3662,6 @@
  {
   "symbol": "NYSE:HIMS",
   "name": "Hims & Hers Health, Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:HIMX",
-  "name": "Himax Technologies, Inc. Sponsored ADR"
  },
  {
   "symbol": "NYSE:HIW",
@@ -4594,6 +4590,10 @@
  {
   "symbol": "NASDAQ:LBTYK",
   "name": "Liberty Global Ltd. Class C"
+ },
+ {
+  "symbol": "NYSE:LCLN",
+  "name": "Lincoln International, Inc. Class A"
  },
  {
   "symbol": "NYSE:LDOS",
@@ -6050,10 +6050,6 @@
  {
   "symbol": "NASDAQ:PGEN",
   "name": "Precigen Inc"
- },
- {
-  "symbol": "NASDAQ:PGNY",
-  "name": "Progyny, Inc."
  },
  {
   "symbol": "NYSE:PGR",
@@ -8122,6 +8118,10 @@
  {
   "symbol": "AMEX:VFH",
   "name": "Vanguard Financials ETF"
+ },
+ {
+  "symbol": "NASDAQ:VFLO",
+  "name": "VictoryShares Free Cash Flow ETF"
  },
  {
   "symbol": "NASDAQ:VFS",

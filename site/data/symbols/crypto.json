@@ -68,6 +68,11 @@
   "code": "ALGO"
  },
  {
+  "symbol": "CRYPTO:ANVLUSD",
+  "name": "Anvil",
+  "code": "ANVL"
+ },
+ {
   "symbol": "CRYPTO:APEPEAUSD",
   "name": "Ape and Pepe",
   "code": "APEPE"
@@ -163,6 +168,11 @@
   "code": "BP"
  },
  {
+  "symbol": "CRYPTO:BRBEUSD",
+  "name": "Bedrock",
+  "code": "BR"
+ },
+ {
   "symbol": "CRYPTO:BSVUSD",
   "name": "Bitcoin SV",
   "code": "BSV"
@@ -253,19 +263,9 @@
   "code": "DCR"
  },
  {
-  "symbol": "CRYPTO:DEEPBUSD",
-  "name": "DeepBook Protocol",
-  "code": "DEEP"
- },
- {
   "symbol": "CRYPTO:DEXEUSD",
   "name": "DeXe",
   "code": "DEXE"
- },
- {
-  "symbol": "CRYPTO:DGAIUSD",
-  "name": "DGrid AI",
-  "code": "DGAI"
  },
  {
   "symbol": "CRYPTO:DOGEUSD",
@@ -351,6 +351,11 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
+ },
+ {
+  "symbol": "CRYPTO:GFGOUSD",
+  "name": "GoldFinger",
+  "code": "GF"
  },
  {
   "symbol": "CRYPTO:GNOUSD",
@@ -683,6 +688,11 @@
   "code": "RENDER"
  },
  {
+  "symbol": "CRYPTO:RSRUSD",
+  "name": "Reserve Rights",
+  "code": "RSR"
+ },
+ {
   "symbol": "CRYPTO:RUNEUSD",
   "name": "THORChain",
   "code": "RUNE"
@@ -711,11 +721,6 @@
   "symbol": "CRYPTO:SENTIEUSD",
   "name": "Sentient",
   "code": "SENT"
- },
- {
-  "symbol": "CRYPTO:SFPUSD",
-  "name": "SafePal",
-  "code": "SFP"
  },
  {
   "symbol": "CRYPTO:SHIBUSD",
@@ -786,11 +791,6 @@
   "symbol": "CRYPTO:SUNUSD",
   "name": "Sun (New)",
   "code": "SUN"
- },
- {
-  "symbol": "CRYPTO:SUPERUSD",
-  "name": "SuperVerse",
-  "code": "SUPER"
  },
  {
   "symbol": "CRYPTO:SYRUPUSD",

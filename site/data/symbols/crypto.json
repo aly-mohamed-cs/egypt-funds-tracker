@@ -193,14 +193,14 @@
   "code": "BTW"
  },
  {
-  "symbol": "CRYPTO:BUSD",
-  "name": "BUILDon",
-  "code": "B"
- },
- {
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
+ },
+ {
+  "symbol": "CRYPTO:CASH2USD",
+  "name": "Cash",
+  "code": "CASH"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -266,6 +266,11 @@
   "symbol": "CRYPTO:DEXEUSD",
   "name": "DeXe",
   "code": "DEXE"
+ },
+ {
+  "symbol": "CRYPTO:DGAIUSD",
+  "name": "DGrid AI",
+  "code": "DGAI"
  },
  {
   "symbol": "CRYPTO:DOGEUSD",
@@ -686,11 +691,6 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
- },
- {
-  "symbol": "CRYPTO:RSRUSD",
-  "name": "Reserve Rights",
-  "code": "RSR"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",

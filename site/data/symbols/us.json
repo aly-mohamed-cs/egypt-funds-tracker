@@ -256,6 +256,10 @@
   "name": "Alamos Gold Inc."
  },
  {
+  "symbol": "NASDAQ:AGIO",
+  "name": "Agios Pharmaceuticals, Inc."
+ },
+ {
   "symbol": "NYSE:AGM",
   "name": "Federal Agricultural Mortgage Corporation Class C"
  },
@@ -442,10 +446,6 @@
  {
   "symbol": "NYSE:AMP",
   "name": "Ameriprise Financial, Inc."
- },
- {
-  "symbol": "NYSE:AMR",
-  "name": "Alpha Metallurgical Resources, Inc."
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -670,10 +670,6 @@
  {
   "symbol": "NYSE:ATI",
   "name": "ATI Inc"
- },
- {
-  "symbol": "NYSE:ATKR",
-  "name": "Atkore Inc"
  },
  {
   "symbol": "NYSE:ATMU",
@@ -1556,7 +1552,7 @@
   "name": "Celanese Corporation"
  },
  {
-  "symbol": "NASDAQ:CECO",
+  "symbol": "AMEX:CECO",
   "name": "CECO Environmental Corp."
  },
  {
@@ -2064,10 +2060,6 @@
   "name": "Cintas Corporation"
  },
  {
-  "symbol": "NYSE:CTOS",
-  "name": "Custom Truck One Source Inc"
- },
- {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
  },
@@ -2374,10 +2366,6 @@
  {
   "symbol": "NASDAQ:DNLI",
   "name": "Denali Therapeutics Inc."
- },
- {
-  "symbol": "AMEX:DNN",
-  "name": "Denison Mines Corp."
  },
  {
   "symbol": "NYSE:DNOW",
@@ -3868,7 +3856,7 @@
   "name": "ICICI Bank Limited Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:IBOC",
+  "symbol": "AMEX:IBOC",
   "name": "International Bancshares Corporation"
  },
  {
@@ -5120,10 +5108,6 @@
   "name": "MiniMed Group, Inc."
  },
  {
-  "symbol": "NASDAQ:MMEDV",
-  "name": "MiniMed Group, Inc."
- },
- {
   "symbol": "NYSE:MMM",
   "name": "3M Company"
  },
@@ -5484,10 +5468,6 @@
   "name": "Nomura Holdings, Inc. Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:NMRK",
-  "name": "Newmark Group, Inc. Class A"
- },
- {
   "symbol": "NYSE:NNI",
   "name": "Nelnet, Inc. Class A"
  },
@@ -5634,10 +5614,6 @@
  {
   "symbol": "NASDAQ:NWL",
   "name": "Newell Brands Inc"
- },
- {
-  "symbol": "NYSE:NWN",
-  "name": "Northwest Natural Holding Co."
  },
  {
   "symbol": "NASDAQ:NWS",
@@ -5838,6 +5814,10 @@
  {
   "symbol": "NASDAQ:OTTR",
   "name": "Otter Tail Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OUST",
+  "name": "Ouster, Inc."
  },
  {
   "symbol": "NYSE:OUT",
@@ -6052,6 +6032,10 @@
   "name": "Precigen Inc"
  },
  {
+  "symbol": "NASDAQ:PGNY",
+  "name": "Progyny, Inc."
+ },
+ {
   "symbol": "NYSE:PGR",
   "name": "Progressive Corporation"
  },
@@ -6074,6 +6058,10 @@
  {
   "symbol": "NYSE:PHM",
   "name": "PulteGroup, Inc."
+ },
+ {
+  "symbol": "NASDAQ:PHVS",
+  "name": "Pharvaris N.V."
  },
  {
   "symbol": "NASDAQ:PI",
@@ -6238,6 +6226,10 @@
  {
   "symbol": "AMEX:PRK",
   "name": "Park National Corporation"
+ },
+ {
+  "symbol": "NYSE:PRLB",
+  "name": "Proto Labs, Inc."
  },
  {
   "symbol": "NYSE:PRM",
@@ -7044,6 +7036,10 @@
   "name": "SLM Corp"
  },
  {
+  "symbol": "NASDAQ:SLS",
+  "name": "SELLAS Life Sciences Group, Inc."
+ },
+ {
   "symbol": "AMEX:SLV",
   "name": "iShares Silver Trust"
  },
@@ -7250,10 +7246,6 @@
  {
   "symbol": "NASDAQ:SRAD",
   "name": "Sportradar Group AG Class A"
- },
- {
-  "symbol": "NASDAQ:SRCE",
-  "name": "1st Source Corporation"
  },
  {
   "symbol": "NYSE:SRE",
@@ -7602,10 +7594,6 @@
  {
   "symbol": "NASDAQ:TIGO",
   "name": "Millicom International Cellular SA"
- },
- {
-  "symbol": "NASDAQ:TILE",
-  "name": "Interface, Inc."
  },
  {
   "symbol": "NYSE:TIMB",
@@ -8104,8 +8092,16 @@
   "name": "VEON Ltd. Sponsored ADR"
  },
  {
+  "symbol": "NASDAQ:VERA",
+  "name": "Vera Therapeutics, Inc. Class A"
+ },
+ {
   "symbol": "NASDAQ:VERX",
   "name": "Vertex, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:VET",
+  "name": "Vermilion Energy Inc."
  },
  {
   "symbol": "AMEX:VEU",
@@ -8570,6 +8566,10 @@
  {
   "symbol": "NYSE:WRBY",
   "name": "Warby Parker, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WS",
+  "name": "Worthington Steel, Inc."
  },
  {
   "symbol": "NASDAQ:WSBC",

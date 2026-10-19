@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T20:09:54+00:00",
- "latest_nav_date": "2026-10-14",
+ "generated_at": "2026-10-19T22:01:56+00:00",
+ "latest_nav_date": "2026-10-17",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 57.19351,
-   "nav_date": "2026-10-14",
+   "nav": 57.26308,
+   "nav_date": "2026-10-17",
    "returns": {
-    "1W": 0.003385,
-    "1M": 0.012994,
-    "3M": 0.040562,
-    "YTD": 0.154254,
-    "1Y": 0.195219
+    "1W": 0.004605,
+    "1M": 0.013344,
+    "3M": 0.041393,
+    "YTD": 0.155658,
+    "1Y": 0.195782
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1182,
+   "history_points": 1183,
    "splits": [],
    "stale": false
   },
@@ -1436,7 +1436,7 @@
      "factor": 40.1483
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2720,
@@ -1465,7 +1465,7 @@
      "factor": 20.0836
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2721,
@@ -1513,7 +1513,7 @@
    "history_start": "2010-11-08",
    "history_points": 941,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2723,
@@ -1537,7 +1537,7 @@
    "history_start": "2010-02-07",
    "history_points": 1089,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2724,
@@ -1561,7 +1561,7 @@
    "history_start": "2011-10-20",
    "history_points": 898,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2725,
@@ -1638,7 +1638,7 @@
    "history_start": "2011-10-30",
    "history_points": 2064,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2728,
@@ -2812,7 +2812,7 @@
    "history_start": "2021-11-16",
    "history_points": 606,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5798,
@@ -3028,7 +3028,7 @@
    "history_start": "2022-05-11",
    "history_points": 683,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5843,
@@ -3676,7 +3676,7 @@
    "history_start": "2024-08-18",
    "history_points": 178,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6144,
@@ -3772,7 +3772,7 @@
    "history_start": "2024-09-09",
    "history_points": 154,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6149,
@@ -3796,7 +3796,7 @@
    "history_start": "2024-09-09",
    "history_points": 153,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6157,
@@ -3820,7 +3820,7 @@
    "history_start": "2024-08-26",
    "history_points": 182,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6193,
@@ -3844,7 +3844,7 @@
    "history_start": "2025-02-10",
    "history_points": 12,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6197,
@@ -4189,7 +4189,7 @@
    "history_start": "2025-09-20",
    "history_points": 238,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6376,
@@ -4285,7 +4285,7 @@
    "history_start": "2025-09-20",
    "history_points": 245,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6387,
@@ -4309,7 +4309,7 @@
    "history_start": "2025-09-18",
    "history_points": 235,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6391,
@@ -4491,7 +4491,7 @@
    "history_start": "2026-09-14",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6410,
@@ -4587,7 +4587,7 @@
    "history_start": "2026-09-15",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6424,
@@ -4611,7 +4611,7 @@
    "history_start": "2026-09-16",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6426,
@@ -4635,7 +4635,7 @@
    "history_start": "2026-09-16",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6427,
@@ -4707,7 +4707,7 @@
    "history_start": "2025-11-17",
    "history_points": 181,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6435,
@@ -4803,7 +4803,7 @@
    "history_start": "2026-09-16",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6450,
@@ -4875,7 +4875,7 @@
    "history_start": "2026-09-14",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6453,
@@ -4923,7 +4923,7 @@
    "history_start": "2026-09-16",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6456,
@@ -4971,7 +4971,7 @@
    "history_start": "2026-09-16",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6459,

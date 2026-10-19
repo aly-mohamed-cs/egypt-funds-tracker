@@ -118,6 +118,11 @@
   "code": "A"
  },
  {
+  "symbol": "CRYPTO:AWEUSD",
+  "name": "AWE",
+  "code": "AWE"
+ },
+ {
   "symbol": "CRYPTO:AXSUSD",
   "name": "Axie Infinity",
   "code": "AXS"
@@ -198,9 +203,9 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CASH2USD",
-  "name": "Cash",
-  "code": "CASH"
+  "symbol": "CRYPTO:CARDSCUSD",
+  "name": "Collector Crypt",
+  "code": "CARDS"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -356,11 +361,6 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
- },
- {
-  "symbol": "CRYPTO:GFGOUSD",
-  "name": "GoldFinger",
-  "code": "GF"
  },
  {
   "symbol": "CRYPTO:GNOUSD",

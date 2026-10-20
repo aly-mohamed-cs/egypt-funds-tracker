@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T22:01:56+00:00",
- "latest_nav_date": "2026-10-17",
+ "generated_at": "2026-10-20T21:17:50+00:00",
+ "latest_nav_date": "2026-10-18",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 57.26308,
-   "nav_date": "2026-10-17",
+   "nav": 57.28828,
+   "nav_date": "2026-10-18",
    "returns": {
-    "1W": 0.004605,
-    "1M": 0.013344,
-    "3M": 0.041393,
-    "YTD": 0.155658,
-    "1Y": 0.195782
+    "1W": 0.002945,
+    "1M": 0.013789,
+    "3M": 0.040542,
+    "YTD": 0.156166,
+    "1Y": 0.194693
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1183,
+   "history_points": 1184,
    "splits": [],
    "stale": false
   },
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 815.6358,
-   "nav_date": "2026-10-14",
+   "nav": 817.2586,
+   "nav_date": "2026-10-18",
    "returns": {
-    "1W": 0.004466,
-    "1M": 0.015021,
-    "3M": 0.047345,
-    "YTD": 0.157074,
-    "1Y": 0.206494
+    "1W": 0.003468,
+    "1M": 0.01602,
+    "3M": 0.047347,
+    "YTD": 0.159376,
+    "1Y": 0.206224
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1381,
+   "history_points": 1382,
    "splits": [],
    "stale": false
   },
@@ -225,7 +225,7 @@
    "history_start": "2010-09-26",
    "history_points": 1232,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2671,
@@ -573,7 +573,7 @@
    "history_start": "2006-04-06",
    "history_points": 2898,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2684,
@@ -741,7 +741,7 @@
    "history_start": "2007-05-24",
    "history_points": 1038,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2691,
@@ -813,7 +813,7 @@
    "history_start": "2006-06-01",
    "history_points": 1024,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2694,
@@ -837,7 +837,7 @@
    "history_start": "2005-08-04",
    "history_points": 1078,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2695,
@@ -861,7 +861,7 @@
    "history_start": "2005-08-04",
    "history_points": 1079,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2696,
@@ -914,7 +914,7 @@
      "factor": 9.5935
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2698,
@@ -938,7 +938,7 @@
    "history_start": "2005-08-04",
    "history_points": 1070,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2701,
@@ -962,7 +962,7 @@
    "history_start": "2005-08-04",
    "history_points": 1550,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2702,
@@ -1015,7 +1015,7 @@
      "factor": 9.90133
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2704,
@@ -1133,7 +1133,7 @@
      "factor": 9.50477
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2708,
@@ -1186,7 +1186,7 @@
      "factor": 100.161
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2710,
@@ -1215,7 +1215,7 @@
      "factor": 20.0591
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2711,
@@ -1686,7 +1686,7 @@
    "history_start": "1995-05-11",
    "history_points": 3457,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2730,
@@ -1710,7 +1710,7 @@
    "history_start": "2006-07-20",
    "history_points": 3565,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2731,
@@ -1734,7 +1734,7 @@
    "history_start": "2007-05-20",
    "history_points": 1167,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2732,
@@ -1758,7 +1758,7 @@
    "history_start": "2008-04-06",
    "history_points": 3429,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2733,
@@ -1799,7 +1799,7 @@
      "factor": 0.102022
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2734,
@@ -1823,7 +1823,7 @@
    "history_start": "2009-07-22",
    "history_points": 1020,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2735,
@@ -1871,7 +1871,7 @@
    "history_start": "2012-04-22",
    "history_points": 2963,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2737,
@@ -1900,7 +1900,7 @@
      "factor": 0.197607
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2738,
@@ -2001,7 +2001,7 @@
    "history_start": "2005-08-04",
    "history_points": 1065,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2742,
@@ -2025,7 +2025,7 @@
    "history_start": "2007-05-20",
    "history_points": 2865,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2743,
@@ -2082,7 +2082,7 @@
    "history_start": "2010-08-01",
    "history_points": 2398,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2745,
@@ -2375,7 +2375,7 @@
    "history_start": "2014-08-30",
    "history_points": 2570,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5239,
@@ -2423,7 +2423,7 @@
    "history_start": "2015-03-12",
    "history_points": 2584,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5432,
@@ -2596,7 +2596,7 @@
    "history_start": "2020-08-11",
    "history_points": 1109,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5729,
@@ -2716,7 +2716,7 @@
    "history_start": "2021-05-23",
    "history_points": 903,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5762,
@@ -2860,7 +2860,7 @@
    "history_start": "2021-12-30",
    "history_points": 172,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5808,
@@ -3076,7 +3076,7 @@
    "history_start": "2022-02-02",
    "history_points": 658,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5882,
@@ -3172,7 +3172,7 @@
    "history_start": "2022-12-07",
    "history_points": 569,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5906,
@@ -3220,7 +3220,7 @@
    "history_start": "2022-12-26",
    "history_points": 500,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5911,
@@ -3532,7 +3532,7 @@
    "history_start": "2024-03-14",
    "history_points": 269,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6062,
@@ -3580,7 +3580,7 @@
    "history_start": "2023-12-30",
    "history_points": 293,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6064,
@@ -3628,7 +3628,7 @@
    "history_start": "2024-07-21",
    "history_points": 186,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6121,
@@ -3700,7 +3700,7 @@
    "history_start": "2024-07-30",
    "history_points": 190,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6145,
@@ -3724,7 +3724,7 @@
    "history_start": "2024-09-10",
    "history_points": 162,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6146,
@@ -3868,7 +3868,7 @@
    "history_start": "2025-02-10",
    "history_points": 57,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6198,
@@ -3892,7 +3892,7 @@
    "history_start": "2025-02-10",
    "history_points": 57,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6199,
@@ -3916,7 +3916,7 @@
    "history_start": "2025-02-10",
    "history_points": 57,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6200,
@@ -3940,7 +3940,7 @@
    "history_start": "2025-02-10",
    "history_points": 57,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6201,
@@ -3964,7 +3964,7 @@
    "history_start": "2025-02-10",
    "history_points": 56,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6202,
@@ -3988,7 +3988,7 @@
    "history_start": "2025-02-17",
    "history_points": 45,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6203,
@@ -4012,7 +4012,7 @@
    "history_start": "2025-02-17",
    "history_points": 45,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6204,
@@ -4036,7 +4036,7 @@
    "history_start": "2025-02-17",
    "history_points": 45,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6205,
@@ -4060,7 +4060,7 @@
    "history_start": "2025-02-17",
    "history_points": 45,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6211,
@@ -4443,7 +4443,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6403,
@@ -4659,7 +4659,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6428,
@@ -4851,7 +4851,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6452,
@@ -4899,7 +4899,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6454,
@@ -5067,7 +5067,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6467,
@@ -5091,7 +5091,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6472,
@@ -5115,7 +5115,7 @@
    "history_start": "2026-09-17",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6473,

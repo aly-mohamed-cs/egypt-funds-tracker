@@ -198,6 +198,11 @@
   "code": "BTW"
  },
  {
+  "symbol": "CRYPTO:BUSD",
+  "name": "BUILDon",
+  "code": "B"
+ },
+ {
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
@@ -361,6 +366,11 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
+ },
+ {
+  "symbol": "CRYPTO:GEODNUSD",
+  "name": "GEODNET",
+  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GNOUSD",
@@ -608,11 +618,6 @@
   "code": "OP"
  },
  {
-  "symbol": "CRYPTO:OZOUSD",
-  "name": "Ozone Chain",
-  "code": "OZO"
- },
- {
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
@@ -856,11 +861,6 @@
   "symbol": "CRYPTO:UBUNUSD",
   "name": "Unibase",
   "code": "UB"
- },
- {
-  "symbol": "CRYPTO:ULTIMATOUSD",
-  "name": "Ultima",
-  "code": "ULTIMA"
  },
  {
   "symbol": "CRYPTO:UNIUSD",

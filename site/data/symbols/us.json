@@ -792,6 +792,10 @@
   "name": "Axos Financial, Inc."
  },
  {
+  "symbol": "NASDAQ:AXGN",
+  "name": "Axogen, Inc."
+ },
+ {
   "symbol": "NASDAQ:AXON",
   "name": "Axon Enterprise Inc"
  },
@@ -1602,10 +1606,6 @@
  {
   "symbol": "AMEX:CGDV",
   "name": "Capital Group Dividend Value ETF"
- },
- {
-  "symbol": "AMEX:CGGO",
-  "name": "Capital Group Global Growth Equity ETF"
  },
  {
   "symbol": "AMEX:CGGR",
@@ -2832,10 +2832,6 @@
   "name": "iShares MSCI Japan ETF"
  },
  {
-  "symbol": "AMEX:EWT",
-  "name": "iShares MSCI Taiwan ETF"
- },
- {
   "symbol": "NASDAQ:EWTX",
   "name": "Edgewise Therapeutics, Inc."
  },
@@ -3274,6 +3270,10 @@
  {
   "symbol": "NASDAQ:GCMG",
   "name": "GCM Grosvenor, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:GCT",
+  "name": "GigaCloud Technology, Inc. Class A"
  },
  {
   "symbol": "NYSE:GD",
@@ -3752,10 +3752,6 @@
   "name": "Harmony Biosciences Holdings, Inc."
  },
  {
-  "symbol": "NASDAQ:HSAI",
-  "name": "Hesai Group Sponsored ADR"
- },
- {
   "symbol": "NYSE:HSBC",
   "name": "HSBC Holdings PLC Sponsored ADR"
  },
@@ -3970,6 +3966,10 @@
  {
   "symbol": "NYSE:IMAX",
   "name": "IMAX Corporation"
+ },
+ {
+  "symbol": "NASDAQ:IMNM",
+  "name": "Immunome, Inc."
  },
  {
   "symbol": "AMEX:IMO",
@@ -5388,6 +5388,10 @@
   "name": "Neogen Corp"
  },
  {
+  "symbol": "NASDAQ:NESR",
+  "name": "National Energy Services Reunited Corp."
+ },
+ {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5466,6 +5470,10 @@
  {
   "symbol": "NYSE:NMR",
   "name": "Nomura Holdings, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:NMRK",
+  "name": "Newmark Group, Inc. Class A"
  },
  {
   "symbol": "NYSE:NNI",
@@ -6208,10 +6216,6 @@
   "name": "Praxis Precision Medicines, Inc."
  },
  {
-  "symbol": "NASDAQ:PRDO",
-  "name": "Perdoceo Education Corporation"
- },
- {
   "symbol": "NYSE:PRGO",
   "name": "Perrigo Co. Plc"
  },
@@ -6448,10 +6452,6 @@
   "name": "First Trust Rising Dividend Achievers ETF"
  },
  {
-  "symbol": "NYSE:RDW",
-  "name": "Redwire Corp"
- },
- {
   "symbol": "NYSE:RDY",
   "name": "Dr. Reddy's Laboratories Ltd. Sponsored ADR"
  },
@@ -6562,10 +6562,6 @@
  {
   "symbol": "NYSE:RLI",
   "name": "RLI Corp."
- },
- {
-  "symbol": "NYSE:RLX",
-  "name": "RLX Technology, Inc. Sponsored ADR Class A"
  },
  {
   "symbol": "NASDAQ:RMBS",
@@ -6690,6 +6686,10 @@
  {
   "symbol": "NYSE:RXO",
   "name": "RXO, Inc."
+ },
+ {
+  "symbol": "NASDAQ:RXRX",
+  "name": "Recursion Pharmaceuticals, Inc. Class A"
  },
  {
   "symbol": "NYSE:RY",
@@ -7188,6 +7188,10 @@
   "name": "Sphere Entertainment Co. Class A"
  },
  {
+  "symbol": "AMEX:SPHY",
+  "name": "State Street SPDR Portfolio High Yield Bond ETF"
+ },
+ {
   "symbol": "AMEX:SPMD",
   "name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF"
  },
@@ -7382,10 +7386,6 @@
  {
   "symbol": "NYSE:SUZ",
   "name": "Suzano S.A. Sponsored ADR"
- },
- {
-  "symbol": "AMEX:SVM",
-  "name": "Silvercorp Metals Inc."
  },
  {
   "symbol": "NYSE:SW",
@@ -7618,6 +7618,10 @@
  {
   "symbol": "NYSE:TKR",
   "name": "Timken Company"
+ },
+ {
+  "symbol": "AMEX:TLH",
+  "name": "iShares 10-20 Year Treasury Bond ETF"
  },
  {
   "symbol": "NYSE:TLK",
@@ -8098,10 +8102,6 @@
  {
   "symbol": "NASDAQ:VERX",
   "name": "Vertex, Inc. Class A"
- },
- {
-  "symbol": "NYSE:VET",
-  "name": "Vermilion Energy Inc."
  },
  {
   "symbol": "AMEX:VEU",

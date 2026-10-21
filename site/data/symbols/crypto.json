@@ -43,11 +43,6 @@
   "code": "AGT"
  },
  {
-  "symbol": "CRYPTO:AIOZUSD",
-  "name": "AIOZ Network",
-  "code": "AIOZ"
- },
- {
   "symbol": "CRYPTO:AKEUSD",
   "name": "AKEDO",
   "code": "AKE"
@@ -368,11 +363,6 @@
   "code": "FLUID"
  },
  {
-  "symbol": "CRYPTO:GEODNUSD",
-  "name": "GEODNET",
-  "code": "GEOD"
- },
- {
   "symbol": "CRYPTO:GNOUSD",
   "name": "Gnosis",
   "code": "GNO"
@@ -536,6 +526,11 @@
   "symbol": "CRYPTO:MEMECOREUSD",
   "name": "MemeCore",
   "code": "M"
+ },
+ {
+  "symbol": "CRYPTO:METADUSD",
+  "name": "MetaDAO (new)",
+  "code": "META"
  },
  {
   "symbol": "CRYPTO:METEUSD",
@@ -796,6 +791,11 @@
   "symbol": "CRYPTO:SUNUSD",
   "name": "Sun (New)",
   "code": "SUN"
+ },
+ {
+  "symbol": "CRYPTO:SUPERUSD",
+  "name": "SuperVerse",
+  "code": "SUPER"
  },
  {
   "symbol": "CRYPTO:SYRUPUSD",

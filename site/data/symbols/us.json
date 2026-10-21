@@ -260,10 +260,6 @@
   "name": "Agios Pharmaceuticals, Inc."
  },
  {
-  "symbol": "NYSE:AGM",
-  "name": "Federal Agricultural Mortgage Corporation Class C"
- },
- {
   "symbol": "NYSE:AGM.A",
   "name": "Federal Agricultural Mortgage Corporation Class A"
  },
@@ -370,6 +366,10 @@
  {
   "symbol": "NASDAQ:ALM",
   "name": "Almonty Industries Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALMR",
+  "name": "Alamar Biosciences, Inc."
  },
  {
   "symbol": "NASDAQ:ALNY",
@@ -1608,6 +1608,10 @@
   "name": "Capital Group Dividend Value ETF"
  },
  {
+  "symbol": "AMEX:CGGO",
+  "name": "Capital Group Global Growth Equity ETF"
+ },
+ {
   "symbol": "AMEX:CGGR",
   "name": "Capital Group Growth ETF"
  },
@@ -2058,6 +2062,10 @@
  {
   "symbol": "NASDAQ:CTAS",
   "name": "Cintas Corporation"
+ },
+ {
+  "symbol": "NYSE:CTOS",
+  "name": "Custom Truck One Source Inc"
  },
  {
   "symbol": "NYSE:CTRE",
@@ -2830,6 +2838,10 @@
  {
   "symbol": "AMEX:EWJ",
   "name": "iShares MSCI Japan ETF"
+ },
+ {
+  "symbol": "AMEX:EWT",
+  "name": "iShares MSCI Taiwan ETF"
  },
  {
   "symbol": "NASDAQ:EWTX",
@@ -3752,6 +3764,10 @@
   "name": "Harmony Biosciences Holdings, Inc."
  },
  {
+  "symbol": "NASDAQ:HSAI",
+  "name": "Hesai Group Sponsored ADR"
+ },
+ {
   "symbol": "NYSE:HSBC",
   "name": "HSBC Holdings PLC Sponsored ADR"
  },
@@ -3774,10 +3790,6 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
- },
- {
-  "symbol": "NYSE:HTH",
-  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -4492,10 +4504,6 @@
   "name": "Karman Holdings Inc."
  },
  {
-  "symbol": "NYSE:KRP",
-  "name": "Kimbell Royalty Partners LP"
- },
- {
   "symbol": "NASDAQ:KRYS",
   "name": "Krystal Biotech, Inc."
  },
@@ -4550,6 +4558,10 @@
  {
   "symbol": "NASDAQ:LAMR",
   "name": "Lamar Advertising Company Class A"
+ },
+ {
+  "symbol": "NASDAQ:LASR",
+  "name": "nLIGHT, Inc."
  },
  {
   "symbol": "NASDAQ:LAUR",
@@ -5228,6 +5240,10 @@
   "name": "Madison Square Garden Entertainment Corp."
  },
  {
+  "symbol": "NYSE:MSGK/I",
+  "name": "MADISON SQUARE GARDEN SPORTS CORP"
+ },
+ {
   "symbol": "NYSE:MSGS",
   "name": "Madison Square Garden Sports Corp. Class A"
  },
@@ -5470,10 +5486,6 @@
  {
   "symbol": "NYSE:NMR",
   "name": "Nomura Holdings, Inc. Sponsored ADR"
- },
- {
-  "symbol": "NASDAQ:NMRK",
-  "name": "Newmark Group, Inc. Class A"
  },
  {
   "symbol": "NYSE:NNI",
@@ -6060,10 +6072,6 @@
   "name": "PLDT, Inc. Sponsored ADR"
  },
  {
-  "symbol": "NYSE:PHIN",
-  "name": "PHINIA Inc."
- },
- {
   "symbol": "NYSE:PHM",
   "name": "PulteGroup, Inc."
  },
@@ -6450,6 +6458,10 @@
  {
   "symbol": "NASDAQ:RDVY",
   "name": "First Trust Rising Dividend Achievers ETF"
+ },
+ {
+  "symbol": "NYSE:RDW",
+  "name": "Redwire Corp"
  },
  {
   "symbol": "NYSE:RDY",
@@ -7148,10 +7160,6 @@
   "name": "Sony Group Corporation Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:SOUN",
-  "name": "SoundHound AI, Inc Class A"
- },
- {
   "symbol": "AMEX:SOXL",
   "name": "Direxion Daily Semiconductor Bull 3X ETF"
  },
@@ -7186,10 +7194,6 @@
  {
   "symbol": "NYSE:SPHR",
   "name": "Sphere Entertainment Co. Class A"
- },
- {
-  "symbol": "AMEX:SPHY",
-  "name": "State Street SPDR Portfolio High Yield Bond ETF"
  },
  {
   "symbol": "AMEX:SPMD",
@@ -7464,6 +7468,10 @@
   "name": "Molson Coors Beverage Company Class B"
  },
  {
+  "symbol": "NYSE:TAP.A",
+  "name": "Molson Coors Beverage Company Class A"
+ },
+ {
   "symbol": "NASDAQ:TARS",
   "name": "Tarsus Pharmaceuticals, Inc."
  },
@@ -7620,10 +7628,6 @@
   "name": "Timken Company"
  },
  {
-  "symbol": "AMEX:TLH",
-  "name": "iShares 10-20 Year Treasury Bond ETF"
- },
- {
   "symbol": "NYSE:TLK",
   "name": "PT Telkom Indonesia (Persero) Tbk Sponsored ADR Class B"
  },
@@ -7722,6 +7726,10 @@
  {
   "symbol": "NASDAQ:TRI",
   "name": "Thomson Reuters Corporation"
+ },
+ {
+  "symbol": "NYSE:TRLV",
+  "name": "Trulieve Cannabis Corp."
  },
  {
   "symbol": "NASDAQ:TRMB",
@@ -8412,10 +8420,6 @@
   "name": "Westinghouse Air Brake Technologies Corporation"
  },
  {
-  "symbol": "NASDAQ:WAFD",
-  "name": "WaFd, Inc."
- },
- {
   "symbol": "NYSE:WAL",
   "name": "Western Alliance Bancorp"
  },
@@ -8566,10 +8570,6 @@
  {
   "symbol": "NYSE:WRBY",
   "name": "Warby Parker, Inc. Class A"
- },
- {
-  "symbol": "NYSE:WS",
-  "name": "Worthington Steel, Inc."
  },
  {
   "symbol": "NASDAQ:WSBC",

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T21:17:45+00:00",
- "latest_nav_date": "2026-10-18",
+ "generated_at": "2026-10-22T21:14:05+00:00",
+ "latest_nav_date": "2026-10-20",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -177,7 +177,7 @@
    "history_start": "2009-01-05",
    "history_points": 3126,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2669,
@@ -249,7 +249,7 @@
    "history_start": "2009-03-02",
    "history_points": 3094,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2672,
@@ -407,7 +407,7 @@
      "factor": 2.25333
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2678,
@@ -597,7 +597,7 @@
    "history_start": "2005-08-04",
    "history_points": 3169,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2685,
@@ -621,7 +621,7 @@
    "history_start": "2011-09-11",
    "history_points": 2836,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2686,
@@ -669,7 +669,7 @@
    "history_start": "2006-11-16",
    "history_points": 3159,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2688,
@@ -693,7 +693,7 @@
    "history_start": "2010-11-17",
    "history_points": 910,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2689,
@@ -717,7 +717,7 @@
    "history_start": "2010-06-20",
    "history_points": 2379,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2690,
@@ -765,7 +765,7 @@
    "history_start": "2006-05-18",
    "history_points": 1290,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2692,
@@ -789,7 +789,7 @@
    "history_start": "2009-01-04",
    "history_points": 1368,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2693,
@@ -885,7 +885,7 @@
    "history_start": "2005-08-04",
    "history_points": 2320,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2697,
@@ -1039,7 +1039,7 @@
    "history_start": "2006-10-05",
    "history_points": 1231,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2705,
@@ -1157,7 +1157,7 @@
    "history_start": "2005-08-04",
    "history_points": 2904,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2709,
@@ -1335,7 +1335,7 @@
    "history_start": "2011-08-07",
    "history_points": 918,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2716,
@@ -1948,7 +1948,7 @@
    "history_start": "2010-02-21",
    "history_points": 2325,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2740,
@@ -2058,7 +2058,7 @@
      "factor": 8.98472
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 2744,
@@ -2086,27 +2086,27 @@
   },
   {
    "id": 2745,
-   "name_en": "National Bank of Egypt Mutual Fund 7 The Fund of Egyptian Funds",
-   "name_ar": "صندوق استثمار البنك الأهلي المصري السابع - صندوق الصناديق المصرية",
+   "name_en": "National Bank of Egypt Mutual Fund 7 Multi Asset Fund AlAhly Qeema",
+   "name_ar": "صندوق استثمار البنك الأهلي المصري السابع متعدد الاستثمارات - الأهلي قيمة",
    "manager_en": "Al Ahly Financial Investments Management",
    "manager_ar": "الأهلي لإدارة الاستثمارات المالية",
    "owner_en": "National Bank of Egypt SAE",
-   "category": "Fund of Funds",
+   "category": "Other",
    "currency": "EGP",
-   "nav": 331.54,
-   "nav_date": "2026-09-13",
+   "nav": 336.01,
+   "nav_date": "2026-10-20",
    "returns": {
-    "1W": 0.003238,
-    "1M": 0.016464,
-    "3M": 0.029212,
-    "YTD": 0.126002,
-    "1Y": 0.203106
+    "1W": null,
+    "1M": 0.013483,
+    "3M": 0.041246,
+    "YTD": 0.141184,
+    "1Y": 0.175641
    },
    "ytd_source": "computed",
    "history_start": "2009-08-10",
-   "history_points": 861,
+   "history_points": 862,
    "splits": [],
-   "stale": true
+   "stale": false
   },
   {
    "id": 2746,
@@ -2178,7 +2178,7 @@
    "history_start": "2012-06-24",
    "history_points": 911,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 3889,
@@ -2207,7 +2207,7 @@
      "factor": 3.90647
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 4049,
@@ -2255,7 +2255,7 @@
    "history_start": "2013-03-04",
    "history_points": 701,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 4087,
@@ -2303,7 +2303,7 @@
    "history_start": "2013-05-26",
    "history_points": 1846,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 4533,
@@ -2447,7 +2447,7 @@
    "history_start": "2015-04-16",
    "history_points": 2644,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5547,
@@ -2495,7 +2495,7 @@
    "history_start": "2016-12-03",
    "history_points": 981,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5556,
@@ -2519,7 +2519,7 @@
    "history_start": "2017-02-28",
    "history_points": 494,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5635,
@@ -2548,7 +2548,7 @@
      "factor": 1.9929
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5679,
@@ -2572,7 +2572,7 @@
    "history_start": "2019-09-28",
    "history_points": 1290,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5726,
@@ -2620,7 +2620,7 @@
    "history_start": "2020-10-26",
    "history_points": 1076,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5737,
@@ -2644,7 +2644,7 @@
    "history_start": "2021-03-06",
    "history_points": 869,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5750,
@@ -2692,7 +2692,7 @@
    "history_start": "2021-02-28",
    "history_points": 1177,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5753,
@@ -2836,7 +2836,7 @@
    "history_start": "2021-11-17",
    "history_points": 242,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5807,
@@ -2884,7 +2884,7 @@
    "history_start": "2022-01-24",
    "history_points": 709,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5809,
@@ -2980,7 +2980,7 @@
    "history_start": "2022-04-02",
    "history_points": 522,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5822,
@@ -3004,7 +3004,7 @@
    "history_start": "2022-02-02",
    "history_points": 682,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5823,
@@ -3052,7 +3052,7 @@
    "history_start": "2022-07-27",
    "history_points": 619,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5844,
@@ -3100,7 +3100,7 @@
    "history_start": "2022-08-20",
    "history_points": 537,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5901,
@@ -3124,7 +3124,7 @@
    "history_start": "2022-11-28",
    "history_points": 571,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5902,
@@ -3244,7 +3244,7 @@
    "history_start": "2022-12-02",
    "history_points": 496,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5912,
@@ -3268,7 +3268,7 @@
    "history_start": "2022-12-02",
    "history_points": 492,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5958,
@@ -3292,7 +3292,7 @@
    "history_start": "2023-03-05",
    "history_points": 489,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5959,
@@ -3316,7 +3316,7 @@
    "history_start": "2023-03-19",
    "history_points": 483,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5975,
@@ -3364,7 +3364,7 @@
    "history_start": "2023-02-25",
    "history_points": 330,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5988,
@@ -3388,7 +3388,7 @@
    "history_start": "2023-06-07",
    "history_points": 450,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 5989,
@@ -3412,7 +3412,7 @@
    "history_start": "2023-06-05",
    "history_points": 447,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6035,
@@ -3436,7 +3436,7 @@
    "history_start": "2022-12-04",
    "history_points": 422,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6037,
@@ -3460,7 +3460,7 @@
    "history_start": "2023-05-15",
    "history_points": 468,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6038,
@@ -3484,7 +3484,7 @@
    "history_start": "2023-12-03",
    "history_points": 338,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6047,
@@ -3508,7 +3508,7 @@
    "history_start": "2023-12-09",
    "history_points": 311,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6061,
@@ -3556,7 +3556,7 @@
    "history_start": "2024-02-04",
    "history_points": 271,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6063,
@@ -3604,7 +3604,7 @@
    "history_start": "2024-02-04",
    "history_points": 123,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6120,
@@ -3652,7 +3652,7 @@
    "history_start": "2024-07-31",
    "history_points": 171,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6122,
@@ -3748,7 +3748,7 @@
    "history_start": "2024-09-03",
    "history_points": 44,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6148,
@@ -4122,24 +4122,24 @@
   {
    "id": 6250,
    "name_en": "Arab African Investment Holding AAIH Fund Issuance 2 Kenz EGX33 Shariah",
-   "name_ar": "صندوق استثمار شركة العربي الأفريقى للاستثمارات القابضة AAIH للاسثمار في الاسهم الإصدار الثاني - كنز شريعة EGX33",
+   "name_ar": "صندوق استثمار شركة العربي الأفريقى للاستثمارات القابضة AAIH للاسثمار في الأسهم الإصدار الثاني - كنز شريعة EGX33",
    "manager_en": "Arab African Investment Management",
    "manager_ar": "العربي الافريقي لإدارة الاستثمارات",
    "owner_en": "Arab African Investment Holding",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 185.48,
-   "nav_date": "2026-09-19",
+   "nav": 172.98,
+   "nav_date": "2026-10-20",
    "returns": {
     "1W": null,
-    "1M": null,
+    "1M": -0.067393,
     "3M": null,
-    "YTD": 0.405,
+    "YTD": 0.3104,
     "1Y": null
    },
    "ytd_source": "mubasher",
    "history_start": "2026-09-19",
-   "history_points": 1,
+   "history_points": 2,
    "splits": [],
    "stale": false
   },
@@ -4165,7 +4165,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6375,
@@ -4213,7 +4213,7 @@
    "history_start": "2025-09-22",
    "history_points": 224,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6378,
@@ -4333,7 +4333,7 @@
    "history_start": "2025-09-20",
    "history_points": 238,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6392,
@@ -4366,7 +4366,7 @@
      "factor": 0.00962311
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6400,
@@ -4390,7 +4390,7 @@
    "history_start": "2025-09-20",
    "history_points": 239,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6401,
@@ -4419,7 +4419,7 @@
      "factor": 9.99412
     }
    ],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6402,
@@ -4467,7 +4467,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6404,
@@ -4515,7 +4515,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6411,
@@ -4539,7 +4539,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6412,
@@ -4563,7 +4563,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6422,
@@ -4683,7 +4683,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6429,
@@ -4755,7 +4755,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6443,
@@ -4779,7 +4779,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6448,
@@ -4827,7 +4827,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6451,
@@ -4995,7 +4995,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6464,
@@ -5043,7 +5043,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6466,
@@ -5187,7 +5187,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6480,
@@ -5211,7 +5211,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   },
   {
    "id": 6482,
@@ -5283,7 +5283,7 @@
    "history_start": "2026-09-19",
    "history_points": 1,
    "splits": [],
-   "stale": false
+   "stale": true
   }
  ]
 }

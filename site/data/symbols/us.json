@@ -260,8 +260,8 @@
   "name": "Agios Pharmaceuticals, Inc."
  },
  {
-  "symbol": "NYSE:AGM.A",
-  "name": "Federal Agricultural Mortgage Corporation Class A"
+  "symbol": "NYSE:AGM",
+  "name": "Federal Agricultural Mortgage Corporation Class C"
  },
  {
   "symbol": "NASDAQ:AGNC",
@@ -368,10 +368,6 @@
   "name": "Almonty Industries Inc."
  },
  {
-  "symbol": "NASDAQ:ALMR",
-  "name": "Alamar Biosciences, Inc."
- },
- {
   "symbol": "NASDAQ:ALNY",
   "name": "Alnylam Pharmaceuticals, Inc"
  },
@@ -446,6 +442,10 @@
  {
   "symbol": "NYSE:AMP",
   "name": "Ameriprise Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AMPL",
+  "name": "Amplitude Inc Class A"
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -1056,6 +1056,10 @@
   "name": "BHP Group Ltd Sponsored American Depositary Receipt Repr 2 Shs"
  },
  {
+  "symbol": "NYSE:BHVN",
+  "name": "Biohaven Ltd."
+ },
+ {
   "symbol": "NASDAQ:BIDU",
   "name": "Baidu, Inc. Sponsored ADR Class A"
  },
@@ -1220,6 +1224,10 @@
   "name": "Bank of New York Mellon Corp"
  },
  {
+  "symbol": "NYSE:BOBS",
+  "name": "Bob's Discount Furniture, Inc."
+ },
+ {
   "symbol": "NYSE:BOH",
   "name": "Bank of Hawaii Corp"
  },
@@ -1306,10 +1314,6 @@
  {
   "symbol": "NASDAQ:BSY",
   "name": "Bentley Systems, Incorporated Class B"
- },
- {
-  "symbol": "NASDAQ:BTDR",
-  "name": "Bitdeer Technologies Group Class A"
  },
  {
   "symbol": "NYSE:BTE",
@@ -1756,10 +1760,6 @@
   "name": "Celestica Inc."
  },
  {
-  "symbol": "NASDAQ:CLSK",
-  "name": "Cleanspark, Inc."
- },
- {
   "symbol": "NYSE:CLX",
   "name": "Clorox Company"
  },
@@ -2062,10 +2062,6 @@
  {
   "symbol": "NASDAQ:CTAS",
   "name": "Cintas Corporation"
- },
- {
-  "symbol": "NYSE:CTOS",
-  "name": "Custom Truck One Source Inc"
  },
  {
   "symbol": "NYSE:CTRE",
@@ -2840,10 +2836,6 @@
   "name": "iShares MSCI Japan ETF"
  },
  {
-  "symbol": "AMEX:EWT",
-  "name": "iShares MSCI Taiwan ETF"
- },
- {
   "symbol": "NASDAQ:EWTX",
   "name": "Edgewise Therapeutics, Inc."
  },
@@ -2938,6 +2930,10 @@
  {
   "symbol": "NYSE:FBP",
   "name": "First Bancorp"
+ },
+ {
+  "symbol": "NYSE:FCF",
+  "name": "First Commonwealth Financial Corporation"
  },
  {
   "symbol": "NASDAQ:FCFS",
@@ -3760,10 +3756,6 @@
   "name": "Hormel Foods Corporation"
  },
  {
-  "symbol": "NASDAQ:HRMY",
-  "name": "Harmony Biosciences Holdings, Inc."
- },
- {
   "symbol": "NASDAQ:HSAI",
   "name": "Hesai Group Sponsored ADR"
  },
@@ -3790,6 +3782,10 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
+ },
+ {
+  "symbol": "NYSE:HTH",
+  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -4352,10 +4348,6 @@
   "name": "Kadant Inc."
  },
  {
-  "symbol": "NASDAQ:KALU",
-  "name": "Kaiser Aluminum Corporation"
- },
- {
   "symbol": "NYSE:KB",
   "name": "KB Financial Group Inc. Sponsored ADR"
  },
@@ -4504,6 +4496,10 @@
   "name": "Karman Holdings Inc."
  },
  {
+  "symbol": "NYSE:KRP",
+  "name": "Kimbell Royalty Partners LP"
+ },
+ {
   "symbol": "NASDAQ:KRYS",
   "name": "Krystal Biotech, Inc."
  },
@@ -4560,10 +4556,6 @@
   "name": "Lamar Advertising Company Class A"
  },
  {
-  "symbol": "NASDAQ:LASR",
-  "name": "nLIGHT, Inc."
- },
- {
   "symbol": "NASDAQ:LAUR",
   "name": "Laureate Education, Inc."
  },
@@ -4590,6 +4582,10 @@
  {
   "symbol": "NASDAQ:LBTYK",
   "name": "Liberty Global Ltd. Class C"
+ },
+ {
+  "symbol": "NYSE:LCII",
+  "name": "LCI Industries"
  },
  {
   "symbol": "NYSE:LCLN",
@@ -4874,6 +4870,10 @@
  {
   "symbol": "NYSE:MAIR",
   "name": "Madison Air Solutions Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:MAN",
+  "name": "ManpowerGroup Inc."
  },
  {
   "symbol": "NYSE:MANE",
@@ -5241,7 +5241,7 @@
  },
  {
   "symbol": "NYSE:MSGK/I",
-  "name": "MADISON SQUARE GARDEN SPORTS CORP"
+  "name": "MSG Knickerbockers Corp. TEMP Class A"
  },
  {
   "symbol": "NYSE:MSGS",
@@ -5404,10 +5404,6 @@
   "name": "Neogen Corp"
  },
  {
-  "symbol": "NASDAQ:NESR",
-  "name": "National Energy Services Reunited Corp."
- },
- {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5486,6 +5482,10 @@
  {
   "symbol": "NYSE:NMR",
   "name": "Nomura Holdings, Inc. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:NMRK",
+  "name": "Newmark Group, Inc. Class A"
  },
  {
   "symbol": "NYSE:NNI",
@@ -5834,10 +5834,6 @@
  {
   "symbol": "NASDAQ:OTTR",
   "name": "Otter Tail Corporation"
- },
- {
-  "symbol": "NASDAQ:OUST",
-  "name": "Ouster, Inc."
  },
  {
   "symbol": "NYSE:OUT",
@@ -6224,6 +6220,10 @@
   "name": "Praxis Precision Medicines, Inc."
  },
  {
+  "symbol": "NASDAQ:PRDO",
+  "name": "Perdoceo Education Corporation"
+ },
+ {
   "symbol": "NYSE:PRGO",
   "name": "Perrigo Co. Plc"
  },
@@ -6238,10 +6238,6 @@
  {
   "symbol": "AMEX:PRK",
   "name": "Park National Corporation"
- },
- {
-  "symbol": "NYSE:PRLB",
-  "name": "Proto Labs, Inc."
  },
  {
   "symbol": "NYSE:PRM",
@@ -6458,10 +6454,6 @@
  {
   "symbol": "NASDAQ:RDVY",
   "name": "First Trust Rising Dividend Achievers ETF"
- },
- {
-  "symbol": "NYSE:RDW",
-  "name": "Redwire Corp"
  },
  {
   "symbol": "NYSE:RDY",
@@ -7060,6 +7052,10 @@
   "name": "SM Energy Company"
  },
  {
+  "symbol": "NYSE:SMA",
+  "name": "SmartStop Self Storage REIT, Inc."
+ },
+ {
   "symbol": "NASDAQ:SMCI",
   "name": "Super Micro Computer, Inc."
  },
@@ -7604,6 +7600,10 @@
   "name": "Millicom International Cellular SA"
  },
  {
+  "symbol": "NASDAQ:TILE",
+  "name": "Interface, Inc."
+ },
+ {
   "symbol": "NYSE:TIMB",
   "name": "TIM S.A. Sponsored ADR"
  },
@@ -7626,6 +7626,10 @@
  {
   "symbol": "NYSE:TKR",
   "name": "Timken Company"
+ },
+ {
+  "symbol": "AMEX:TLH",
+  "name": "iShares 10-20 Year Treasury Bond ETF"
  },
  {
   "symbol": "NYSE:TLK",
@@ -7896,10 +7900,6 @@
   "name": "United Community Banks, Inc."
  },
  {
-  "symbol": "NASDAQ:UCTT",
-  "name": "Ultra Clean Holdings, Inc."
- },
- {
   "symbol": "NYSE:UDR",
   "name": "UDR, Inc."
  },
@@ -8032,10 +8032,6 @@
   "name": "United Therapeutics Corporation"
  },
  {
-  "symbol": "AMEX:UUUU",
-  "name": "Energy Fuels Inc."
- },
- {
   "symbol": "NYSE:V",
   "name": "Visa Inc. Class A"
  },
@@ -8072,6 +8068,10 @@
   "name": "Visteon Corporation"
  },
  {
+  "symbol": "NASDAQ:VCEL",
+  "name": "Vericel Corporation"
+ },
+ {
   "symbol": "NASDAQ:VCIT",
   "name": "Vanguard Intermediate-Term Corporate Bond ETF"
  },
@@ -8102,10 +8102,6 @@
  {
   "symbol": "NASDAQ:VEON",
   "name": "VEON Ltd. Sponsored ADR"
- },
- {
-  "symbol": "NASDAQ:VERA",
-  "name": "Vera Therapeutics, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:VERX",
@@ -8418,6 +8414,10 @@
  {
   "symbol": "NYSE:WAB",
   "name": "Westinghouse Air Brake Technologies Corporation"
+ },
+ {
+  "symbol": "NASDAQ:WAFD",
+  "name": "WaFd, Inc."
  },
  {
   "symbol": "NYSE:WAL",

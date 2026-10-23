@@ -43,11 +43,6 @@
   "code": "AGT"
  },
  {
-  "symbol": "CRYPTO:AIOZUSD",
-  "name": "AIOZ Network",
-  "code": "AIOZ"
- },
- {
   "symbol": "CRYPTO:AKEUSD",
   "name": "AKEDO",
   "code": "AKE"
@@ -206,11 +201,6 @@
   "symbol": "CRYPTO:CARDSCUSD",
   "name": "Collector Crypt",
   "code": "CARDS"
- },
- {
-  "symbol": "CRYPTO:CASH2USD",
-  "name": "Cash",
-  "code": "CASH"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -438,6 +428,11 @@
   "code": "IOTA"
  },
  {
+  "symbol": "CRYPTO:IRYSUSD",
+  "name": "Irys",
+  "code": "IRYS"
+ },
+ {
   "symbol": "CRYPTO:JASMYUSD",
   "name": "JasmyCoin",
   "code": "JASMY"
@@ -491,6 +486,11 @@
   "symbol": "CRYPTO:KMNOUSD",
   "name": "Kamino",
   "code": "KMNO"
+ },
+ {
+  "symbol": "CRYPTO:KNTQUSD",
+  "name": "Kinetiq",
+  "code": "KNTQ"
  },
  {
   "symbol": "CRYPTO:LDOUSD",

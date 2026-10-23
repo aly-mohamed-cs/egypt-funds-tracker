@@ -88,10 +88,6 @@
   "name": "Abivax SA Sponsored ADR"
  },
  {
-  "symbol": "NYSE:ACA",
-  "name": "Arcosa, Inc."
- },
- {
   "symbol": "NASDAQ:ACAD",
   "name": "ACADIA Pharmaceuticals Inc."
  },
@@ -366,6 +362,10 @@
  {
   "symbol": "NASDAQ:ALM",
   "name": "Almonty Industries Inc."
+ },
+ {
+  "symbol": "NASDAQ:ALMR",
+  "name": "Alamar Biosciences, Inc."
  },
  {
   "symbol": "NASDAQ:ALNY",
@@ -2548,10 +2548,6 @@
   "name": "Okeanis Eco Tankers Corp."
  },
  {
-  "symbol": "NASDAQ:ECPG",
-  "name": "Encore Capital Group, Inc."
- },
- {
   "symbol": "NYSE:ED",
   "name": "Consolidated Edison, Inc."
  },
@@ -2834,6 +2830,10 @@
  {
   "symbol": "AMEX:EWJ",
   "name": "iShares MSCI Japan ETF"
+ },
+ {
+  "symbol": "AMEX:EWT",
+  "name": "iShares MSCI Taiwan ETF"
  },
  {
   "symbol": "NASDAQ:EWTX",
@@ -3278,10 +3278,6 @@
  {
   "symbol": "NASDAQ:GCMG",
   "name": "GCM Grosvenor, Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:GCT",
-  "name": "GigaCloud Technology, Inc. Class A"
  },
  {
   "symbol": "NYSE:GD",
@@ -3756,8 +3752,8 @@
   "name": "Hormel Foods Corporation"
  },
  {
-  "symbol": "NASDAQ:HSAI",
-  "name": "Hesai Group Sponsored ADR"
+  "symbol": "NASDAQ:HRMY",
+  "name": "Harmony Biosciences Holdings, Inc."
  },
  {
   "symbol": "NYSE:HSBC",
@@ -3782,10 +3778,6 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
- },
- {
-  "symbol": "NYSE:HTH",
-  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -3982,10 +3974,6 @@
  {
   "symbol": "AMEX:IMO",
   "name": "Imperial Oil Limited"
- },
- {
-  "symbol": "NASDAQ:IMOS",
-  "name": "ChipMOS Technologies, Inc. Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:IMVT",
@@ -4556,6 +4544,10 @@
   "name": "Lamar Advertising Company Class A"
  },
  {
+  "symbol": "NASDAQ:LASR",
+  "name": "nLIGHT, Inc."
+ },
+ {
   "symbol": "NASDAQ:LAUR",
   "name": "Laureate Education, Inc."
  },
@@ -4582,10 +4574,6 @@
  {
   "symbol": "NASDAQ:LBTYK",
   "name": "Liberty Global Ltd. Class C"
- },
- {
-  "symbol": "NYSE:LCII",
-  "name": "LCI Industries"
  },
  {
   "symbol": "NYSE:LCLN",
@@ -4798,6 +4786,10 @@
  {
   "symbol": "NYSE:LTM",
   "name": "LATAM Airlines Group SA Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:LU",
+  "name": "Lufax Holding Ltd"
  },
  {
   "symbol": "NASDAQ:LULU",
@@ -5484,10 +5476,6 @@
   "name": "Nomura Holdings, Inc. Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:NMRK",
-  "name": "Newmark Group, Inc. Class A"
- },
- {
   "symbol": "NYSE:NNI",
   "name": "Nelnet, Inc. Class A"
  },
@@ -5580,6 +5568,10 @@
   "name": "Netskope, Inc. Class A"
  },
  {
+  "symbol": "NYSE:NTST",
+  "name": "NETSTREIT Corp."
+ },
+ {
   "symbol": "NYSE:NU",
   "name": "Nu Holdings Ltd. Class A"
  },
@@ -5634,6 +5626,10 @@
  {
   "symbol": "NASDAQ:NWL",
   "name": "Newell Brands Inc"
+ },
+ {
+  "symbol": "NYSE:NWN",
+  "name": "Northwest Natural Holding Co."
  },
  {
   "symbol": "NASDAQ:NWS",
@@ -5834,6 +5830,10 @@
  {
   "symbol": "NASDAQ:OTTR",
   "name": "Otter Tail Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OUST",
+  "name": "Ouster, Inc."
  },
  {
   "symbol": "NYSE:OUT",
@@ -6068,6 +6068,10 @@
   "name": "PLDT, Inc. Sponsored ADR"
  },
  {
+  "symbol": "NYSE:PHIN",
+  "name": "PHINIA Inc."
+ },
+ {
   "symbol": "NYSE:PHM",
   "name": "PulteGroup, Inc."
  },
@@ -6168,10 +6172,6 @@
   "name": "Insulet Corporation"
  },
  {
-  "symbol": "NASDAQ:PONY",
-  "name": "Pony AI Inc. Sponsored ADR"
- },
- {
   "symbol": "NASDAQ:POOL",
   "name": "Pool Corporation"
  },
@@ -6206,10 +6206,6 @@
  {
   "symbol": "NASDAQ:PPLI",
   "name": "People Incorporated"
- },
- {
-  "symbol": "NASDAQ:PPTA",
-  "name": "Perpetua Resources Corp."
  },
  {
   "symbol": "NYSE:PR",
@@ -7252,6 +7248,10 @@
   "name": "Sportradar Group AG Class A"
  },
  {
+  "symbol": "NASDAQ:SRCE",
+  "name": "1st Source Corporation"
+ },
+ {
   "symbol": "NYSE:SRE",
   "name": "Sempra"
  },
@@ -7596,6 +7596,10 @@
   "name": "Thor Industries, Inc."
  },
  {
+  "symbol": "NYSE:TIC",
+  "name": "TIC Solutions, Inc."
+ },
+ {
   "symbol": "NASDAQ:TIGO",
   "name": "Millicom International Cellular SA"
  },
@@ -7626,10 +7630,6 @@
  {
   "symbol": "NYSE:TKR",
   "name": "Timken Company"
- },
- {
-  "symbol": "AMEX:TLH",
-  "name": "iShares 10-20 Year Treasury Bond ETF"
  },
  {
   "symbol": "NYSE:TLK",
@@ -7730,10 +7730,6 @@
  {
   "symbol": "NASDAQ:TRI",
   "name": "Thomson Reuters Corporation"
- },
- {
-  "symbol": "NYSE:TRLV",
-  "name": "Trulieve Cannabis Corp."
  },
  {
   "symbol": "NASDAQ:TRMB",
@@ -8032,6 +8028,10 @@
   "name": "United Therapeutics Corporation"
  },
  {
+  "symbol": "NYSE:UWMC",
+  "name": "UWM Holdings Corp. Class A"
+ },
+ {
   "symbol": "NYSE:V",
   "name": "Visa Inc. Class A"
  },
@@ -8062,10 +8062,6 @@
  {
   "symbol": "AMEX:VBR",
   "name": "Vanguard Morningstar Small-Cap Value ETF"
- },
- {
-  "symbol": "NASDAQ:VC",
-  "name": "Visteon Corporation"
  },
  {
   "symbol": "NASDAQ:VCEL",
@@ -8106,6 +8102,10 @@
  {
   "symbol": "NASDAQ:VERX",
   "name": "Vertex, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:VET",
+  "name": "Vermilion Energy Inc."
  },
  {
   "symbol": "AMEX:VEU",

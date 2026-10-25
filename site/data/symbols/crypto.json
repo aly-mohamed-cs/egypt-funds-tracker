@@ -8,11 +8,6 @@
   "name": "Bitcoin dominance"
  },
  {
-  "symbol": "CRYPTO:0GUSD",
-  "name": "0G",
-  "code": "0G"
- },
- {
   "symbol": "CRYPTO:1INCHUSD",
   "name": "1inch",
   "code": "1INCH"
@@ -201,6 +196,11 @@
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
+ },
+ {
+  "symbol": "CRYPTO:CAP7USD",
+  "name": "Cap",
+  "code": "CAP"
  },
  {
   "symbol": "CRYPTO:CARDSCUSD",

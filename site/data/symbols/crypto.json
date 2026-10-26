@@ -38,11 +38,6 @@
   "code": "AGT"
  },
  {
-  "symbol": "CRYPTO:AIOZUSD",
-  "name": "AIOZ Network",
-  "code": "AIOZ"
- },
- {
   "symbol": "CRYPTO:AKEUSD",
   "name": "AKEDO",
   "code": "AKE"
@@ -71,11 +66,6 @@
   "symbol": "CRYPTO:APEPEAUSD",
   "name": "Ape and Pepe",
   "code": "APEPE"
- },
- {
-  "symbol": "CRYPTO:APEUSD",
-  "name": "ApeCoin",
-  "code": "APE"
  },
  {
   "symbol": "CRYPTO:APTOUSD",
@@ -188,6 +178,11 @@
   "code": "BTW"
  },
  {
+  "symbol": "CRYPTO:BULLA2USD",
+  "name": "Bulla",
+  "code": "BULLA"
+ },
+ {
   "symbol": "CRYPTO:BUSD",
   "name": "BUILDon",
   "code": "B"
@@ -201,11 +196,6 @@
   "symbol": "CRYPTO:CAP7USD",
   "name": "Cap",
   "code": "CAP"
- },
- {
-  "symbol": "CRYPTO:CARDSCUSD",
-  "name": "Collector Crypt",
-  "code": "CARDS"
  },
  {
   "symbol": "CRYPTO:CASH2USD",
@@ -438,6 +428,11 @@
   "code": "IOTA"
  },
  {
+  "symbol": "CRYPTO:ITAUSD",
+  "name": "Italian National Football Team Fan Token",
+  "code": "ITA"
+ },
+ {
   "symbol": "CRYPTO:JASMYUSD",
   "name": "JasmyCoin",
   "code": "JASMY"
@@ -491,6 +486,11 @@
   "symbol": "CRYPTO:KMNOUSD",
   "name": "Kamino",
   "code": "KMNO"
+ },
+ {
+  "symbol": "CRYPTO:KNTQUSD",
+  "name": "Kinetiq",
+  "code": "KNTQ"
  },
  {
   "symbol": "CRYPTO:LDOUSD",

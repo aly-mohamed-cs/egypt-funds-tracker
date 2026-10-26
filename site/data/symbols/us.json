@@ -1224,10 +1224,6 @@
   "name": "Bank of New York Mellon Corp"
  },
  {
-  "symbol": "NYSE:BOBS",
-  "name": "Bob's Discount Furniture, Inc."
- },
- {
   "symbol": "NYSE:BOH",
   "name": "Bank of Hawaii Corp"
  },
@@ -2540,6 +2536,10 @@
   "name": "Okeanis Eco Tankers Corp."
  },
  {
+  "symbol": "NASDAQ:ECPG",
+  "name": "Encore Capital Group, Inc."
+ },
+ {
   "symbol": "NYSE:ED",
   "name": "Consolidated Edison, Inc."
  },
@@ -3268,6 +3268,10 @@
   "name": "GCM Grosvenor, Inc. Class A"
  },
  {
+  "symbol": "NASDAQ:GCT",
+  "name": "GigaCloud Technology, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:GD",
   "name": "General Dynamics Corporation"
  },
@@ -3768,6 +3772,10 @@
   "name": "Hercules Capital, Inc."
  },
  {
+  "symbol": "NYSE:HTH",
+  "name": "Hilltop Holdings Inc."
+ },
+ {
   "symbol": "NASDAQ:HTHT",
   "name": "H World Group Limited Sponsored ADR"
  },
@@ -4016,16 +4024,16 @@
   "name": "Intel Corporation"
  },
  {
-  "symbol": "NASDAQ:INTR",
-  "name": "Inter & Co., Inc. Class A"
- },
- {
   "symbol": "NASDAQ:INTU",
   "name": "Intuit Inc."
  },
  {
   "symbol": "NYSE:INVH",
   "name": "Invitation Homes, Inc."
+ },
+ {
+  "symbol": "NYSE:INVX",
+  "name": "Innovex International, Inc."
  },
  {
   "symbol": "NASDAQ:IOND",
@@ -4564,6 +4572,10 @@
   "name": "Liberty Global Ltd. Class C"
  },
  {
+  "symbol": "NYSE:LCII",
+  "name": "LCI Industries"
+ },
+ {
   "symbol": "NYSE:LCLN",
   "name": "Lincoln International, Inc. Class A"
  },
@@ -4590,10 +4602,6 @@
  {
   "symbol": "NYSE:LEN.B",
   "name": "Lennar Corporation Class B"
- },
- {
-  "symbol": "NYSE:LEU",
-  "name": "Centrus Energy Corp. Class A"
  },
  {
   "symbol": "NYSE:LEVI",
@@ -5217,7 +5225,7 @@
  },
  {
   "symbol": "NYSE:MSGK/I",
-  "name": "MSG Knickerbockers Corp. TEMP Class A"
+  "name": "Madison Square Garden Sports Corp. TEMP Class A"
  },
  {
   "symbol": "NYSE:MSGS",
@@ -6204,10 +6212,6 @@
   "name": "Praxis Precision Medicines, Inc."
  },
  {
-  "symbol": "NASDAQ:PRDO",
-  "name": "Perdoceo Education Corporation"
- },
- {
   "symbol": "NYSE:PRGO",
   "name": "Perrigo Co. Plc"
  },
@@ -6888,6 +6892,10 @@
   "name": "iShares 0-3 Month Treasury Bond ETF"
  },
  {
+  "symbol": "NASDAQ:SGRY",
+  "name": "Surgery Partners, Inc."
+ },
+ {
   "symbol": "NYSE:SHAK",
   "name": "Shake Shack, Inc. Class A"
  },
@@ -7034,10 +7042,6 @@
  {
   "symbol": "NYSE:SM",
   "name": "SM Energy Company"
- },
- {
-  "symbol": "NYSE:SMA",
-  "name": "SmartStop Self Storage REIT, Inc."
  },
  {
   "symbol": "NASDAQ:SMCI",
@@ -7316,10 +7320,6 @@
   "name": "Stantec Inc"
  },
  {
-  "symbol": "NASDAQ:STNE",
-  "name": "StoneCo Ltd. Class A"
- },
- {
   "symbol": "NYSE:STNG",
   "name": "Scorpio Tankers Inc."
  },
@@ -7590,10 +7590,6 @@
  {
   "symbol": "NYSE:THO",
   "name": "Thor Industries, Inc."
- },
- {
-  "symbol": "NYSE:TIC",
-  "name": "TIC Solutions, Inc."
  },
  {
   "symbol": "NASDAQ:TIGO",
@@ -7894,6 +7890,10 @@
  {
   "symbol": "NYSE:UCB",
   "name": "United Community Banks, Inc."
+ },
+ {
+  "symbol": "NASDAQ:UCTT",
+  "name": "Ultra Clean Holdings, Inc."
  },
  {
   "symbol": "NYSE:UDR",
@@ -8600,10 +8600,6 @@
   "name": "Watsco, Inc."
  },
  {
-  "symbol": "NYSE:WSO.B",
-  "name": "Watsco, Inc. Class B"
- },
- {
   "symbol": "NYSE:WST",
   "name": "West Pharmaceutical Services, Inc."
  },
@@ -8702,6 +8698,10 @@
  {
   "symbol": "NASDAQ:XMTR",
   "name": "Xometry, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:XNCR",
+  "name": "Xencor, Inc."
  },
  {
   "symbol": "NYSE:XOM",

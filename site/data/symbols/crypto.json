@@ -103,6 +103,11 @@
   "code": "A"
  },
  {
+  "symbol": "CRYPTO:AWEUSD",
+  "name": "AWE",
+  "code": "AWE"
+ },
+ {
   "symbol": "CRYPTO:AXSUSD",
   "name": "Axie Infinity",
   "code": "AXS"
@@ -178,11 +183,6 @@
   "code": "BTW"
  },
  {
-  "symbol": "CRYPTO:BULLA2USD",
-  "name": "Bulla",
-  "code": "BULLA"
- },
- {
   "symbol": "CRYPTO:BUSD",
   "name": "BUILDon",
   "code": "B"
@@ -198,9 +198,9 @@
   "code": "CAP"
  },
  {
-  "symbol": "CRYPTO:CASH2USD",
-  "name": "Cash",
-  "code": "CASH"
+  "symbol": "CRYPTO:CARDSCUSD",
+  "name": "Collector Crypt",
+  "code": "CARDS"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -266,11 +266,6 @@
   "symbol": "CRYPTO:DEXEUSD",
   "name": "DeXe",
   "code": "DEXE"
- },
- {
-  "symbol": "CRYPTO:DGAIUSD",
-  "name": "DGrid AI",
-  "code": "DGAI"
  },
  {
   "symbol": "CRYPTO:DOGEUSD",
@@ -621,6 +616,11 @@
   "symbol": "CRYPTO:PAXGUSD",
   "name": "PAX Gold",
   "code": "PAXG"
+ },
+ {
+  "symbol": "CRYPTO:PEARL3USD",
+  "name": "Pearl",
+  "code": "PEARL"
  },
  {
   "symbol": "CRYPTO:PENDLEUSD",

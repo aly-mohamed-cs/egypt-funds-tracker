@@ -216,10 +216,6 @@
   "name": "AerCap Holdings NV"
  },
  {
-  "symbol": "NYSE:AERO",
-  "name": "Grupo Aeromexico, S.A.B. de C.V. Unsponsored ADR"
- },
- {
   "symbol": "NYSE:AES",
   "name": "AES Corporation"
  },
@@ -258,6 +254,10 @@
  {
   "symbol": "NYSE:AGM",
   "name": "Federal Agricultural Mortgage Corporation Class C"
+ },
+ {
+  "symbol": "NYSE:AGM.A",
+  "name": "Federal Agricultural Mortgage Corporation Class A"
  },
  {
   "symbol": "NASDAQ:AGNC",
@@ -446,6 +446,10 @@
  {
   "symbol": "NASDAQ:AMPL",
   "name": "Amplitude Inc Class A"
+ },
+ {
+  "symbol": "NYSE:AMR",
+  "name": "Alpha Metallurgical Resources, Inc."
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -2056,6 +2060,10 @@
   "name": "Cintas Corporation"
  },
  {
+  "symbol": "NYSE:CTOS",
+  "name": "Custom Truck One Source Inc"
+ },
+ {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
  },
@@ -2364,6 +2372,10 @@
   "name": "Denali Therapeutics Inc."
  },
  {
+  "symbol": "AMEX:DNN",
+  "name": "Denison Mines Corp."
+ },
+ {
   "symbol": "NYSE:DNOW",
   "name": "DNOW Inc."
  },
@@ -2456,10 +2468,6 @@
   "name": "Duolingo, Inc. Class A"
  },
  {
-  "symbol": "NYSE:DV",
-  "name": "DoubleVerify Holdings, Inc."
- },
- {
   "symbol": "NYSE:DVA",
   "name": "DaVita Inc."
  },
@@ -2534,10 +2542,6 @@
  {
   "symbol": "NYSE:ECO",
   "name": "Okeanis Eco Tankers Corp."
- },
- {
-  "symbol": "NASDAQ:ECPG",
-  "name": "Encore Capital Group, Inc."
  },
  {
   "symbol": "NYSE:ED",
@@ -2918,10 +2922,6 @@
  {
   "symbol": "NYSE:FBP",
   "name": "First Bancorp"
- },
- {
-  "symbol": "NYSE:FCF",
-  "name": "First Commonwealth Financial Corporation"
  },
  {
   "symbol": "NASDAQ:FCFS",
@@ -3748,6 +3748,10 @@
   "name": "Harmony Biosciences Holdings, Inc."
  },
  {
+  "symbol": "NASDAQ:HSAI",
+  "name": "Hesai Group Sponsored ADR"
+ },
+ {
   "symbol": "NYSE:HSBC",
   "name": "HSBC Holdings PLC Sponsored ADR"
  },
@@ -3770,10 +3774,6 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
- },
- {
-  "symbol": "NYSE:HTH",
-  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -3986,6 +3986,10 @@
  {
   "symbol": "NASDAQ:INDV",
   "name": "Indivior Pharmaceuticals, Inc."
+ },
+ {
+  "symbol": "NYSE:INFQ",
+  "name": "Infleqtion, Inc."
  },
  {
   "symbol": "NYSE:INFY",
@@ -4604,6 +4608,10 @@
   "name": "Lennar Corporation Class B"
  },
  {
+  "symbol": "NYSE:LEU",
+  "name": "Centrus Energy Corp. Class A"
+ },
+ {
   "symbol": "NYSE:LEVI",
   "name": "Levi Strauss & Co. Class A"
  },
@@ -4854,10 +4862,6 @@
  {
   "symbol": "NYSE:MAIR",
   "name": "Madison Air Solutions Corp. Class A"
- },
- {
-  "symbol": "NYSE:MAN",
-  "name": "ManpowerGroup Inc."
  },
  {
   "symbol": "NYSE:MANE",
@@ -5196,6 +5200,10 @@
   "name": "Marsh & McLennan Companies, Inc."
  },
  {
+  "symbol": "NASDAQ:MRVI",
+  "name": "Maravai Lifesciences Holdings, Inc. Class A"
+ },
+ {
   "symbol": "NASDAQ:MRVL",
   "name": "Marvell Technology, Inc."
  },
@@ -5224,12 +5232,8 @@
   "name": "Madison Square Garden Entertainment Corp."
  },
  {
-  "symbol": "NYSE:MSGK/I",
-  "name": "Madison Square Garden Sports Corp. TEMP Class A"
- },
- {
-  "symbol": "NYSE:MSGS",
-  "name": "Madison Square Garden Sports Corp. Class A"
+  "symbol": "NYSE:MSGK",
+  "name": "MSG Knickerbockers Corp. Class A"
  },
  {
   "symbol": "NYSE:MSI",
@@ -5386,6 +5390,10 @@
  {
   "symbol": "NASDAQ:NEOG",
   "name": "Neogen Corp"
+ },
+ {
+  "symbol": "NASDAQ:NESR",
+  "name": "National Energy Services Reunited Corp."
  },
  {
   "symbol": "NYSE:NET",
@@ -5618,10 +5626,6 @@
  {
   "symbol": "NASDAQ:NWL",
   "name": "Newell Brands Inc"
- },
- {
-  "symbol": "NYSE:NWN",
-  "name": "Northwest Natural Holding Co."
  },
  {
   "symbol": "NASDAQ:NWS",
@@ -6040,10 +6044,6 @@
   "name": "Precigen Inc"
  },
  {
-  "symbol": "NASDAQ:PGNY",
-  "name": "Progyny, Inc."
- },
- {
   "symbol": "NYSE:PGR",
   "name": "Progressive Corporation"
  },
@@ -6058,10 +6058,6 @@
  {
   "symbol": "NYSE:PHI",
   "name": "PLDT, Inc. Sponsored ADR"
- },
- {
-  "symbol": "NYSE:PHIN",
-  "name": "PHINIA Inc."
  },
  {
   "symbol": "NYSE:PHM",
@@ -6110,10 +6106,6 @@
  {
   "symbol": "NYSE:PLD",
   "name": "Prologis, Inc."
- },
- {
-  "symbol": "NYSE:PLGO",
-  "name": "Pelagos Insurance Capital Limited"
  },
  {
   "symbol": "NASDAQ:PLMR",
@@ -6204,6 +6196,10 @@
   "name": "People Incorporated"
  },
  {
+  "symbol": "NASDAQ:PPTA",
+  "name": "Perpetua Resources Corp."
+ },
+ {
   "symbol": "NYSE:PR",
   "name": "Permian Resources Corporation Class A"
  },
@@ -6226,6 +6222,10 @@
  {
   "symbol": "AMEX:PRK",
   "name": "Park National Corporation"
+ },
+ {
+  "symbol": "NYSE:PRLB",
+  "name": "Proto Labs, Inc."
  },
  {
   "symbol": "NYSE:PRM",
@@ -6442,6 +6442,10 @@
  {
   "symbol": "NASDAQ:RDVY",
   "name": "First Trust Rising Dividend Achievers ETF"
+ },
+ {
+  "symbol": "NYSE:RDW",
+  "name": "Redwire Corp"
  },
  {
   "symbol": "NYSE:RDY",
@@ -7180,10 +7184,6 @@
   "name": "Sphere Entertainment Co. Class A"
  },
  {
-  "symbol": "AMEX:SPHY",
-  "name": "State Street SPDR Portfolio High Yield Bond ETF"
- },
- {
   "symbol": "AMEX:SPIB",
   "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF"
  },
@@ -7210,6 +7210,10 @@
  {
   "symbol": "AMEX:SPSM",
   "name": "State Street SPDR Portfolio S&P 600 Small Cap ETF"
+ },
+ {
+  "symbol": "AMEX:SPTI",
+  "name": "State Street SPDR Portfolio Intermediate Term Treasury ETF"
  },
  {
   "symbol": "AMEX:SPTM",
@@ -7246,10 +7250,6 @@
  {
   "symbol": "NASDAQ:SRAD",
   "name": "Sportradar Group AG Class A"
- },
- {
-  "symbol": "NASDAQ:SRCE",
-  "name": "1st Source Corporation"
  },
  {
   "symbol": "NYSE:SRE",
@@ -7330,10 +7330,6 @@
  {
   "symbol": "NYSE:STT",
   "name": "State Street Corporation"
- },
- {
-  "symbol": "NYSE:STUB",
-  "name": "StubHub Holdings Incorporation Class A"
  },
  {
   "symbol": "NYSE:STVN",
@@ -7592,12 +7588,12 @@
   "name": "Thor Industries, Inc."
  },
  {
-  "symbol": "NASDAQ:TIGO",
-  "name": "Millicom International Cellular SA"
+  "symbol": "NYSE:TIC",
+  "name": "TIC Solutions, Inc."
  },
  {
-  "symbol": "NASDAQ:TILE",
-  "name": "Interface, Inc."
+  "symbol": "NASDAQ:TIGO",
+  "name": "Millicom International Cellular SA"
  },
  {
   "symbol": "NYSE:TIMB",
@@ -8028,6 +8024,10 @@
   "name": "United Therapeutics Corporation"
  },
  {
+  "symbol": "AMEX:UUUU",
+  "name": "Energy Fuels Inc."
+ },
+ {
   "symbol": "NYSE:UWMC",
   "name": "UWM Holdings Corp. Class A"
  },
@@ -8100,12 +8100,12 @@
   "name": "VEON Ltd. Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:VERX",
-  "name": "Vertex, Inc. Class A"
+  "symbol": "NASDAQ:VERA",
+  "name": "Vera Therapeutics, Inc. Class A"
  },
  {
-  "symbol": "NYSE:VET",
-  "name": "Vermilion Energy Inc."
+  "symbol": "NASDAQ:VERX",
+  "name": "Vertex, Inc. Class A"
  },
  {
   "symbol": "AMEX:VEU",

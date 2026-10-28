@@ -193,11 +193,6 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CAP7USD",
-  "name": "Cap",
-  "code": "CAP"
- },
- {
   "symbol": "CRYPTO:CARDSCUSD",
   "name": "Collector Crypt",
   "code": "CARDS"
@@ -546,6 +541,11 @@
   "symbol": "CRYPTO:MORPHOUSD",
   "name": "Morpho",
   "code": "MORPHO"
+ },
+ {
+  "symbol": "CRYPTO:MSTRXUSD",
+  "name": "MicroStrategy tokenized stock (xStock)",
+  "code": "MSTRX"
  },
  {
   "symbol": "CRYPTO:MXUSD",

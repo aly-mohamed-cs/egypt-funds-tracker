@@ -448,10 +448,6 @@
   "name": "Amplitude Inc Class A"
  },
  {
-  "symbol": "NYSE:AMR",
-  "name": "Alpha Metallurgical Resources, Inc."
- },
- {
   "symbol": "NASDAQ:AMRX",
   "name": "Amneal Pharmaceuticals, Inc. Class A"
  },
@@ -1316,6 +1312,10 @@
   "name": "Bentley Systems, Incorporated Class B"
  },
  {
+  "symbol": "NASDAQ:BTDR",
+  "name": "Bitdeer Technologies Group Class A"
+ },
+ {
   "symbol": "NYSE:BTE",
   "name": "Baytex Energy Corp."
  },
@@ -1754,6 +1754,10 @@
  {
   "symbol": "NYSE:CLS",
   "name": "Celestica Inc."
+ },
+ {
+  "symbol": "NASDAQ:CLSK",
+  "name": "Cleanspark, Inc."
  },
  {
   "symbol": "NYSE:CLX",
@@ -2204,10 +2208,6 @@
   "name": "Deutsche Bank Aktiengesellschaft"
  },
  {
-  "symbol": "NYSE:DBD",
-  "name": "Diebold Nixdorf Inc"
- },
- {
   "symbol": "NASDAQ:DBX",
   "name": "Dropbox, Inc. Class A"
  },
@@ -2544,6 +2544,10 @@
   "name": "Okeanis Eco Tankers Corp."
  },
  {
+  "symbol": "NASDAQ:ECPG",
+  "name": "Encore Capital Group, Inc."
+ },
+ {
   "symbol": "NYSE:ED",
   "name": "Consolidated Edison, Inc."
  },
@@ -2834,10 +2838,6 @@
  {
   "symbol": "AMEX:EWY",
   "name": "iShares MSCI South Korea ETF"
- },
- {
-  "symbol": "AMEX:EWZ",
-  "name": "iShares MSCI Brazil ETF"
  },
  {
   "symbol": "NASDAQ:EXC",
@@ -3748,10 +3748,6 @@
   "name": "Harmony Biosciences Holdings, Inc."
  },
  {
-  "symbol": "NASDAQ:HSAI",
-  "name": "Hesai Group Sponsored ADR"
- },
- {
   "symbol": "NYSE:HSBC",
   "name": "HSBC Holdings PLC Sponsored ADR"
  },
@@ -4034,10 +4030,6 @@
  {
   "symbol": "NYSE:INVH",
   "name": "Invitation Homes, Inc."
- },
- {
-  "symbol": "NYSE:INVX",
-  "name": "Innovex International, Inc."
  },
  {
   "symbol": "NASDAQ:IOND",
@@ -5476,6 +5468,10 @@
   "name": "Nomura Holdings, Inc. Sponsored ADR"
  },
  {
+  "symbol": "NASDAQ:NMRK",
+  "name": "Newmark Group, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:NNI",
   "name": "Nelnet, Inc. Class A"
  },
@@ -6836,6 +6832,10 @@
   "name": "iShares MSCI EAFE Small-Cap ETF"
  },
  {
+  "symbol": "NASDAQ:SDGR",
+  "name": "Schrodinger, Inc."
+ },
+ {
   "symbol": "NYSE:SDRL",
   "name": "Seadrill Limited"
  },
@@ -7036,10 +7036,6 @@
   "name": "SLM Corp"
  },
  {
-  "symbol": "NASDAQ:SLS",
-  "name": "SELLAS Life Sciences Group, Inc."
- },
- {
   "symbol": "AMEX:SLV",
   "name": "iShares Silver Trust"
  },
@@ -7184,8 +7180,8 @@
   "name": "Sphere Entertainment Co. Class A"
  },
  {
-  "symbol": "AMEX:SPIB",
-  "name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF"
+  "symbol": "AMEX:SPHY",
+  "name": "State Street SPDR Portfolio High Yield Bond ETF"
  },
  {
   "symbol": "AMEX:SPMD",
@@ -7330,6 +7326,10 @@
  {
   "symbol": "NYSE:STT",
   "name": "State Street Corporation"
+ },
+ {
+  "symbol": "NYSE:STUB",
+  "name": "StubHub Holdings Incorporation Class A"
  },
  {
   "symbol": "NYSE:STVN",
@@ -8064,10 +8064,6 @@
   "name": "Vanguard Morningstar Small-Cap Value ETF"
  },
  {
-  "symbol": "NASDAQ:VCEL",
-  "name": "Vericel Corporation"
- },
- {
   "symbol": "NASDAQ:VCIT",
   "name": "Vanguard Intermediate-Term Corporate Bond ETF"
  },
@@ -8670,6 +8666,10 @@
  {
   "symbol": "AMEX:XLF",
   "name": "State Street Financial Select Sector SPDR ETF"
+ },
+ {
+  "symbol": "AMEX:XLG",
+  "name": "Invesco S&P 500 Top 50 ETF"
  },
  {
   "symbol": "AMEX:XLI",

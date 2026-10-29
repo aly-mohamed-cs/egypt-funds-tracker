@@ -33,9 +33,9 @@
   "code": "AERO"
  },
  {
-  "symbol": "CRYPTO:AGTALUSD",
-  "name": "Alaya Governance Token",
-  "code": "AGT"
+  "symbol": "CRYPTO:AIOZUSD",
+  "name": "AIOZ Network",
+  "code": "AIOZ"
  },
  {
   "symbol": "CRYPTO:AKEUSD",
@@ -193,9 +193,14 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CARDSCUSD",
-  "name": "Collector Crypt",
-  "code": "CARDS"
+  "symbol": "CRYPTO:CAP7USD",
+  "name": "Cap",
+  "code": "CAP"
+ },
+ {
+  "symbol": "CRYPTO:CASH2USD",
+  "name": "Cash",
+  "code": "CASH"
  },
  {
   "symbol": "CRYPTO:CCCAUSD",
@@ -581,11 +586,6 @@
   "symbol": "CRYPTO:NIGHTMIUSD",
   "name": "Midnight",
   "code": "NIGHT"
- },
- {
-  "symbol": "CRYPTO:NPCNUSD",
-  "name": "Non-Playable Coin",
-  "code": "NPC"
  },
  {
   "symbol": "CRYPTO:OHMUSD",

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T22:28:19+00:00",
- "latest_nav_date": "2026-10-26",
+ "generated_at": "2026-10-30T21:57:43+00:00",
+ "latest_nav_date": "2026-10-28",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 57.49075,
-   "nav_date": "2026-10-26",
+   "nav": 57.54135,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": 0.003534,
-    "1M": 0.012956,
-    "3M": 0.040708,
-    "YTD": 0.160253,
-    "1Y": 0.194595
+    "1W": 0.004417,
+    "1M": 0.012966,
+    "3M": 0.040766,
+    "YTD": 0.161274,
+    "1Y": 0.194565
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1186,
+   "history_points": 1187,
    "splits": [],
    "stale": false
   },
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 820.4919,
-   "nav_date": "2026-10-26",
+   "nav": 821.3025,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": 0.003956,
-    "1M": 0.016477,
-    "3M": 0.047299,
-    "YTD": 0.163963,
-    "1Y": 0.205648
+    "1W": 0.003963,
+    "1M": 0.014942,
+    "3M": 0.047319,
+    "YTD": 0.165113,
+    "1Y": 0.205506
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1384,
+   "history_points": 1385,
    "splits": [],
    "stale": false
   },
@@ -87,18 +87,18 @@
    "owner_en": "Mubasher Capital Holding For Financial Investments",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 24.74,
-   "nav_date": "2026-10-26",
+   "nav": 24.77,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": null,
-    "1M": 0.015183,
-    "3M": 0.043882,
-    "YTD": 0.150163,
-    "1Y": 0.189335
+    "1W": 0.00324,
+    "1M": 0.013917,
+    "3M": 0.044266,
+    "YTD": 0.151557,
+    "1Y": 0.1897
    },
    "ytd_source": "computed",
    "history_start": "2010-03-08",
-   "history_points": 1516,
+   "history_points": 1517,
    "splits": [
     {
      "date": "2012-06-28",
@@ -188,18 +188,18 @@
    "owner_en": "HSBC Bank Egypt SAE",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 800.40448,
-   "nav_date": "2026-10-26",
+   "nav": 800.79986,
+   "nav_date": "2026-10-27",
    "returns": {
     "1W": null,
-    "1M": 0.016357,
-    "3M": 0.046182,
-    "YTD": 0.160636,
-    "1Y": 0.201424
+    "1M": 0.016859,
+    "3M": 0.046186,
+    "YTD": 0.161209,
+    "1Y": 0.200727
    },
    "ytd_source": "computed",
    "history_start": "2009-04-21",
-   "history_points": 1859,
+   "history_points": 1860,
    "splits": [],
    "stale": false
   },
@@ -260,18 +260,18 @@
    "owner_en": "Suez Canal Bank SAE",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 66.3429,
-   "nav_date": "2026-10-25",
+   "nav": 67.71367,
+   "nav_date": "2026-10-28",
    "returns": {
     "1W": null,
-    "1M": -0.108561,
-    "3M": -0.095972,
-    "YTD": 0.159841,
-    "1Y": 0.186632
+    "1M": -0.090142,
+    "3M": -0.070451,
+    "YTD": 0.183805,
+    "1Y": 0.199839
    },
    "ytd_source": "computed",
    "history_start": "2008-10-26",
-   "history_points": 2912,
+   "history_points": 2913,
    "splits": [],
    "stale": false
   },
@@ -317,18 +317,18 @@
    "owner_en": "Banque Misr S.A.E",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 117.68517,
-   "nav_date": "2026-10-26",
+   "nav": 117.80086,
+   "nav_date": "2026-10-28",
    "returns": {
     "1W": null,
-    "1M": 0.015908,
-    "3M": 0.043983,
-    "YTD": 0.151798,
-    "1Y": 0.191174
+    "1M": 0.016907,
+    "3M": 0.044051,
+    "YTD": 0.15293,
+    "1Y": 0.191125
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 3477,
+   "history_points": 3478,
    "splits": [],
    "stale": false
   },
@@ -341,18 +341,18 @@
    "owner_en": "Banque Misr S.A.E",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 11.97445,
-   "nav_date": "2026-10-26",
+   "nav": 11.97557,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": null,
-    "1M": 0.001558,
-    "3M": 0.004278,
-    "YTD": 0.016628,
-    "1Y": 0.021619
+    "1W": 0.000374,
+    "1M": 0.001652,
+    "3M": 0.004284,
+    "YTD": 0.016723,
+    "1Y": 0.021555
    },
    "ytd_source": "computed",
    "history_start": "2008-02-24",
-   "history_points": 3350,
+   "history_points": 3351,
    "splits": [],
    "stale": false
   },
@@ -365,18 +365,18 @@
    "owner_en": "Banque Misr S.A.E",
    "category": "Money Market",
    "currency": "USD",
-   "nav": 14.87278,
-   "nav_date": "2026-10-26",
+   "nav": 14.87606,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": null,
-    "1M": 0.00361,
-    "3M": 0.009982,
-    "YTD": 0.032757,
-    "1Y": 0.040762
+    "1W": 0.000877,
+    "1M": 0.003831,
+    "3M": 0.009994,
+    "YTD": 0.032984,
+    "1Y": 0.040745
    },
    "ytd_source": "computed",
    "history_start": "2007-06-17",
-   "history_points": 3384,
+   "history_points": 3385,
    "splits": [],
    "stale": false
   },
@@ -389,18 +389,18 @@
    "owner_en": "Bank Next",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 385.44417,
-   "nav_date": "2026-10-17",
+   "nav": 369.3026,
+   "nav_date": "2026-10-24",
    "returns": {
-    "1W": null,
-    "1M": -0.033985,
-    "3M": 0.05105,
-    "YTD": 0.345646,
-    "1Y": 0.553799
+    "1W": -0.041878,
+    "1M": -0.078501,
+    "3M": -0.002135,
+    "YTD": 0.289293,
+    "1Y": 0.466832
    },
    "ytd_source": "computed",
    "history_start": "2011-09-04",
-   "history_points": 2157,
+   "history_points": 2158,
    "splits": [
     {
      "date": "2024-01-24",
@@ -418,18 +418,18 @@
    "owner_en": "Banque Misr S.A.E",
    "category": "Other",
    "currency": "EGP",
-   "nav": 14.79,
-   "nav_date": "2026-10-26",
+   "nav": 14.83,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": null,
-    "1M": 0.000677,
-    "3M": 0.032821,
-    "YTD": 0.188159,
-    "1Y": 0.247366
+    "1W": -0.005366,
+    "1M": 0.003383,
+    "3M": 0.03417,
+    "YTD": 0.191372,
+    "1Y": 0.249684
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 2445,
+   "history_points": 2446,
    "splits": [
     {
      "date": "2024-05-23",
@@ -455,18 +455,18 @@
    "owner_en": "Kuwait finance House Bank – Egypt",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 646.3924,
-   "nav_date": "2026-10-26",
+   "nav": 646.7121,
+   "nav_date": "2026-10-27",
    "returns": {
     "1W": null,
-    "1M": 0.01654,
-    "3M": 0.047005,
-    "YTD": 0.162652,
-    "1Y": 0.203545
+    "1M": 0.017043,
+    "3M": 0.046999,
+    "YTD": 0.163227,
+    "1Y": 0.20414
    },
    "ytd_source": "computed",
    "history_start": "2012-03-11",
-   "history_points": 1542,
+   "history_points": 1543,
    "splits": [],
    "stale": false
   },
@@ -479,18 +479,18 @@
    "owner_en": "Faisal Islamic Bank of Egypt",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 491.31,
-   "nav_date": "2026-10-26",
+   "nav": 500.29,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": null,
-    "1M": -0.091697,
-    "3M": -0.023862,
-    "YTD": 0.207269,
-    "1Y": 0.331608
+    "1W": -0.048444,
+    "1M": -0.075096,
+    "3M": -0.010874,
+    "YTD": 0.229335,
+    "1Y": 0.358819
    },
    "ytd_source": "computed",
    "history_start": "2006-10-26",
-   "history_points": 3076,
+   "history_points": 3077,
    "splits": [
     {
      "date": "2016-12-31",
@@ -560,20 +560,20 @@
    "owner_en": "Commercial International Bank - Egypt (CIB)",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 1092.05,
-   "nav_date": "2026-09-17",
+   "nav": 995.08,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": -0.007345,
-    "1M": 0.012038,
-    "3M": 0.077844,
-    "YTD": 0.321071,
-    "1Y": 0.556004
+    "1W": null,
+    "1M": null,
+    "3M": -0.050125,
+    "YTD": 0.203765,
+    "1Y": 0.292211
    },
    "ytd_source": "computed",
    "history_start": "2006-04-06",
-   "history_points": 2898,
+   "history_points": 2899,
    "splits": [],
-   "stale": true
+   "stale": false
   },
   {
    "id": 2684,
@@ -584,20 +584,20 @@
    "owner_en": "Commercial International Bank - Egypt (CIB)",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 1117.6,
-   "nav_date": "2026-09-19",
+   "nav": 1138.9,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": 0.004855,
-    "1M": 0.015123,
-    "3M": 0.046903,
-    "YTD": 0.139315,
-    "1Y": 0.203714
+    "1W": null,
+    "1M": 0.019059,
+    "3M": 0.045467,
+    "YTD": 0.161029,
+    "1Y": 0.200877
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 3169,
+   "history_points": 3170,
    "splits": [],
-   "stale": true
+   "stale": false
   },
   {
    "id": 2685,
@@ -608,20 +608,20 @@
    "owner_en": "Commercial International Bank - Egypt (CIB)",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 613.69,
-   "nav_date": "2026-09-19",
+   "nav": 620.64,
+   "nav_date": "2026-10-28",
    "returns": {
-    "1W": 0.002909,
-    "1M": 0.009093,
-    "3M": 0.027802,
-    "YTD": 0.078788,
-    "1Y": 0.139332
+    "1W": null,
+    "1M": 0.011325,
+    "3M": 0.027142,
+    "YTD": 0.091005,
+    "1Y": 0.130595
    },
    "ytd_source": "computed",
    "history_start": "2011-09-11",
-   "history_points": 2836,
+   "history_points": 2837,
    "splits": [],
-   "stale": true
+   "stale": false
   },
   {
    "id": 2686,
@@ -632,20 +632,20 @@
    "owner_en": "Arab Banking Corporation - Egypt",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 699.17,
-   "nav_date": "2026-09-03",
+   "nav": 640.91,
+   "nav_date": "2026-10-22",
    "returns": {
-    "1W": 0.011736,
-    "1M": 0.07312,
-    "3M": 0.093341,
-    "YTD": 0.350427,
-    "1Y": 0.595477
+    "1W": null,
+    "1M": null,
+    "3M": -0.021959,
+    "YTD": 0.237899,
+    "1Y": 0.378212
    },
    "ytd_source": "computed",
    "history_start": "2008-08-14",
-   "history_points": 930,
+   "history_points": 931,
    "splits": [],
-   "stale": true
+   "stale": false
   },
   {
    "id": 2687,
@@ -656,20 +656,20 @@
    "owner_en": "Export Development Bank of Egypt",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 961.2309,
-   "nav_date": "2026-09-19",
+   "nav": 978.6049,
+   "nav_date": "2026-10-26",
    "returns": {
-    "1W": 0.006794,
-    "1M": 0.01709,
-    "3M": 0.048634,
-    "YTD": 0.140233,
-    "1Y": 0.204859
+    "1W": null,
+    "1M": 0.018075,
+    "3M": 0.057359,
+    "YTD": 0.160842,
+    "1Y": 0.201742
    },
    "ytd_source": "computed",
    "history_start": "2006-11-16",
-   "history_points": 3159,
+   "history_points": 3160,
    "splits": [],
-   "stale": true
+   "stale": false
   },
   {
    "id": 2688,
@@ -680,18 +680,18 @@
    "owner_en": "Bank of Alexandria",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 62.67154,
-   "nav_date": "2026-10-20",
+   "nav": 62.90594,
+   "nav_date": "2026-10-27",
    "returns": {
-    "1W": null,
-    "1M": 0.014445,
-    "3M": 0.042499,
-    "YTD": 0.137373,
-    "1Y": 0.175306
+    "1W": 0.00374,
+    "1M": 0.018239,
+    "3M": 0.043208,
+    "YTD": 0.141627,
+    "1Y": 0.176189
    },
    "ytd_source": "computed",
    "history_start": "2010-11-17",
-   "history_points": 911,
+   "history_points": 912,
    "splits": [],
    "stale": false
   },
@@ -704,18 +704,18 @@
    "owner_en": "Bank Next",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 27.33207,
-   "nav_date": "2026-10-20",
+   "nav": 27.42734,
+   "nav_date": "2026-10-27",
    "returns": {
-    "1W": null,
-    "1M": 0.01543,
-    "3M": 0.046748,
-    "YTD": 0.159443,
-    "1Y": 0.202416
+    "1W": 0.003486,
+    "1M": 0.018969,
+    "3M": 0.04674,
+    "YTD": 0.163485,
+    "1Y": 0.202049
    },
    "ytd_source": "computed",
    "history_start": "2010-06-20",
-   "history_points": 2380,
+   "history_points": 2381,
    "splits": [],
    "stale": false
   },
@@ -728,18 +728,18 @@
    "owner_en": "Bank of Alexandria",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 1788.77,
-   "nav_date": "2026-10-15",
+   "nav": 1741.95,
+   "nav_date": "2026-10-22",
    "returns": {
-    "1W": null,
-    "1M": -0.027076,
-    "3M": 0.03524,
-    "YTD": 0.274307,
-    "1Y": 0.377609
+    "1W": -0.026174,
+    "1M": -0.049579,
+    "3M": -0.009056,
+    "YTD": 0.240953,
+    "1Y": 0.322133
    },
    "ytd_source": "computed",
    "history_start": "2007-05-24",
-   "history_points": 1039,
+   "history_points": 1040,
    "splits": [],
    "stale": false
   },
@@ -752,18 +752,18 @@
    "owner_en": "Bank of Alexandria",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 103.2782,
-   "nav_date": "2026-10-20",
+   "nav": 103.6316,
+   "nav_date": "2026-10-27",
    "returns": {
-    "1W": null,
-    "1M": 0.015215,
-    "3M": 0.045952,
-    "YTD": 0.157308,
-    "1Y": 0.202198
+    "1W": 0.003422,
+    "1M": 0.018689,
+    "3M": 0.045971,
+    "YTD": 0.161268,
+    "1Y": 0.200524
    },
    "ytd_source": "computed",
    "history_start": "2006-05-18",
-   "history_points": 1291,
+   "history_points": 1292,
    "splits": [],
    "stale": false
   },
@@ -776,18 +776,18 @@
    "owner_en": "First Abu Dhabi Bank Misr",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 77.7774,
-   "nav_date": "2026-10-20",
+   "nav": 78.035,
+   "nav_date": "2026-10-27",
    "returns": {
-    "1W": null,
-    "1M": 0.014792,
-    "3M": 0.044875,
-    "YTD": 0.151395,
-    "1Y": 0.19326
+    "1W": 0.003312,
+    "1M": 0.018153,
+    "3M": 0.044838,
+    "YTD": 0.155208,
+    "1Y": 0.193568
    },
    "ytd_source": "computed",
    "history_start": "2009-01-04",
-   "history_points": 1369,
+   "history_points": 1370,
    "splits": [],
    "stale": false
   },
@@ -800,18 +800,18 @@
    "owner_en": "Al Baraka Bank - Egypt",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 630.46,
-   "nav_date": "2026-10-15",
+   "nav": 603.09,
+   "nav_date": "2026-10-22",
    "returns": {
-    "1W": null,
-    "1M": -0.034532,
-    "3M": 0.053611,
-    "YTD": 0.346159,
-    "1Y": 0.568347
+    "1W": -0.043413,
+    "1M": -0.08095,
+    "3M": -0.009412,
+    "YTD": 0.287718,
+    "1Y": 0.466766
    },
    "ytd_source": "computed",
    "history_start": "2006-06-01",
-   "history_points": 1025,
+   "history_points": 1026,
    "splits": [],
    "stale": false
   },
@@ -824,18 +824,18 @@
    "owner_en": "Credit Agricole - Egypt",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 1932.36,
-   "nav_date": "2026-10-15",
+   "nav": 1879.96,
+   "nav_date": "2026-10-22",
    "returns": {
-    "1W": null,
-    "1M": -0.030407,
-    "3M": 0.033116,
-    "YTD": 0.276918,
-    "1Y": 0.389767
+    "1W": -0.027117,
+    "1M": -0.053103,
+    "3M": -0.012782,
+    "YTD": 0.242292,
+    "1Y": 0.331681
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 1079,
+   "history_points": 1080,
    "splits": [],
    "stale": false
   },
@@ -848,18 +848,18 @@
    "owner_en": "Credit Agricole - Egypt",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 832.03,
-   "nav_date": "2026-10-15",
+   "nav": 811.07,
+   "nav_date": "2026-10-22",
    "returns": {
-    "1W": null,
-    "1M": -0.028434,
-    "3M": 0.033103,
-    "YTD": 0.268822,
-    "1Y": 0.371244
+    "1W": -0.025191,
+    "1M": -0.049757,
+    "3M": -0.010311,
+    "YTD": 0.236859,
+    "1Y": 0.317506
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 1080,
+   "history_points": 1081,
    "splits": [],
    "stale": false
   },
@@ -872,18 +872,18 @@
    "owner_en": "Credit Agricole - Egypt",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 1160.38,
-   "nav_date": "2026-10-20",
+   "nav": 1164.45,
+   "nav_date": "2026-10-27",
    "returns": {
-    "1W": null,
-    "1M": 0.015525,
-    "3M": 0.047,
-    "YTD": -0.055088,
-    "1Y": -0.018607
+    "1W": 0.003507,
+    "1M": 0.019087,
+    "3M": 0.046998,
+    "YTD": -0.051774,
+    "1Y": -0.019468
    },
    "ytd_source": "computed",
    "history_start": "2005-08-04",
-   "history_points": 2321,
+   "history_points": 2322,
    "splits": [],
    "stale": false
   },
@@ -896,18 +896,18 @@
    "owner_en": "Banque Du Caire",
    "category": "Equity",
    "currency": "EGP",
-   "nav": 46.64,
-   "nav_date": "2026-10-15",
+   "nav": 45.36,
+   "nav_date": "2026-10-22",
    "returns": {
-    "1W": null,
-    "1M": -0.029344,
-    "3M": 0.035754,
-    "YTD": 0.180116,
-    "1Y": 0.229605
+    "1W": -0.027444,
+    "1M": -0.052632,
+    "3M": -0.010255,
+    "YTD": 0.147729,
+    "1Y": 0.177321
    },
    "ytd_source": "computed",
    "history_start": "2007-05-31",
-   "history_points": 1605,
+   "history_points": 1606,
    "splits": [
     {
      "date": "2026-02-05",

@@ -8,11 +8,6 @@
   "name": "Bitcoin dominance"
  },
  {
-  "symbol": "CRYPTO:1INCHUSD",
-  "name": "1inch",
-  "code": "1INCH"
- },
- {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -183,11 +178,6 @@
   "code": "BTW"
  },
  {
-  "symbol": "CRYPTO:BUSD",
-  "name": "BUILDon",
-  "code": "B"
- },
- {
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
@@ -268,6 +258,11 @@
   "code": "DEXE"
  },
  {
+  "symbol": "CRYPTO:DGAIUSD",
+  "name": "DGrid AI",
+  "code": "DGAI"
+ },
+ {
   "symbol": "CRYPTO:DOGEUSD",
   "name": "Dogecoin",
   "code": "DOGE"
@@ -281,6 +276,11 @@
   "symbol": "CRYPTO:DRVDUSD",
   "name": "Derive",
   "code": "DRV"
+ },
+ {
+  "symbol": "CRYPTO:EDGEXUSD",
+  "name": "edgeX",
+  "code": "EDGE"
  },
  {
   "symbol": "CRYPTO:EIGENUSD",
@@ -738,6 +738,11 @@
   "code": "SKY"
  },
  {
+  "symbol": "CRYPTO:SN51USD",
+  "name": "lium",
+  "code": "SN51"
+ },
+ {
   "symbol": "CRYPTO:SOLUSD",
   "name": "Solana",
   "code": "SOL"
@@ -996,11 +1001,6 @@
   "symbol": "CRYPTO:ZETRIXUSD",
   "name": "Zetrix",
   "code": "ZETRIX"
- },
- {
-  "symbol": "CRYPTO:ZKSYUSD",
-  "name": "zkSync",
-  "code": "ZK"
  },
  {
   "symbol": "CRYPTO:ZROLUSD",

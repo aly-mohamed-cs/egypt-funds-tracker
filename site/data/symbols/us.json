@@ -252,8 +252,8 @@
   "name": "Alamos Gold Inc."
  },
  {
-  "symbol": "NASDAQ:AGIO",
-  "name": "Agios Pharmaceuticals, Inc."
+  "symbol": "NYSE:AGM",
+  "name": "Federal Agricultural Mortgage Corporation Class C"
  },
  {
   "symbol": "NASDAQ:AGNC",
@@ -440,6 +440,10 @@
   "name": "Ameriprise Financial, Inc."
  },
  {
+  "symbol": "NASDAQ:AMPL",
+  "name": "Amplitude Inc Class A"
+ },
+ {
   "symbol": "NASDAQ:AMRX",
   "name": "Amneal Pharmaceuticals, Inc. Class A"
  },
@@ -466,6 +470,10 @@
  {
   "symbol": "NYSE:AN",
   "name": "AutoNation, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ANDE",
+  "name": "Andersons, Inc."
  },
  {
   "symbol": "NYSE:ANDG",
@@ -1216,6 +1224,10 @@
   "name": "Bank of New York Mellon Corp"
  },
  {
+  "symbol": "NYSE:BOBS",
+  "name": "Bob's Discount Furniture, Inc."
+ },
+ {
   "symbol": "NYSE:BOH",
   "name": "Bank of Hawaii Corp"
  },
@@ -1600,6 +1612,10 @@
   "name": "Capital Group Dividend Value ETF"
  },
  {
+  "symbol": "AMEX:CGGO",
+  "name": "Capital Group Global Growth Equity ETF"
+ },
+ {
   "symbol": "AMEX:CGGR",
   "name": "Capital Group Growth ETF"
  },
@@ -1646,10 +1662,6 @@
  {
   "symbol": "NASDAQ:CHRD",
   "name": "Chord Energy Corporation"
- },
- {
-  "symbol": "NASDAQ:CHRN",
-  "name": "ChronoScale Holdings Corporation"
  },
  {
   "symbol": "NASDAQ:CHRW",
@@ -1934,6 +1946,10 @@
  {
   "symbol": "NYSE:CPNG",
   "name": "Coupang, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CPRI",
+  "name": "Capri Holdings Limited"
  },
  {
   "symbol": "NASDAQ:CPRT",
@@ -2756,10 +2772,6 @@
   "name": "ESCO Technologies Inc."
  },
  {
-  "symbol": "NASDAQ:ESGD",
-  "name": "iShares ESG Aware MSCI EAFE ETF"
- },
- {
   "symbol": "NASDAQ:ESGU",
   "name": "iShares ESG Aware MSCI USA ETF"
  },
@@ -2818,6 +2830,10 @@
  {
   "symbol": "AMEX:EWJ",
   "name": "iShares MSCI Japan ETF"
+ },
+ {
+  "symbol": "AMEX:EWT",
+  "name": "iShares MSCI Taiwan ETF"
  },
  {
   "symbol": "NASDAQ:EWTX",
@@ -2910,6 +2926,10 @@
  {
   "symbol": "NYSE:FBP",
   "name": "First Bancorp"
+ },
+ {
+  "symbol": "NYSE:FCF",
+  "name": "First Commonwealth Financial Corporation"
  },
  {
   "symbol": "NASDAQ:FCFS",
@@ -3200,10 +3220,6 @@
   "name": "Fortinet, Inc."
  },
  {
-  "symbol": "NASDAQ:FTRE",
-  "name": "Fortrea Holdings Inc."
- },
- {
   "symbol": "NYSE:FTS",
   "name": "Fortis Inc."
  },
@@ -3254,10 +3270,6 @@
  {
   "symbol": "NASDAQ:GCMG",
   "name": "GCM Grosvenor, Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:GCT",
-  "name": "GigaCloud Technology, Inc. Class A"
  },
  {
   "symbol": "NYSE:GD",
@@ -3736,10 +3748,6 @@
   "name": "Harmony Biosciences Holdings, Inc."
  },
  {
-  "symbol": "NASDAQ:HSAI",
-  "name": "Hesai Group Sponsored ADR"
- },
- {
   "symbol": "NYSE:HSBC",
   "name": "HSBC Holdings PLC Sponsored ADR"
  },
@@ -3952,12 +3960,12 @@
   "name": "IMAX Corporation"
  },
  {
-  "symbol": "AMEX:IMO",
-  "name": "Imperial Oil Limited"
+  "symbol": "NASDAQ:IMNM",
+  "name": "Immunome, Inc."
  },
  {
-  "symbol": "NASDAQ:IMOS",
-  "name": "ChipMOS Technologies, Inc. Sponsored ADR"
+  "symbol": "AMEX:IMO",
+  "name": "Imperial Oil Limited"
  },
  {
   "symbol": "NASDAQ:IMVT",
@@ -4588,10 +4596,6 @@
   "name": "Lennar Corporation Class B"
  },
  {
-  "symbol": "NYSE:LEU",
-  "name": "Centrus Energy Corp. Class A"
- },
- {
   "symbol": "NYSE:LEVI",
   "name": "Levi Strauss & Co. Class A"
  },
@@ -4662,6 +4666,10 @@
  {
   "symbol": "NASDAQ:LIVN",
   "name": "LivaNova Plc"
+ },
+ {
+  "symbol": "NASDAQ:LKFT",
+  "name": "Lakefront Biotherapeutics Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:LKQ",
@@ -4844,6 +4852,10 @@
   "name": "Madison Air Solutions Corp. Class A"
  },
  {
+  "symbol": "NYSE:MAN",
+  "name": "ManpowerGroup Inc."
+ },
+ {
   "symbol": "NYSE:MANE",
   "name": "Veradermics, Incorporated"
  },
@@ -4970,6 +4982,10 @@
  {
   "symbol": "NASDAQ:MEOH",
   "name": "Methanex Corporation"
+ },
+ {
+  "symbol": "NASDAQ:MESO",
+  "name": "Mesoblast Limited Sponsored ADR"
  },
  {
   "symbol": "NYSE:MET",
@@ -5180,10 +5196,6 @@
   "name": "Marsh & McLennan Companies, Inc."
  },
  {
-  "symbol": "NASDAQ:MRVI",
-  "name": "Maravai Lifesciences Holdings, Inc. Class A"
- },
- {
   "symbol": "NASDAQ:MRVL",
   "name": "Marvell Technology, Inc."
  },
@@ -5214,6 +5226,10 @@
  {
   "symbol": "NYSE:MSGK",
   "name": "MSG Knickerbockers Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:MSGR",
+  "name": "MSG Rangers Corp Class A"
  },
  {
   "symbol": "NYSE:MSI",
@@ -5984,16 +6000,16 @@
   "name": "Penguin Solutions Incorporation"
  },
  {
+  "symbol": "NASDAQ:PENN",
+  "name": "PENN Entertainment, Inc."
+ },
+ {
   "symbol": "NASDAQ:PEP",
   "name": "PepsiCo, Inc."
  },
  {
   "symbol": "NYSE:PFE",
   "name": "Pfizer Inc."
- },
- {
-  "symbol": "NASDAQ:PFF",
-  "name": "iShares Preferred & Income Securities ETF"
  },
  {
   "symbol": "NASDAQ:PFG",
@@ -6144,10 +6160,6 @@
   "name": "Insulet Corporation"
  },
  {
-  "symbol": "NASDAQ:PONY",
-  "name": "Pony AI Inc. Sponsored ADR"
- },
- {
   "symbol": "NASDAQ:POOL",
   "name": "Pool Corporation"
  },
@@ -6182,10 +6194,6 @@
  {
   "symbol": "NASDAQ:PPLI",
   "name": "People Incorporated"
- },
- {
-  "symbol": "NASDAQ:PPTA",
-  "name": "Perpetua Resources Corp."
  },
  {
   "symbol": "NYSE:PR",
@@ -6302,10 +6310,6 @@
  {
   "symbol": "NYSE:PVH",
   "name": "PVH Corp."
- },
- {
-  "symbol": "NASDAQ:PVLA",
-  "name": "Palvella Therapeutics, Inc."
  },
  {
   "symbol": "NYSE:PWR",
@@ -6434,10 +6438,6 @@
  {
   "symbol": "NASDAQ:RDVY",
   "name": "First Trust Rising Dividend Achievers ETF"
- },
- {
-  "symbol": "NYSE:RDW",
-  "name": "Redwire Corp"
  },
  {
   "symbol": "NYSE:RDY",
@@ -6828,10 +6828,6 @@
   "name": "iShares MSCI EAFE Small-Cap ETF"
  },
  {
-  "symbol": "NASDAQ:SDGR",
-  "name": "Schrodinger, Inc."
- },
- {
   "symbol": "NYSE:SDRL",
   "name": "Seadrill Limited"
  },
@@ -7038,6 +7034,10 @@
  {
   "symbol": "NYSE:SM",
   "name": "SM Energy Company"
+ },
+ {
+  "symbol": "NYSE:SMA",
+  "name": "SmartStop Self Storage REIT, Inc."
  },
  {
   "symbol": "NASDAQ:SMCI",
@@ -7592,6 +7592,10 @@
   "name": "Millicom International Cellular SA"
  },
  {
+  "symbol": "NASDAQ:TILE",
+  "name": "Interface, Inc."
+ },
+ {
   "symbol": "NYSE:TIMB",
   "name": "TIM S.A. Sponsored ADR"
  },
@@ -8024,10 +8028,6 @@
   "name": "United Therapeutics Corporation"
  },
  {
-  "symbol": "AMEX:UUUU",
-  "name": "Energy Fuels Inc."
- },
- {
   "symbol": "NYSE:UWMC",
   "name": "UWM Holdings Corp. Class A"
  },
@@ -8062,10 +8062,6 @@
  {
   "symbol": "AMEX:VBR",
   "name": "Vanguard Morningstar Small-Cap Value ETF"
- },
- {
-  "symbol": "NASDAQ:VCEL",
-  "name": "Vericel Corporation"
  },
  {
   "symbol": "NASDAQ:VCIT",
@@ -8594,6 +8590,10 @@
  {
   "symbol": "NYSE:WSO",
   "name": "Watsco, Inc."
+ },
+ {
+  "symbol": "NYSE:WSO.B",
+  "name": "Watsco, Inc. Class B"
  },
  {
   "symbol": "NYSE:WST",

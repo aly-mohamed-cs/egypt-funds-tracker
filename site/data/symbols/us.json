@@ -256,6 +256,10 @@
   "name": "Federal Agricultural Mortgage Corporation Class C"
  },
  {
+  "symbol": "NYSE:AGM.A",
+  "name": "Federal Agricultural Mortgage Corporation Class A"
+ },
+ {
   "symbol": "NASDAQ:AGNC",
   "name": "AGNC Investment Corp."
  },
@@ -2468,6 +2472,10 @@
   "name": "Duolingo, Inc. Class A"
  },
  {
+  "symbol": "NYSE:DV",
+  "name": "DoubleVerify Holdings, Inc."
+ },
+ {
   "symbol": "NYSE:DVA",
   "name": "DaVita Inc."
  },
@@ -2664,10 +2672,6 @@
   "name": "Enbridge Inc."
  },
  {
-  "symbol": "NYSE:ENHA",
-  "name": "Enhanced Group Inc. Class A"
- },
- {
   "symbol": "NYSE:ENIC",
   "name": "Enel Chile SA Sponsored ADR"
  },
@@ -2772,6 +2776,10 @@
   "name": "ESCO Technologies Inc."
  },
  {
+  "symbol": "NASDAQ:ESGD",
+  "name": "iShares ESG Aware MSCI EAFE ETF"
+ },
+ {
   "symbol": "NASDAQ:ESGU",
   "name": "iShares ESG Aware MSCI USA ETF"
  },
@@ -2830,10 +2838,6 @@
  {
   "symbol": "AMEX:EWJ",
   "name": "iShares MSCI Japan ETF"
- },
- {
-  "symbol": "AMEX:EWT",
-  "name": "iShares MSCI Taiwan ETF"
  },
  {
   "symbol": "NASDAQ:EWTX",
@@ -4982,10 +4986,6 @@
  {
   "symbol": "NASDAQ:MEOH",
   "name": "Methanex Corporation"
- },
- {
-  "symbol": "NASDAQ:MESO",
-  "name": "Mesoblast Limited Sponsored ADR"
  },
  {
   "symbol": "NYSE:MET",

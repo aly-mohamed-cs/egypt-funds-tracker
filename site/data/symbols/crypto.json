@@ -178,14 +178,14 @@
   "code": "BTW"
  },
  {
+  "symbol": "CRYPTO:BUSD",
+  "name": "BUILDon",
+  "code": "B"
+ },
+ {
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
- },
- {
-  "symbol": "CRYPTO:CAP7USD",
-  "name": "Cap",
-  "code": "CAP"
  },
  {
   "symbol": "CRYPTO:CASH2USD",
@@ -256,11 +256,6 @@
   "symbol": "CRYPTO:DEXEUSD",
   "name": "DeXe",
   "code": "DEXE"
- },
- {
-  "symbol": "CRYPTO:DGAIUSD",
-  "name": "DGrid AI",
-  "code": "DGAI"
  },
  {
   "symbol": "CRYPTO:DOGEUSD",
@@ -351,6 +346,11 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
+ },
+ {
+  "symbol": "CRYPTO:GEODNUSD",
+  "name": "GEODNET",
+  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GFGOUSD",
@@ -518,6 +518,11 @@
   "code": "LUNC"
  },
  {
+  "symbol": "CRYPTO:MAGMAUSD",
+  "name": "Magma Finance",
+  "code": "MAGMA"
+ },
+ {
   "symbol": "CRYPTO:MANAUSD",
   "name": "Decentraland",
   "code": "MANA"
@@ -586,6 +591,11 @@
   "symbol": "CRYPTO:NIGHTMIUSD",
   "name": "Midnight",
   "code": "NIGHT"
+ },
+ {
+  "symbol": "CRYPTO:NPCNUSD",
+  "name": "Non-Playable Coin",
+  "code": "NPC"
  },
  {
   "symbol": "CRYPTO:OHMUSD",
@@ -738,19 +748,9 @@
   "code": "SKY"
  },
  {
-  "symbol": "CRYPTO:SN51USD",
-  "name": "lium",
-  "code": "SN51"
- },
- {
   "symbol": "CRYPTO:SOLUSD",
   "name": "Solana",
   "code": "SOL"
- },
- {
-  "symbol": "CRYPTO:SONIUSD",
-  "name": "Sonic",
-  "code": "S"
  },
  {
   "symbol": "CRYPTO:SOON2USD",

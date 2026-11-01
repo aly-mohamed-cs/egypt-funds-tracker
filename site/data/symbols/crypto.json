@@ -8,6 +8,11 @@
   "name": "Bitcoin dominance"
  },
  {
+  "symbol": "CRYPTO:1INCHUSD",
+  "name": "1inch",
+  "code": "1INCH"
+ },
+ {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -346,11 +351,6 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
- },
- {
-  "symbol": "CRYPTO:GEODNUSD",
-  "name": "GEODNET",
-  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GFGOUSD",

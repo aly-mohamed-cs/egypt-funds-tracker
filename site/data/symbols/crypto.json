@@ -28,14 +28,14 @@
   "code": "AERO"
  },
  {
+  "symbol": "CRYPTO:AGTALUSD",
+  "name": "Alaya Governance Token",
+  "code": "AGT"
+ },
+ {
   "symbol": "CRYPTO:AIOZUSD",
   "name": "AIOZ Network",
   "code": "AIOZ"
- },
- {
-  "symbol": "CRYPTO:AKEUSD",
-  "name": "AKEDO",
-  "code": "AKE"
  },
  {
   "symbol": "CRYPTO:AKTUSD",
@@ -188,11 +188,6 @@
   "code": "CAKE"
  },
  {
-  "symbol": "CRYPTO:CAP7USD",
-  "name": "Cap",
-  "code": "CAP"
- },
- {
   "symbol": "CRYPTO:CASH2USD",
   "name": "Cash",
   "code": "CASH"
@@ -226,6 +221,11 @@
   "symbol": "CRYPTO:CRCLBUSD",
   "name": "Circle Internet Group Tokenized bStocks",
   "code": "CRCLB"
+ },
+ {
+  "symbol": "CRYPTO:CRCLXUSD",
+  "name": "Circle tokenized stock (xStock)",
+  "code": "CRCLX"
  },
  {
   "symbol": "CRYPTO:CROUSD",
@@ -518,11 +518,6 @@
   "code": "LUNC"
  },
  {
-  "symbol": "CRYPTO:MAGMAUSD",
-  "name": "Magma Finance",
-  "code": "MAGMA"
- },
- {
   "symbol": "CRYPTO:MANAUSD",
   "name": "Decentraland",
   "code": "MANA"
@@ -551,6 +546,11 @@
   "symbol": "CRYPTO:MORPHOUSD",
   "name": "Morpho",
   "code": "MORPHO"
+ },
+ {
+  "symbol": "CRYPTO:MSTRBSUSD",
+  "name": "Strategy Tokenized bStocks",
+  "code": "MSTRB"
  },
  {
   "symbol": "CRYPTO:MSTRXUSD",

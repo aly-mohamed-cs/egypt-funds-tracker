@@ -152,10 +152,6 @@
   "name": "Agree Realty Corporation"
  },
  {
-  "symbol": "NASDAQ:ADEA",
-  "name": "Adeia Inc."
- },
- {
   "symbol": "NASDAQ:ADI",
   "name": "Analog Devices, Inc."
  },
@@ -194,6 +190,10 @@
  {
   "symbol": "NYSE:AEG",
   "name": "Aegon Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:AEHR",
+  "name": "Aehr Test Systems"
  },
  {
   "symbol": "NASDAQ:AEIS",
@@ -254,10 +254,6 @@
  {
   "symbol": "NYSE:AGM",
   "name": "Federal Agricultural Mortgage Corporation Class C"
- },
- {
-  "symbol": "NYSE:AGM.A",
-  "name": "Federal Agricultural Mortgage Corporation Class A"
  },
  {
   "symbol": "NASDAQ:AGNC",
@@ -364,6 +360,10 @@
   "name": "Almonty Industries Inc."
  },
  {
+  "symbol": "NASDAQ:ALMR",
+  "name": "Alamar Biosciences, Inc."
+ },
+ {
   "symbol": "NASDAQ:ALNY",
   "name": "Alnylam Pharmaceuticals, Inc"
  },
@@ -438,6 +438,10 @@
  {
   "symbol": "NYSE:AMP",
   "name": "Ameriprise Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AMPL",
+  "name": "Amplitude Inc Class A"
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -1428,10 +1432,6 @@
   "name": "Cal-Maine Foods, Inc."
  },
  {
-  "symbol": "NYSE:CALX",
-  "name": "Calix, Inc."
- },
- {
   "symbol": "NYSE:CALY",
   "name": "Callaway Golf Company"
  },
@@ -1602,10 +1602,6 @@
  {
   "symbol": "AMEX:CGDV",
   "name": "Capital Group Dividend Value ETF"
- },
- {
-  "symbol": "AMEX:CGGO",
-  "name": "Capital Group Global Growth Equity ETF"
  },
  {
   "symbol": "AMEX:CGGR",
@@ -1938,10 +1934,6 @@
  {
   "symbol": "NYSE:CPNG",
   "name": "Coupang, Inc. Class A"
- },
- {
-  "symbol": "NYSE:CPRI",
-  "name": "Capri Holdings Limited"
  },
  {
   "symbol": "NASDAQ:CPRT",
@@ -2850,10 +2842,6 @@
  {
   "symbol": "NASDAQ:EXEL",
   "name": "Exelixis, Inc."
- },
- {
-  "symbol": "NYSE:EXK",
-  "name": "Endeavour Silver Corp."
  },
  {
   "symbol": "NASDAQ:EXLS",
@@ -3980,10 +3968,6 @@
   "name": "Independent Bank Corp."
  },
  {
-  "symbol": "NASDAQ:INDV",
-  "name": "Indivior Pharmaceuticals, Inc."
- },
- {
   "symbol": "NYSE:INFY",
   "name": "Infosys Limited Sponsored ADR"
  },
@@ -4472,6 +4456,10 @@
   "name": "Karman Holdings Inc."
  },
  {
+  "symbol": "NYSE:KRP",
+  "name": "Kimbell Royalty Partners LP"
+ },
+ {
   "symbol": "NASDAQ:KRYS",
   "name": "Krystal Biotech, Inc."
  },
@@ -4522,6 +4510,10 @@
  {
   "symbol": "NASDAQ:LAMR",
   "name": "Lamar Advertising Company Class A"
+ },
+ {
+  "symbol": "NASDAQ:LASR",
+  "name": "nLIGHT, Inc."
  },
  {
   "symbol": "NASDAQ:LAUR",
@@ -5368,10 +5360,6 @@
   "name": "Neogen Corp"
  },
  {
-  "symbol": "NASDAQ:NESR",
-  "name": "National Energy Services Reunited Corp."
- },
- {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5586,6 +5574,10 @@
  {
   "symbol": "NYSE:NVT",
   "name": "nVent Electric plc"
+ },
+ {
+  "symbol": "NASDAQ:NVTS",
+  "name": "Navitas Semiconductor Corporation"
  },
  {
   "symbol": "NASDAQ:NWBI",
@@ -7192,6 +7184,10 @@
   "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF"
  },
  {
+  "symbol": "AMEX:SPTL",
+  "name": "State Street SPDR Portfolio Long Term Treasury Index ETF"
+ },
+ {
   "symbol": "AMEX:SPTM",
   "name": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF"
  },
@@ -7357,7 +7353,7 @@
  },
  {
   "symbol": "NASDAQ:SUPN",
-  "name": "Supernus Pharmaceuticals, Inc."
+  "name": "Supernus, Inc."
  },
  {
   "symbol": "NYSE:SUZ",
@@ -8060,6 +8056,10 @@
   "name": "Vanguard Morningstar Small-Cap Value ETF"
  },
  {
+  "symbol": "NASDAQ:VCEL",
+  "name": "Vericel Corporation"
+ },
+ {
   "symbol": "NASDAQ:VCIT",
   "name": "Vanguard Intermediate-Term Corporate Bond ETF"
  },
@@ -8074,6 +8074,10 @@
  {
   "symbol": "NASDAQ:VCYT",
   "name": "Veracyte, Inc."
+ },
+ {
+  "symbol": "AMEX:VDE",
+  "name": "Vanguard Energy ETF"
  },
  {
   "symbol": "AMEX:VEA",
@@ -8564,10 +8568,6 @@
   "name": "Warby Parker, Inc. Class A"
  },
  {
-  "symbol": "NYSE:WS",
-  "name": "Worthington Steel, Inc."
- },
- {
   "symbol": "NASDAQ:WSBC",
   "name": "WesBanco, Inc."
  },
@@ -8666,10 +8666,6 @@
  {
   "symbol": "AMEX:XLF",
   "name": "State Street Financial Select Sector SPDR ETF"
- },
- {
-  "symbol": "AMEX:XLG",
-  "name": "Invesco S&P 500 Top 50 ETF"
  },
  {
   "symbol": "AMEX:XLI",
@@ -8810,5 +8806,9 @@
  {
   "symbol": "NYSE:ZWS",
   "name": "Zurn Elkay Water Solutions Corporation"
+ },
+ {
+  "symbol": "NASDAQ:ZYME",
+  "name": "Zymeworks Inc."
  }
 ]

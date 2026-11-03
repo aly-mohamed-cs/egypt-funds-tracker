@@ -8,11 +8,6 @@
   "name": "Bitcoin dominance"
  },
  {
-  "symbol": "CRYPTO:1INCHUSD",
-  "name": "1inch",
-  "code": "1INCH"
- },
- {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -193,6 +188,11 @@
   "code": "CAKE"
  },
  {
+  "symbol": "CRYPTO:CAP7USD",
+  "name": "Cap",
+  "code": "CAP"
+ },
+ {
   "symbol": "CRYPTO:CASH2USD",
   "name": "Cash",
   "code": "CASH"
@@ -278,11 +278,6 @@
   "code": "DRV"
  },
  {
-  "symbol": "CRYPTO:EDGEXUSD",
-  "name": "edgeX",
-  "code": "EDGE"
- },
- {
   "symbol": "CRYPTO:EIGENUSD",
   "name": "EigenCloud",
   "code": "EIGEN"
@@ -366,6 +361,11 @@
   "symbol": "CRYPTO:GOMININGUSD",
   "name": "Gomining",
   "code": "GOMINING"
+ },
+ {
+  "symbol": "CRYPTO:GOOGLBUSD",
+  "name": "Alphabet Tokenized bStocks",
+  "code": "GOOGLB"
  },
  {
   "symbol": "CRYPTO:GRAMUSD",

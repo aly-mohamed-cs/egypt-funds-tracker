@@ -364,10 +364,6 @@
   "name": "Almonty Industries Inc."
  },
  {
-  "symbol": "NASDAQ:ALMR",
-  "name": "Alamar Biosciences, Inc."
- },
- {
   "symbol": "NASDAQ:ALNY",
   "name": "Alnylam Pharmaceuticals, Inc"
  },
@@ -442,10 +438,6 @@
  {
   "symbol": "NYSE:AMP",
   "name": "Ameriprise Financial, Inc."
- },
- {
-  "symbol": "NASDAQ:AMPL",
-  "name": "Amplitude Inc Class A"
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -1506,10 +1498,6 @@
  {
   "symbol": "NYSE:CBU",
   "name": "Community Financial System, Inc."
- },
- {
-  "symbol": "NYSE:CBZ",
-  "name": "CBIZ, Inc."
  },
  {
   "symbol": "NASDAQ:CCC",
@@ -2704,6 +2692,10 @@
   "name": "EOG Resources, Inc."
  },
  {
+  "symbol": "NYSE:EPAC",
+  "name": "Enerpac Tool Group Corp Class A"
+ },
+ {
   "symbol": "NYSE:EPAM",
   "name": "EPAM Systems, Inc."
  },
@@ -3776,6 +3768,10 @@
   "name": "Hercules Capital, Inc."
  },
  {
+  "symbol": "NYSE:HTH",
+  "name": "Hilltop Holdings Inc."
+ },
+ {
   "symbol": "NASDAQ:HTHT",
   "name": "H World Group Limited Sponsored ADR"
  },
@@ -4476,10 +4472,6 @@
   "name": "Karman Holdings Inc."
  },
  {
-  "symbol": "NYSE:KRP",
-  "name": "Kimbell Royalty Partners LP"
- },
- {
   "symbol": "NASDAQ:KRYS",
   "name": "Krystal Biotech, Inc."
  },
@@ -4502,10 +4494,6 @@
  {
   "symbol": "NASDAQ:KTOS",
   "name": "Kratos Defense & Security Solutions, Inc."
- },
- {
-  "symbol": "NYSE:KVUE",
-  "name": "Kenvue, Inc."
  },
  {
   "symbol": "NYSE:KVYO",
@@ -4534,10 +4522,6 @@
  {
   "symbol": "NASDAQ:LAMR",
   "name": "Lamar Advertising Company Class A"
- },
- {
-  "symbol": "NASDAQ:LASR",
-  "name": "nLIGHT, Inc."
  },
  {
   "symbol": "NASDAQ:LAUR",
@@ -4806,10 +4790,6 @@
  {
   "symbol": "NYSE:LW",
   "name": "Lamb Weston Holdings, Inc."
- },
- {
-  "symbol": "NYSE:LXP",
-  "name": "LXP Industrial Trust"
  },
  {
   "symbol": "NYSE:LYB",
@@ -5472,6 +5452,10 @@
   "name": "Nomura Holdings, Inc. Sponsored ADR"
  },
  {
+  "symbol": "NASDAQ:NMRK",
+  "name": "Newmark Group, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:NNI",
   "name": "Nelnet, Inc. Class A"
  },
@@ -5604,10 +5588,6 @@
   "name": "nVent Electric plc"
  },
  {
-  "symbol": "NASDAQ:NVTS",
-  "name": "Navitas Semiconductor Corporation"
- },
- {
   "symbol": "NASDAQ:NWBI",
   "name": "Northwest Bancshares, Inc."
  },
@@ -5622,6 +5602,10 @@
  {
   "symbol": "NASDAQ:NWL",
   "name": "Newell Brands Inc"
+ },
+ {
+  "symbol": "NYSE:NWN",
+  "name": "Northwest Natural Holding Co."
  },
  {
   "symbol": "NASDAQ:NWS",
@@ -5674,6 +5658,10 @@
  {
   "symbol": "AMEX:OEF",
   "name": "iShares S&P 100 ETF"
+ },
+ {
+  "symbol": "NYSE:OFG",
+  "name": "OFG Bancorp"
  },
  {
   "symbol": "NYSE:OGC",
@@ -5818,10 +5806,6 @@
  {
   "symbol": "NASDAQ:OTTR",
   "name": "Otter Tail Corporation"
- },
- {
-  "symbol": "NASDAQ:OUST",
-  "name": "Ouster, Inc."
  },
  {
   "symbol": "NYSE:OUT",
@@ -6030,10 +6014,6 @@
  {
   "symbol": "NYSE:PG",
   "name": "Procter & Gamble Company"
- },
- {
-  "symbol": "NASDAQ:PGEN",
-  "name": "Precigen Inc"
  },
  {
   "symbol": "NASDAQ:PGNY",
@@ -6312,6 +6292,10 @@
   "name": "PVH Corp."
  },
  {
+  "symbol": "NASDAQ:PVLA",
+  "name": "Palvella Therapeutics, Inc."
+ },
+ {
   "symbol": "NYSE:PWR",
   "name": "Quanta Services, Inc."
  },
@@ -6390,10 +6374,6 @@
  {
   "symbol": "NYSE:RAL",
   "name": "Ralliant Corporation"
- },
- {
-  "symbol": "NYSE:RAMP",
-  "name": "LiveRamp Holdings, Inc."
  },
  {
   "symbol": "NYSE:RBA",
@@ -6718,6 +6698,10 @@
  {
   "symbol": "NASDAQ:SAIL",
   "name": "SailPoint, Inc."
+ },
+ {
+  "symbol": "NYSE:SAM",
+  "name": "Boston Beer Company, Inc. Class A"
  },
  {
   "symbol": "NYSE:SAN",
@@ -7177,7 +7161,7 @@
  },
  {
   "symbol": "AMEX:SPHY",
-  "name": "State Street SPDR Portfolio High Yield Bond ETF"
+  "name": "State Street SPDR Portfolio High Yield Bond Index ETF"
  },
  {
   "symbol": "AMEX:SPMD",
@@ -7205,7 +7189,7 @@
  },
  {
   "symbol": "AMEX:SPTI",
-  "name": "State Street SPDR Portfolio Intermediate Term Treasury ETF"
+  "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF"
  },
  {
   "symbol": "AMEX:SPTM",
@@ -7242,6 +7226,10 @@
  {
   "symbol": "NASDAQ:SRAD",
   "name": "Sportradar Group AG Class A"
+ },
+ {
+  "symbol": "NASDAQ:SRCE",
+  "name": "1st Source Corporation"
  },
  {
   "symbol": "NYSE:SRE",
@@ -7724,6 +7712,10 @@
   "name": "Thomson Reuters Corporation"
  },
  {
+  "symbol": "NYSE:TRLV",
+  "name": "Trulieve Cannabis Corp."
+ },
+ {
   "symbol": "NASDAQ:TRMB",
   "name": "Trimble Inc."
  },
@@ -7872,6 +7864,14 @@
   "name": "Unity Software, Inc."
  },
  {
+  "symbol": "NYSE:UA",
+  "name": "Under Armour, Inc. Class C"
+ },
+ {
+  "symbol": "NYSE:UAA",
+  "name": "Under Armour, Inc. Class A"
+ },
+ {
   "symbol": "NASDAQ:UAL",
   "name": "United Airlines Holdings, Inc."
  },
@@ -7982,10 +7982,6 @@
  {
   "symbol": "NYSE:UPS",
   "name": "United Parcel Service, Inc. Class B"
- },
- {
-  "symbol": "NASDAQ:UPST",
-  "name": "Upstart Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:URBN",
@@ -8566,6 +8562,10 @@
  {
   "symbol": "NYSE:WRBY",
   "name": "Warby Parker, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WS",
+  "name": "Worthington Steel, Inc."
  },
  {
   "symbol": "NASDAQ:WSBC",

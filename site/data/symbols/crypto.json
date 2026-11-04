@@ -8,9 +8,9 @@
   "name": "Bitcoin dominance"
  },
  {
-  "symbol": "CRYPTO:9BITUSD",
-  "name": "The9bit",
-  "code": "9BIT"
+  "symbol": "CRYPTO:1INCHUSD",
+  "name": "1inch",
+  "code": "1INCH"
  },
  {
   "symbol": "CRYPTO:AAVEUSD",
@@ -26,11 +26,6 @@
   "symbol": "CRYPTO:AERODUSD",
   "name": "Aerodrome Finance",
   "code": "AERO"
- },
- {
-  "symbol": "CRYPTO:AGTALUSD",
-  "name": "Alaya Governance Token",
-  "code": "AGT"
  },
  {
   "symbol": "CRYPTO:AIOZUSD",
@@ -188,6 +183,11 @@
   "code": "CAKE"
  },
  {
+  "symbol": "CRYPTO:CAP7USD",
+  "name": "Cap",
+  "code": "CAP"
+ },
+ {
   "symbol": "CRYPTO:CASH2USD",
   "name": "Cash",
   "code": "CASH"
@@ -258,11 +258,6 @@
   "code": "DCR"
  },
  {
-  "symbol": "CRYPTO:DEXEUSD",
-  "name": "DeXe",
-  "code": "DEXE"
- },
- {
   "symbol": "CRYPTO:DOGEUSD",
   "name": "Dogecoin",
   "code": "DOGE"
@@ -276,6 +271,11 @@
   "symbol": "CRYPTO:DRVDUSD",
   "name": "Derive",
   "code": "DRV"
+ },
+ {
+  "symbol": "CRYPTO:EDGEXUSD",
+  "name": "edgeX",
+  "code": "EDGE"
  },
  {
   "symbol": "CRYPTO:EIGENUSD",

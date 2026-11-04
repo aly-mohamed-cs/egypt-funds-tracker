@@ -192,10 +192,6 @@
   "name": "Aegon Ltd. Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:AEHR",
-  "name": "Aehr Test Systems"
- },
- {
   "symbol": "NASDAQ:AEIS",
   "name": "Advanced Energy Industries, Inc."
  },
@@ -254,6 +250,10 @@
  {
   "symbol": "NYSE:AGM",
   "name": "Federal Agricultural Mortgage Corporation Class C"
+ },
+ {
+  "symbol": "NYSE:AGM.A",
+  "name": "Federal Agricultural Mortgage Corporation Class A"
  },
  {
   "symbol": "NASDAQ:AGNC",
@@ -332,6 +332,10 @@
   "name": "Align Technology, Inc."
  },
  {
+  "symbol": "NASDAQ:ALGT",
+  "name": "Allegiant Travel Company"
+ },
+ {
   "symbol": "NYSE:ALH",
   "name": "Alliance Laundry Holdings, Inc."
  },
@@ -358,10 +362,6 @@
  {
   "symbol": "NASDAQ:ALM",
   "name": "Almonty Industries Inc."
- },
- {
-  "symbol": "NASDAQ:ALMR",
-  "name": "Alamar Biosciences, Inc."
  },
  {
   "symbol": "NASDAQ:ALNY",
@@ -470,10 +470,6 @@
  {
   "symbol": "NYSE:AN",
   "name": "AutoNation, Inc."
- },
- {
-  "symbol": "NASDAQ:ANDE",
-  "name": "Andersons, Inc."
  },
  {
   "symbol": "NYSE:ANDG",
@@ -960,10 +956,6 @@
   "name": "Balchem Corp"
  },
  {
-  "symbol": "NASDAQ:BCRX",
-  "name": "BioCryst Pharmaceuticals, Inc."
- },
- {
   "symbol": "NYSE:BCS",
   "name": "Barclays PLC Sponsored ADR"
  },
@@ -1134,10 +1126,6 @@
  {
   "symbol": "NYSE:BKU",
   "name": "BankUnited, Inc."
- },
- {
-  "symbol": "NYSE:BKV",
-  "name": "BKV Corporation"
  },
  {
   "symbol": "NYSE:BLCO",
@@ -1332,10 +1320,6 @@
   "name": "BrightSpring Health Services, Inc."
  },
  {
-  "symbol": "NYSE:BTU",
-  "name": "Peabody Energy Corporation"
- },
- {
   "symbol": "NYSE:BUD",
   "name": "Anheuser-Busch InBev SA/NV Sponsored ADR"
  },
@@ -1430,6 +1414,10 @@
  {
   "symbol": "NASDAQ:CALM",
   "name": "Cal-Maine Foods, Inc."
+ },
+ {
+  "symbol": "NYSE:CALX",
+  "name": "Calix, Inc."
  },
  {
   "symbol": "NYSE:CALY",
@@ -1848,10 +1836,6 @@
   "name": "Coherent Corp."
  },
  {
-  "symbol": "NASDAQ:COHU",
-  "name": "Cohu, Inc."
- },
- {
   "symbol": "NASDAQ:COIN",
   "name": "Coinbase Global, Inc. Class A"
  },
@@ -1934,6 +1918,10 @@
  {
   "symbol": "NYSE:CPNG",
   "name": "Coupang, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:CPRI",
+  "name": "Capri Holdings Limited"
  },
  {
   "symbol": "NASDAQ:CPRT",
@@ -2054,10 +2042,6 @@
  {
   "symbol": "NYSE:CTRE",
   "name": "CareTrust REIT, Inc."
- },
- {
-  "symbol": "NYSE:CTRI",
-  "name": "Centuri Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:CTSH",
@@ -2258,6 +2242,10 @@
  {
   "symbol": "AMEX:DFAX",
   "name": "Dimensional World ex U.S. Core Equity 2 ETF"
+ },
+ {
+  "symbol": "AMEX:DFCF",
+  "name": "Dimensional Core Fixed Income ETF"
  },
  {
   "symbol": "AMEX:DFIV",
@@ -2842,6 +2830,10 @@
  {
   "symbol": "NASDAQ:EXEL",
   "name": "Exelixis, Inc."
+ },
+ {
+  "symbol": "NYSE:EXK",
+  "name": "Endeavour Silver Corp."
  },
  {
   "symbol": "NASDAQ:EXLS",
@@ -3728,10 +3720,6 @@
   "name": "Hormel Foods Corporation"
  },
  {
-  "symbol": "NASDAQ:HRMY",
-  "name": "Harmony Biosciences Holdings, Inc."
- },
- {
   "symbol": "NYSE:HSBC",
   "name": "HSBC Holdings PLC Sponsored ADR"
  },
@@ -4022,10 +4010,6 @@
  {
   "symbol": "NASDAQ:IONS",
   "name": "Ionis Pharmaceuticals, Inc."
- },
- {
-  "symbol": "NASDAQ:IOSP",
-  "name": "Innospec Inc."
  },
  {
   "symbol": "NYSE:IOT",
@@ -4396,8 +4380,8 @@
   "name": "Kinder Morgan Inc Class P"
  },
  {
-  "symbol": "NYSE:KMT",
-  "name": "Kennametal Inc."
+  "symbol": "NYSE:KMPR",
+  "name": "Kemper Corp"
  },
  {
   "symbol": "NYSE:KMX",
@@ -4456,10 +4440,6 @@
   "name": "Karman Holdings Inc."
  },
  {
-  "symbol": "NYSE:KRP",
-  "name": "Kimbell Royalty Partners LP"
- },
- {
   "symbol": "NASDAQ:KRYS",
   "name": "Krystal Biotech, Inc."
  },
@@ -4510,10 +4490,6 @@
  {
   "symbol": "NASDAQ:LAMR",
   "name": "Lamar Advertising Company Class A"
- },
- {
-  "symbol": "NASDAQ:LASR",
-  "name": "nLIGHT, Inc."
  },
  {
   "symbol": "NASDAQ:LAUR",
@@ -5360,6 +5336,10 @@
   "name": "Neogen Corp"
  },
  {
+  "symbol": "NASDAQ:NESR",
+  "name": "National Energy Services Reunited Corp."
+ },
+ {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5486,10 +5466,6 @@
  {
   "symbol": "NYSE:NRG",
   "name": "NRG Energy, Inc."
- },
- {
-  "symbol": "NASDAQ:NRIX",
-  "name": "Nurix Therapeutics, Inc."
  },
  {
   "symbol": "NYSE:NSC",
@@ -5798,6 +5774,10 @@
  {
   "symbol": "NASDAQ:OTTR",
   "name": "Otter Tail Corporation"
+ },
+ {
+  "symbol": "NASDAQ:OUST",
+  "name": "Ouster, Inc."
  },
  {
   "symbol": "NYSE:OUT",
@@ -6197,7 +6177,7 @@
  },
  {
   "symbol": "NYSE:PRM",
-  "name": "Perimeter Solutions Inc"
+  "name": "Perimeter Group Inc."
  },
  {
   "symbol": "NYSE:PRMB",
@@ -6628,6 +6608,10 @@
   "name": "RUM Group Inc. Class A"
  },
  {
+  "symbol": "NASDAQ:RUN",
+  "name": "Sunrun Inc."
+ },
+ {
   "symbol": "NASDAQ:RUSHA",
   "name": "Rush Enterprises, Inc. Class A"
  },
@@ -6804,6 +6788,10 @@
   "name": "iShares MSCI EAFE Small-Cap ETF"
  },
  {
+  "symbol": "NASDAQ:SDGR",
+  "name": "Schrodinger, Inc."
+ },
+ {
   "symbol": "NYSE:SDRL",
   "name": "Seadrill Limited"
  },
@@ -6826,6 +6814,10 @@
  {
   "symbol": "NASDAQ:SEIC",
   "name": "SEI Investments Company"
+ },
+ {
+  "symbol": "NASDAQ:SEPN",
+  "name": "Septerna, Inc."
  },
  {
   "symbol": "NASDAQ:SEZL",
@@ -7980,6 +7972,10 @@
   "name": "United Parcel Service, Inc. Class B"
  },
  {
+  "symbol": "NASDAQ:UPST",
+  "name": "Upstart Holdings, Inc."
+ },
+ {
   "symbol": "NASDAQ:URBN",
   "name": "Urban Outfitters, Inc."
  },
@@ -8074,10 +8070,6 @@
  {
   "symbol": "NASDAQ:VCYT",
   "name": "Veracyte, Inc."
- },
- {
-  "symbol": "AMEX:VDE",
-  "name": "Vanguard Energy ETF"
  },
  {
   "symbol": "AMEX:VEA",
@@ -8496,6 +8488,10 @@
   "name": "Cactus, Inc. Class A"
  },
  {
+  "symbol": "NYSE:WHR",
+  "name": "Whirlpool Corporation"
+ },
+ {
   "symbol": "NASDAQ:WING",
   "name": "Wingstop, Inc."
  },
@@ -8714,6 +8710,10 @@
  {
   "symbol": "NYSE:XPO",
   "name": "XPO, Inc."
+ },
+ {
+  "symbol": "NASDAQ:XRAY",
+  "name": "DENTSPLY SIRONA, Inc."
  },
  {
   "symbol": "NYSE:XXI",

@@ -440,10 +440,6 @@
   "name": "Ameriprise Financial, Inc."
  },
  {
-  "symbol": "NASDAQ:AMPL",
-  "name": "Amplitude Inc Class A"
- },
- {
   "symbol": "NASDAQ:AMRX",
   "name": "Amneal Pharmaceuticals, Inc. Class A"
  },
@@ -554,6 +550,10 @@
  {
   "symbol": "NASDAQ:ARCC",
   "name": "Ares Capital Corporation"
+ },
+ {
+  "symbol": "NYSE:ARDT",
+  "name": "Ardent Health, Inc."
  },
  {
   "symbol": "NYSE:ARE",
@@ -1156,6 +1156,10 @@
   "name": "Belite Bio, Inc. ADR"
  },
  {
+  "symbol": "NYSE:BLX",
+  "name": "Bladex, Inc. Class E"
+ },
+ {
   "symbol": "NYSE:BMA",
   "name": "Banco Macro SA Sponsored ADR Class B"
  },
@@ -1416,10 +1420,6 @@
   "name": "Cal-Maine Foods, Inc."
  },
  {
-  "symbol": "NYSE:CALX",
-  "name": "Calix, Inc."
- },
- {
   "symbol": "NYSE:CALY",
   "name": "Callaway Golf Company"
  },
@@ -1517,7 +1517,7 @@
  },
  {
   "symbol": "NYSE:CDLR",
-  "name": "Cadeler A/S Sponsored ADR"
+  "name": "Cadeler A/S"
  },
  {
   "symbol": "NASDAQ:CDNA",
@@ -1590,6 +1590,10 @@
  {
   "symbol": "AMEX:CGDV",
   "name": "Capital Group Dividend Value ETF"
+ },
+ {
+  "symbol": "AMEX:CGGO",
+  "name": "Capital Group Global Growth Equity ETF"
  },
  {
   "symbol": "AMEX:CGGR",
@@ -1816,8 +1820,8 @@
   "name": "CNX Resources Corporation"
  },
  {
-  "symbol": "NASDAQ:CNXN",
-  "name": "PC Connection, Inc."
+  "symbol": "NASDAQ:COAG",
+  "name": "Hemab Therapeutics Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:COCO",
@@ -2186,10 +2190,6 @@
  {
   "symbol": "NYSE:DCI",
   "name": "Donaldson Company, Inc."
- },
- {
-  "symbol": "NYSE:DCO",
-  "name": "Ducommun Incorporated"
  },
  {
   "symbol": "NYSE:DD",
@@ -2672,10 +2672,6 @@
   "name": "EOG Resources, Inc."
  },
  {
-  "symbol": "NYSE:EPAC",
-  "name": "Enerpac Tool Group Corp Class A"
- },
- {
   "symbol": "NYSE:EPAM",
   "name": "EPAM Systems, Inc."
  },
@@ -2798,6 +2794,10 @@
  {
   "symbol": "NASDAQ:EVRG",
   "name": "Evergy, Inc."
+ },
+ {
+  "symbol": "NYSE:EVTC",
+  "name": "EVERTEC, Inc."
  },
  {
   "symbol": "NYSE:EW",
@@ -3248,6 +3248,10 @@
   "name": "GCM Grosvenor, Inc. Class A"
  },
  {
+  "symbol": "NASDAQ:GCT",
+  "name": "GigaCloud Technology, Inc. Class A"
+ },
+ {
   "symbol": "NYSE:GD",
   "name": "General Dynamics Corporation"
  },
@@ -3366,6 +3370,10 @@
  {
   "symbol": "NASDAQ:GLNG",
   "name": "Golar LNG Limited"
+ },
+ {
+  "symbol": "NYSE:GLOB",
+  "name": "Globant SA"
  },
  {
   "symbol": "NASDAQ:GLPI",
@@ -3636,10 +3644,6 @@
   "name": "Houlihan Lokey, Inc. Class A"
  },
  {
-  "symbol": "NYSE:HLIO",
-  "name": "Helios Technologies, Inc."
- },
- {
   "symbol": "NYSE:HLN",
   "name": "Haleon PLC Sponsored ADR"
  },
@@ -3648,12 +3652,12 @@
   "name": "Hamilton Lane Incorporated Class A"
  },
  {
-  "symbol": "NYSE:HLT",
-  "name": "Hilton Worldwide Holdings Inc."
- },
- {
   "symbol": "NYSE:HMC",
   "name": "Honda Motor Co., Ltd. Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:HMN",
+  "name": "Horace Mann Educators Corporation"
  },
  {
   "symbol": "NYSE:HMY",
@@ -3718,6 +3722,10 @@
  {
   "symbol": "NYSE:HRL",
   "name": "Hormel Foods Corporation"
+ },
+ {
+  "symbol": "NASDAQ:HSAI",
+  "name": "Hesai Group Sponsored ADR"
  },
  {
   "symbol": "NYSE:HSBC",
@@ -4504,10 +4512,6 @@
   "name": "LandBridge Corporation Class A"
  },
  {
-  "symbol": "NYSE:LBRT",
-  "name": "Liberty Energy, Inc. Class A"
- },
- {
   "symbol": "NASDAQ:LBTYA",
   "name": "Liberty Global Ltd. Class A"
  },
@@ -4684,10 +4688,6 @@
   "name": "Lowe's Companies, Inc."
  },
  {
-  "symbol": "NYSE:LPG",
-  "name": "Dorian LPG Ltd."
- },
- {
   "symbol": "NYSE:LPL",
   "name": "LG Display Co., Ltd Sponsored ADR"
  },
@@ -4742,10 +4742,6 @@
  {
   "symbol": "NASDAQ:LUMN",
   "name": "Lumen Technologies, Inc."
- },
- {
-  "symbol": "NASDAQ:LUNR",
-  "name": "Intuitive Machines, Inc. Class A"
  },
  {
   "symbol": "NYSE:LUV",
@@ -5336,10 +5332,6 @@
   "name": "Neogen Corp"
  },
  {
-  "symbol": "NASDAQ:NESR",
-  "name": "National Energy Services Reunited Corp."
- },
- {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5674,6 +5666,10 @@
  {
   "symbol": "NASDAQ:OLLI",
   "name": "Ollie's Bargain Outlet Holdings Inc"
+ },
+ {
+  "symbol": "NYSE:OLN",
+  "name": "Olin Corporation"
  },
  {
   "symbol": "NASDAQ:OMAB",
@@ -6112,6 +6108,10 @@
   "name": "Insulet Corporation"
  },
  {
+  "symbol": "NASDAQ:PONY",
+  "name": "Pony AI Inc. Sponsored ADR"
+ },
+ {
   "symbol": "NASDAQ:POOL",
   "name": "Pool Corporation"
  },
@@ -6146,6 +6146,10 @@
  {
   "symbol": "NASDAQ:PPLI",
   "name": "People Incorporated"
+ },
+ {
+  "symbol": "NASDAQ:PPTA",
+  "name": "Perpetua Resources Corp."
  },
  {
   "symbol": "NYSE:PR",
@@ -7028,10 +7032,6 @@
   "name": "Summit Therapeutics Inc"
  },
  {
-  "symbol": "NYSE:SMR",
-  "name": "NuScale Power Corporation Class A"
- },
- {
   "symbol": "NASDAQ:SMTC",
   "name": "Semtech Corporation"
  },
@@ -7116,6 +7116,10 @@
   "name": "iShares Semiconductor ETF"
  },
  {
+  "symbol": "NYSE:SPB",
+  "name": "Spectrum Brands Holdings, Inc."
+ },
+ {
   "symbol": "NASDAQ:SPCX",
   "name": "Space Exploration Technologies Corp"
  },
@@ -7174,10 +7178,6 @@
  {
   "symbol": "AMEX:SPTI",
   "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF"
- },
- {
-  "symbol": "AMEX:SPTL",
-  "name": "State Street SPDR Portfolio Long Term Treasury Index ETF"
  },
  {
   "symbol": "AMEX:SPTM",
@@ -7880,10 +7880,6 @@
   "name": "United Community Banks, Inc."
  },
  {
-  "symbol": "NASDAQ:UCTT",
-  "name": "Ultra Clean Holdings, Inc."
- },
- {
   "symbol": "NYSE:UDR",
   "name": "UDR, Inc."
  },
@@ -8014,6 +8010,10 @@
  {
   "symbol": "NASDAQ:UTHR",
   "name": "United Therapeutics Corporation"
+ },
+ {
+  "symbol": "NYSE:UTZ",
+  "name": "UTZ Brands, Inc. Class A"
  },
  {
   "symbol": "NYSE:UWMC",
@@ -8616,12 +8616,12 @@
   "name": "Watts Water Technologies, Inc. Class A"
  },
  {
-  "symbol": "NYSE:WTTR",
-  "name": "Select Water Solutions, Inc. Class A"
- },
- {
   "symbol": "NASDAQ:WTW",
   "name": "Willis Towers Watson Public Limited Company"
+ },
+ {
+  "symbol": "NYSE:WU",
+  "name": "Western Union Company"
  },
  {
   "symbol": "NASDAQ:WULF",
@@ -8650,6 +8650,10 @@
  {
   "symbol": "NASDAQ:XENE",
   "name": "Xenon Pharmaceuticals Inc."
+ },
+ {
+  "symbol": "NASDAQ:XERS",
+  "name": "Xeris Biopharma Holdings, Inc."
  },
  {
   "symbol": "AMEX:XLC",
@@ -8710,10 +8714,6 @@
  {
   "symbol": "NYSE:XPO",
   "name": "XPO, Inc."
- },
- {
-  "symbol": "NASDAQ:XRAY",
-  "name": "DENTSPLY SIRONA, Inc."
  },
  {
   "symbol": "NYSE:XXI",

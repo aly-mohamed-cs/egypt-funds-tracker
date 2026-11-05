@@ -13,6 +13,11 @@
   "code": "1INCH"
  },
  {
+  "symbol": "CRYPTO:9BITUSD",
+  "name": "The9bit",
+  "code": "9BIT"
+ },
+ {
   "symbol": "CRYPTO:AAVEUSD",
   "name": "Aave",
   "code": "AAVE"
@@ -26,11 +31,6 @@
   "symbol": "CRYPTO:AERODUSD",
   "name": "Aerodrome Finance",
   "code": "AERO"
- },
- {
-  "symbol": "CRYPTO:AIOZUSD",
-  "name": "AIOZ Network",
-  "code": "AIOZ"
  },
  {
   "symbol": "CRYPTO:AKTUSD",
@@ -173,11 +173,6 @@
   "code": "BTW"
  },
  {
-  "symbol": "CRYPTO:BUSD",
-  "name": "BUILDon",
-  "code": "B"
- },
- {
   "symbol": "CRYPTO:CAKEUSD",
   "name": "PancakeSwap",
   "code": "CAKE"
@@ -271,11 +266,6 @@
   "symbol": "CRYPTO:DRVDUSD",
   "name": "Derive",
   "code": "DRV"
- },
- {
-  "symbol": "CRYPTO:EDGEXUSD",
-  "name": "edgeX",
-  "code": "EDGE"
  },
  {
   "symbol": "CRYPTO:EIGENUSD",
@@ -548,11 +538,6 @@
   "code": "MORPHO"
  },
  {
-  "symbol": "CRYPTO:MSTRBSUSD",
-  "name": "Strategy Tokenized bStocks",
-  "code": "MSTRB"
- },
- {
   "symbol": "CRYPTO:MSTRXUSD",
   "name": "MicroStrategy tokenized stock (xStock)",
   "code": "MSTRX"
@@ -688,6 +673,11 @@
   "code": "QNT"
  },
  {
+  "symbol": "CRYPTO:QQQBUSD",
+  "name": "Invesco QQQ Trust Tokenized bStocks",
+  "code": "QQQB"
+ },
+ {
   "symbol": "CRYPTO:QUACUSD",
   "name": "Quack AI",
   "code": "Q"
@@ -706,6 +696,11 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
+ },
+ {
+  "symbol": "CRYPTO:RLBUSD",
+  "name": "Rollbit Coin",
+  "code": "RLB"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",
@@ -801,6 +796,11 @@
   "symbol": "CRYPTO:SUNUSD",
   "name": "Sun (New)",
   "code": "SUN"
+ },
+ {
+  "symbol": "CRYPTO:SUPERUSD",
+  "name": "SuperVerse",
+  "code": "SUPER"
  },
  {
   "symbol": "CRYPTO:SYRUPUSD",

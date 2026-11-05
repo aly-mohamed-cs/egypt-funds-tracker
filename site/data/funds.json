@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T23:15:17+00:00",
+ "generated_at": "2026-11-05T23:18:14+00:00",
  "latest_nav_date": "2026-11-01",
  "source": {
   "name": "Mubasher Info",
@@ -39,18 +39,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Money Market",
    "currency": "EGP",
-   "nav": 822.5188,
-   "nav_date": "2026-10-31",
+   "nav": 822.9219,
+   "nav_date": "2026-11-01",
    "returns": {
-    "1W": 0.00545,
-    "1M": 0.015449,
-    "3M": 0.048347,
-    "YTD": 0.166839,
-    "1Y": 0.206625
+    "1W": 0.005942,
+    "1M": 0.015947,
+    "3M": 0.047217,
+    "YTD": 0.16741,
+    "1Y": 0.205234
    },
    "ytd_source": "computed",
    "history_start": "2009-05-03",
-   "history_points": 1386,
+   "history_points": 1387,
    "splits": [],
    "stale": false
   },

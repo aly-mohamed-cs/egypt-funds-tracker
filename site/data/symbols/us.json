@@ -248,14 +248,6 @@
   "name": "Alamos Gold Inc."
  },
  {
-  "symbol": "NYSE:AGM",
-  "name": "Federal Agricultural Mortgage Corporation Class C"
- },
- {
-  "symbol": "NYSE:AGM.A",
-  "name": "Federal Agricultural Mortgage Corporation Class A"
- },
- {
   "symbol": "NASDAQ:AGNC",
   "name": "AGNC Investment Corp."
  },
@@ -438,6 +430,10 @@
  {
   "symbol": "NYSE:AMP",
   "name": "Ameriprise Financial, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AMPL",
+  "name": "Amplitude Inc Class A"
  },
  {
   "symbol": "NASDAQ:AMRX",
@@ -850,10 +846,6 @@
  {
   "symbol": "NYSE:BAH",
   "name": "Booz Allen Hamilton Holding Corporation Class A"
- },
- {
-  "symbol": "AMEX:BAI",
-  "name": "iShares A.I. Innovation and Tech Active ETF"
  },
  {
   "symbol": "NYSE:BALL",
@@ -1517,7 +1509,7 @@
  },
  {
   "symbol": "NYSE:CDLR",
-  "name": "Cadeler A/S"
+  "name": "Cadeler PLC"
  },
  {
   "symbol": "NASDAQ:CDNA",
@@ -2048,6 +2040,10 @@
   "name": "CareTrust REIT, Inc."
  },
  {
+  "symbol": "NYSE:CTRI",
+  "name": "Centuri Holdings, Inc."
+ },
+ {
   "symbol": "NASDAQ:CTSH",
   "name": "Cognizant Technology Solutions Corporation Class A"
  },
@@ -2190,6 +2186,10 @@
  {
   "symbol": "NYSE:DCI",
   "name": "Donaldson Company, Inc."
+ },
+ {
+  "symbol": "NYSE:DCO",
+  "name": "Ducommun Incorporated"
  },
  {
   "symbol": "NYSE:DD",
@@ -2796,10 +2796,6 @@
   "name": "Evergy, Inc."
  },
  {
-  "symbol": "NYSE:EVTC",
-  "name": "EVERTEC, Inc."
- },
- {
   "symbol": "NYSE:EW",
   "name": "Edwards Lifesciences Corporation"
  },
@@ -2904,10 +2900,6 @@
   "name": "First Bancorp"
  },
  {
-  "symbol": "NYSE:FCF",
-  "name": "First Commonwealth Financial Corporation"
- },
- {
   "symbol": "NASDAQ:FCFS",
   "name": "FirstCash Holdings, Inc."
  },
@@ -2946,6 +2938,10 @@
  {
   "symbol": "NASDAQ:FELE",
   "name": "Franklin Electric Co., Inc."
+ },
+ {
+  "symbol": "AMEX:FENI",
+  "name": "Fidelity Enhanced International ETF"
  },
  {
   "symbol": "NASDAQ:FER",
@@ -3194,6 +3190,10 @@
  {
   "symbol": "NASDAQ:FTNT",
   "name": "Fortinet, Inc."
+ },
+ {
+  "symbol": "NASDAQ:FTRE",
+  "name": "Fortrea Holdings Inc."
  },
  {
   "symbol": "NYSE:FTS",
@@ -4388,10 +4388,6 @@
   "name": "Kinder Morgan Inc Class P"
  },
  {
-  "symbol": "NYSE:KMPR",
-  "name": "Kemper Corp"
- },
- {
   "symbol": "NYSE:KMX",
   "name": "CarMax, Inc."
  },
@@ -4500,6 +4496,10 @@
   "name": "Lamar Advertising Company Class A"
  },
  {
+  "symbol": "NASDAQ:LASR",
+  "name": "nLIGHT, Inc."
+ },
+ {
   "symbol": "NASDAQ:LAUR",
   "name": "Laureate Education, Inc."
  },
@@ -4554,6 +4554,10 @@
  {
   "symbol": "NYSE:LEN.B",
   "name": "Lennar Corporation Class B"
+ },
+ {
+  "symbol": "NYSE:LEU",
+  "name": "Centrus Energy Corp. Class A"
  },
  {
   "symbol": "NYSE:LEVI",
@@ -4742,6 +4746,10 @@
  {
   "symbol": "NASDAQ:LUMN",
   "name": "Lumen Technologies, Inc."
+ },
+ {
+  "symbol": "NASDAQ:LUNR",
+  "name": "Intuitive Machines, Inc. Class A"
  },
  {
   "symbol": "NYSE:LUV",
@@ -5668,10 +5676,6 @@
   "name": "Ollie's Bargain Outlet Holdings Inc"
  },
  {
-  "symbol": "NYSE:OLN",
-  "name": "Olin Corporation"
- },
- {
   "symbol": "NASDAQ:OMAB",
   "name": "Grupo Aeroportuario del Centro Norte SAB de CV Sponsored ADR Class B"
  },
@@ -5882,10 +5886,6 @@
  {
   "symbol": "NYSE:PBF",
   "name": "PBF Energy, Inc. Class A"
- },
- {
-  "symbol": "NYSE:PBH",
-  "name": "Prestige Consumer Healthcare Inc"
  },
  {
   "symbol": "NYSE:PBI",
@@ -6106,10 +6106,6 @@
  {
   "symbol": "NASDAQ:PODD",
   "name": "Insulet Corporation"
- },
- {
-  "symbol": "NASDAQ:PONY",
-  "name": "Pony AI Inc. Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:POOL",
@@ -6414,6 +6410,10 @@
  {
   "symbol": "NASDAQ:RELY",
   "name": "Remitly Global, Inc."
+ },
+ {
+  "symbol": "NASDAQ:REPL",
+  "name": "Replimune Group, Inc."
  },
  {
   "symbol": "NYSE:REXR",
@@ -7032,6 +7032,10 @@
   "name": "Summit Therapeutics Inc"
  },
  {
+  "symbol": "NYSE:SMR",
+  "name": "NuScale Power Corporation Class A"
+ },
+ {
   "symbol": "NASDAQ:SMTC",
   "name": "Semtech Corporation"
  },
@@ -7114,10 +7118,6 @@
  {
   "symbol": "NASDAQ:SOXX",
   "name": "iShares Semiconductor ETF"
- },
- {
-  "symbol": "NYSE:SPB",
-  "name": "Spectrum Brands Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:SPCX",
@@ -7566,10 +7566,6 @@
  {
   "symbol": "NASDAQ:TIGO",
   "name": "Millicom International Cellular SA"
- },
- {
-  "symbol": "NASDAQ:TILE",
-  "name": "Interface, Inc."
  },
  {
   "symbol": "NYSE:TIMB",
@@ -8172,6 +8168,10 @@
   "name": "Vipshop Holdings Ltd Sponsored ADR"
  },
  {
+  "symbol": "NASDAQ:VIR",
+  "name": "Vir Biotechnology, Inc."
+ },
+ {
   "symbol": "NYSE:VIRT",
   "name": "Virtu Financial, Inc. Class A"
  },
@@ -8488,10 +8488,6 @@
   "name": "Cactus, Inc. Class A"
  },
  {
-  "symbol": "NYSE:WHR",
-  "name": "Whirlpool Corporation"
- },
- {
   "symbol": "NASDAQ:WING",
   "name": "Wingstop, Inc."
  },
@@ -8614,6 +8610,10 @@
  {
   "symbol": "NYSE:WTS",
   "name": "Watts Water Technologies, Inc. Class A"
+ },
+ {
+  "symbol": "NYSE:WTTR",
+  "name": "Select Water Solutions, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:WTW",

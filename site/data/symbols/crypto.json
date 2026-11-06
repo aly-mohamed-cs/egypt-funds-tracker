@@ -8,11 +8,6 @@
   "name": "Bitcoin dominance"
  },
  {
-  "symbol": "CRYPTO:1INCHUSD",
-  "name": "1inch",
-  "code": "1INCH"
- },
- {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -31,6 +26,11 @@
   "symbol": "CRYPTO:AERODUSD",
   "name": "Aerodrome Finance",
   "code": "AERO"
+ },
+ {
+  "symbol": "CRYPTO:AIOZUSD",
+  "name": "AIOZ Network",
+  "code": "AIOZ"
  },
  {
   "symbol": "CRYPTO:AKTUSD",
@@ -171,6 +171,11 @@
   "symbol": "CRYPTO:BTWBIUSD",
   "name": "Bitway",
   "code": "BTW"
+ },
+ {
+  "symbol": "CRYPTO:BUSD",
+  "name": "BUILDon",
+  "code": "B"
  },
  {
   "symbol": "CRYPTO:CAKEUSD",
@@ -538,6 +543,11 @@
   "code": "MORPHO"
  },
  {
+  "symbol": "CRYPTO:MSTRBSUSD",
+  "name": "Strategy Tokenized bStocks",
+  "code": "MSTRB"
+ },
+ {
   "symbol": "CRYPTO:MSTRXUSD",
   "name": "MicroStrategy tokenized stock (xStock)",
   "code": "MSTRX"
@@ -698,11 +708,6 @@
   "code": "RENDER"
  },
  {
-  "symbol": "CRYPTO:RLBUSD",
-  "name": "Rollbit Coin",
-  "code": "RLB"
- },
- {
   "symbol": "CRYPTO:RUNEUSD",
   "name": "THORChain",
   "code": "RUNE"
@@ -796,11 +801,6 @@
   "symbol": "CRYPTO:SUNUSD",
   "name": "Sun (New)",
   "code": "SUN"
- },
- {
-  "symbol": "CRYPTO:SUPERUSD",
-  "name": "SuperVerse",
-  "code": "SUPER"
  },
  {
   "symbol": "CRYPTO:SYRUPUSD",

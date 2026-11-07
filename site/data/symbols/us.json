@@ -1584,10 +1584,6 @@
   "name": "Capital Group Dividend Value ETF"
  },
  {
-  "symbol": "AMEX:CGGO",
-  "name": "Capital Group Global Growth Equity ETF"
- },
- {
   "symbol": "AMEX:CGGR",
   "name": "Capital Group Growth ETF"
  },
@@ -4284,6 +4280,10 @@
   "name": "JOYY, Inc. Sponsored ADR Class A"
  },
  {
+  "symbol": "AMEX:JPIE",
+  "name": "JPMorgan Income ETF"
+ },
+ {
   "symbol": "NYSE:JPM",
   "name": "JPMorgan Chase & Co."
  },
@@ -6296,10 +6296,6 @@
   "name": "QIAGEN NV"
  },
  {
-  "symbol": "AMEX:QLD",
-  "name": "ProShares Ultra QQQ"
- },
- {
   "symbol": "NASDAQ:QLYS",
   "name": "Qualys, Inc."
  },
@@ -7178,6 +7174,10 @@
  {
   "symbol": "AMEX:SPTI",
   "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF"
+ },
+ {
+  "symbol": "AMEX:SPTL",
+  "name": "State Street SPDR Portfolio Long Term Treasury Index ETF"
  },
  {
   "symbol": "AMEX:SPTM",

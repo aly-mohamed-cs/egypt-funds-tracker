@@ -28,6 +28,10 @@
   "name": "A Capital Holding"
  },
  {
+  "symbol": "EGX:ACFR",
+  "name": "Alexandria Company For Refractories"
+ },
+ {
   "symbol": "EGX:ACGC",
   "name": "Arab Cotton Ginning Co."
  },
@@ -88,6 +92,10 @@
   "name": "Arab Aluminum Co. SAE"
  },
  {
+  "symbol": "EGX:ALXD",
+  "name": "Alexandria For Investment and Urban Development"
+ },
+ {
   "symbol": "EGX:AMER",
   "name": "Amer Group Holding"
  },
@@ -112,8 +120,16 @@
   "name": "AL Moasher Pay for Electronic Payment and Collection (S.A.E)"
  },
  {
+  "symbol": "EGX:ANCC",
+  "name": "ALNAHDA Industrial Co."
+ },
+ {
   "symbol": "EGX:APPC",
   "name": "Advanced Pharmaceutical Packaging Co."
+ },
+ {
+  "symbol": "EGX:APPF",
+  "name": "Alamal Alsharif for Plastics"
  },
  {
   "symbol": "EGX:APSW",
@@ -150,6 +166,10 @@
  {
   "symbol": "EGX:AXPH",
   "name": "Alexandria Company for Pharmaceuticals and Chemical Industries"
+ },
+ {
+  "symbol": "EGX:BIDI",
+  "name": "El Badr Investment and Development - BID"
  },
  {
   "symbol": "EGX:BIGP",
@@ -208,6 +228,10 @@
   "name": "CI Capital Holding for Financial Investments"
  },
  {
+  "symbol": "EGX:CID",
+  "name": "Chemical Development Industries (CID)"
+ },
+ {
   "symbol": "EGX:CIEB",
   "name": "Credit Agricole Egypt"
  },
@@ -254,6 +278,10 @@
  {
   "symbol": "EGX:DAPH",
   "name": "Development & Engineering Consultants"
+ },
+ {
+  "symbol": "EGX:DCCC",
+  "name": "Damietta Container and Cargo Handling"
  },
  {
   "symbol": "EGX:DCRC",
@@ -308,6 +336,14 @@
   "name": "El Arabia Engineering Industries"
  },
  {
+  "symbol": "EGX:EEP",
+  "name": "Egypt Education Platform - EEP"
+ },
+ {
+  "symbol": "EGX:EFAC",
+  "name": "Egyptian Ferro All Egp10"
+ },
+ {
   "symbol": "EGX:EFIC",
   "name": "Egyptian Financial & Industrial Co."
  },
@@ -336,6 +372,10 @@
   "name": "Egyptian Chemical Industries"
  },
  {
+  "symbol": "EGX:EGOTH",
+  "name": "El Masreyah Touris Egp100"
+ },
+ {
   "symbol": "EGX:EGREF",
   "name": "Egyptians Real Estate Fund"
  },
@@ -360,8 +400,24 @@
   "name": "Egypt - South Africa for Communication"
  },
  {
+  "symbol": "EGX:EGS65101C015",
+  "name": "National Investment & Reconstruction"
+ },
+ {
+  "symbol": "EGX:EGS65621C012",
+  "name": "El Nasr Housing & Egp5"
+ },
+ {
+  "symbol": "EGX:EGS65861C014",
+  "name": "Egyptian Contracting Co.-AL- ABD"
+ },
+ {
   "symbol": "EGX:EGS659O1C015",
   "name": "Misr Kuwait Investment & Trading Co."
+ },
+ {
+  "symbol": "EGX:EGS72L31C011",
+  "name": "SOLARSOL For Energy"
  },
  {
   "symbol": "EGX:EGSA",
@@ -372,12 +428,20 @@
   "name": "Egyptian for Tourism Resorts"
  },
  {
+  "symbol": "EGX:EGWA",
+  "name": "General Warehouses of Egypt"
+ },
+ {
   "symbol": "EGX:EHDR",
   "name": "Egyptians Housing Development & Reconstruction"
  },
  {
   "symbol": "EGX:EITP",
   "name": "Egyptian International Tourism Projects"
+ },
+ {
+  "symbol": "EGX:ELAB",
+  "name": "Egyptian Linear Alkyl Benzene Company"
  },
  {
   "symbol": "EGX:ELEC",
@@ -408,12 +472,20 @@
   "name": "Industrial Engineering Co. for Construction & Development"
  },
  {
+  "symbol": "EGX:ENPI",
+  "name": "Engineering for the Petroleum and Process Industries"
+ },
+ {
   "symbol": "EGX:EOSB",
   "name": "El Orouba Securities Brokerage"
  },
  {
   "symbol": "EGX:EPCO",
   "name": "Egypt for Poultry Co."
+ },
+ {
+  "symbol": "EGX:EPPK",
+  "name": "El Ahram Co. for Printing & Packing"
  },
  {
   "symbol": "EGX:ETEL",
@@ -464,6 +536,10 @@
   "name": "Gadwa For Industrial Development"
  },
  {
+  "symbol": "EGX:GEOS",
+  "name": "Geos for trading and contracting"
+ },
+ {
   "symbol": "EGX:GGCC",
   "name": "Giza General Contracting & Real Estate Investment"
  },
@@ -488,8 +564,16 @@
   "name": "GPI For Urban Growth"
  },
  {
+  "symbol": "EGX:GPPL",
+  "name": "Golden Pyramids Plaza"
+ },
+ {
   "symbol": "EGX:GRCA",
   "name": "Grand Investment Capital"
+ },
+ {
+  "symbol": "EGX:GROV",
+  "name": "Grova Special Purpose Acquisition Company"
  },
  {
   "symbol": "EGX:GSSC",
@@ -514,6 +598,10 @@
  {
   "symbol": "EGX:HDBK",
   "name": "Housing & Development Bank"
+ },
+ {
+  "symbol": "EGX:HDST",
+  "name": "HEDGESTONE INVESTMENT"
  },
  {
   "symbol": "EGX:HELI",
@@ -588,6 +676,10 @@
   "name": "El Nasr Clothing & Textiles Co."
  },
  {
+  "symbol": "EGX:KNGC",
+  "name": "EL- Nasr Glass And Crystal"
+ },
+ {
   "symbol": "EGX:KORA",
   "name": "KORRA"
  },
@@ -640,6 +732,10 @@
   "name": "Macro Group Pharmaceutical S.A.E."
  },
  {
+  "symbol": "EGX:MEGM",
+  "name": "Middle East Glass Manufacturing SAE"
+ },
+ {
   "symbol": "EGX:MENA",
   "name": "Mena Touristic & Real Estate Investment"
  },
@@ -672,8 +768,24 @@
   "name": "Minapharm Pharmaceuticals"
  },
  {
+  "symbol": "EGX:MISR",
+  "name": "MISR Intercontinental for Granite & Marble"
+ },
+ {
+  "symbol": "EGX:MITR",
+  "name": "Misr Travel&Touris Egp6"
+ },
+ {
+  "symbol": "EGX:MLIC",
+  "name": "Misr Life Insurance"
+ },
+ {
   "symbol": "EGX:MMAT",
   "name": "Marsa Marsa Alam for Tourism Development"
+ },
+ {
+  "symbol": "EGX:MMHC",
+  "name": "El Mamoura Company For Construction & Tourism Development"
  },
  {
   "symbol": "EGX:MOED",
@@ -712,8 +824,16 @@
   "name": "Naeem Holding Co."
  },
  {
+  "symbol": "EGX:NAMI",
+  "name": "National Asset Management And Investment"
+ },
+ {
   "symbol": "EGX:NARE",
   "name": "Naeem Real Estate Holding Group"
+ },
+ {
+  "symbol": "EGX:NBCC",
+  "name": "ALNASR For Building And Construction Company"
  },
  {
   "symbol": "EGX:NBKE",
@@ -728,8 +848,16 @@
   "name": "Nile Cotton Ginning"
  },
  {
+  "symbol": "EGX:NDRL",
+  "name": "National Drilling Co."
+ },
+ {
   "symbol": "EGX:NEDA",
   "name": "Northern Upper Egypt Development & Agricultural Production"
+ },
+ {
+  "symbol": "EGX:NFCI",
+  "name": "ELNASR Co For Fertilizers And Chemical Industries"
  },
  {
   "symbol": "EGX:NHPS",
@@ -744,8 +872,16 @@
   "name": "El-Nile Co. for Pharmaceuticals & Chemical Industries"
  },
  {
+  "symbol": "EGX:NMIN",
+  "name": "El Nasr Mining Co Egp10"
+ },
+ {
   "symbol": "EGX:OBRI",
   "name": "El Obour Real Estate Investment"
+ },
+ {
+  "symbol": "EGX:OCAP",
+  "name": "OG Capital For Investments SPAC"
  },
  {
   "symbol": "EGX:OCDI",
@@ -802,6 +938,14 @@
  {
   "symbol": "EGX:PHTV",
   "name": "Pyramisa Hotels"
+ },
+ {
+  "symbol": "EGX:PMSC",
+  "name": "Petroleum Marine Services Company"
+ },
+ {
+  "symbol": "EGX:POCO",
+  "name": "Port Said Container And Cargo Handling"
  },
  {
   "symbol": "EGX:POUL",
@@ -888,6 +1032,18 @@
   "name": "Saudi Egyptian Investment & Finance Co. SAE"
  },
  {
+  "symbol": "EGX:SEIGA",
+  "name": "Saudi Egyptian Investment & Finance Co. SAE"
+ },
+ {
+  "symbol": "EGX:SIEG",
+  "name": "Egyptian Company for Pipes and Cement Products -Siegwart"
+ },
+ {
+  "symbol": "EGX:SINA",
+  "name": "Sinai Manganese Company"
+ },
+ {
   "symbol": "EGX:SIPC",
   "name": "Sabaa International Company for Pharmaceutial and Chemical Industry"
  },
@@ -960,6 +1116,10 @@
   "name": "Tourah Cement Co"
  },
  {
+  "symbol": "EGX:TOUR",
+  "name": "Tourism Urbanization"
+ },
+ {
   "symbol": "EGX:TRTO",
   "name": "TransOceans Tours"
  },
@@ -1026,6 +1186,10 @@
  {
   "symbol": "EGX:WKOL",
   "name": "Wadi Kom Ombo Land Reclamation"
+ },
+ {
+  "symbol": "EGX:YAYT",
+  "name": "Spring & Transportation Needs Manufacturing Co."
  },
  {
   "symbol": "EGX:ZEOT",

@@ -258,11 +258,6 @@
   "code": "DCR"
  },
  {
-  "symbol": "CRYPTO:DGAIUSD",
-  "name": "DGrid AI",
-  "code": "DGAI"
- },
- {
   "symbol": "CRYPTO:DOGEUSD",
   "name": "Dogecoin",
   "code": "DOGE"
@@ -276,6 +271,11 @@
   "symbol": "CRYPTO:DRVDUSD",
   "name": "Derive",
   "code": "DRV"
+ },
+ {
+  "symbol": "CRYPTO:EDGEXUSD",
+  "name": "edgeX",
+  "code": "EDGE"
  },
  {
   "symbol": "CRYPTO:EIGENUSD",
@@ -438,6 +438,11 @@
   "code": "JASMY"
  },
  {
+  "symbol": "CRYPTO:JCTUSD",
+  "name": "Janction",
+  "code": "JCT"
+ },
+ {
   "symbol": "CRYPTO:JLPUSD",
   "name": "Jupiter Perps LP",
   "code": "JLP"
@@ -563,11 +568,6 @@
   "code": "MX"
  },
  {
-  "symbol": "CRYPTO:NATGUSD",
-  "name": "NatGold",
-  "code": "NATG"
- },
- {
   "symbol": "CRYPTO:NEARUSD",
   "name": "NEAR Protocol",
   "code": "NEAR"
@@ -658,11 +658,6 @@
   "code": "POL"
  },
  {
-  "symbol": "CRYPTO:PONS2USD",
-  "name": "Pons",
-  "code": "PONS"
- },
- {
   "symbol": "CRYPTO:PONSUSD",
   "name": "TENDIES (TendiesRH)",
   "code": "PONS"
@@ -706,6 +701,11 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
+ },
+ {
+  "symbol": "CRYPTO:RLBUSD",
+  "name": "Rollbit Coin",
+  "code": "RLB"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",

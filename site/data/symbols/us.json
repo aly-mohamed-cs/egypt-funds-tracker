@@ -356,6 +356,10 @@
   "name": "Almonty Industries Inc."
  },
  {
+  "symbol": "NASDAQ:ALMR",
+  "name": "Alamar Biosciences, Inc."
+ },
+ {
   "symbol": "NASDAQ:ALNY",
   "name": "Alnylam Pharmaceuticals, Inc"
  },
@@ -562,6 +566,10 @@
  {
   "symbol": "NASDAQ:ARGX",
   "name": "argenx SE Sponsored ADR"
+ },
+ {
+  "symbol": "NASDAQ:ARHS",
+  "name": "Arhaus, Inc. Class A"
  },
  {
   "symbol": "NYSE:ARIS",
@@ -1146,10 +1154,6 @@
  {
   "symbol": "NASDAQ:BLTE",
   "name": "Belite Bio, Inc. ADR"
- },
- {
-  "symbol": "NYSE:BLX",
-  "name": "Bladex, Inc. Class E"
  },
  {
   "symbol": "NYSE:BMA",
@@ -1808,10 +1812,6 @@
   "name": "CNX Resources Corporation"
  },
  {
-  "symbol": "NASDAQ:COAG",
-  "name": "Hemab Therapeutics Holdings, Inc."
- },
- {
   "symbol": "NASDAQ:COCO",
   "name": "Vita Coco Company, Inc."
  },
@@ -2344,6 +2344,10 @@
   "name": "Denali Therapeutics Inc."
  },
  {
+  "symbol": "AMEX:DNN",
+  "name": "Denison Mines Corp."
+ },
+ {
   "symbol": "NYSE:DNOW",
   "name": "DNOW Inc."
  },
@@ -2394,6 +2398,10 @@
  {
   "symbol": "NASDAQ:DPZ",
   "name": "Domino's Pizza, Inc."
+ },
+ {
+  "symbol": "NYSE:DRD",
+  "name": "DRDGOLD Ltd. Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:DRH",
@@ -3244,10 +3252,6 @@
   "name": "GCM Grosvenor, Inc. Class A"
  },
  {
-  "symbol": "NASDAQ:GCT",
-  "name": "GigaCloud Technology, Inc. Class A"
- },
- {
   "symbol": "NYSE:GD",
   "name": "General Dynamics Corporation"
  },
@@ -3366,10 +3370,6 @@
  {
   "symbol": "NASDAQ:GLNG",
   "name": "Golar LNG Limited"
- },
- {
-  "symbol": "NYSE:GLOB",
-  "name": "Globant SA"
  },
  {
   "symbol": "NASDAQ:GLPI",
@@ -3646,6 +3646,10 @@
  {
   "symbol": "NASDAQ:HLNE",
   "name": "Hamilton Lane Incorporated Class A"
+ },
+ {
+  "symbol": "NASDAQ:HLT",
+  "name": "Hilton Worldwide Holdings Inc."
  },
  {
   "symbol": "NYSE:HMC",
@@ -3958,6 +3962,10 @@
  {
   "symbol": "NASDAQ:INDB",
   "name": "Independent Bank Corp."
+ },
+ {
+  "symbol": "NYSE:INFQ",
+  "name": "Infleqtion, Inc."
  },
  {
   "symbol": "NYSE:INFY",
@@ -4512,6 +4520,10 @@
   "name": "LandBridge Corporation Class A"
  },
  {
+  "symbol": "NYSE:LBRT",
+  "name": "Liberty Energy, Inc. Class A"
+ },
+ {
   "symbol": "NASDAQ:LBTYA",
   "name": "Liberty Global Ltd. Class A"
  },
@@ -4808,10 +4820,6 @@
   "name": "Madison Air Solutions Corp. Class A"
  },
  {
-  "symbol": "NYSE:MAN",
-  "name": "ManpowerGroup Inc."
- },
- {
   "symbol": "NYSE:MANE",
   "name": "Veradermics, Incorporated"
  },
@@ -4986,10 +4994,6 @@
  {
   "symbol": "NYSE:MGY",
   "name": "Magnolia Oil & Gas Corp. Class A"
- },
- {
-  "symbol": "NYSE:MH",
-  "name": "McGraw Hill, Inc."
  },
  {
   "symbol": "NYSE:MHK",
@@ -5888,10 +5892,6 @@
   "name": "PBF Energy, Inc. Class A"
  },
  {
-  "symbol": "NYSE:PBI",
-  "name": "Pitney Bowes Inc."
- },
- {
   "symbol": "NASDAQ:PBLS",
   "name": "Parabilis Medicines, Inc."
  },
@@ -6542,10 +6542,6 @@
  {
   "symbol": "NYSE:ROK",
   "name": "Rockwell Automation, Inc."
- },
- {
-  "symbol": "NASDAQ:ROKU",
-  "name": "Roku, Inc. Class A"
  },
  {
   "symbol": "NYSE:ROL",
@@ -7240,6 +7236,10 @@
   "name": "Sasol Limited Sponsored ADR"
  },
  {
+  "symbol": "NYSE:SSMR",
+  "name": "Sunshine Silver Mining & Refining Company"
+ },
+ {
   "symbol": "NASDAQ:SSNC",
   "name": "SS&C Technologies Holdings, Inc."
  },
@@ -7352,6 +7352,10 @@
   "name": "Suzano S.A. Sponsored ADR"
  },
  {
+  "symbol": "AMEX:SVM",
+  "name": "Silvercorp Metals Inc."
+ },
+ {
   "symbol": "NYSE:SW",
   "name": "Smurfit Westrock PLC"
  },
@@ -7438,10 +7442,6 @@
  {
   "symbol": "NYSE:TBBB",
   "name": "BBB Foods, Inc. Class A"
- },
- {
-  "symbol": "AMEX:TCBI",
-  "name": "Texas Capital Bancshares, Inc."
  },
  {
   "symbol": "NASDAQ:TCOM",
@@ -7736,6 +7736,10 @@
   "name": "Travelers Companies, Inc."
  },
  {
+  "symbol": "NASDAQ:TRVI",
+  "name": "Trevi Therapeutics, Inc."
+ },
+ {
   "symbol": "NYSE:TS",
   "name": "Tenaris S.A. Sponsored ADR"
  },
@@ -7820,6 +7824,10 @@
   "name": "Ternium S.A. Sponsored ADR"
  },
  {
+  "symbol": "AMEX:TXCP",
+  "name": "Texas Capital Bancshares, Inc."
+ },
+ {
   "symbol": "NASDAQ:TXG",
   "name": "10x Genomics Inc Class A"
  },
@@ -7874,6 +7882,10 @@
  {
   "symbol": "NYSE:UCB",
   "name": "United Community Banks, Inc."
+ },
+ {
+  "symbol": "NASDAQ:UCTT",
+  "name": "Ultra Clean Holdings, Inc."
  },
  {
   "symbol": "NYSE:UDR",
@@ -8008,10 +8020,6 @@
   "name": "United Therapeutics Corporation"
  },
  {
-  "symbol": "NYSE:UTZ",
-  "name": "UTZ Brands, Inc. Class A"
- },
- {
   "symbol": "NYSE:UWMC",
   "name": "UWM Holdings Corp. Class A"
  },
@@ -8062,10 +8070,6 @@
  {
   "symbol": "NASDAQ:VCTR",
   "name": "Victory Capital Holdings, Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:VCYT",
-  "name": "Veracyte, Inc."
  },
  {
   "symbol": "AMEX:VEA",
@@ -8610,10 +8614,6 @@
  {
   "symbol": "NYSE:WTS",
   "name": "Watts Water Technologies, Inc. Class A"
- },
- {
-  "symbol": "NYSE:WTTR",
-  "name": "Select Water Solutions, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:WTW",

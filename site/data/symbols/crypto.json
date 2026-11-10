@@ -8,6 +8,11 @@
   "name": "Bitcoin dominance"
  },
  {
+  "symbol": "CRYPTO:1INCHUSD",
+  "name": "1inch",
+  "code": "1INCH"
+ },
+ {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -28,9 +33,9 @@
   "code": "AERO"
  },
  {
-  "symbol": "CRYPTO:AKEUSD",
-  "name": "AKEDO",
-  "code": "AKE"
+  "symbol": "CRYPTO:AIOZUSD",
+  "name": "AIOZ Network",
+  "code": "AIOZ"
  },
  {
   "symbol": "CRYPTO:AKTUSD",
@@ -258,6 +263,11 @@
   "code": "DCR"
  },
  {
+  "symbol": "CRYPTO:DGAIUSD",
+  "name": "DGrid AI",
+  "code": "DGAI"
+ },
+ {
   "symbol": "CRYPTO:DOGEUSD",
   "name": "Dogecoin",
   "code": "DOGE"
@@ -436,11 +446,6 @@
   "symbol": "CRYPTO:JASMYUSD",
   "name": "JasmyCoin",
   "code": "JASMY"
- },
- {
-  "symbol": "CRYPTO:JCTUSD",
-  "name": "Janction",
-  "code": "JCT"
  },
  {
   "symbol": "CRYPTO:JLPUSD",
@@ -701,11 +706,6 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
- },
- {
-  "symbol": "CRYPTO:RLBUSD",
-  "name": "Rollbit Coin",
-  "code": "RLB"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",

@@ -1812,6 +1812,10 @@
   "name": "CNX Resources Corporation"
  },
  {
+  "symbol": "NASDAQ:CNXN",
+  "name": "PC Connection, Inc."
+ },
+ {
   "symbol": "NASDAQ:COCO",
   "name": "Vita Coco Company, Inc."
  },
@@ -2342,10 +2346,6 @@
  {
   "symbol": "NASDAQ:DNLI",
   "name": "Denali Therapeutics Inc."
- },
- {
-  "symbol": "AMEX:DNN",
-  "name": "Denison Mines Corp."
  },
  {
   "symbol": "NYSE:DNOW",
@@ -2944,10 +2944,6 @@
   "name": "Franklin Electric Co., Inc."
  },
  {
-  "symbol": "AMEX:FENI",
-  "name": "Fidelity Enhanced International ETF"
- },
- {
   "symbol": "NASDAQ:FER",
   "name": "Ferrovial N.V."
  },
@@ -3196,10 +3192,6 @@
   "name": "Fortinet, Inc."
  },
  {
-  "symbol": "NASDAQ:FTRE",
-  "name": "Fortrea Holdings Inc."
- },
- {
   "symbol": "NYSE:FTS",
   "name": "Fortis Inc."
  },
@@ -3250,6 +3242,10 @@
  {
   "symbol": "NASDAQ:GCMG",
   "name": "GCM Grosvenor, Inc. Class A"
+ },
+ {
+  "symbol": "NASDAQ:GCT",
+  "name": "GigaCloud Technology, Inc. Class A"
  },
  {
   "symbol": "NYSE:GD",
@@ -3370,6 +3366,10 @@
  {
   "symbol": "NASDAQ:GLNG",
   "name": "Golar LNG Limited"
+ },
+ {
+  "symbol": "NYSE:GLOB",
+  "name": "Globant SA"
  },
  {
   "symbol": "NASDAQ:GLPI",
@@ -4452,6 +4452,10 @@
   "name": "Karman Holdings Inc."
  },
  {
+  "symbol": "NYSE:KRP",
+  "name": "Kimbell Royalty Partners LP"
+ },
+ {
   "symbol": "NASDAQ:KRYS",
   "name": "Krystal Biotech, Inc."
  },
@@ -4518,10 +4522,6 @@
  {
   "symbol": "NYSE:LB",
   "name": "LandBridge Corporation Class A"
- },
- {
-  "symbol": "NYSE:LBRT",
-  "name": "Liberty Energy, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:LBTYA",
@@ -4818,6 +4818,10 @@
  {
   "symbol": "NYSE:MAIR",
   "name": "Madison Air Solutions Corp. Class A"
+ },
+ {
+  "symbol": "NYSE:MAN",
+  "name": "ManpowerGroup Inc."
  },
  {
   "symbol": "NYSE:MANE",
@@ -5368,10 +5372,6 @@
   "name": "National Grid plc Sponsored ADR"
  },
  {
-  "symbol": "NYSE:NGVT",
-  "name": "Ingevity Corporation"
- },
- {
   "symbol": "AMEX:NHC",
   "name": "National HealthCare Corporation"
  },
@@ -5422,10 +5422,6 @@
  {
   "symbol": "NYSE:NMR",
   "name": "Nomura Holdings, Inc. Sponsored ADR"
- },
- {
-  "symbol": "NASDAQ:NMRK",
-  "name": "Newmark Group, Inc. Class A"
  },
  {
   "symbol": "NYSE:NNI",
@@ -5892,6 +5888,14 @@
   "name": "PBF Energy, Inc. Class A"
  },
  {
+  "symbol": "NYSE:PBH",
+  "name": "Prestige Consumer Healthcare Inc"
+ },
+ {
+  "symbol": "NYSE:PBI",
+  "name": "Pitney Bowes Inc."
+ },
+ {
   "symbol": "NASDAQ:PBLS",
   "name": "Parabilis Medicines, Inc."
  },
@@ -6294,6 +6298,10 @@
  {
   "symbol": "NYSE:QGEN",
   "name": "QIAGEN NV"
+ },
+ {
+  "symbol": "AMEX:QLD",
+  "name": "ProShares Ultra QQQ"
  },
  {
   "symbol": "NASDAQ:QLYS",
@@ -7236,10 +7244,6 @@
   "name": "Sasol Limited Sponsored ADR"
  },
  {
-  "symbol": "NYSE:SSMR",
-  "name": "Sunshine Silver Mining & Refining Company"
- },
- {
   "symbol": "NASDAQ:SSNC",
   "name": "SS&C Technologies Holdings, Inc."
  },
@@ -7350,10 +7354,6 @@
  {
   "symbol": "NYSE:SUZ",
   "name": "Suzano S.A. Sponsored ADR"
- },
- {
-  "symbol": "AMEX:SVM",
-  "name": "Silvercorp Metals Inc."
  },
  {
   "symbol": "NYSE:SW",
@@ -7684,6 +7684,10 @@
   "name": "Tootsie Roll Industries, Inc."
  },
  {
+  "symbol": "NASDAQ:TRAX",
+  "name": "First Tracks Biotherapeutics Inc"
+ },
+ {
   "symbol": "NYSE:TREX",
   "name": "Trex Company, Inc."
  },
@@ -7974,10 +7978,6 @@
  {
   "symbol": "NYSE:UPS",
   "name": "United Parcel Service, Inc. Class B"
- },
- {
-  "symbol": "NASDAQ:UPST",
-  "name": "Upstart Holdings, Inc."
  },
  {
   "symbol": "NASDAQ:URBN",

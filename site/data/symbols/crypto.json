@@ -8,11 +8,6 @@
   "name": "Bitcoin dominance"
  },
  {
-  "symbol": "CRYPTO:1INCHUSD",
-  "name": "1inch",
-  "code": "1INCH"
- },
- {
   "symbol": "CRYPTO:9BITUSD",
   "name": "The9bit",
   "code": "9BIT"
@@ -31,11 +26,6 @@
   "symbol": "CRYPTO:AERODUSD",
   "name": "Aerodrome Finance",
   "code": "AERO"
- },
- {
-  "symbol": "CRYPTO:AIOZUSD",
-  "name": "AIOZ Network",
-  "code": "AIOZ"
  },
  {
   "symbol": "CRYPTO:AKTUSD",
@@ -573,6 +563,11 @@
   "code": "MX"
  },
  {
+  "symbol": "CRYPTO:NATGUSD",
+  "name": "NatGold",
+  "code": "NATG"
+ },
+ {
   "symbol": "CRYPTO:NEARUSD",
   "name": "NEAR Protocol",
   "code": "NEAR"
@@ -706,6 +701,11 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
+ },
+ {
+  "symbol": "CRYPTO:RLBUSD",
+  "name": "Rollbit Coin",
+  "code": "RLB"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-12T00:06:23+00:00",
- "latest_nav_date": "2026-11-08",
+ "generated_at": "2026-11-12T23:14:54+00:00",
+ "latest_nav_date": "2026-11-10",
  "source": {
   "name": "Mubasher Info",
   "url": "https://english.mubasher.info/countries/eg/funds"
@@ -15,18 +15,18 @@
    "owner_en": "Arab African International Bank",
    "category": "Fixed Income",
    "currency": "EGP",
-   "nav": 57.82162,
-   "nav_date": "2026-11-08",
+   "nav": 57.87317,
+   "nav_date": "2026-11-10",
    "returns": {
-    "1W": 0.003112,
-    "1M": 0.014404,
-    "3M": 0.040672,
-    "YTD": 0.16693,
-    "1Y": 0.194489
+    "1W": 0.004007,
+    "1M": 0.015308,
+    "3M": 0.040708,
+    "YTD": 0.16797,
+    "1Y": 0.194483
    },
    "ytd_source": "computed",
    "history_start": "2012-04-01",
-   "history_points": 1191,
+   "history_points": 1192,
    "splits": [],
    "stale": false
   },

@@ -92,6 +92,10 @@
   "name": "ACADIA Pharmaceuticals Inc."
  },
  {
+  "symbol": "NASDAQ:ACCV",
+  "name": "Accelevation Holdings Corp. Class A"
+ },
+ {
   "symbol": "NASDAQ:ACGL",
   "name": "Arch Capital Group Ltd."
  },
@@ -190,10 +194,6 @@
  {
   "symbol": "NYSE:AEG",
   "name": "Aegon Ltd. Sponsored ADR"
- },
- {
-  "symbol": "NASDAQ:AEHR",
-  "name": "Aehr Test Systems"
  },
  {
   "symbol": "NASDAQ:AEIS",
@@ -660,6 +660,10 @@
   "name": "Atour Lifestyle Holdings Ltd. Sponsored ADR"
  },
  {
+  "symbol": "NYSE:ATEN",
+  "name": "A10 Networks, Inc."
+ },
+ {
   "symbol": "NYSE:ATHM",
   "name": "Autohome Inc. Sponsored ADR Class A"
  },
@@ -830,10 +834,6 @@
  {
   "symbol": "NYSE:AZO",
   "name": "AutoZone, Inc."
- },
- {
-  "symbol": "NASDAQ:AZTA",
-  "name": "Azenta, Inc."
  },
  {
   "symbol": "NYSE:AZZ",
@@ -1132,6 +1132,10 @@
   "name": "BankUnited, Inc."
  },
  {
+  "symbol": "NYSE:BKV",
+  "name": "BKV Corporation"
+ },
+ {
   "symbol": "NYSE:BLCO",
   "name": "Bausch + Lomb Corporation"
  },
@@ -1322,6 +1326,10 @@
  {
   "symbol": "NASDAQ:BTSG",
   "name": "BrightSpring Health Services, Inc."
+ },
+ {
+  "symbol": "NYSE:BTU",
+  "name": "Peabody Energy Corporation"
  },
  {
   "symbol": "NYSE:BUD",
@@ -1576,7 +1584,7 @@
   "name": "Citizens Financial Group, Inc."
  },
  {
-  "symbol": "NYSE:CFR",
+  "symbol": "AMEX:CFR",
   "name": "Cullen/Frost Bankers, Inc."
  },
  {
@@ -2408,6 +2416,10 @@
   "name": "Domino's Pizza, Inc."
  },
  {
+  "symbol": "NYSE:DRD",
+  "name": "DRDGOLD Ltd. Sponsored ADR"
+ },
+ {
   "symbol": "NASDAQ:DRH",
   "name": "DiamondRock Hospitality Company"
  },
@@ -2776,10 +2788,6 @@
   "name": "Essex Property Trust, Inc."
  },
  {
-  "symbol": "NASDAQ:ESTA",
-  "name": "Establishment Labs Holdings, Inc."
- },
- {
   "symbol": "NYSE:ESTC",
   "name": "Elastic NV"
  },
@@ -2950,6 +2958,10 @@
  {
   "symbol": "NASDAQ:FELE",
   "name": "Franklin Electric Co., Inc."
+ },
+ {
+  "symbol": "AMEX:FENI",
+  "name": "Fidelity Enhanced International ETF"
  },
  {
   "symbol": "NASDAQ:FER",
@@ -3962,10 +3974,6 @@
  {
   "symbol": "NASDAQ:INDB",
   "name": "Independent Bank Corp."
- },
- {
-  "symbol": "NYSE:INFQ",
-  "name": "Infleqtion, Inc."
  },
  {
   "symbol": "NYSE:INFY",
@@ -5000,6 +5008,10 @@
   "name": "Magnolia Oil & Gas Corp. Class A"
  },
  {
+  "symbol": "NYSE:MH",
+  "name": "McGraw Hill, Inc."
+ },
+ {
   "symbol": "NYSE:MHK",
   "name": "Mohawk Industries, Inc."
  },
@@ -5896,6 +5908,10 @@
   "name": "PBF Energy, Inc. Class A"
  },
  {
+  "symbol": "NYSE:PBH",
+  "name": "Prestige Consumer Healthcare Inc"
+ },
+ {
   "symbol": "NYSE:PBI",
   "name": "Pitney Bowes Inc."
  },
@@ -6058,6 +6074,10 @@
  {
   "symbol": "NYSE:PL",
   "name": "Planet Labs PBC Class A"
+ },
+ {
+  "symbol": "NASDAQ:PLBL",
+  "name": "Polibeli Group Ltd Class A"
  },
  {
   "symbol": "NYSE:PLD",
@@ -6420,6 +6440,10 @@
   "name": "Remitly Global, Inc."
  },
  {
+  "symbol": "NASDAQ:REPL",
+  "name": "Replimune Group, Inc."
+ },
+ {
   "symbol": "NYSE:REXR",
   "name": "Rexford Industrial Realty, Inc."
  },
@@ -6610,10 +6634,6 @@
  {
   "symbol": "NASDAQ:RUM",
   "name": "RUM Group Inc. Class A"
- },
- {
-  "symbol": "NASDAQ:RUN",
-  "name": "Sunrun Inc."
  },
  {
   "symbol": "NASDAQ:RUSHA",
@@ -6822,10 +6842,6 @@
  {
   "symbol": "NASDAQ:SEIC",
   "name": "SEI Investments Company"
- },
- {
-  "symbol": "NASDAQ:SEPN",
-  "name": "Septerna, Inc."
  },
  {
   "symbol": "NASDAQ:SEZL",
@@ -7188,10 +7204,6 @@
   "name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF"
  },
  {
-  "symbol": "AMEX:SPTL",
-  "name": "State Street SPDR Portfolio Long Term Treasury Index ETF"
- },
- {
   "symbol": "AMEX:SPTM",
   "name": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF"
  },
@@ -7310,10 +7322,6 @@
  {
   "symbol": "NYSE:STT",
   "name": "State Street Corporation"
- },
- {
-  "symbol": "NYSE:STUB",
-  "name": "StubHub Holdings Incorporation Class A"
  },
  {
   "symbol": "NYSE:STVN",
@@ -7692,10 +7700,6 @@
   "name": "Tootsie Roll Industries, Inc."
  },
  {
-  "symbol": "NASDAQ:TRAX",
-  "name": "First Tracks Biotherapeutics Inc"
- },
- {
   "symbol": "NYSE:TREX",
   "name": "Trex Company, Inc."
  },
@@ -7746,10 +7750,6 @@
  {
   "symbol": "NYSE:TRV",
   "name": "Travelers Companies, Inc."
- },
- {
-  "symbol": "NASDAQ:TRVI",
-  "name": "Trevi Therapeutics, Inc."
  },
  {
   "symbol": "NYSE:TS",
@@ -7870,10 +7870,6 @@
  {
   "symbol": "NYSE:UA",
   "name": "Under Armour, Inc. Class C"
- },
- {
-  "symbol": "NYSE:UAA",
-  "name": "Under Armour, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:UAL",
@@ -8026,10 +8022,6 @@
  {
   "symbol": "NASDAQ:UTHR",
   "name": "United Therapeutics Corporation"
- },
- {
-  "symbol": "NYSE:UWMC",
-  "name": "UWM Holdings Corp. Class A"
  },
  {
   "symbol": "NYSE:V",
@@ -8624,8 +8616,16 @@
   "name": "Watts Water Technologies, Inc. Class A"
  },
  {
+  "symbol": "NYSE:WTTR",
+  "name": "Select Water Solutions, Inc. Class A"
+ },
+ {
   "symbol": "NASDAQ:WTW",
   "name": "Willis Towers Watson Public Limited Company"
+ },
+ {
+  "symbol": "NYSE:WU",
+  "name": "Western Union Company"
  },
  {
   "symbol": "NASDAQ:WULF",

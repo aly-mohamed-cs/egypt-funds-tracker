@@ -258,6 +258,11 @@
   "code": "DCR"
  },
  {
+  "symbol": "CRYPTO:DGAIUSD",
+  "name": "DGrid AI",
+  "code": "DGAI"
+ },
+ {
   "symbol": "CRYPTO:DOGEUSD",
   "name": "Dogecoin",
   "code": "DOGE"
@@ -346,11 +351,6 @@
   "symbol": "CRYPTO:FLUID3USD",
   "name": "Fluid",
   "code": "FLUID"
- },
- {
-  "symbol": "CRYPTO:GEODNUSD",
-  "name": "GEODNET",
-  "code": "GEOD"
  },
  {
   "symbol": "CRYPTO:GFGOUSD",
@@ -588,6 +588,11 @@
   "code": "NIGHT"
  },
  {
+  "symbol": "CRYPTO:NVDABNUSD",
+  "name": "NVIDIA Tokenized bStocks",
+  "code": "NVDAB"
+ },
+ {
   "symbol": "CRYPTO:OHMUSD",
   "name": "Olympus v2",
   "code": "OHM"
@@ -696,11 +701,6 @@
   "symbol": "CRYPTO:RENDERUSD",
   "name": "Render",
   "code": "RENDER"
- },
- {
-  "symbol": "CRYPTO:RLBUSD",
-  "name": "Rollbit Coin",
-  "code": "RLB"
  },
  {
   "symbol": "CRYPTO:RUNEUSD",

@@ -192,6 +192,10 @@
   "name": "Aegon Ltd. Sponsored ADR"
  },
  {
+  "symbol": "NASDAQ:AEHR",
+  "name": "Aehr Test Systems"
+ },
+ {
   "symbol": "NASDAQ:AEIS",
   "name": "Advanced Energy Industries, Inc."
  },
@@ -568,10 +572,6 @@
   "name": "argenx SE Sponsored ADR"
  },
  {
-  "symbol": "NASDAQ:ARHS",
-  "name": "Arhaus, Inc. Class A"
- },
- {
   "symbol": "NYSE:ARIS",
   "name": "Aris Mining Corp"
  },
@@ -830,6 +830,10 @@
  {
   "symbol": "NYSE:AZO",
   "name": "AutoZone, Inc."
+ },
+ {
+  "symbol": "NASDAQ:AZTA",
+  "name": "Azenta, Inc."
  },
  {
   "symbol": "NYSE:AZZ",
@@ -1588,6 +1592,10 @@
   "name": "Capital Group Dividend Value ETF"
  },
  {
+  "symbol": "AMEX:CGGO",
+  "name": "Capital Group Global Growth Equity ETF"
+ },
+ {
   "symbol": "AMEX:CGGR",
   "name": "Capital Group Growth ETF"
  },
@@ -1830,6 +1838,10 @@
  {
   "symbol": "NYSE:COHR",
   "name": "Coherent Corp."
+ },
+ {
+  "symbol": "NASDAQ:COHU",
+  "name": "Cohu, Inc."
  },
  {
   "symbol": "NASDAQ:COIN",
@@ -2244,10 +2256,6 @@
   "name": "Dimensional World ex U.S. Core Equity 2 ETF"
  },
  {
-  "symbol": "AMEX:DFCF",
-  "name": "Dimensional Core Fixed Income ETF"
- },
- {
   "symbol": "AMEX:DFIV",
   "name": "Dimensional International Value ETF"
  },
@@ -2398,10 +2406,6 @@
  {
   "symbol": "NASDAQ:DPZ",
   "name": "Domino's Pizza, Inc."
- },
- {
-  "symbol": "NYSE:DRD",
-  "name": "DRDGOLD Ltd. Sponsored ADR"
  },
  {
   "symbol": "NASDAQ:DRH",
@@ -2770,6 +2774,10 @@
  {
   "symbol": "NYSE:ESS",
   "name": "Essex Property Trust, Inc."
+ },
+ {
+  "symbol": "NASDAQ:ESTA",
+  "name": "Establishment Labs Holdings, Inc."
  },
  {
   "symbol": "NYSE:ESTC",
@@ -3368,10 +3376,6 @@
   "name": "Golar LNG Limited"
  },
  {
-  "symbol": "NYSE:GLOB",
-  "name": "Globant SA"
- },
- {
   "symbol": "NASDAQ:GLPI",
   "name": "Gaming and Leisure Properties, Inc."
  },
@@ -3750,10 +3754,6 @@
  {
   "symbol": "NYSE:HTGC",
   "name": "Hercules Capital, Inc."
- },
- {
-  "symbol": "NYSE:HTH",
-  "name": "Hilltop Holdings Inc."
  },
  {
   "symbol": "NASDAQ:HTHT",
@@ -4288,10 +4288,6 @@
   "name": "JOYY, Inc. Sponsored ADR Class A"
  },
  {
-  "symbol": "AMEX:JPIE",
-  "name": "JPMorgan Income ETF"
- },
- {
   "symbol": "NYSE:JPM",
   "name": "JPMorgan Chase & Co."
  },
@@ -4522,6 +4518,10 @@
  {
   "symbol": "NYSE:LB",
   "name": "LandBridge Corporation Class A"
+ },
+ {
+  "symbol": "NYSE:LBRT",
+  "name": "Liberty Energy, Inc. Class A"
  },
  {
   "symbol": "NASDAQ:LBTYA",
@@ -5348,6 +5348,10 @@
   "name": "Neogen Corp"
  },
  {
+  "symbol": "NASDAQ:NESR",
+  "name": "National Energy Services Reunited Corp."
+ },
+ {
   "symbol": "NYSE:NET",
   "name": "Cloudflare Inc Class A"
  },
@@ -5370,6 +5374,10 @@
  {
   "symbol": "NYSE:NGG",
   "name": "National Grid plc Sponsored ADR"
+ },
+ {
+  "symbol": "NYSE:NGVT",
+  "name": "Ingevity Corporation"
  },
  {
   "symbol": "AMEX:NHC",
@@ -5886,10 +5894,6 @@
  {
   "symbol": "NYSE:PBF",
   "name": "PBF Energy, Inc. Class A"
- },
- {
-  "symbol": "NYSE:PBH",
-  "name": "Prestige Consumer Healthcare Inc"
  },
  {
   "symbol": "NYSE:PBI",
@@ -6416,10 +6420,6 @@
   "name": "Remitly Global, Inc."
  },
  {
-  "symbol": "NASDAQ:REPL",
-  "name": "Replimune Group, Inc."
- },
- {
   "symbol": "NYSE:REXR",
   "name": "Rexford Industrial Realty, Inc."
  },
@@ -6754,6 +6754,10 @@
  {
   "symbol": "AMEX:SCHG",
   "name": "Schwab U.S. Large-Cap Growth ETF"
+ },
+ {
+  "symbol": "AMEX:SCHH",
+  "name": "Schwab U.S. REIT ETF"
  },
  {
   "symbol": "AMEX:SCHM",
@@ -7106,6 +7110,10 @@
  {
   "symbol": "NYSE:SON",
   "name": "Sonoco Products Company"
+ },
+ {
+  "symbol": "NASDAQ:SONO",
+  "name": "Sonos, Inc."
  },
  {
   "symbol": "NYSE:SONY",
@@ -8620,10 +8628,6 @@
   "name": "Willis Towers Watson Public Limited Company"
  },
  {
-  "symbol": "NYSE:WU",
-  "name": "Western Union Company"
- },
- {
   "symbol": "NASDAQ:WULF",
   "name": "TeraWulf Inc."
  },
@@ -8806,9 +8810,5 @@
  {
   "symbol": "NYSE:ZWS",
   "name": "Zurn Elkay Water Solutions Corporation"
- },
- {
-  "symbol": "NASDAQ:ZYME",
-  "name": "Zymeworks Inc."
  }
 ]

@@ -28,6 +28,11 @@
   "code": "AERO"
  },
  {
+  "symbol": "CRYPTO:AGTALUSD",
+  "name": "Alaya Governance Token",
+  "code": "AGT"
+ },
+ {
   "symbol": "CRYPTO:AKTUSD",
   "name": "Akash Network",
   "code": "AKT"
@@ -251,11 +256,6 @@
   "symbol": "CRYPTO:DCRUSD",
   "name": "Decred",
   "code": "DCR"
- },
- {
-  "symbol": "CRYPTO:DGAIUSD",
-  "name": "DGrid AI",
-  "code": "DGAI"
  },
  {
   "symbol": "CRYPTO:DOGEUSD",
@@ -486,11 +486,6 @@
   "symbol": "CRYPTO:KMNOUSD",
   "name": "Kamino",
   "code": "KMNO"
- },
- {
-  "symbol": "CRYPTO:KNTQUSD",
-  "name": "Kinetiq",
-  "code": "KNTQ"
  },
  {
   "symbol": "CRYPTO:LDOUSD",
@@ -746,6 +741,11 @@
   "symbol": "CRYPTO:SKY2USD",
   "name": "Sky",
   "code": "SKY"
+ },
+ {
+  "symbol": "CRYPTO:SNDKBUSD",
+  "name": "SanDisk Tokenized bStocks",
+  "code": "SNDKB"
  },
  {
   "symbol": "CRYPTO:SOLUSD",
